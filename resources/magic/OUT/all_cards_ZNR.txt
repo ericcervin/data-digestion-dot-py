@@ -1,0 +1,270 @@
+ZNR	44	Tazri, Beacon of Unity	B,G,R,U,W
+ZNR	75	Ruin Crab	U
+ZNR	1	Allied Assault	W
+ZNR	203	Scute Swarm	G
+ZNR	193	Lotus Cobra	G
+ZNR	125	Skyclave Shade	B
+ZNR	164	Sneaking Guide	R
+ZNR	56	Deliberate	U
+ZNR	60	Glasspool Mimic // Glasspool Shore	U
+ZNR	198	Oran-Rief Ooze	G
+ZNR	180	Bala Ged Recovery // Bala Ged Sanctuary	G
+ZNR	77	Sea Gate Stormcaller	U
+ZNR	129	Taborax, Hope's Demise	B
+ZNR	37	Sejiri Shelter // Sejiri Glacier	W
+ZNR	26	Makindi Stampede // Makindi Mesas	W
+ZNR	251	Sea Gate Colossus	
+ZNR	38	Shepherd of Heroes	W
+ZNR	245	Lithoform Engine	
+ZNR	217	Vastwood Surge	G
+ZNR	136	Cinderclasm	R
+ZNR	239	Verazol, the Split Current	G,U
+ZNR	200	Reclaim the Wastes	G
+ZNR	80	Silundi Vision // Silundi Isle	U
+ZNR	206	Strength of Solidarity	G
+ZNR	55	Cunning Geysermage	U
+ZNR	85	Thieving Skydiver	U
+ZNR	205	Springmantle Cleric	G
+ZNR	207	Swarm Shambler	G
+ZNR	121	Scion of the Swarm	B
+ZNR	128	Subtle Strike	B
+ZNR	95	Coveted Prize	B
+ZNR	189	Kazandu Mammoth // Kazandu Valley	G
+ZNR	58	Field Research	U
+ZNR	51	Cleric of Chill Depths	U
+ZNR	107	Highborn Vampire	B
+ZNR	29	Nahiri's Binding	W
+ZNR	54	Coralhelm Chronicler	U
+ZNR	213	Territorial Scythecat	G
+ZNR	39	Skyclave Apparition	W
+ZNR	269	Island	U
+ZNR	41	Squad Commander	W
+ZNR	186	Inscription of Abundance	G
+ZNR	194	Might of Murasa	G
+ZNR	118	Nullpriest of Oblivion	B
+ZNR	117	Nimana Skydancer	B
+ZNR	256	Utility Knife	
+ZNR	190	Kazandu Nectarpot	G
+ZNR	208	Tajuru Blightblade	G
+ZNR	159	Shatterskull Charger	R
+ZNR	2	Angel of Destiny	W
+ZNR	112	Marauding Blight-Priest	B
+ZNR	234	Phylath, World Sculptor	G,R
+ZNR	143	Grotag Night-Runner	R
+ZNR	148	Magmatic Channeler	R
+ZNR	16	Felidar Retreat	W
+ZNR	83	Sure-Footed Infiltrator	U
+ZNR	155	Roil Eruption	R
+ZNR	92	Blood Beckoning	B
+ZNR	226	Linvala, Shield of Sea Gate	U,W
+ZNR	94	Bloodchief's Thirst	B
+ZNR	97	Demon's Disciple	B
+ZNR	22	Kor Celebrant	W
+ZNR	238	Umara Mystic	R,U
+ZNR	71	Negate	U
+ZNR	139	Fireblade Charger	R
+ZNR	202	Scale the Heights	G
+ZNR	235	Ravager's Mace	B,R
+ZNR	175	Valakut Exploration	R
+ZNR	21	Kor Blademaster	W
+ZNR	86	Umara Wizard // Umara Skyfalls	U
+ZNR	64	Jwari Disruption // Jwari Ruins	U
+ZNR	244	Forsaken Monument	
+ZNR	204	Skyclave Pick-Axe	G
+ZNR	263	Needleverge Pathway // Pillarverge Pathway	R,W
+ZNR	65	Living Tempest	U
+ZNR	250	Relic Vial	
+ZNR	19	Kabira Takedown // Kabira Plateau	W
+ZNR	142	Grotag Bug-Catcher	R
+ZNR	183	Cragplate Baloth	G
+ZNR	261	Cragcrown Pathway // Timbercrown Pathway	G,R
+ZNR	20	Kitesail Cleric	W
+ZNR	153	Relic Robber	R
+ZNR	70	Merfolk Windrobber	U
+ZNR	15	Fearless Fledgling	W
+ZNR	216	Vastwood Fortification // Vastwood Thicket	G
+ZNR	91	Blackbloom Rogue // Blackbloom Bog	B
+ZNR	154	Rockslide Sorcerer	R
+ZNR	278	Forest	G
+ZNR	57	Expedition Diviner	U
+ZNR	252	Skyclave Relic	
+ZNR	167	Spitfire Lagac	R
+ZNR	43	Tazeem Raptor	W
+ZNR	87	Windrider Wizard	U
+ZNR	224	Kargan Warleader	R,W
+ZNR	177	Adventure Awaits	G
+ZNR	236	Soaring Thought-Thief	B,U
+ZNR	140	Fissure Wizard	R
+ZNR	113	Mind Carver	B
+ZNR	191	Kazandu Stomper	G
+ZNR	254	Spare Supplies	
+ZNR	275	Mountain	R
+ZNR	101	Expedition Skulker	B
+ZNR	8	Cliffhaven Sell-Sword	W
+ZNR	231	Nissa of Shadowed Boughs	B,G
+ZNR	110	Malakir Blood-Priest	B
+ZNR	210	Tajuru Snarecaster	G
+ZNR	18	Kabira Outrider	W
+ZNR	161	Shatterskull Smashing // Shatterskull, the Hammer Pass	R
+ZNR	199	Rabid Bite	G
+ZNR	264	Riverglide Pathway // Lavaglide Pathway	R,U
+ZNR	156	Roiling Vortex	R
+ZNR	46	Beyeen Veil // Beyeen Coast	U
+ZNR	106	Hagra Mauling // Hagra Broodpit	B
+ZNR	9	Dauntless Unity	W
+ZNR	99	Drana's Silencer	B
+ZNR	14	Farsight Adept	W
+ZNR	192	Khalni Ambush // Khalni Territory	G
+ZNR	221	Brushfire Elemental	G,R
+ZNR	166	Spikefield Hazard // Spikefield Cave	R
+ZNR	114	Mind Drain	B
+ZNR	96	Deadly Alliance	B
+ZNR	232	Omnath, Locus of Creation	G,R,U,W
+ZNR	237	Spoils of Adventure	U,W
+ZNR	119	Oblivion's Hunger	B
+ZNR	62	Into the Roil	U
+ZNR	149	Molten Blast	R
+ZNR	42	Smite the Monstrous	W
+ZNR	178	Ancient Greenwarden	G
+ZNR	233	Orah, Skyclave Hierophant	B,W
+ZNR	179	Ashaya, Soul of the Wild	G
+ZNR	246	Myriad Construct	
+ZNR	181	Broken Wings	G
+ZNR	69	Merfolk Falconer	U
+ZNR	109	Lithoform Blight	B
+ZNR	132	Zof Consumption // Zof Bloodbog	B
+ZNR	27	Maul of the Skyclaves	W
+ZNR	228	Moss-Pit Skeleton	B,G
+ZNR	104	Guul Draz Mucklord	B
+ZNR	7	Canyon Jerboa	W
+ZNR	102	Feed the Swarm	B
+ZNR	63	Jace, Mirror Mage	U
+ZNR	120	Pelakka Predation // Pelakka Caverns	B
+ZNR	89	Acquisitions Expert	B
+ZNR	98	Drana, the Last Bloodchief	B
+ZNR	72	Nimble Trapfinder	U
+ZNR	10	Disenchant	W
+ZNR	165	Song-Mad Treachery // Song-Mad Ruins	R
+ZNR	73	Risen Riptide	U
+ZNR	134	Akoum Warrior // Akoum Teeth	R
+ZNR	88	Zulaport Duelist	U
+ZNR	133	Akoum Hellhound	R
+ZNR	162	Sizzling Barrage	R
+ZNR	45	Anticognition	U
+ZNR	262	Crawling Barrens	
+ZNR	257	Base Camp	
+ZNR	135	Ardent Electromancer	R
+ZNR	160	Shatterskull Minotaur	R
+ZNR	82	Skyclave Squid	U
+ZNR	137	Cleansing Wildfire	R
+ZNR	131	Vanquish the Weak	B
+ZNR	25	Makindi Ox	W
+ZNR	12	Emeria's Call // Emeria, Shattered Skyclave	W
+ZNR	184	Dauntless Survivor	G
+ZNR	127	Soul Shatter	B
+ZNR	53	Confounding Conundrum	U
+ZNR	141	Goma Fada Vanguard	R
+ZNR	13	Expedition Healer	W
+ZNR	108	Inscription of Ruin	B
+ZNR	61	Inscription of Insight	U
+ZNR	67	Maddening Cacophony	U
+ZNR	249	Relic Golem	
+ZNR	195	Murasa Brute	G
+ZNR	150	Moraug, Fury of Akoum	R
+ZNR	17	Journey to Oblivion	W
+ZNR	124	Shadows' Verdict	B
+ZNR	168	Synchronized Spellcraft	R
+ZNR	214	Turntimber Ascetic	G
+ZNR	100	Dreadwurm	B
+ZNR	242	Zareth San, the Trickster	B,U
+ZNR	223	Grakmaw, Skyclave Ravager	B,G
+ZNR	49	Charix, the Raging Isle	U
+ZNR	229	Murasa Rootgrazer	G,W
+ZNR	66	Lullmage's Domination	U
+ZNR	187	Iridescent Hornbeetle	G
+ZNR	5	Archpriest of Iona	W
+ZNR	130	Thwart the Grave	B
+ZNR	227	Lullmage's Familiar	G,U
+ZNR	146	Kazuul's Fury // Kazuul's Cliffs	R
+ZNR	111	Malakir Rebirth // Malakir Mire	B
+ZNR	260	Clearwater Pathway // Murkwater Pathway	B,U
+ZNR	266	Plains	W
+ZNR	188	Joraga Visionary	G
+ZNR	259	Brightclimb Pathway // Grimclimb Pathway	B,W
+ZNR	173	Tuktuk Rubblefort	R
+ZNR	197	Nissa's Zendikon	G
+ZNR	255	Stonework Packbeast	
+ZNR	30	Ondu Inversion // Ondu Skyruins	W
+ZNR	258	Branchloft Pathway // Boulderloft Pathway	G,W
+ZNR	103	Ghastly Gloomhunter	B
+ZNR	36	Sea Gate Banneret	W
+ZNR	116	Nimana Skitter-Sneak	B
+ZNR	40	Skyclave Cleric // Skyclave Basilica	W
+ZNR	247	Relic Amulet	
+ZNR	147	Leyline Tyrant	R
+ZNR	220	Akiri, Fearless Voyager	R,W
+ZNR	169	Teeterpeak Ambusher	R
+ZNR	78	Seafloor Stalker	U
+ZNR	185	Gnarlid Colony	G
+ZNR	211	Tangled Florahedron // Tangled Vale	G
+ZNR	144	Inordinate Rage	R
+ZNR	59	Glacial Grasp	U
+ZNR	170	Thundering Rebuke	R
+ZNR	123	Shadow Stinger	B
+ZNR	241	Zagras, Thief of Heartbeats	B,R
+ZNR	74	Roost of Drakes	U
+ZNR	240	Yasharn, Implacable Earth	G,W
+ZNR	76	Sea Gate Restoration // Sea Gate, Reborn	U
+ZNR	122	Scourge of the Skyclaves	B
+ZNR	32	Practiced Tactics	W
+ZNR	151	Nahiri's Lithoforming	R
+ZNR	182	Canopy Baloth	G
+ZNR	272	Swamp	B
+ZNR	157	Scavenged Blade	R
+ZNR	243	Cliffhaven Kitesail	
+ZNR	126	Skyclave Shadowcat	B
+ZNR	81	Skyclave Plunder	U
+ZNR	84	Tazeem Roilmage	U
+ZNR	176	Wayward Guide-Beast	R
+ZNR	222	Cleric of Life's Bond	B,W
+ZNR	11	Emeria Captain	W
+ZNR	230	Nahiri, Heir of the Ancients	R,W
+ZNR	23	Legion Angel	W
+ZNR	35	Resolute Strike	W
+ZNR	68	Master of Winds	U
+ZNR	138	Expedition Champion	R
+ZNR	24	Luminarch Aspirant	W
+ZNR	201	Roiling Regrowth	G
+ZNR	215	Turntimber Symbiosis // Turntimber, Serpentine Wood	G
+ZNR	171	Thundering Sparkmage	R
+ZNR	28	Mesa Lynx	W
+ZNR	248	Relic Axe	
+ZNR	3	Angelheart Protector	W
+ZNR	196	Murasa Sproutling	G
+ZNR	52	Concerted Defense	U
+ZNR	33	Pressure Point	W
+ZNR	4	Archon of Emeria	W
+ZNR	163	Skyclave Geopede	R
+ZNR	265	Throne of Makindi	
+ZNR	50	Chilling Trap	U
+ZNR	31	Paired Tactician	W
+ZNR	209	Tajuru Paragon	G
+ZNR	90	Agadeem's Awakening // Agadeem, the Undercrypt	B
+ZNR	48	Cascade Seer	U
+ZNR	47	Bubble Snare	U
+ZNR	152	Pyroclastic Hellion	R
+ZNR	219	Vine Gecko	G
+ZNR	158	Scorch Rider	R
+ZNR	115	Nighthawk Scavenger	B
+ZNR	145	Kargan Intimidator	R
+ZNR	6	Attended Healer	W
+ZNR	172	Tormenting Voice	R
+ZNR	93	Blood Price	B
+ZNR	79	Shell Shield	U
+ZNR	225	Kaza, Roil Chaser	R,U
+ZNR	34	Prowling Felidar	W
+ZNR	253	Skyclave Sentinel	
+ZNR	212	Taunting Arbormage	G
+ZNR	218	Veteran Adventurer	G
+ZNR	174	Valakut Awakening // Valakut Stoneforge	R
+ZNR	105	Hagra Constrictor	B

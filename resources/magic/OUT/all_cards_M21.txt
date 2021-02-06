@@ -1,0 +1,285 @@
+M21	237	Silent Dart	
+M21	240	Sparkhunter Masticore	
+M21	67	Rousing Read	U
+M21	44	Warded Battlements	W
+M21	269	Mountain	R
+M21	188	Heroic Intervention	G
+M21	4	Anointed Chorister	W
+M21	144	Furious Rise	R
+M21	51	Frost Breath	U
+M21	30	Rambunctious Mutt	W
+M21	233	Meteorite	
+M21	335	Storm Caller	R
+M21	259	Wind-Scarred Crag	R,W
+M21	63	Rewind	U
+M21	5	Aven Gagglemaster	W
+M21	163	Sure Strike	R
+M21	247	Jungle Hollow	B,G
+M21	219	Indulging Patrician	B,W
+M21	37	Siege Striker	W
+M21	89	Bad Deal	B
+M21	244	Blossoming Sands	G,W
+M21	41	Tempered Veteran	W
+M21	218	Experimental Overload	R,U
+M21	123	Skeleton Archer	B
+M21	103	Grim Tutor	B
+M21	119	Rise Again	B
+M21	18	Falconer Adept	W
+M21	245	Dismal Backwater	B,U
+M21	255	Temple of Silence	B,W
+M21	212	Trufflesnout	G
+M21	128	Walking Corpse	B
+M21	132	Bone Pit Brute	R
+M21	174	Burlfist Oak	G
+M21	178	Drowsing Tyrannodon	G
+M21	222	Niambi, Esteemed Speaker	U,W
+M21	186	Garruk's Uprising	G
+M21	263	Island	U
+M21	154	Kinetic Augur	R
+M21	35	Secure the Scene	W
+M21	327	Teferi's Wavecaster	U
+M21	231	Forgotten Sentinel	
+M21	251	Swiftwater Cliffs	R,U
+M21	112	Malefic Scythe	B
+M21	11	Celestial Enforcer	W
+M21	337	Garruk's Warsteed	G
+M21	216	Conclave Mentor	G,W
+M21	111	Liliana's Steward	B
+M21	258	Tranquil Cove	U,W
+M21	140	Crash Through	R
+M21	230	Epitaph Golem	
+M21	129	Witch's Cauldron	B
+M21	324	Teferi, Timeless Voyager	U
+M21	81	Tome Anima	U
+M21	71	Shipwreck Dowser	U
+M21	175	Canopy Stalker	G
+M21	72	Spined Megalodon	U
+M21	211	Track Down	G
+M21	75	Teferi, Master of Time	U
+M21	249	Rugged Highlands	G,R
+M21	156	Pitchburn Devils	R
+M21	106	Kaervek, the Spiteful	B
+M21	17	Faith's Fetters	W
+M21	203	Sanctum of Fruitful Harvest	G
+M21	39	Staunch Shieldmate	W
+M21	69	See the Truth	U
+M21	110	Liliana's Standard Bearer	B
+M21	339	Wildwood Patrol	G
+M21	333	Chandra's Firemaw	R
+M21	329	Liliana's Scorn	B
+M21	95	Demonic Embrace	B
+M21	100	Gloom Sower	B
+M21	76	Teferi's Ageless Insight	U
+M21	135	Chandra, Heart of Fire	R
+M21	14	Daybreak Charger	W
+M21	331	Spirit of Malevolence	B
+M21	131	Bolt Hound	R
+M21	127	Vito, Thorn of the Dusk Rose	B
+M21	74	Sublime Epiphany	U
+M21	217	Dire Fleet Warmonger	B,R
+M21	94	Deathbloom Thallid	B
+M21	88	Archfiend's Vessel	B
+M21	278	Rin and Seri, Inseparable	G,R,W
+M21	171	Volcanic Geyser	R
+M21	113	Masked Blackguard	B
+M21	253	Temple of Malady	B,G
+M21	202	Sabertooth Mauler	G
+M21	150	Heartfire Immolator	R
+M21	108	Liliana, Waker of the Dead	B
+M21	225	Sanctum of All	B,G,R,U,W
+M21	56	Lofty Denial	U
+M21	141	Destructive Tampering	R
+M21	226	Twinblade Assassins	B,G
+M21	243	Bloodfell Caves	B,R
+M21	7	Basri Ket	W
+M21	28	Nine Lives	W
+M21	326	Mystic Skyfish	U
+M21	204	Scavenging Ooze	G
+M21	179	Elder Gargaroth	G
+M21	21	Glorious Anthem	W
+M21	168	Turn to Slag	R
+M21	195	Portcullis Vine	G
+M21	167	Transmogrify	R
+M21	260	Plains	W
+M21	68	Sanctum of Calm Waters	U
+M21	330	Liliana's Scrounger	B
+M21	92	Carrion Grub	B
+M21	198	Quirion Dryad	G
+M21	40	Swift Response	W
+M21	59	Opt	U
+M21	173	Azusa, Lost but Seeking	G
+M21	169	Turret Ogre	R
+M21	250	Scoured Barrens	B,W
+M21	252	Temple of Epiphany	R,U
+M21	27	Mangara, the Diplomat	W
+M21	9	Basri's Lieutenant	W
+M21	241	Tormod's Crypt	
+M21	246	Fabled Passage	
+M21	165	Thrill of Possibility	R
+M21	70	Shacklegeist	U
+M21	1	Ugin, the Spirit Dragon	
+M21	43	Vryn Wingmare	W
+M21	87	Alchemist's Gift	B
+M21	2	Alpine Watchdog	W
+M21	65	Roaming Ghostlight	U
+M21	115	Mind Rot	B
+M21	151	Hellkite Punisher	R
+M21	193	Llanowar Visionary	G
+M21	114	Massacre Wurm	B
+M21	60	Pursued Whale	U
+M21	155	Onakke Ogre	R
+M21	229	Chrome Replicator	
+M21	162	Subira, Tulzidi Caravanner	R
+M21	213	Warden of the Woods	G
+M21	99	Finishing Blow	B
+M21	80	Tolarian Kraken	U
+M21	192	Life Goes On	G
+M21	133	Brash Taunter	R
+M21	29	Pack Leader	W
+M21	53	Jeskai Elder	U
+M21	31	Revitalize	W
+M21	207	Snarespinner	G
+M21	158	Scorching Dragonfire	R
+M21	54	Keen Glidemaster	U
+M21	232	Mazemind Tome	
+M21	334	Keral Keep Disciples	R
+M21	61	Rain of Revelation	U
+M21	215	Alpine Houndmaster	R,W
+M21	136	Chandra's Incinerator	R
+M21	172	Volcanic Salvo	R
+M21	12	Concordia Pegasus	W
+M21	64	Riddleform	U
+M21	332	Chandra, Flame's Catalyst	R
+M21	16	Dub	W
+M21	90	Blood Glutton	B
+M21	336	Garruk, Savage Herald	G
+M21	200	Return to Nature	G
+M21	170	Unleash Fury	R
+M21	109	Liliana's Devotee	B
+M21	272	Forest	G
+M21	221	Lorescale Coatl	G,U
+M21	19	Feat of Resistance	W
+M21	185	Garruk's Harbinger	G
+M21	91	Caged Zombie	B
+M21	98	Fetid Imp	B
+M21	325	Historian of Zhalfir	U
+M21	85	Wall of Runes	U
+M21	208	Sporeweb Weaver	G
+M21	223	Obsessive Stitcher	B,U
+M21	149	Havoc Jester	R
+M21	10	Basri's Solidarity	W
+M21	142	Double Vision	R
+M21	83	Vodalian Arcanist	U
+M21	122	Silversmote Ghoul	B
+M21	45	Barrin, Tolarian Archmage	U
+M21	220	Leafkin Avenger	G,R
+M21	206	Skyway Sniper	G
+M21	239	Solemn Simulacrum	
+M21	191	Jolrael, Mwonvuli Recluse	G
+M21	25	Light of Promise	W
+M21	227	Watcher of the Spheres	U,W
+M21	322	Basri's Aegis	W
+M21	234	Palladium Myr	
+M21	323	Sigiled Contender	W
+M21	22	Griffin Aerie	W
+M21	180	Feline Sovereign	G
+M21	159	Shock	R
+M21	328	Liliana, Death Mage	B
+M21	26	Makeshift Battalion	W
+M21	145	Furor of the Bitten	R
+M21	82	Unsubstantiate	U
+M21	8	Basri's Acolyte	W
+M21	36	Selfless Savior	W
+M21	199	Ranger's Guile	G
+M21	153	Igneous Cur	R
+M21	256	Temple of Triumph	R,W
+M21	338	Predatory Wurm	G
+M21	214	Wildwood Scourge	G
+M21	15	Defiant Strike	W
+M21	242	Animal Sanctuary	
+M21	77	Teferi's Protege	U
+M21	320	Basri, Devoted Paladin	W
+M21	254	Temple of Mystery	G,U
+M21	197	Primal Might	G
+M21	210	Titanic Growth	G
+M21	52	Ghostly Pilferer	U
+M21	46	Cancel	U
+M21	126	Village Rites	B
+M21	177	Cultivate	G
+M21	117	Peer into the Abyss	B
+M21	125	Thieves' Guild Enforcer	B
+M21	42	Valorous Steed	W
+M21	143	Fiery Emancipation	R
+M21	20	Gale Swooper	W
+M21	224	Radha, Heart of Keld	G,R
+M21	266	Swamp	B
+M21	137	Chandra's Magmutt	R
+M21	176	Colossal Dreadmaw	G
+M21	78	Teferi's Tutelage	U
+M21	196	Pridemalkin	G
+M21	190	Invigorating Surge	G
+M21	181	Fierce Empath	G
+M21	182	Fungal Rebirth	G
+M21	6	Baneslayer Angel	W
+M21	101	Goremand	B
+M21	183	Garruk, Unleashed	G
+M21	139	Conspicuous Snoop	R
+M21	62	Read the Tides	U
+M21	97	Eliminate	B
+M21	55	Library Larcenist	U
+M21	236	Short Sword	
+M21	187	Gnarled Sage	G
+M21	93	Crypt Lurker	B
+M21	96	Duress	B
+M21	47	Capture Sphere	U
+M21	209	Thrashing Brontodon	G
+M21	146	Gadrak, the Crown-Scourge	R
+M21	134	Burn Bright	R
+M21	201	Run Afoul	G
+M21	228	Chromatic Orrery	
+M21	116	Necromentia	B
+M21	152	Hobblefiend	R
+M21	205	Setessan Training	G
+M21	48	Discontinuity	U
+M21	321	Adherent of Hope	W
+M21	235	Prismite	
+M21	118	Pestilent Haze	B
+M21	33	Sanctum of Tranquil Light	W
+M21	157	Sanctum of Shattered Heights	R
+M21	104	Hooded Blightfang	B
+M21	161	Spellgorger Weird	R
+M21	3	Angelic Ascension	W
+M21	164	Terror of the Peaks	R
+M21	124	Tavern Swindler	B
+M21	32	Runed Halo	W
+M21	84	Waker of Waves	U
+M21	148	Goblin Wizardry	R
+M21	23	Idol of Endurance	W
+M21	184	Garruk's Gorehorn	G
+M21	66	Rookie Mistake	U
+M21	102	Grasp of Darkness	B
+M21	257	Thornwood Falls	G,U
+M21	34	Seasoned Hallowblade	W
+M21	121	Sanguine Indulgence	B
+M21	105	Infernal Scarring	B
+M21	147	Goblin Arsonist	R
+M21	189	Hunter's Edge	G
+M21	138	Chandra's Pyreling	R
+M21	130	Battle-Rattle Shaman	R
+M21	160	Soul Sear	R
+M21	57	Miscast	U
+M21	79	Tide Skimmer	U
+M21	238	Skyscanner	
+M21	166	Traitorous Greed	R
+M21	194	Ornery Dilophosaur	G
+M21	13	Containment Priest	W
+M21	86	Wishcoin Crab	U
+M21	50	Frantic Inventory	U
+M21	24	Legion's Judgment	W
+M21	248	Radiant Fountain	
+M21	58	Mistral Singer	U
+M21	107	Kitesail Freebooter	B
+M21	49	Enthralling Hold	U
+M21	120	Sanctum of Stone Fangs	B
+M21	38	Speaker of the Heavens	W
+M21	73	Stormwing Entity	U

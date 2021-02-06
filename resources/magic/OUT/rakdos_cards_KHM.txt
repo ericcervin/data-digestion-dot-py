@@ -1,0 +1,114 @@
+KHM	263	Immersturm Skullcairn	B,R
+KHM	130	Doomskar Titan	R
+KHM	115	Varragoth, Bloodsky Sire	B
+KHM	113	Tergrid's Shadow	B
+KHM	141	Immersturm Raider	R
+KHM	84	Demonic Gifts	B
+KHM	388	Bearded Axe	R
+KHM	136	Fearless Pup	R
+KHM	79	Blood on the Snow	B
+KHM	146	Reckless Crew	R
+KHM	272	Tyrite Sanctum	
+KHM	154	Toralf, God of Fury // Toralf's Hammer	R
+KHM	280	Snow-Covered Swamp	B
+KHM	96	Grim Draugr	B
+KHM	142	Magda, Brazen Outlaw	R
+KHM	120	Arni Brokenbrow	R
+KHM	97	Hailstorm Valkyrie	B
+KHM	126	Cinderheart Giant	R
+KHM	118	Weigh Down	B
+KHM	122	Basalt Ravager	R
+KHM	267	Shimmerdrift Vale	
+KHM	235	Bloodline Pretender	
+KHM	156	Tundra Fumarole	R
+KHM	246	Scorn Effigy	
+KHM	148	Rune of Speed	R
+KHM	109	Skemfar Avenger	B
+KHM	155	Tormentor's Helm	R
+KHM	240	Maskwood Nexus	
+KHM	94	Eradicator Valkyrie	B
+KHM	153	Tibalt's Trickery	R
+KHM	127	Craven Hulk	R
+KHM	88	Draugr's Helm	B
+KHM	117	Village Rites	B
+KHM	147	Run Amok	R
+KHM	385	Elderfang Ritualist	B
+KHM	86	Draugr Necromancer	B
+KHM	92	Egon, God of Death // Throne of Death	B
+KHM	152	Squash	R
+KHM	386	Renegade Reaper	B
+KHM	243	Raven Wings	
+KHM	98	Haunting Voyage	B
+KHM	143	Open the Omenpaths	R
+KHM	112	Tergrid, God of Fright // Tergrid's Lantern	B
+KHM	89	Dread Rider	B
+KHM	137	Frenzied Raider	R
+KHM	128	Crush the Weak	R
+KHM	133	Dwarven Hammer	R
+KHM	389	Fire Giant's Fury	R
+KHM	90	Dream Devourer	B
+KHM	150	Shackles of Treachery	R
+KHM	124	Breakneck Berserker	R
+KHM	111	Skull Raid	B
+KHM	270	Sulfurous Mire	B,R
+KHM	140	Hagi Mob	R
+KHM	105	Raise the Draugr	B
+KHM	397	Mountain	R
+KHM	101	Karfell Kennel-Master	B
+KHM	83	Deathknell Berserker	B
+KHM	132	Dual Strike	R
+KHM	85	Dogged Pursuit	B
+KHM	99	Infernal Pet	B
+KHM	139	Goldspan Dragon	R
+KHM	114	Valki, God of Lies // Tibalt, Cosmic Impostor	B,R
+KHM	123	Birgi, God of Storytelling // Harnfel, Horn of Bounty	R
+KHM	91	Duskwielder	B
+KHM	158	Vault Robber	R
+KHM	255	Faceless Haven	
+KHM	216	Kardur, Doomscourge	B,R
+KHM	121	Axgard Cavalry	R
+KHM	245	Runed Crown	
+KHM	207	The Bloodsky Massacre	B,R
+KHM	104	Priest of the Haunted Edge	B
+KHM	377	Surtland Flinger	R
+KHM	134	Dwarven Reinforcements	R
+KHM	81	Burning-Rune Demon	B
+KHM	116	Vengeful Reaper	B
+KHM	138	Frost Bite	R
+KHM	214	Immersturm Predator	B,R
+KHM	144	Provoke the Trolls	R
+KHM	108	Rune of Mortality	B
+KHM	157	Tuskeri Firewalker	R
+KHM	149	Seize the Spoils	R
+KHM	82	Crippling Fear	B
+KHM	376	Cleaving Reaper	B
+KHM	387	Thornmantle Striker	B
+KHM	390	Gilded Assault Cart	R
+KHM	87	Draugr Recruiter	B
+KHM	93	Elderfang Disciple	B
+KHM	239	Goldvein Pick	
+KHM	102	Koma's Faithful	B
+KHM	238	Funeral Longboat	
+KHM	237	Cosmos Elixir	
+KHM	241	Pyre of Heroes	
+KHM	103	Poison the Cup	B
+KHM	244	Replicating Ring	
+KHM	282	Snow-Covered Mountain	R
+KHM	80	Bloodsky Berserker	B
+KHM	107	Rise of the Dread Marn	B
+KHM	119	Withercrown	B
+KHM	242	Raiders' Karve	
+KHM	151	Smashing Success	R
+KHM	95	Feed the Serpent	B
+KHM	106	Return Upon the Tide	B
+KHM	396	Swamp	B
+KHM	100	Jarl of the Forsaken	B
+KHM	217	Kardur's Vicious Return	B,R
+KHM	131	Dragonkin Berserker	R
+KHM	125	Calamity Bearer	R
+KHM	247	Weathered Runestone	
+KHM	252	Blightstep Pathway // Searstep Pathway	B,R
+KHM	129	Demon Bolt	R
+KHM	135	Fearless Liberator	R
+KHM	145	Quakebringer	R
+KHM	110	Skemfar Shadowsage	B

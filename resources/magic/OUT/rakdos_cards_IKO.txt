@@ -1,0 +1,82 @@
+IKO	125	Lukka, Coppercoat Outcast	R
+IKO	117	Flame Spill	R
+IKO	126	Momentum Rumbler	R
+IKO	99	Serrated Scorpion	B
+IKO	241	Springjaw Trap	
+IKO	86	Duskfang Mentor	B
+IKO	105	Whisper Squad	B
+IKO	103	Unlikely Aid	B
+IKO	2	Farfinder	
+IKO	77	Bushmeat Poacher	B
+IKO	119	Forbidden Friendship	R
+IKO	122	Go for Blood	R
+IKO	106	Zagoth Mamba	B
+IKO	113	Drannith Stinger	R
+IKO	83	Dead Weight	B
+IKO	228	Obosh, the Preypiercer	B,R
+IKO	89	Gloom Pangolin	B
+IKO	118	Footfall Crater	R
+IKO	140	Weaponize the Monsters	R
+IKO	245	Bonders' Enclave	
+IKO	132	Reptilian Reflection	R
+IKO	129	Prickly Marmoset	R
+IKO	134	Rumbling Rockslide	R
+IKO	131	Raking Claws	R
+IKO	104	Void Beckoner	B
+IKO	128	Porcuparrot	R
+IKO	247	Evolving Wilds	
+IKO	102	Unexpected Fangs	B
+IKO	121	Frillscare Mentor	R
+IKO	92	Hunted Nightmare	B
+IKO	101	Unbreakable Bond	B
+IKO	116	Fire Prophecy	R
+IKO	74	Blitz Leech	B
+IKO	90	Grimdancer	B
+IKO	73	Bastion of Remembrance	B
+IKO	88	Extinction Event	B
+IKO	76	Boot Nipper	B
+IKO	91	Heartless Act	B
+IKO	243	Bloodfell Caves	B,R
+IKO	108	Blisterspit Gremlin	R
+IKO	269	Mountain	R
+IKO	107	Blazing Volley	R
+IKO	115	Ferocious Tigorilla	R
+IKO	230	Sonorous Howlbonder	B,R
+IKO	96	Mutual Destruction	B
+IKO	98	Nightsquad Commando	B
+IKO	84	Dirge Bat	B
+IKO	81	Corpse Churn	B
+IKO	240	Sleeper Dart	
+IKO	120	Frenzied Raptor	R
+IKO	130	Pyroceratops	R
+IKO	135	Sanctuary Smasher	R
+IKO	137	Spelleater Wolverine	R
+IKO	93	Insatiable Hemophage	B
+IKO	112	Cloudpiercer	R
+IKO	1	Adaptive Shimmerer	
+IKO	139	Unpredictable Cyclone	R
+IKO	234	Crystalline Giant	
+IKO	133	Rooting Moloch	R
+IKO	85	Durable Coilbug	B
+IKO	237	The Ozolith	
+IKO	138	Tentative Connection	R
+IKO	3	Mysterious Egg	
+IKO	266	Swamp	B
+IKO	75	Blood Curdle	B
+IKO	95	Memory Leak	B
+IKO	82	Dark Bargain	B
+IKO	78	Call of the Death-Dweller	B
+IKO	109	Blitz of the Thunder-Raptor	R
+IKO	110	Cathartic Reunion	R
+IKO	124	Lava Serpent	R
+IKO	141	Yidaro, Wandering Monster	R
+IKO	94	Lurking Deadeye	B
+IKO	87	Easy Prey	B
+IKO	111	Clash of Titans	R
+IKO	114	Everquill Phoenix	R
+IKO	79	Cavern Whisperer	B
+IKO	193	Labyrinth Raptor	B,R
+IKO	100	Suffocating Fumes	B
+IKO	80	Chittering Harvester	B
+IKO	123	Heightened Reflexes	R
+IKO	136	Shredded Sails	R
