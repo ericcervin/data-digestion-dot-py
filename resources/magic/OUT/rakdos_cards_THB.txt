@@ -1,12 +1,13 @@
 THB	237	Soul-Guide Lantern	
 THB	136	Furious Rise	R
-THB	113	Rage-Scarred Berserker	B
+THB	93	Erebos, Bleak-Hearted	B
+THB	110	Omen of the Dead	B
 THB	161	Underworld Breach	R
 THB	132	Escape Velocity	R
-THB	153	Skophos Maze-Warden	R
 THB	125	Anax, Hardened in the Forge	R
+THB	142	Iroas's Blessing	R
 THB	112	Pharika's Spawn	B
-THB	103	Lampad of Death's Vigil	B
+THB	155	Stampede Rider	R
 THB	99	Gray Merchant of Asphodel	B
 THB	118	Tymaret Calls the Dead	B
 THB	90	Eat to Extinction	B
@@ -19,47 +20,45 @@ THB	129	Careless Celebrant	R
 THB	138	Heroes of the Revel	R
 THB	148	Phoenix of Ash	R
 THB	133	Fateful End	R
-THB	93	Erebos, Bleak-Hearted	B
+THB	152	Satyr's Cunning	R
+THB	88	Discordant Piper	B
 THB	101	Hateful Eidolon	B
 THB	86	Blight-Breath Catoblepas	B
 THB	114	Scavenging Harpy	B
 THB	207	Allure of the Unknown	B,R
 THB	83	Agonizing Remorse	B
-THB	104	Minion's Return	B
-THB	100	Grim Physician	B
+THB	242	Field of Ruin	
 THB	96	Fruit of Tizerus	B
-THB	236	Shadowspear	
 THB	144	Nyxborn Brute	R
-THB	108	Nightmare Shepherd	B
+THB	231	Altar of the Pantheon	
 THB	115	Soulreaper of Mogis	B
 THB	140	Incendiary Oracle	R
 THB	292	Demon of Loathing	B
 THB	143	Irreverent Revelers	R
-THB	126	Arena Trickster	R
 THB	130	Dreamshaper Shaman	R
+THB	243	Labyrinth of Skophos	
 THB	85	Aspect of Lamprey	B
-THB	110	Omen of the Dead	B
+THB	113	Rage-Scarred Berserker	B
 THB	120	Underworld Charger	B
-THB	142	Iroas's Blessing	R
-THB	253	Mountain	R
-THB	295	Terror of Mount Velus	R
+THB	100	Grim Physician	B
 THB	238	Thaumaturge's Familiar	
 THB	134	Final Flare	R
+THB	126	Arena Trickster	R
 THB	234	Mirror Shield	
 THB	128	Blood Aspirant	R
 THB	137	Hero of the Games	R
+THB	103	Lampad of Death's Vigil	B
+THB	159	Thrill of Possibility	R
 THB	147	Ox of Agonas	R
-THB	293	Underworld Sentinel	B
 THB	160	The Triumph of Anax	R
-THB	249	Unknown Shores	
 THB	247	Temple of Malice	B,R
 THB	162	Underworld Fires	R
 THB	163	Underworld Rage-Hound	R
-THB	159	Thrill of Possibility	R
 THB	84	Aphemia, the Cacophony	B
 THB	127	Aspect of Manticore	R
 THB	232	Bronze Sword	
-THB	155	Stampede Rider	R
+THB	253	Mountain	R
+THB	293	Underworld Sentinel	B
 THB	241	Wings of Hubris	
 THB	119	Tymaret, Chosen from Death	B
 THB	116	Temple Thief	B
@@ -67,41 +66,42 @@ THB	124	The Akroan War	R
 THB	92	Enemy of Enlightenment	B
 THB	157	Storm's Wrath	R
 THB	156	Storm Herald	R
-THB	122	Venomous Hierophant	B
-THB	231	Altar of the Pantheon	
+THB	154	Skophos Warleader	R
+THB	108	Nightmare Shepherd	B
 THB	239	Thundering Chariot	
-THB	145	Omen of the Forge	R
 THB	91	Elspeth's Nightmare	B
 THB	117	Treacherous Blessing	B
+THB	122	Venomous Hierophant	B
 THB	123	Woe Strider	B
 THB	235	Nyx Lotus	
-THB	240	Traveler's Amulet	
-THB	242	Field of Ruin	
+THB	295	Terror of Mount Velus	R
 THB	164	Wrap in Flames	R
 THB	294	Deathbellow War Cry	R
 THB	146	Oread of Mountain's Blaze	R
-THB	152	Satyr's Cunning	R
+THB	236	Shadowspear	
 THB	158	Tectonic Giant	R
-THB	88	Discordant Piper	B
 THB	107	Mogis's Favor	B
+THB	104	Minion's Return	B
 THB	95	Final Death	B
-THB	106	Mire's Grasp	B
-THB	233	Entrancing Lyre	
-THB	154	Skophos Warleader	R
+THB	153	Skophos Maze-Warden	R
+THB	145	Omen of the Forge	R
 THB	151	Purphoros's Intervention	R
+THB	240	Traveler's Amulet	
 THB	252	Swamp	B
 THB	111	Pharika's Libation	B
+THB	249	Unknown Shores	
 THB	89	Drag to the Underworld	B
 THB	135	Flummoxed Cyclops	R
 THB	149	Portent of Betrayal	R
 THB	221	Kroxa, Titan of Death's Hunger	B,R
 THB	131	Dreamstalker Manticore	R
-THB	243	Labyrinth of Skophos	
+THB	233	Entrancing Lyre	
 THB	141	Infuriate	R
 THB	87	Cling to Dust	B
 THB	139	Impending Doom	R
 THB	94	Erebos's Intervention	B
 THB	97	Funeral Rites	B
+THB	106	Mire's Grasp	B
 THB	276	Mindwrack Harpy	B
 THB	98	Gravebreaker Lamia	B
 THB	102	Inevitable End	B
