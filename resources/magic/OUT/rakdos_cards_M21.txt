@@ -1,116 +1,116 @@
-M21	240	Sparkhunter Masticore	
-M21	144	Furious Rise	R
-M21	233	Meteorite	
-M21	335	Storm Caller	R
-M21	164	Terror of the Peaks	R
-M21	217	Dire Fleet Warmonger	B,R
-M21	163	Sure Strike	R
-M21	89	Bad Deal	B
-M21	123	Skeleton Archer	B
-M21	103	Grim Tutor	B
-M21	146	Gadrak, the Crown-Scourge	R
-M21	111	Liliana's Steward	B
-M21	128	Walking Corpse	B
-M21	132	Bone Pit Brute	R
-M21	154	Kinetic Augur	R
-M21	231	Forgotten Sentinel	
-M21	112	Malefic Scythe	B
-M21	119	Rise Again	B
-M21	140	Crash Through	R
-M21	156	Pitchburn Devils	R
-M21	106	Kaervek, the Spiteful	B
-M21	246	Fabled Passage	
-M21	110	Liliana's Standard Bearer	B
-M21	333	Chandra's Firemaw	R
-M21	329	Liliana's Scorn	B
-M21	95	Demonic Embrace	B
-M21	100	Gloom Sower	B
-M21	135	Chandra, Heart of Fire	R
-M21	331	Spirit of Malevolence	B
-M21	131	Bolt Hound	R
-M21	127	Vito, Thorn of the Dusk Rose	B
-M21	126	Village Rites	B
-M21	113	Masked Blackguard	B
-M21	150	Heartfire Immolator	R
-M21	108	Liliana, Waker of the Dead	B
-M21	141	Destructive Tampering	R
-M21	243	Bloodfell Caves	B,R
-M21	167	Transmogrify	R
-M21	92	Carrion Grub	B
-M21	169	Turret Ogre	R
-M21	228	Chromatic Orrery	
-M21	241	Tormod's Crypt	
-M21	165	Thrill of Possibility	R
 M21	1	Ugin, the Spirit Dragon	
 M21	87	Alchemist's Gift	B
-M21	122	Silversmote Ghoul	B
-M21	115	Mind Rot	B
-M21	99	Finishing Blow	B
-M21	114	Massacre Wurm	B
-M21	147	Goblin Arsonist	R
-M21	229	Chrome Replicator	
-M21	162	Subira, Tulzidi Caravanner	R
-M21	137	Chandra's Magmutt	R
-M21	235	Prismite	
-M21	334	Keral Keep Disciples	R
-M21	171	Volcanic Geyser	R
-M21	168	Turn to Slag	R
-M21	158	Scorching Dragonfire	R
-M21	232	Mazemind Tome	
-M21	332	Chandra, Flame's Catalyst	R
-M21	136	Chandra's Incinerator	R
-M21	269	Mountain	R
-M21	90	Blood Glutton	B
-M21	170	Unleash Fury	R
-M21	109	Liliana's Devotee	B
-M21	91	Caged Zombie	B
-M21	330	Liliana's Scrounger	B
-M21	149	Havoc Jester	R
-M21	151	Hellkite Punisher	R
-M21	230	Epitaph Golem	
-M21	239	Solemn Simulacrum	
-M21	234	Palladium Myr	
-M21	159	Shock	R
-M21	145	Furor of the Bitten	R
-M21	130	Battle-Rattle Shaman	R
-M21	153	Igneous Cur	R
-M21	242	Animal Sanctuary	
 M21	88	Archfiend's Vessel	B
-M21	117	Peer into the Abyss	B
-M21	125	Thieves' Guild Enforcer	B
-M21	143	Fiery Emancipation	R
-M21	172	Volcanic Salvo	R
-M21	98	Fetid Imp	B
-M21	237	Silent Dart	
-M21	101	Goremand	B
-M21	139	Conspicuous Snoop	R
-M21	97	Eliminate	B
-M21	236	Short Sword	
+M21	89	Bad Deal	B
+M21	90	Blood Glutton	B
+M21	91	Caged Zombie	B
+M21	92	Carrion Grub	B
 M21	93	Crypt Lurker	B
+M21	94	Deathbloom Thallid	B
+M21	95	Demonic Embrace	B
 M21	96	Duress	B
+M21	97	Eliminate	B
+M21	98	Fetid Imp	B
+M21	99	Finishing Blow	B
+M21	100	Gloom Sower	B
+M21	101	Goremand	B
+M21	102	Grasp of Darkness	B
+M21	103	Grim Tutor	B
+M21	104	Hooded Blightfang	B
+M21	105	Infernal Scarring	B
+M21	106	Kaervek, the Spiteful	B
+M21	107	Kitesail Freebooter	B
+M21	108	Liliana, Waker of the Dead	B
+M21	109	Liliana's Devotee	B
+M21	110	Liliana's Standard Bearer	B
+M21	111	Liliana's Steward	B
+M21	112	Malefic Scythe	B
+M21	113	Masked Blackguard	B
+M21	114	Massacre Wurm	B
+M21	115	Mind Rot	B
+M21	116	Necromentia	B
+M21	117	Peer into the Abyss	B
+M21	118	Pestilent Haze	B
+M21	119	Rise Again	B
+M21	120	Sanctum of Stone Fangs	B
+M21	121	Sanguine Indulgence	B
+M21	122	Silversmote Ghoul	B
+M21	123	Skeleton Archer	B
+M21	124	Tavern Swindler	B
+M21	125	Thieves' Guild Enforcer	B
+M21	126	Village Rites	B
+M21	127	Vito, Thorn of the Dusk Rose	B
+M21	128	Walking Corpse	B
+M21	129	Witch's Cauldron	B
+M21	130	Battle-Rattle Shaman	R
+M21	131	Bolt Hound	R
+M21	132	Bone Pit Brute	R
 M21	133	Brash Taunter	R
 M21	134	Burn Bright	R
-M21	238	Skyscanner	
-M21	116	Necromentia	B
-M21	152	Hobblefiend	R
-M21	118	Pestilent Haze	B
-M21	157	Sanctum of Shattered Heights	R
-M21	104	Hooded Blightfang	B
-M21	161	Spellgorger Weird	R
-M21	124	Tavern Swindler	B
-M21	148	Goblin Wizardry	R
-M21	129	Witch's Cauldron	B
-M21	94	Deathbloom Thallid	B
-M21	102	Grasp of Darkness	B
-M21	121	Sanguine Indulgence	B
-M21	105	Infernal Scarring	B
-M21	266	Swamp	B
+M21	135	Chandra, Heart of Fire	R
+M21	136	Chandra's Incinerator	R
+M21	137	Chandra's Magmutt	R
 M21	138	Chandra's Pyreling	R
-M21	160	Soul Sear	R
+M21	139	Conspicuous Snoop	R
+M21	140	Crash Through	R
+M21	141	Destructive Tampering	R
 M21	142	Double Vision	R
-M21	166	Traitorous Greed	R
-M21	328	Liliana, Death Mage	B
-M21	248	Radiant Fountain	
-M21	107	Kitesail Freebooter	B
+M21	143	Fiery Emancipation	R
+M21	144	Furious Rise	R
+M21	145	Furor of the Bitten	R
+M21	146	Gadrak, the Crown-Scourge	R
+M21	147	Goblin Arsonist	R
+M21	148	Goblin Wizardry	R
+M21	149	Havoc Jester	R
+M21	150	Heartfire Immolator	R
+M21	151	Hellkite Punisher	R
+M21	152	Hobblefiend	R
+M21	153	Igneous Cur	R
+M21	154	Kinetic Augur	R
 M21	155	Onakke Ogre	R
-M21	120	Sanctum of Stone Fangs	B
+M21	156	Pitchburn Devils	R
+M21	157	Sanctum of Shattered Heights	R
+M21	158	Scorching Dragonfire	R
+M21	159	Shock	R
+M21	160	Soul Sear	R
+M21	161	Spellgorger Weird	R
+M21	162	Subira, Tulzidi Caravanner	R
+M21	163	Sure Strike	R
+M21	164	Terror of the Peaks	R
+M21	165	Thrill of Possibility	R
+M21	166	Traitorous Greed	R
+M21	167	Transmogrify	R
+M21	168	Turn to Slag	R
+M21	169	Turret Ogre	R
+M21	170	Unleash Fury	R
+M21	171	Volcanic Geyser	R
+M21	172	Volcanic Salvo	R
+M21	217	Dire Fleet Warmonger	B,R
+M21	228	Chromatic Orrery	
+M21	229	Chrome Replicator	
+M21	230	Epitaph Golem	
+M21	231	Forgotten Sentinel	
+M21	232	Mazemind Tome	
+M21	233	Meteorite	
+M21	234	Palladium Myr	
+M21	235	Prismite	
+M21	236	Short Sword	
+M21	237	Silent Dart	
+M21	238	Skyscanner	
+M21	239	Solemn Simulacrum	
+M21	240	Sparkhunter Masticore	
+M21	241	Tormod's Crypt	
+M21	242	Animal Sanctuary	
+M21	243	Bloodfell Caves	B,R
+M21	246	Fabled Passage	
+M21	248	Radiant Fountain	
+M21	266	Swamp	B
+M21	269	Mountain	R
+M21	328	Liliana, Death Mage	B
+M21	329	Liliana's Scorn	B
+M21	330	Liliana's Scrounger	B
+M21	331	Spirit of Malevolence	B
+M21	332	Chandra, Flame's Catalyst	R
+M21	333	Chandra's Firemaw	R
+M21	334	Keral Keep Disciples	R
+M21	335	Storm Caller	R

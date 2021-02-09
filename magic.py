@@ -27,13 +27,6 @@ def main():
         file_name = "rakdos_cards_" + set_id + ".txt"
         print_card_tsv(file_name,distinct_rakdos_cards)
 
-
-
-
-
-
-            
-
 def brief_card_map(card_json):
    return {'set_code': card_json.get('setCode',''),
            'name':  card_json.get('name',''),
@@ -82,9 +75,11 @@ def load_set_data(sets):
     return set_data
 
 
-def print_card_tsv(file_name,card_map):
+def print_card_tsv(file_name,card_map):   
+    sorted_cards = sorted(card_map.items(), key=lambda x: int(x[1][0]['number']))
+    #print(sorted_cards[0])
     with open("./resources/magic/OUT/" + file_name, "w") as card_file:
-             for k in card_map.keys():                     
-               text = brief_card_text(card_map[k][0])
+             for c in sorted_cards:                     
+               text = brief_card_text(c[1][0])
                card_file.write(text)
 main()    
