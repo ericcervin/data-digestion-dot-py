@@ -1,115 +1,115 @@
-ELD	75	Ayara, First of Locthwain	B
-ELD	76	Bake into a Pie	B
-ELD	77	Barrow Witches	B
-ELD	78	Belle of the Brawl	B
-ELD	79	Blacklance Paragon	B
-ELD	80	Bog Naughty	B
-ELD	81	Cauldron Familiar	B
-ELD	82	The Cauldron of Eternity	B
-ELD	83	Cauldron's Gift	B
-ELD	84	Clackbridge Troll	B
-ELD	85	Epic Downfall	B
-ELD	86	Eye Collector	B
-ELD	87	Festive Funeral	B
-ELD	88	Foreboding Fruit	B
-ELD	89	Forever Young	B
-ELD	90	Foulmire Knight // Profane Insight	B
-ELD	91	Giant's Skewer	B
-ELD	92	Lash of Thorns	B
-ELD	93	Locthwain Paladin	B
-ELD	94	Lost Legion	B
-ELD	95	Malevolent Noble	B
-ELD	96	Memory Theft	B
-ELD	97	Murderous Rider // Swift End	B
-ELD	98	Oathsworn Knight	B
-ELD	99	Order of Midnight // Alter Fate	B
-ELD	100	Piper of the Swarm	B
-ELD	101	Rankle, Master of Pranks	B
-ELD	102	Reaper of Night // Harvest Fear	B
-ELD	103	Reave Soul	B
-ELD	104	Revenge of Ravens	B
-ELD	105	Smitten Swordmaster // Curry Favor	B
-ELD	106	Specter's Shriek	B
-ELD	107	Syr Konrad, the Grim	B
-ELD	108	Tempting Witch	B
-ELD	109	Wicked Guardian	B
-ELD	110	Wishclaw Talisman	B
-ELD	111	Witch's Vengeance	B
-ELD	112	Barge In	R
-ELD	113	Bloodhaze Wolverine	R
-ELD	114	Blow Your House Down	R
-ELD	115	Bonecrusher Giant // Stomp	R
-ELD	116	Brimstone Trebuchet	R
-ELD	117	Burning-Yard Trainer	R
-ELD	118	Claim the Firstborn	R
-ELD	119	Crystal Slipper	R
-ELD	120	Embercleave	R
-ELD	121	Embereth Paladin	R
-ELD	122	Embereth Shieldbreaker // Battle Display	R
-ELD	123	Ferocity of the Wilds	R
-ELD	124	Fervent Champion	R
-ELD	125	Fires of Invention	R
-ELD	126	Fling	R
-ELD	127	Irencrag Feat	R
-ELD	128	Irencrag Pyromancer	R
-ELD	129	Joust	R
-ELD	130	Mad Ratter	R
-ELD	131	Merchant of the Vale // Haggle	R
-ELD	132	Ogre Errant	R
-ELD	133	Opportunistic Dragon	R
-ELD	134	Raging Redcap	R
-ELD	135	Redcap Melee	R
-ELD	136	Redcap Raiders	R
-ELD	137	Rimrock Knight // Boulder Rush	R
-ELD	138	Robber of the Rich	R
-ELD	139	Scorching Dragonfire	R
-ELD	140	Searing Barrage	R
-ELD	141	Seven Dwarves	R
-ELD	142	Skullknocker Ogre	R
-ELD	143	Slaying Fire	R
-ELD	144	Sundering Stroke	R
-ELD	145	Syr Carah, the Bold	R
-ELD	146	Thrill of Possibility	R
-ELD	147	Torbran, Thane of Red Fell	R
-ELD	148	Weaselback Redcap	R
-ELD	202	Steelclaw Lance	B,R
-ELD	203	Stormfist Crusader	B,R
-ELD	209	Elite Headhunter	B,R
-ELD	216	Clockwork Servant	
-ELD	217	Crashing Drawbridge	
-ELD	218	Enchanted Carriage	
-ELD	219	Gingerbrute	
-ELD	220	Golden Egg	
-ELD	221	Henge Walker	
-ELD	222	Heraldic Banner	
-ELD	223	Inquisitive Puppet	
-ELD	224	Jousting Dummy	
-ELD	225	Locthwain Gargoyle	
-ELD	226	Lucky Clover	
-ELD	227	Prophet of the Peak	
-ELD	228	Roving Keep	
-ELD	229	Scalding Cauldron	
-ELD	230	Shambling Suit	
-ELD	231	Signpost Scarecrow	
-ELD	232	Sorcerer's Broom	
-ELD	233	Sorcerous Spyglass	
-ELD	234	Spinning Wheel	
-ELD	235	Stonecoil Serpent	
-ELD	236	Weapon Rack	
-ELD	237	Witch's Oven	
-ELD	239	Castle Embereth	R
-ELD	241	Castle Locthwain	B
-ELD	243	Dwarven Mine	R
-ELD	244	Fabled Passage	
-ELD	249	Witch's Cottage	B
-ELD	258	Swamp	B
-ELD	262	Mountain	R
-ELD	304	Rowan, Fearless Sparkmage	R
-ELD	306	Rowan's Battleguard	R
-ELD	307	Rowan's Stalwarts	R
-ELD	319	Chittering Witch	B
-ELD	320	Taste of Death	B
-ELD	321	Embereth Skyblazer	R
-ELD	331	Arcane Signet	
-ELD	332	Tome of Legends	
-ELD	333	Command Tower	
+ELD	331	Arcane Signet	2.0	
+ELD	75	Ayara, First of Locthwain	3.0	B
+ELD	76	Bake into a Pie	4.0	B
+ELD	112	Barge In	1.0	R
+ELD	77	Barrow Witches	5.0	B
+ELD	78	Belle of the Brawl	3.0	B
+ELD	79	Blacklance Paragon	2.0	B
+ELD	113	Bloodhaze Wolverine	2.0	R
+ELD	114	Blow Your House Down	3.0	R
+ELD	80	Bog Naughty	5.0	B
+ELD	115	Bonecrusher Giant // Stomp	3.0	R
+ELD	116	Brimstone Trebuchet	3.0	R
+ELD	117	Burning-Yard Trainer	5.0	R
+ELD	239	Castle Embereth	0.0	R
+ELD	241	Castle Locthwain	0.0	B
+ELD	81	Cauldron Familiar	1.0	B
+ELD	83	Cauldron's Gift	5.0	B
+ELD	319	Chittering Witch	4.0	B
+ELD	84	Clackbridge Troll	5.0	B
+ELD	118	Claim the Firstborn	1.0	R
+ELD	216	Clockwork Servant	3.0	
+ELD	333	Command Tower	0.0	
+ELD	217	Crashing Drawbridge	2.0	
+ELD	119	Crystal Slipper	2.0	R
+ELD	243	Dwarven Mine	0.0	R
+ELD	209	Elite Headhunter	4.0	B,R
+ELD	120	Embercleave	6.0	R
+ELD	121	Embereth Paladin	4.0	R
+ELD	122	Embereth Shieldbreaker // Battle Display	2.0	R
+ELD	321	Embereth Skyblazer	4.0	R
+ELD	218	Enchanted Carriage	5.0	
+ELD	85	Epic Downfall	2.0	B
+ELD	86	Eye Collector	1.0	B
+ELD	244	Fabled Passage	0.0	
+ELD	123	Ferocity of the Wilds	3.0	R
+ELD	124	Fervent Champion	1.0	R
+ELD	87	Festive Funeral	5.0	B
+ELD	125	Fires of Invention	4.0	R
+ELD	126	Fling	2.0	R
+ELD	88	Foreboding Fruit	3.0	B
+ELD	89	Forever Young	2.0	B
+ELD	90	Foulmire Knight // Profane Insight	1.0	B
+ELD	91	Giant's Skewer	2.0	B
+ELD	219	Gingerbrute	1.0	
+ELD	220	Golden Egg	2.0	
+ELD	221	Henge Walker	3.0	
+ELD	222	Heraldic Banner	3.0	
+ELD	223	Inquisitive Puppet	1.0	
+ELD	127	Irencrag Feat	4.0	R
+ELD	128	Irencrag Pyromancer	3.0	R
+ELD	129	Joust	2.0	R
+ELD	224	Jousting Dummy	2.0	
+ELD	92	Lash of Thorns	1.0	B
+ELD	225	Locthwain Gargoyle	1.0	
+ELD	93	Locthwain Paladin	4.0	B
+ELD	94	Lost Legion	3.0	B
+ELD	226	Lucky Clover	2.0	
+ELD	130	Mad Ratter	4.0	R
+ELD	95	Malevolent Noble	2.0	B
+ELD	96	Memory Theft	3.0	B
+ELD	131	Merchant of the Vale // Haggle	3.0	R
+ELD	262	Mountain	0.0	R
+ELD	97	Murderous Rider // Swift End	3.0	B
+ELD	98	Oathsworn Knight	3.0	B
+ELD	132	Ogre Errant	4.0	R
+ELD	133	Opportunistic Dragon	4.0	R
+ELD	99	Order of Midnight // Alter Fate	2.0	B
+ELD	100	Piper of the Swarm	2.0	B
+ELD	227	Prophet of the Peak	6.0	
+ELD	134	Raging Redcap	3.0	R
+ELD	101	Rankle, Master of Pranks	4.0	B
+ELD	102	Reaper of Night // Harvest Fear	7.0	B
+ELD	103	Reave Soul	2.0	B
+ELD	135	Redcap Melee	1.0	R
+ELD	136	Redcap Raiders	3.0	R
+ELD	104	Revenge of Ravens	4.0	B
+ELD	137	Rimrock Knight // Boulder Rush	2.0	R
+ELD	138	Robber of the Rich	2.0	R
+ELD	228	Roving Keep	7.0	
+ELD	306	Rowan's Battleguard	4.0	R
+ELD	307	Rowan's Stalwarts	5.0	R
+ELD	304	Rowan, Fearless Sparkmage	5.0	R
+ELD	229	Scalding Cauldron	1.0	
+ELD	139	Scorching Dragonfire	2.0	R
+ELD	140	Searing Barrage	5.0	R
+ELD	141	Seven Dwarves	2.0	R
+ELD	230	Shambling Suit	3.0	
+ELD	231	Signpost Scarecrow	4.0	
+ELD	142	Skullknocker Ogre	4.0	R
+ELD	143	Slaying Fire	3.0	R
+ELD	105	Smitten Swordmaster // Curry Favor	2.0	B
+ELD	232	Sorcerer's Broom	2.0	
+ELD	233	Sorcerous Spyglass	2.0	
+ELD	106	Specter's Shriek	1.0	B
+ELD	234	Spinning Wheel	3.0	
+ELD	202	Steelclaw Lance	2.0	B,R
+ELD	235	Stonecoil Serpent	0.0	
+ELD	203	Stormfist Crusader	2.0	B,R
+ELD	144	Sundering Stroke	7.0	R
+ELD	258	Swamp	0.0	B
+ELD	145	Syr Carah, the Bold	5.0	R
+ELD	107	Syr Konrad, the Grim	5.0	B
+ELD	320	Taste of Death	6.0	B
+ELD	108	Tempting Witch	3.0	B
+ELD	82	The Cauldron of Eternity	12.0	B
+ELD	146	Thrill of Possibility	2.0	R
+ELD	332	Tome of Legends	2.0	
+ELD	147	Torbran, Thane of Red Fell	4.0	R
+ELD	236	Weapon Rack	4.0	
+ELD	148	Weaselback Redcap	1.0	R
+ELD	109	Wicked Guardian	4.0	B
+ELD	110	Wishclaw Talisman	2.0	B
+ELD	249	Witch's Cottage	0.0	B
+ELD	237	Witch's Oven	1.0	
+ELD	111	Witch's Vengeance	3.0	B

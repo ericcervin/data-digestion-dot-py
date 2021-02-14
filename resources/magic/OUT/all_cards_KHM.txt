@@ -1,305 +1,305 @@
-KHM	1	Axgard Braggart	W
-KHM	2	Battershield Warrior	W
-KHM	3	Battlefield Raptor	W
-KHM	4	Beskir Shieldmate	W
-KHM	5	Bound in Gold	W
-KHM	6	Clarion Spirit	W
-KHM	7	Codespell Cleric	W
-KHM	8	Divine Gambit	W
-KHM	9	Doomskar	W
-KHM	10	Doomskar Oracle	W
-KHM	11	Giant Ox	W
-KHM	12	Glorious Protector	W
-KHM	13	Gods' Hall Guardian	W
-KHM	14	Goldmaw Champion	W
-KHM	15	Halvar, God of Battle // Sword of the Realms	W
-KHM	16	Invoke the Divine	W
-KHM	17	Iron Verdict	W
-KHM	18	Kaya's Onslaught	W
-KHM	19	Master Skald	W
-KHM	20	Rally the Ranks	W
-KHM	21	Reidane, God of the Worthy // Valkmira, Protector's Shield	W
-KHM	22	Resplendent Marshal	W
-KHM	23	Revitalize	W
-KHM	24	Righteous Valkyrie	W
-KHM	25	Rune of Sustenance	W
-KHM	26	Runeforge Champion	W
-KHM	27	Search for Glory	W
-KHM	28	Shepherd of the Cosmos	W
-KHM	29	Sigrid, God-Favored	W
-KHM	30	Spectral Steel	W
-KHM	31	Stalwart Valkyrie	W
-KHM	32	Starnheim Courser	W
-KHM	33	Starnheim Unleashed	W
-KHM	34	Story Seeker	W
-KHM	35	Usher of the Fallen	W
-KHM	36	Valkyrie's Sword	W
-KHM	37	Valor of the Worthy	W
-KHM	38	Warhorn Blast	W
-KHM	39	Wings of the Cosmos	W
-KHM	40	Alrund, God of the Cosmos // Hakka, Whispering Raven	U
-KHM	41	Alrund's Epiphany	U
-KHM	42	Annul	U
-KHM	43	Ascendant Spirit	U
-KHM	44	Augury Raven	U
-KHM	45	Avalanche Caller	U
-KHM	46	Behold the Multiverse	U
-KHM	47	Berg Strider	U
-KHM	48	Bind the Monster	U
-KHM	49	Brinebarrow Intruder	U
-KHM	50	Cosima, God of the Voyage // The Omenkeel	U
-KHM	51	Cosmos Charger	U
-KHM	52	Cyclone Summoner	U
-KHM	53	Depart the Realm	U
-KHM	54	Disdainful Stroke	U
-KHM	55	Draugr Thought-Thief	U
-KHM	56	Frost Augur	U
-KHM	57	Frostpeak Yeti	U
-KHM	58	Frostpyre Arcanist	U
-KHM	59	Giant's Amulet	U
-KHM	60	Glimpse the Cosmos	U
-KHM	61	Graven Lore	U
-KHM	62	Icebind Pillar	U
-KHM	63	Icebreaker Kraken	U
-KHM	64	Inga Rune-Eyes	U
-KHM	65	Karfell Harbinger	U
-KHM	66	Littjara Kinseekers	U
-KHM	67	Mists of Littjara	U
-KHM	68	Mistwalker	U
-KHM	69	Mystic Reflection	U
-KHM	70	Orvar, the All-Form	U
-KHM	71	Pilfering Hawk	U
-KHM	72	Ravenform	U
-KHM	73	Reflections of Littjara	U
-KHM	74	Run Ashore	U
-KHM	75	Rune of Flight	U
-KHM	76	Saw It Coming	U
-KHM	77	Strategic Planning	U
-KHM	78	Undersea Invader	U
-KHM	79	Blood on the Snow	B
-KHM	80	Bloodsky Berserker	B
-KHM	81	Burning-Rune Demon	B
-KHM	82	Crippling Fear	B
-KHM	83	Deathknell Berserker	B
-KHM	84	Demonic Gifts	B
-KHM	85	Dogged Pursuit	B
-KHM	86	Draugr Necromancer	B
-KHM	87	Draugr Recruiter	B
-KHM	88	Draugr's Helm	B
-KHM	89	Dread Rider	B
-KHM	90	Dream Devourer	B
-KHM	91	Duskwielder	B
-KHM	92	Egon, God of Death // Throne of Death	B
-KHM	93	Elderfang Disciple	B
-KHM	94	Eradicator Valkyrie	B
-KHM	95	Feed the Serpent	B
-KHM	96	Grim Draugr	B
-KHM	97	Hailstorm Valkyrie	B
-KHM	98	Haunting Voyage	B
-KHM	99	Infernal Pet	B
-KHM	100	Jarl of the Forsaken	B
-KHM	101	Karfell Kennel-Master	B
-KHM	102	Koma's Faithful	B
-KHM	103	Poison the Cup	B
-KHM	104	Priest of the Haunted Edge	B
-KHM	105	Raise the Draugr	B
-KHM	106	Return Upon the Tide	B
-KHM	107	Rise of the Dread Marn	B
-KHM	108	Rune of Mortality	B
-KHM	109	Skemfar Avenger	B
-KHM	110	Skemfar Shadowsage	B
-KHM	111	Skull Raid	B
-KHM	112	Tergrid, God of Fright // Tergrid's Lantern	B
-KHM	113	Tergrid's Shadow	B
-KHM	114	Valki, God of Lies // Tibalt, Cosmic Impostor	B,R
-KHM	115	Varragoth, Bloodsky Sire	B
-KHM	116	Vengeful Reaper	B
-KHM	117	Village Rites	B
-KHM	118	Weigh Down	B
-KHM	119	Withercrown	B
-KHM	120	Arni Brokenbrow	R
-KHM	121	Axgard Cavalry	R
-KHM	122	Basalt Ravager	R
-KHM	123	Birgi, God of Storytelling // Harnfel, Horn of Bounty	R
-KHM	124	Breakneck Berserker	R
-KHM	125	Calamity Bearer	R
-KHM	126	Cinderheart Giant	R
-KHM	127	Craven Hulk	R
-KHM	128	Crush the Weak	R
-KHM	129	Demon Bolt	R
-KHM	130	Doomskar Titan	R
-KHM	131	Dragonkin Berserker	R
-KHM	132	Dual Strike	R
-KHM	133	Dwarven Hammer	R
-KHM	134	Dwarven Reinforcements	R
-KHM	135	Fearless Liberator	R
-KHM	136	Fearless Pup	R
-KHM	137	Frenzied Raider	R
-KHM	138	Frost Bite	R
-KHM	139	Goldspan Dragon	R
-KHM	140	Hagi Mob	R
-KHM	141	Immersturm Raider	R
-KHM	142	Magda, Brazen Outlaw	R
-KHM	143	Open the Omenpaths	R
-KHM	144	Provoke the Trolls	R
-KHM	145	Quakebringer	R
-KHM	146	Reckless Crew	R
-KHM	147	Run Amok	R
-KHM	148	Rune of Speed	R
-KHM	149	Seize the Spoils	R
-KHM	150	Shackles of Treachery	R
-KHM	151	Smashing Success	R
-KHM	152	Squash	R
-KHM	153	Tibalt's Trickery	R
-KHM	154	Toralf, God of Fury // Toralf's Hammer	R
-KHM	155	Tormentor's Helm	R
-KHM	156	Tundra Fumarole	R
-KHM	157	Tuskeri Firewalker	R
-KHM	158	Vault Robber	R
-KHM	159	Arachnoform	G
-KHM	160	Battle Mammoth	G
-KHM	161	Blessing of Frost	G
-KHM	162	Blizzard Brawl	G
-KHM	163	Boreal Outrider	G
-KHM	164	Broken Wings	G
-KHM	165	Elderleaf Mentor	G
-KHM	166	Elven Bow	G
-KHM	167	Elvish Warmaster	G
-KHM	168	Esika, God of the Tree // The Prismatic Bridge	B,G,R,U,W
-KHM	169	Esika's Chariot	G
-KHM	170	Fynn, the Fangbearer	G
-KHM	171	Glittering Frost	G
-KHM	172	Gnottvold Recluse	G
-KHM	173	Grizzled Outrider	G
-KHM	174	Guardian Gladewalker	G
-KHM	175	Horizon Seeker	G
-KHM	176	Icehide Troll	G
-KHM	177	In Search of Greatness	G
-KHM	178	Jaspera Sentinel	G
-KHM	179	Jorn, God of Winter // Kaldring, the Rimestaff	B,G,U
-KHM	180	King Harald's Revenge	G
-KHM	181	Kolvori, God of Kinship // The Ringhart Crest	G
-KHM	182	Littjara Glade-Warden	G
-KHM	183	Mammoth Growth	G
-KHM	184	Masked Vandal	G
-KHM	185	Old-Growth Troll	G
-KHM	186	Path to the World Tree	B,G,R,U,W
-KHM	187	Ravenous Lindwurm	G
-KHM	188	Realmwalker	G
-KHM	189	Rootless Yew	G
-KHM	190	Roots of Wisdom	G
-KHM	191	Rune of Might	G
-KHM	192	Sarulf's Packmate	G
-KHM	193	Sculptor of Winter	G
-KHM	194	Snakeskin Veil	G
-KHM	195	Spirit of the Aldergard	G
-KHM	196	Struggle for Skemfar	G
-KHM	197	Toski, Bearer of Secrets	G
-KHM	198	Tyvar Kell	B,G
-KHM	199	Vorinclex, Monstrous Raider	G
-KHM	200	Aegar, the Freezing Flame	R,U
-KHM	201	Arni Slays the Troll	G,R
-KHM	202	Ascent of the Worthy	B,W
-KHM	203	Battle for Bretagard	G,W
-KHM	204	Battle of Frost and Fire	R,U
-KHM	205	The Bears of Littjara	G,U
-KHM	206	Binding the Old Gods	B,G
-KHM	207	The Bloodsky Massacre	B,R
-KHM	208	Fall of the Impostor	G,W
-KHM	209	Firja, Judge of Valor	B,W
-KHM	210	Firja's Retribution	B,W
-KHM	211	Forging the Tyrite Sword	R,W
-KHM	212	Harald, King of Skemfar	B,G
-KHM	213	Harald Unites the Elves	B,G
-KHM	214	Immersturm Predator	B,R
-KHM	215	Invasion of the Giants	R,U
-KHM	216	Kardur, Doomscourge	B,R
-KHM	217	Kardur's Vicious Return	B,R
-KHM	218	Kaya the Inexorable	B,W
-KHM	219	King Narfi's Betrayal	B,U
-KHM	220	Koll, the Forgemaster	R,W
-KHM	221	Koma, Cosmos Serpent	G,U
-KHM	222	Maja, Bretagard Protector	G,W
-KHM	223	Moritte of the Frost	G,U
-KHM	224	Narfi, Betrayer King	B,U
-KHM	225	Niko Aris	U,W
-KHM	226	Niko Defies Destiny	U,W
-KHM	227	The Raven's Warning	U,W
-KHM	228	Sarulf, Realm Eater	B,G
-KHM	229	Showdown of the Skalds	R,W
-KHM	230	Svella, Ice Shaper	G,R
-KHM	231	The Three Seasons	G,U
-KHM	232	The Trickster-God's Heist	B,U
-KHM	233	Vega, the Watcher	U,W
-KHM	234	Waking the Trolls	G,R
-KHM	235	Bloodline Pretender	
-KHM	236	Colossal Plow	W
-KHM	237	Cosmos Elixir	
-KHM	238	Funeral Longboat	
-KHM	239	Goldvein Pick	
-KHM	240	Maskwood Nexus	
-KHM	241	Pyre of Heroes	
-KHM	242	Raiders' Karve	
-KHM	243	Raven Wings	
-KHM	244	Replicating Ring	
-KHM	245	Runed Crown	
-KHM	246	Scorn Effigy	
-KHM	247	Weathered Runestone	
-KHM	248	Alpine Meadow	R,W
-KHM	249	Arctic Treeline	G,W
-KHM	250	Axgard Armory	R,W
-KHM	251	Barkchannel Pathway // Tidechannel Pathway	G,U
-KHM	252	Blightstep Pathway // Searstep Pathway	B,R
-KHM	253	Bretagard Stronghold	G,W
-KHM	254	Darkbore Pathway // Slitherbore Pathway	B,G
-KHM	255	Faceless Haven	
-KHM	256	Gates of Istfell	U,W
-KHM	257	Glacial Floodplain	U,W
-KHM	258	Gnottvold Slumbermound	G,R
-KHM	259	Great Hall of Starnheim	B,W
-KHM	260	Hengegate Pathway // Mistgate Pathway	U,W
-KHM	261	Highland Forest	G,R
-KHM	262	Ice Tunnel	B,U
-KHM	263	Immersturm Skullcairn	B,R
-KHM	264	Littjara Mirrorlake	G,U
-KHM	265	Port of Karfell	B,U
-KHM	266	Rimewood Falls	G,U
-KHM	267	Shimmerdrift Vale	
-KHM	268	Skemfar Elderhall	B,G
-KHM	269	Snowfield Sinkhole	B,W
-KHM	270	Sulfurous Mire	B,R
-KHM	271	Surtland Frostpyre	R,U
-KHM	272	Tyrite Sanctum	
-KHM	273	Volatile Fjord	R,U
-KHM	274	Woodland Chasm	B,G
-KHM	275	The World Tree	B,G,R,U,W
-KHM	276	Snow-Covered Plains	W
-KHM	278	Snow-Covered Island	U
-KHM	280	Snow-Covered Swamp	B
-KHM	282	Snow-Covered Mountain	R
-KHM	284	Snow-Covered Forest	G
-KHM	374	Valkyrie Harbinger	W
-KHM	375	Surtland Elementalist	U
-KHM	376	Cleaving Reaper	B
-KHM	377	Surtland Flinger	R
-KHM	378	Canopy Tactician	G
-KHM	379	Armed and Armored	W
-KHM	380	Starnheim Aspirant	W
-KHM	381	Warchanter Skald	W
-KHM	382	Youthful Valkyrie	W
-KHM	383	Absorb Identity	U
-KHM	384	Giant's Grasp	U
-KHM	385	Elderfang Ritualist	B
-KHM	386	Renegade Reaper	B
-KHM	387	Thornmantle Striker	B
-KHM	388	Bearded Axe	R
-KHM	389	Fire Giant's Fury	R
-KHM	390	Gilded Assault Cart	R
-KHM	391	Elven Ambush	G
-KHM	392	Gladewalker Ritualist	G
-KHM	393	Rampage of the Valkyries	B,W
-KHM	394	Plains	W
-KHM	395	Island	U
-KHM	396	Swamp	B
-KHM	397	Mountain	R
-KHM	398	Forest	G
+KHM	383	Absorb Identity	2.0	U
+KHM	200	Aegar, the Freezing Flame	3.0	R,U
+KHM	248	Alpine Meadow	0.0	R,W
+KHM	41	Alrund's Epiphany	7.0	U
+KHM	40	Alrund, God of the Cosmos // Hakka, Whispering Raven	5.0	U
+KHM	42	Annul	1.0	U
+KHM	159	Arachnoform	2.0	G
+KHM	249	Arctic Treeline	0.0	G,W
+KHM	379	Armed and Armored	2.0	W
+KHM	120	Arni Brokenbrow	3.0	R
+KHM	201	Arni Slays the Troll	2.0	G,R
+KHM	43	Ascendant Spirit	1.0	U
+KHM	202	Ascent of the Worthy	3.0	B,W
+KHM	44	Augury Raven	4.0	U
+KHM	45	Avalanche Caller	2.0	U
+KHM	250	Axgard Armory	0.0	R,W
+KHM	1	Axgard Braggart	4.0	W
+KHM	121	Axgard Cavalry	2.0	R
+KHM	251	Barkchannel Pathway // Tidechannel Pathway	0.0	G,U
+KHM	122	Basalt Ravager	4.0	R
+KHM	2	Battershield Warrior	3.0	W
+KHM	160	Battle Mammoth	5.0	G
+KHM	203	Battle for Bretagard	3.0	G,W
+KHM	204	Battle of Frost and Fire	5.0	R,U
+KHM	3	Battlefield Raptor	1.0	W
+KHM	388	Bearded Axe	3.0	R
+KHM	46	Behold the Multiverse	4.0	U
+KHM	47	Berg Strider	5.0	U
+KHM	4	Beskir Shieldmate	2.0	W
+KHM	48	Bind the Monster	1.0	U
+KHM	206	Binding the Old Gods	4.0	B,G
+KHM	123	Birgi, God of Storytelling // Harnfel, Horn of Bounty	3.0	R
+KHM	161	Blessing of Frost	4.0	G
+KHM	252	Blightstep Pathway // Searstep Pathway	0.0	B,R
+KHM	162	Blizzard Brawl	1.0	G
+KHM	79	Blood on the Snow	6.0	B
+KHM	235	Bloodline Pretender	3.0	
+KHM	80	Bloodsky Berserker	2.0	B
+KHM	163	Boreal Outrider	3.0	G
+KHM	5	Bound in Gold	3.0	W
+KHM	124	Breakneck Berserker	3.0	R
+KHM	253	Bretagard Stronghold	0.0	G,W
+KHM	49	Brinebarrow Intruder	1.0	U
+KHM	164	Broken Wings	3.0	G
+KHM	81	Burning-Rune Demon	6.0	B
+KHM	125	Calamity Bearer	4.0	R
+KHM	378	Canopy Tactician	4.0	G
+KHM	126	Cinderheart Giant	7.0	R
+KHM	6	Clarion Spirit	2.0	W
+KHM	376	Cleaving Reaper	5.0	B
+KHM	7	Codespell Cleric	1.0	W
+KHM	236	Colossal Plow	2.0	W
+KHM	50	Cosima, God of the Voyage // The Omenkeel	3.0	U
+KHM	51	Cosmos Charger	4.0	U
+KHM	237	Cosmos Elixir	4.0	
+KHM	127	Craven Hulk	4.0	R
+KHM	82	Crippling Fear	4.0	B
+KHM	128	Crush the Weak	3.0	R
+KHM	52	Cyclone Summoner	7.0	U
+KHM	254	Darkbore Pathway // Slitherbore Pathway	0.0	B,G
+KHM	83	Deathknell Berserker	2.0	B
+KHM	129	Demon Bolt	3.0	R
+KHM	84	Demonic Gifts	2.0	B
+KHM	53	Depart the Realm	2.0	U
+KHM	54	Disdainful Stroke	2.0	U
+KHM	8	Divine Gambit	2.0	W
+KHM	85	Dogged Pursuit	4.0	B
+KHM	9	Doomskar	5.0	W
+KHM	10	Doomskar Oracle	3.0	W
+KHM	130	Doomskar Titan	6.0	R
+KHM	131	Dragonkin Berserker	2.0	R
+KHM	86	Draugr Necromancer	4.0	B
+KHM	87	Draugr Recruiter	4.0	B
+KHM	55	Draugr Thought-Thief	3.0	U
+KHM	88	Draugr's Helm	2.0	B
+KHM	89	Dread Rider	6.0	B
+KHM	90	Dream Devourer	2.0	B
+KHM	132	Dual Strike	2.0	R
+KHM	91	Duskwielder	1.0	B
+KHM	133	Dwarven Hammer	3.0	R
+KHM	134	Dwarven Reinforcements	4.0	R
+KHM	92	Egon, God of Death // Throne of Death	3.0	B
+KHM	93	Elderfang Disciple	2.0	B
+KHM	385	Elderfang Ritualist	3.0	B
+KHM	165	Elderleaf Mentor	4.0	G
+KHM	391	Elven Ambush	4.0	G
+KHM	166	Elven Bow	1.0	G
+KHM	167	Elvish Warmaster	2.0	G
+KHM	94	Eradicator Valkyrie	4.0	B
+KHM	169	Esika's Chariot	4.0	G
+KHM	168	Esika, God of the Tree // The Prismatic Bridge	3.0	B,G,R,U,W
+KHM	255	Faceless Haven	0.0	
+KHM	208	Fall of the Impostor	3.0	G,W
+KHM	135	Fearless Liberator	2.0	R
+KHM	136	Fearless Pup	1.0	R
+KHM	95	Feed the Serpent	4.0	B
+KHM	389	Fire Giant's Fury	2.0	R
+KHM	210	Firja's Retribution	4.0	B,W
+KHM	209	Firja, Judge of Valor	5.0	B,W
+KHM	398	Forest	0.0	G
+KHM	211	Forging the Tyrite Sword	3.0	R,W
+KHM	137	Frenzied Raider	2.0	R
+KHM	56	Frost Augur	1.0	U
+KHM	138	Frost Bite	1.0	R
+KHM	57	Frostpeak Yeti	4.0	U
+KHM	58	Frostpyre Arcanist	5.0	U
+KHM	238	Funeral Longboat	2.0	
+KHM	170	Fynn, the Fangbearer	2.0	G
+KHM	256	Gates of Istfell	0.0	U,W
+KHM	11	Giant Ox	2.0	W
+KHM	59	Giant's Amulet	1.0	U
+KHM	384	Giant's Grasp	4.0	U
+KHM	390	Gilded Assault Cart	3.0	R
+KHM	257	Glacial Floodplain	0.0	U,W
+KHM	392	Gladewalker Ritualist	3.0	G
+KHM	60	Glimpse the Cosmos	2.0	U
+KHM	171	Glittering Frost	3.0	G
+KHM	12	Glorious Protector	4.0	W
+KHM	172	Gnottvold Recluse	3.0	G
+KHM	258	Gnottvold Slumbermound	0.0	G,R
+KHM	13	Gods' Hall Guardian	6.0	W
+KHM	14	Goldmaw Champion	3.0	W
+KHM	139	Goldspan Dragon	5.0	R
+KHM	239	Goldvein Pick	2.0	
+KHM	61	Graven Lore	5.0	U
+KHM	259	Great Hall of Starnheim	0.0	B,W
+KHM	96	Grim Draugr	3.0	B
+KHM	173	Grizzled Outrider	5.0	G
+KHM	174	Guardian Gladewalker	2.0	G
+KHM	140	Hagi Mob	5.0	R
+KHM	97	Hailstorm Valkyrie	4.0	B
+KHM	15	Halvar, God of Battle // Sword of the Realms	4.0	W
+KHM	213	Harald Unites the Elves	4.0	B,G
+KHM	212	Harald, King of Skemfar	3.0	B,G
+KHM	98	Haunting Voyage	6.0	B
+KHM	260	Hengegate Pathway // Mistgate Pathway	0.0	U,W
+KHM	261	Highland Forest	0.0	G,R
+KHM	175	Horizon Seeker	3.0	G
+KHM	262	Ice Tunnel	0.0	B,U
+KHM	62	Icebind Pillar	3.0	U
+KHM	63	Icebreaker Kraken	12.0	U
+KHM	176	Icehide Troll	3.0	G
+KHM	214	Immersturm Predator	4.0	B,R
+KHM	141	Immersturm Raider	2.0	R
+KHM	263	Immersturm Skullcairn	0.0	B,R
+KHM	177	In Search of Greatness	2.0	G
+KHM	99	Infernal Pet	3.0	B
+KHM	64	Inga Rune-Eyes	4.0	U
+KHM	215	Invasion of the Giants	2.0	R,U
+KHM	16	Invoke the Divine	3.0	W
+KHM	17	Iron Verdict	3.0	W
+KHM	395	Island	0.0	U
+KHM	100	Jarl of the Forsaken	4.0	B
+KHM	178	Jaspera Sentinel	1.0	G
+KHM	179	Jorn, God of Winter // Kaldring, the Rimestaff	3.0	B,G,U
+KHM	217	Kardur's Vicious Return	4.0	B,R
+KHM	216	Kardur, Doomscourge	4.0	B,R
+KHM	65	Karfell Harbinger	2.0	U
+KHM	101	Karfell Kennel-Master	5.0	B
+KHM	218	Kaya the Inexorable	5.0	B,W
+KHM	18	Kaya's Onslaught	3.0	W
+KHM	180	King Harald's Revenge	3.0	G
+KHM	219	King Narfi's Betrayal	3.0	B,U
+KHM	220	Koll, the Forgemaster	2.0	R,W
+KHM	181	Kolvori, God of Kinship // The Ringhart Crest	4.0	G
+KHM	102	Koma's Faithful	3.0	B
+KHM	221	Koma, Cosmos Serpent	7.0	G,U
+KHM	182	Littjara Glade-Warden	4.0	G
+KHM	66	Littjara Kinseekers	4.0	U
+KHM	264	Littjara Mirrorlake	0.0	G,U
+KHM	142	Magda, Brazen Outlaw	2.0	R
+KHM	222	Maja, Bretagard Protector	5.0	G,W
+KHM	183	Mammoth Growth	3.0	G
+KHM	184	Masked Vandal	2.0	G
+KHM	240	Maskwood Nexus	4.0	
+KHM	19	Master Skald	5.0	W
+KHM	67	Mists of Littjara	2.0	U
+KHM	68	Mistwalker	3.0	U
+KHM	223	Moritte of the Frost	5.0	G,U
+KHM	397	Mountain	0.0	R
+KHM	69	Mystic Reflection	2.0	U
+KHM	224	Narfi, Betrayer King	5.0	B,U
+KHM	225	Niko Aris	3.0	U,W
+KHM	226	Niko Defies Destiny	3.0	U,W
+KHM	185	Old-Growth Troll	3.0	G
+KHM	143	Open the Omenpaths	3.0	R
+KHM	70	Orvar, the All-Form	4.0	U
+KHM	186	Path to the World Tree	2.0	B,G,R,U,W
+KHM	71	Pilfering Hawk	2.0	U
+KHM	394	Plains	0.0	W
+KHM	103	Poison the Cup	3.0	B
+KHM	265	Port of Karfell	0.0	B,U
+KHM	104	Priest of the Haunted Edge	2.0	B
+KHM	144	Provoke the Trolls	4.0	R
+KHM	241	Pyre of Heroes	2.0	
+KHM	145	Quakebringer	5.0	R
+KHM	242	Raiders' Karve	3.0	
+KHM	105	Raise the Draugr	2.0	B
+KHM	20	Rally the Ranks	2.0	W
+KHM	393	Rampage of the Valkyries	5.0	B,W
+KHM	243	Raven Wings	2.0	
+KHM	72	Ravenform	3.0	U
+KHM	187	Ravenous Lindwurm	6.0	G
+KHM	188	Realmwalker	3.0	G
+KHM	146	Reckless Crew	4.0	R
+KHM	73	Reflections of Littjara	5.0	U
+KHM	21	Reidane, God of the Worthy // Valkmira, Protector's Shield	3.0	W
+KHM	386	Renegade Reaper	3.0	B
+KHM	244	Replicating Ring	3.0	
+KHM	22	Resplendent Marshal	3.0	W
+KHM	106	Return Upon the Tide	5.0	B
+KHM	23	Revitalize	2.0	W
+KHM	24	Righteous Valkyrie	3.0	W
+KHM	266	Rimewood Falls	0.0	G,U
+KHM	107	Rise of the Dread Marn	3.0	B
+KHM	189	Rootless Yew	5.0	G
+KHM	190	Roots of Wisdom	2.0	G
+KHM	147	Run Amok	2.0	R
+KHM	74	Run Ashore	6.0	U
+KHM	75	Rune of Flight	2.0	U
+KHM	191	Rune of Might	2.0	G
+KHM	108	Rune of Mortality	2.0	B
+KHM	148	Rune of Speed	2.0	R
+KHM	25	Rune of Sustenance	2.0	W
+KHM	245	Runed Crown	3.0	
+KHM	26	Runeforge Champion	3.0	W
+KHM	192	Sarulf's Packmate	4.0	G
+KHM	228	Sarulf, Realm Eater	3.0	B,G
+KHM	76	Saw It Coming	3.0	U
+KHM	246	Scorn Effigy	3.0	
+KHM	193	Sculptor of Winter	2.0	G
+KHM	27	Search for Glory	3.0	W
+KHM	149	Seize the Spoils	3.0	R
+KHM	150	Shackles of Treachery	3.0	R
+KHM	28	Shepherd of the Cosmos	6.0	W
+KHM	267	Shimmerdrift Vale	0.0	
+KHM	229	Showdown of the Skalds	4.0	R,W
+KHM	29	Sigrid, God-Favored	3.0	W
+KHM	109	Skemfar Avenger	2.0	B
+KHM	268	Skemfar Elderhall	0.0	B,G
+KHM	110	Skemfar Shadowsage	4.0	B
+KHM	111	Skull Raid	4.0	B
+KHM	151	Smashing Success	4.0	R
+KHM	194	Snakeskin Veil	1.0	G
+KHM	284	Snow-Covered Forest	0.0	G
+KHM	278	Snow-Covered Island	0.0	U
+KHM	282	Snow-Covered Mountain	0.0	R
+KHM	276	Snow-Covered Plains	0.0	W
+KHM	280	Snow-Covered Swamp	0.0	B
+KHM	269	Snowfield Sinkhole	0.0	B,W
+KHM	30	Spectral Steel	2.0	W
+KHM	195	Spirit of the Aldergard	4.0	G
+KHM	152	Squash	5.0	R
+KHM	31	Stalwart Valkyrie	4.0	W
+KHM	380	Starnheim Aspirant	3.0	W
+KHM	32	Starnheim Courser	3.0	W
+KHM	33	Starnheim Unleashed	4.0	W
+KHM	34	Story Seeker	2.0	W
+KHM	77	Strategic Planning	2.0	U
+KHM	196	Struggle for Skemfar	4.0	G
+KHM	270	Sulfurous Mire	0.0	B,R
+KHM	375	Surtland Elementalist	7.0	U
+KHM	377	Surtland Flinger	5.0	R
+KHM	271	Surtland Frostpyre	0.0	R,U
+KHM	230	Svella, Ice Shaper	3.0	G,R
+KHM	396	Swamp	0.0	B
+KHM	113	Tergrid's Shadow	5.0	B
+KHM	112	Tergrid, God of Fright // Tergrid's Lantern	5.0	B
+KHM	205	The Bears of Littjara	3.0	G,U
+KHM	207	The Bloodsky Massacre	3.0	B,R
+KHM	227	The Raven's Warning	3.0	U,W
+KHM	231	The Three Seasons	2.0	G,U
+KHM	232	The Trickster-God's Heist	4.0	B,U
+KHM	275	The World Tree	0.0	B,G,R,U,W
+KHM	387	Thornmantle Striker	5.0	B
+KHM	153	Tibalt's Trickery	2.0	R
+KHM	154	Toralf, God of Fury // Toralf's Hammer	4.0	R
+KHM	155	Tormentor's Helm	1.0	R
+KHM	197	Toski, Bearer of Secrets	4.0	G
+KHM	156	Tundra Fumarole	3.0	R
+KHM	157	Tuskeri Firewalker	3.0	R
+KHM	272	Tyrite Sanctum	0.0	
+KHM	198	Tyvar Kell	4.0	B,G
+KHM	78	Undersea Invader	6.0	U
+KHM	35	Usher of the Fallen	1.0	W
+KHM	114	Valki, God of Lies // Tibalt, Cosmic Impostor	2.0	B,R
+KHM	374	Valkyrie Harbinger	6.0	W
+KHM	36	Valkyrie's Sword	2.0	W
+KHM	37	Valor of the Worthy	1.0	W
+KHM	115	Varragoth, Bloodsky Sire	3.0	B
+KHM	158	Vault Robber	2.0	R
+KHM	233	Vega, the Watcher	3.0	U,W
+KHM	116	Vengeful Reaper	4.0	B
+KHM	117	Village Rites	1.0	B
+KHM	273	Volatile Fjord	0.0	R,U
+KHM	199	Vorinclex, Monstrous Raider	6.0	G
+KHM	234	Waking the Trolls	6.0	G,R
+KHM	381	Warchanter Skald	3.0	W
+KHM	38	Warhorn Blast	5.0	W
+KHM	247	Weathered Runestone	2.0	
+KHM	118	Weigh Down	1.0	B
+KHM	39	Wings of the Cosmos	1.0	W
+KHM	119	Withercrown	2.0	B
+KHM	274	Woodland Chasm	0.0	B,G
+KHM	382	Youthful Valkyrie	2.0	W

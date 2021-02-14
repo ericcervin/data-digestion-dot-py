@@ -1,285 +1,285 @@
-ELD	1	Acclaimed Contender	W
-ELD	2	All That Glitters	W
-ELD	3	Archon of Absolution	W
-ELD	4	Ardenvale Paladin	W
-ELD	5	Ardenvale Tactician // Dizzying Swoop	W
-ELD	6	Bartered Cow	W
-ELD	7	Beloved Princess	W
-ELD	8	Charming Prince	W
-ELD	9	The Circle of Loyalty	W
-ELD	10	Deafening Silence	W
-ELD	11	Faerie Guidemother // Gift of the Fae	W
-ELD	12	Flutterfox	W
-ELD	13	Fortifying Provisions	W
-ELD	14	Giant Killer // Chop Down	W
-ELD	15	Glass Casket	W
-ELD	16	Happily Ever After	W
-ELD	17	Harmonious Archon	W
-ELD	18	Hushbringer	W
-ELD	19	Knight of the Keep	W
-ELD	20	Linden, the Steadfast Queen	W
-ELD	21	Lonesome Unicorn // Rider in Need	W
-ELD	22	Mysterious Pathlighter	W
-ELD	23	Outflank	W
-ELD	24	Prized Griffin	W
-ELD	25	Rally for the Throne	W
-ELD	26	Realm-Cloaked Giant // Cast Off	W
-ELD	27	Righteousness	W
-ELD	28	Shepherd of the Flock // Usher to Safety	W
-ELD	29	Shining Armor	W
-ELD	30	Silverflame Ritual	W
-ELD	31	Silverflame Squire // On Alert	W
-ELD	32	Syr Alin, the Lion's Claw	W
-ELD	33	Trapped in the Tower	W
-ELD	34	True Love's Kiss	W
-ELD	35	Venerable Knight	W
-ELD	36	Worthy Knight	W
-ELD	37	Youthful Knight	W
-ELD	38	Animating Faerie // Bring to Life	U
-ELD	39	Brazen Borrower // Petty Theft	U
-ELD	40	Charmed Sleep	U
-ELD	41	Corridor Monitor	U
-ELD	42	Didn't Say Please	U
-ELD	43	Emry, Lurker of the Loch	U
-ELD	44	Fae of Wishes // Granted	U
-ELD	45	Faerie Vandal	U
-ELD	46	Folio of Fancies	U
-ELD	47	Frogify	U
-ELD	48	Gadwick, the Wizened	U
-ELD	49	Hypnotic Sprite // Mesmeric Glare	U
-ELD	50	Into the Story	U
-ELD	51	The Magic Mirror	U
-ELD	52	Mantle of Tides	U
-ELD	53	Merfolk Secretkeeper // Venture Deeper	U
-ELD	54	Midnight Clock	U
-ELD	55	Mirrormade	U
-ELD	56	Mistford River Turtle	U
-ELD	57	Moonlit Scavengers	U
-ELD	58	Mystical Dispute	U
-ELD	59	Opt	U
-ELD	60	Overwhelmed Apprentice	U
-ELD	61	Queen of Ice // Rage of Winter	U
-ELD	62	Run Away Together	U
-ELD	63	Sage of the Falls	U
-ELD	64	So Tiny	U
-ELD	65	Steelgaze Griffin	U
-ELD	66	Stolen by the Fae	U
-ELD	67	Syr Elenora, the Discerning	U
-ELD	68	Tome Raider	U
-ELD	69	Turn into a Pumpkin	U
-ELD	70	Unexplained Vision	U
-ELD	71	Vantress Gargoyle	U
-ELD	72	Vantress Paladin	U
-ELD	73	Wishful Merfolk	U
-ELD	74	Witching Well	U
-ELD	75	Ayara, First of Locthwain	B
-ELD	76	Bake into a Pie	B
-ELD	77	Barrow Witches	B
-ELD	78	Belle of the Brawl	B
-ELD	79	Blacklance Paragon	B
-ELD	80	Bog Naughty	B
-ELD	81	Cauldron Familiar	B
-ELD	82	The Cauldron of Eternity	B
-ELD	83	Cauldron's Gift	B
-ELD	84	Clackbridge Troll	B
-ELD	85	Epic Downfall	B
-ELD	86	Eye Collector	B
-ELD	87	Festive Funeral	B
-ELD	88	Foreboding Fruit	B
-ELD	89	Forever Young	B
-ELD	90	Foulmire Knight // Profane Insight	B
-ELD	91	Giant's Skewer	B
-ELD	92	Lash of Thorns	B
-ELD	93	Locthwain Paladin	B
-ELD	94	Lost Legion	B
-ELD	95	Malevolent Noble	B
-ELD	96	Memory Theft	B
-ELD	97	Murderous Rider // Swift End	B
-ELD	98	Oathsworn Knight	B
-ELD	99	Order of Midnight // Alter Fate	B
-ELD	100	Piper of the Swarm	B
-ELD	101	Rankle, Master of Pranks	B
-ELD	102	Reaper of Night // Harvest Fear	B
-ELD	103	Reave Soul	B
-ELD	104	Revenge of Ravens	B
-ELD	105	Smitten Swordmaster // Curry Favor	B
-ELD	106	Specter's Shriek	B
-ELD	107	Syr Konrad, the Grim	B
-ELD	108	Tempting Witch	B
-ELD	109	Wicked Guardian	B
-ELD	110	Wishclaw Talisman	B
-ELD	111	Witch's Vengeance	B
-ELD	112	Barge In	R
-ELD	113	Bloodhaze Wolverine	R
-ELD	114	Blow Your House Down	R
-ELD	115	Bonecrusher Giant // Stomp	R
-ELD	116	Brimstone Trebuchet	R
-ELD	117	Burning-Yard Trainer	R
-ELD	118	Claim the Firstborn	R
-ELD	119	Crystal Slipper	R
-ELD	120	Embercleave	R
-ELD	121	Embereth Paladin	R
-ELD	122	Embereth Shieldbreaker // Battle Display	R
-ELD	123	Ferocity of the Wilds	R
-ELD	124	Fervent Champion	R
-ELD	125	Fires of Invention	R
-ELD	126	Fling	R
-ELD	127	Irencrag Feat	R
-ELD	128	Irencrag Pyromancer	R
-ELD	129	Joust	R
-ELD	130	Mad Ratter	R
-ELD	131	Merchant of the Vale // Haggle	R
-ELD	132	Ogre Errant	R
-ELD	133	Opportunistic Dragon	R
-ELD	134	Raging Redcap	R
-ELD	135	Redcap Melee	R
-ELD	136	Redcap Raiders	R
-ELD	137	Rimrock Knight // Boulder Rush	R
-ELD	138	Robber of the Rich	R
-ELD	139	Scorching Dragonfire	R
-ELD	140	Searing Barrage	R
-ELD	141	Seven Dwarves	R
-ELD	142	Skullknocker Ogre	R
-ELD	143	Slaying Fire	R
-ELD	144	Sundering Stroke	R
-ELD	145	Syr Carah, the Bold	R
-ELD	146	Thrill of Possibility	R
-ELD	147	Torbran, Thane of Red Fell	R
-ELD	148	Weaselback Redcap	R
-ELD	149	Beanstalk Giant // Fertile Footsteps	G
-ELD	150	Curious Pair // Treats to Share	G
-ELD	151	Edgewall Innkeeper	G
-ELD	152	Feasting Troll King	G
-ELD	153	Fell the Pheasant	G
-ELD	154	Fierce Witchstalker	G
-ELD	155	Flaxen Intruder // Welcome Home	G
-ELD	156	Garenbrig Carver // Shield's Might	G
-ELD	157	Garenbrig Paladin	G
-ELD	158	Garenbrig Squire	G
-ELD	159	Giant Opportunity	G
-ELD	160	Gilded Goose	G
-ELD	161	The Great Henge	G
-ELD	162	Insatiable Appetite	G
-ELD	163	Keeper of Fables	G
-ELD	164	Kenrith's Transformation	G
-ELD	165	Lovestruck Beast // Heart's Desire	G
-ELD	166	Maraleaf Rider	G
-ELD	167	Oakhame Adversary	G
-ELD	168	Once and Future	G
-ELD	169	Once Upon a Time	G
-ELD	170	Outmuscle	G
-ELD	171	Questing Beast	G
-ELD	172	Return of the Wildspeaker	G
-ELD	173	Return to Nature	G
-ELD	174	Rosethorn Acolyte // Seasonal Ritual	G
-ELD	175	Rosethorn Halberd	G
-ELD	176	Sporecap Spider	G
-ELD	177	Syr Faren, the Hengehammer	G
-ELD	178	Tall as a Beanstalk	G
-ELD	179	Trail of Crumbs	G
-ELD	180	Tuinvale Treefolk // Oaken Boon	G
-ELD	181	Wicked Wolf	G
-ELD	182	Wildborn Preserver	G
-ELD	183	Wildwood Tracker	G
-ELD	184	Wolf's Quarry	G
-ELD	185	Yorvo, Lord of Garenbrig	G
-ELD	186	Dance of the Manse	U,W
-ELD	187	Doom Foretold	B,W
-ELD	188	Drown in the Loch	B,U
-ELD	189	Escape to the Wilds	G,R
-ELD	190	Faeburrow Elder	G,W
-ELD	191	Garruk, Cursed Huntsman	B,G
-ELD	192	Grumgully, the Generous	G,R
-ELD	193	Improbable Alliance	R,U
-ELD	194	Inspiring Veteran	R,W
-ELD	195	Lochmere Serpent	B,U
-ELD	196	Maraleaf Pixie	G,U
-ELD	197	Oko, Thief of Crowns	G,U
-ELD	198	Outlaws' Merriment	R,W
-ELD	199	The Royal Scions	R,U
-ELD	200	Savvy Hunter	B,G
-ELD	201	Shinechaser	U,W
-ELD	202	Steelclaw Lance	B,R
-ELD	203	Stormfist Crusader	B,R
-ELD	204	Wandermare	G,W
-ELD	205	Wintermoor Commander	B,W
-ELD	206	Arcanist's Owl	U,W
-ELD	207	Covetous Urge	B,U
-ELD	208	Deathless Knight	B,G
-ELD	209	Elite Headhunter	B,R
-ELD	210	Fireborn Knight	R,W
-ELD	211	Loch Dragon	R,U
-ELD	212	Oakhame Ranger // Bring Back	G,W
-ELD	213	Rampart Smasher	G,R
-ELD	214	Resolute Rider	B,W
-ELD	215	Thunderous Snapper	G,U
-ELD	216	Clockwork Servant	
-ELD	217	Crashing Drawbridge	
-ELD	218	Enchanted Carriage	
-ELD	219	Gingerbrute	
-ELD	220	Golden Egg	
-ELD	221	Henge Walker	
-ELD	222	Heraldic Banner	
-ELD	223	Inquisitive Puppet	
-ELD	224	Jousting Dummy	
-ELD	225	Locthwain Gargoyle	
-ELD	226	Lucky Clover	
-ELD	227	Prophet of the Peak	
-ELD	228	Roving Keep	
-ELD	229	Scalding Cauldron	
-ELD	230	Shambling Suit	
-ELD	231	Signpost Scarecrow	
-ELD	232	Sorcerer's Broom	
-ELD	233	Sorcerous Spyglass	
-ELD	234	Spinning Wheel	
-ELD	235	Stonecoil Serpent	
-ELD	236	Weapon Rack	
-ELD	237	Witch's Oven	
-ELD	238	Castle Ardenvale	W
-ELD	239	Castle Embereth	R
-ELD	240	Castle Garenbrig	G
-ELD	241	Castle Locthwain	B
-ELD	242	Castle Vantress	U
-ELD	243	Dwarven Mine	R
-ELD	244	Fabled Passage	
-ELD	245	Gingerbread Cabin	G
-ELD	246	Idyllic Grange	W
-ELD	247	Mystic Sanctuary	U
-ELD	248	Tournament Grounds	B,R,W
-ELD	249	Witch's Cottage	B
-ELD	250	Plains	W
-ELD	254	Island	U
-ELD	258	Swamp	B
-ELD	262	Mountain	R
-ELD	266	Forest	G
-ELD	303	Kenrith, the Returned King	B,G,R,U,W
-ELD	304	Rowan, Fearless Sparkmage	R
-ELD	305	Garrison Griffin	W
-ELD	306	Rowan's Battleguard	R
-ELD	307	Rowan's Stalwarts	R
-ELD	308	Wind-Scarred Crag	R,W
-ELD	309	Oko, the Trickster	G,U
-ELD	310	Oko's Accomplices	U
-ELD	311	Bramblefort Fink	G
-ELD	312	Oko's Hospitality	G,U
-ELD	313	Thornwood Falls	G,U
-ELD	314	Mace of the Valiant	W
-ELD	315	Silverwing Squadron	W
-ELD	316	Faerie Formation	U
-ELD	317	Shimmer Dragon	U
-ELD	318	Workshop Elders	U
-ELD	319	Chittering Witch	B
-ELD	320	Taste of Death	B
-ELD	321	Embereth Skyblazer	R
-ELD	322	Steelbane Hydra	G
-ELD	323	Thorn Mammoth	G
-ELD	324	Alela, Artful Provocateur	B,U,W
-ELD	325	Banish into Fable	U,W
-ELD	326	Chulane, Teller of Tales	G,U,W
-ELD	327	Gluttonous Troll	B,G
-ELD	328	Knights' Charge	B,W
-ELD	329	Korvold, Fae-Cursed King	B,G,R
-ELD	330	Syr Gwyn, Hero of Ashvale	B,R,W
-ELD	331	Arcane Signet	
-ELD	332	Tome of Legends	
-ELD	333	Command Tower	
+ELD	1	Acclaimed Contender	3.0	W
+ELD	324	Alela, Artful Provocateur	4.0	B,U,W
+ELD	2	All That Glitters	2.0	W
+ELD	38	Animating Faerie // Bring to Life	3.0	U
+ELD	331	Arcane Signet	2.0	
+ELD	206	Arcanist's Owl	4.0	U,W
+ELD	3	Archon of Absolution	4.0	W
+ELD	4	Ardenvale Paladin	4.0	W
+ELD	5	Ardenvale Tactician // Dizzying Swoop	3.0	W
+ELD	75	Ayara, First of Locthwain	3.0	B
+ELD	76	Bake into a Pie	4.0	B
+ELD	325	Banish into Fable	6.0	U,W
+ELD	112	Barge In	1.0	R
+ELD	77	Barrow Witches	5.0	B
+ELD	6	Bartered Cow	4.0	W
+ELD	149	Beanstalk Giant // Fertile Footsteps	7.0	G
+ELD	78	Belle of the Brawl	3.0	B
+ELD	7	Beloved Princess	1.0	W
+ELD	79	Blacklance Paragon	2.0	B
+ELD	113	Bloodhaze Wolverine	2.0	R
+ELD	114	Blow Your House Down	3.0	R
+ELD	80	Bog Naughty	5.0	B
+ELD	115	Bonecrusher Giant // Stomp	3.0	R
+ELD	311	Bramblefort Fink	2.0	G
+ELD	39	Brazen Borrower // Petty Theft	3.0	U
+ELD	116	Brimstone Trebuchet	3.0	R
+ELD	117	Burning-Yard Trainer	5.0	R
+ELD	238	Castle Ardenvale	0.0	W
+ELD	239	Castle Embereth	0.0	R
+ELD	240	Castle Garenbrig	0.0	G
+ELD	241	Castle Locthwain	0.0	B
+ELD	242	Castle Vantress	0.0	U
+ELD	81	Cauldron Familiar	1.0	B
+ELD	83	Cauldron's Gift	5.0	B
+ELD	40	Charmed Sleep	3.0	U
+ELD	8	Charming Prince	2.0	W
+ELD	319	Chittering Witch	4.0	B
+ELD	326	Chulane, Teller of Tales	5.0	G,U,W
+ELD	84	Clackbridge Troll	5.0	B
+ELD	118	Claim the Firstborn	1.0	R
+ELD	216	Clockwork Servant	3.0	
+ELD	333	Command Tower	0.0	
+ELD	41	Corridor Monitor	2.0	U
+ELD	207	Covetous Urge	4.0	B,U
+ELD	217	Crashing Drawbridge	2.0	
+ELD	119	Crystal Slipper	2.0	R
+ELD	150	Curious Pair // Treats to Share	2.0	G
+ELD	186	Dance of the Manse	2.0	U,W
+ELD	10	Deafening Silence	1.0	W
+ELD	208	Deathless Knight	4.0	B,G
+ELD	42	Didn't Say Please	3.0	U
+ELD	187	Doom Foretold	4.0	B,W
+ELD	188	Drown in the Loch	2.0	B,U
+ELD	243	Dwarven Mine	0.0	R
+ELD	151	Edgewall Innkeeper	1.0	G
+ELD	209	Elite Headhunter	4.0	B,R
+ELD	120	Embercleave	6.0	R
+ELD	121	Embereth Paladin	4.0	R
+ELD	122	Embereth Shieldbreaker // Battle Display	2.0	R
+ELD	321	Embereth Skyblazer	4.0	R
+ELD	43	Emry, Lurker of the Loch	3.0	U
+ELD	218	Enchanted Carriage	5.0	
+ELD	85	Epic Downfall	2.0	B
+ELD	189	Escape to the Wilds	5.0	G,R
+ELD	86	Eye Collector	1.0	B
+ELD	244	Fabled Passage	0.0	
+ELD	44	Fae of Wishes // Granted	2.0	U
+ELD	190	Faeburrow Elder	3.0	G,W
+ELD	316	Faerie Formation	5.0	U
+ELD	11	Faerie Guidemother // Gift of the Fae	1.0	W
+ELD	45	Faerie Vandal	2.0	U
+ELD	152	Feasting Troll King	6.0	G
+ELD	153	Fell the Pheasant	2.0	G
+ELD	123	Ferocity of the Wilds	3.0	R
+ELD	124	Fervent Champion	1.0	R
+ELD	87	Festive Funeral	5.0	B
+ELD	154	Fierce Witchstalker	4.0	G
+ELD	210	Fireborn Knight	4.0	R,W
+ELD	125	Fires of Invention	4.0	R
+ELD	155	Flaxen Intruder // Welcome Home	1.0	G
+ELD	126	Fling	2.0	R
+ELD	12	Flutterfox	2.0	W
+ELD	46	Folio of Fancies	2.0	U
+ELD	88	Foreboding Fruit	3.0	B
+ELD	266	Forest	0.0	G
+ELD	89	Forever Young	2.0	B
+ELD	13	Fortifying Provisions	3.0	W
+ELD	90	Foulmire Knight // Profane Insight	1.0	B
+ELD	47	Frogify	2.0	U
+ELD	48	Gadwick, the Wizened	3.0	U
+ELD	156	Garenbrig Carver // Shield's Might	4.0	G
+ELD	157	Garenbrig Paladin	5.0	G
+ELD	158	Garenbrig Squire	2.0	G
+ELD	305	Garrison Griffin	3.0	W
+ELD	191	Garruk, Cursed Huntsman	6.0	B,G
+ELD	14	Giant Killer // Chop Down	1.0	W
+ELD	159	Giant Opportunity	3.0	G
+ELD	91	Giant's Skewer	2.0	B
+ELD	160	Gilded Goose	1.0	G
+ELD	245	Gingerbread Cabin	0.0	G
+ELD	219	Gingerbrute	1.0	
+ELD	15	Glass Casket	2.0	W
+ELD	327	Gluttonous Troll	4.0	B,G
+ELD	220	Golden Egg	2.0	
+ELD	192	Grumgully, the Generous	3.0	G,R
+ELD	16	Happily Ever After	3.0	W
+ELD	17	Harmonious Archon	6.0	W
+ELD	221	Henge Walker	3.0	
+ELD	222	Heraldic Banner	3.0	
+ELD	18	Hushbringer	2.0	W
+ELD	49	Hypnotic Sprite // Mesmeric Glare	2.0	U
+ELD	246	Idyllic Grange	0.0	W
+ELD	193	Improbable Alliance	2.0	R,U
+ELD	223	Inquisitive Puppet	1.0	
+ELD	162	Insatiable Appetite	2.0	G
+ELD	194	Inspiring Veteran	2.0	R,W
+ELD	50	Into the Story	7.0	U
+ELD	127	Irencrag Feat	4.0	R
+ELD	128	Irencrag Pyromancer	3.0	R
+ELD	254	Island	0.0	U
+ELD	129	Joust	2.0	R
+ELD	224	Jousting Dummy	2.0	
+ELD	163	Keeper of Fables	5.0	G
+ELD	164	Kenrith's Transformation	2.0	G
+ELD	303	Kenrith, the Returned King	5.0	B,G,R,U,W
+ELD	19	Knight of the Keep	3.0	W
+ELD	328	Knights' Charge	3.0	B,W
+ELD	329	Korvold, Fae-Cursed King	5.0	B,G,R
+ELD	92	Lash of Thorns	1.0	B
+ELD	20	Linden, the Steadfast Queen	3.0	W
+ELD	211	Loch Dragon	4.0	R,U
+ELD	195	Lochmere Serpent	6.0	B,U
+ELD	225	Locthwain Gargoyle	1.0	
+ELD	93	Locthwain Paladin	4.0	B
+ELD	21	Lonesome Unicorn // Rider in Need	5.0	W
+ELD	94	Lost Legion	3.0	B
+ELD	165	Lovestruck Beast // Heart's Desire	3.0	G
+ELD	226	Lucky Clover	2.0	
+ELD	314	Mace of the Valiant	3.0	W
+ELD	130	Mad Ratter	4.0	R
+ELD	95	Malevolent Noble	2.0	B
+ELD	52	Mantle of Tides	1.0	U
+ELD	196	Maraleaf Pixie	2.0	G,U
+ELD	166	Maraleaf Rider	2.0	G
+ELD	96	Memory Theft	3.0	B
+ELD	131	Merchant of the Vale // Haggle	3.0	R
+ELD	53	Merfolk Secretkeeper // Venture Deeper	1.0	U
+ELD	54	Midnight Clock	3.0	U
+ELD	55	Mirrormade	3.0	U
+ELD	56	Mistford River Turtle	4.0	U
+ELD	57	Moonlit Scavengers	6.0	U
+ELD	262	Mountain	0.0	R
+ELD	97	Murderous Rider // Swift End	3.0	B
+ELD	22	Mysterious Pathlighter	3.0	W
+ELD	247	Mystic Sanctuary	0.0	U
+ELD	58	Mystical Dispute	3.0	U
+ELD	167	Oakhame Adversary	4.0	G
+ELD	212	Oakhame Ranger // Bring Back	4.0	G,W
+ELD	98	Oathsworn Knight	3.0	B
+ELD	132	Ogre Errant	4.0	R
+ELD	310	Oko's Accomplices	3.0	U
+ELD	312	Oko's Hospitality	5.0	G,U
+ELD	197	Oko, Thief of Crowns	3.0	G,U
+ELD	309	Oko, the Trickster	6.0	G,U
+ELD	169	Once Upon a Time	2.0	G
+ELD	168	Once and Future	4.0	G
+ELD	133	Opportunistic Dragon	4.0	R
+ELD	59	Opt	1.0	U
+ELD	99	Order of Midnight // Alter Fate	2.0	B
+ELD	23	Outflank	1.0	W
+ELD	198	Outlaws' Merriment	4.0	R,W
+ELD	170	Outmuscle	4.0	G
+ELD	60	Overwhelmed Apprentice	1.0	U
+ELD	100	Piper of the Swarm	2.0	B
+ELD	250	Plains	0.0	W
+ELD	24	Prized Griffin	5.0	W
+ELD	227	Prophet of the Peak	6.0	
+ELD	61	Queen of Ice // Rage of Winter	3.0	U
+ELD	171	Questing Beast	4.0	G
+ELD	134	Raging Redcap	3.0	R
+ELD	25	Rally for the Throne	3.0	W
+ELD	213	Rampart Smasher	4.0	G,R
+ELD	101	Rankle, Master of Pranks	4.0	B
+ELD	26	Realm-Cloaked Giant // Cast Off	7.0	W
+ELD	102	Reaper of Night // Harvest Fear	7.0	B
+ELD	103	Reave Soul	2.0	B
+ELD	135	Redcap Melee	1.0	R
+ELD	136	Redcap Raiders	3.0	R
+ELD	214	Resolute Rider	4.0	B,W
+ELD	172	Return of the Wildspeaker	5.0	G
+ELD	173	Return to Nature	2.0	G
+ELD	104	Revenge of Ravens	4.0	B
+ELD	27	Righteousness	1.0	W
+ELD	137	Rimrock Knight // Boulder Rush	2.0	R
+ELD	138	Robber of the Rich	2.0	R
+ELD	174	Rosethorn Acolyte // Seasonal Ritual	3.0	G
+ELD	175	Rosethorn Halberd	1.0	G
+ELD	228	Roving Keep	7.0	
+ELD	306	Rowan's Battleguard	4.0	R
+ELD	307	Rowan's Stalwarts	5.0	R
+ELD	304	Rowan, Fearless Sparkmage	5.0	R
+ELD	62	Run Away Together	2.0	U
+ELD	63	Sage of the Falls	5.0	U
+ELD	200	Savvy Hunter	3.0	B,G
+ELD	229	Scalding Cauldron	1.0	
+ELD	139	Scorching Dragonfire	2.0	R
+ELD	140	Searing Barrage	5.0	R
+ELD	141	Seven Dwarves	2.0	R
+ELD	230	Shambling Suit	3.0	
+ELD	28	Shepherd of the Flock // Usher to Safety	2.0	W
+ELD	317	Shimmer Dragon	6.0	U
+ELD	201	Shinechaser	3.0	U,W
+ELD	29	Shining Armor	2.0	W
+ELD	231	Signpost Scarecrow	4.0	
+ELD	30	Silverflame Ritual	4.0	W
+ELD	31	Silverflame Squire // On Alert	2.0	W
+ELD	315	Silverwing Squadron	6.0	W
+ELD	142	Skullknocker Ogre	4.0	R
+ELD	143	Slaying Fire	3.0	R
+ELD	105	Smitten Swordmaster // Curry Favor	2.0	B
+ELD	64	So Tiny	1.0	U
+ELD	232	Sorcerer's Broom	2.0	
+ELD	233	Sorcerous Spyglass	2.0	
+ELD	106	Specter's Shriek	1.0	B
+ELD	234	Spinning Wheel	3.0	
+ELD	176	Sporecap Spider	3.0	G
+ELD	322	Steelbane Hydra	2.0	G
+ELD	202	Steelclaw Lance	2.0	B,R
+ELD	65	Steelgaze Griffin	5.0	U
+ELD	66	Stolen by the Fae	2.0	U
+ELD	235	Stonecoil Serpent	0.0	
+ELD	203	Stormfist Crusader	2.0	B,R
+ELD	144	Sundering Stroke	7.0	R
+ELD	258	Swamp	0.0	B
+ELD	32	Syr Alin, the Lion's Claw	5.0	W
+ELD	145	Syr Carah, the Bold	5.0	R
+ELD	67	Syr Elenora, the Discerning	5.0	U
+ELD	177	Syr Faren, the Hengehammer	2.0	G
+ELD	330	Syr Gwyn, Hero of Ashvale	6.0	B,R,W
+ELD	107	Syr Konrad, the Grim	5.0	B
+ELD	178	Tall as a Beanstalk	4.0	G
+ELD	320	Taste of Death	6.0	B
+ELD	108	Tempting Witch	3.0	B
+ELD	82	The Cauldron of Eternity	12.0	B
+ELD	9	The Circle of Loyalty	6.0	W
+ELD	161	The Great Henge	9.0	G
+ELD	51	The Magic Mirror	9.0	U
+ELD	199	The Royal Scions	3.0	R,U
+ELD	323	Thorn Mammoth	7.0	G
+ELD	313	Thornwood Falls	0.0	G,U
+ELD	146	Thrill of Possibility	2.0	R
+ELD	215	Thunderous Snapper	4.0	G,U
+ELD	68	Tome Raider	3.0	U
+ELD	332	Tome of Legends	2.0	
+ELD	147	Torbran, Thane of Red Fell	4.0	R
+ELD	248	Tournament Grounds	0.0	B,R,W
+ELD	179	Trail of Crumbs	2.0	G
+ELD	33	Trapped in the Tower	2.0	W
+ELD	34	True Love's Kiss	4.0	W
+ELD	180	Tuinvale Treefolk // Oaken Boon	6.0	G
+ELD	69	Turn into a Pumpkin	4.0	U
+ELD	70	Unexplained Vision	5.0	U
+ELD	71	Vantress Gargoyle	2.0	U
+ELD	72	Vantress Paladin	4.0	U
+ELD	35	Venerable Knight	1.0	W
+ELD	204	Wandermare	3.0	G,W
+ELD	236	Weapon Rack	4.0	
+ELD	148	Weaselback Redcap	1.0	R
+ELD	109	Wicked Guardian	4.0	B
+ELD	181	Wicked Wolf	4.0	G
+ELD	182	Wildborn Preserver	2.0	G
+ELD	183	Wildwood Tracker	1.0	G
+ELD	308	Wind-Scarred Crag	0.0	R,W
+ELD	205	Wintermoor Commander	2.0	B,W
+ELD	110	Wishclaw Talisman	2.0	B
+ELD	73	Wishful Merfolk	2.0	U
+ELD	249	Witch's Cottage	0.0	B
+ELD	237	Witch's Oven	1.0	
+ELD	111	Witch's Vengeance	3.0	B
+ELD	74	Witching Well	1.0	U
+ELD	184	Wolf's Quarry	6.0	G
+ELD	318	Workshop Elders	7.0	U
+ELD	36	Worthy Knight	2.0	W
+ELD	185	Yorvo, Lord of Garenbrig	3.0	G
+ELD	37	Youthful Knight	2.0	W

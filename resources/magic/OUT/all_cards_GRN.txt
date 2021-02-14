@@ -1,0 +1,268 @@
+GRN	121	Affectionate Indrik	6.0	G
+GRN	122	Arboretum Elemental	9.0	G
+GRN	91	Arclight Phoenix	4.0	R
+GRN	151	Artful Takedown	4.0	B,U
+GRN	152	Assassin's Trophy	2.0	B,G
+GRN	221	Assure // Assemble	8.0	G,W
+GRN	271	Attendant of Vraska	3.0	B,G
+GRN	153	Aurelia, Exemplar of Justice	4.0	R,W
+GRN	92	Barging Sergeant	5.0	R
+GRN	61	Barrier of Bones	1.0	B
+GRN	62	Bartizan Bats	4.0	B
+GRN	154	Beacon Bolt	3.0	R,U
+GRN	155	Beamsplitter Mage	2.0	R,U
+GRN	123	Beast Whisperer	4.0	G
+GRN	1	Blade Instructor	3.0	W
+GRN	63	Blood Operative	3.0	B
+GRN	93	Book Devourer	6.0	R
+GRN	156	Boros Challenger	2.0	R,W
+GRN	243	Boros Guildgate	0.0	R,W
+GRN	231	Boros Locket	3.0	R,W
+GRN	2	Bounty Agent	2.0	W
+GRN	124	Bounty of Might	6.0	G
+GRN	64	Burglar Rat	2.0	B
+GRN	157	Camaraderie	6.0	G,W
+GRN	3	Candlelight Vigil	4.0	W
+GRN	31	Capture Sphere	4.0	U
+GRN	158	Centaur Peacemaker	3.0	G,W
+GRN	232	Chamber Sentry	0.0	B,G,R,U,W
+GRN	159	Chance for Glory	3.0	R,W
+GRN	160	Charnel Troll	3.0	B,G
+GRN	32	Chemister's Insight	4.0	U
+GRN	65	Child of Night	2.0	B
+GRN	233	Chromatic Lantern	3.0	
+GRN	125	Circuitous Route	4.0	G
+GRN	33	Citywatch Sphinx	6.0	U
+GRN	4	Citywide Bust	3.0	W
+GRN	5	Collar the Culprit	4.0	W
+GRN	94	Command the Storm	5.0	R
+GRN	161	Conclave Cavalier	4.0	G,W
+GRN	162	Conclave Guildmage	2.0	G,W
+GRN	6	Conclave Tribunal	4.0	W
+GRN	222	Connive // Concoct	9.0	B,U
+GRN	95	Cosmotronic Wave	4.0	R
+GRN	163	Crackling Drake	4.0	R,U
+GRN	66	Creeping Chill	4.0	B
+GRN	7	Crush Contraband	4.0	W
+GRN	126	Crushing Canopy	3.0	G
+GRN	164	Darkblade Agent	3.0	B,U
+GRN	8	Dawn of Hope	2.0	W
+GRN	34	Dazzling Lights	1.0	U
+GRN	67	Dead Weight	1.0	B
+GRN	68	Deadly Visit	5.0	B
+GRN	165	Deafening Clarion	3.0	R,W
+GRN	9	Demotion	1.0	W
+GRN	35	Devious Cover-Up	4.0	U
+GRN	127	Devkarin Dissident	2.0	G
+GRN	245	Dimir Guildgate	0.0	B,U
+GRN	36	Dimir Informant	3.0	U
+GRN	234	Dimir Locket	3.0	B,U
+GRN	166	Dimir Spybug	2.0	B,U
+GRN	96	Direct Current	3.0	R
+GRN	223	Discovery // Dispersal	7.0	B,U
+GRN	37	Disdainful Stroke	2.0	U
+GRN	167	Disinformation Campaign	3.0	B,U
+GRN	128	District Guide	3.0	G
+GRN	10	Divine Visitation	5.0	W
+GRN	69	Doom Whisperer	5.0	B
+GRN	70	Douser of Lights	5.0	B
+GRN	38	Dream Eater	6.0	U
+GRN	39	Drowned Secrets	2.0	U
+GRN	97	Electrostatic Field	2.0	R
+GRN	168	Emmara, Soul of the Accord	2.0	G,W
+GRN	40	Enhanced Surveillance	2.0	U
+GRN	98	Erratic Cyclops	4.0	R
+GRN	169	Erstwhile Trooper	3.0	B,G
+GRN	170	Etrata, the Silencer	4.0	B,U
+GRN	224	Expansion // Explosion	6.0	R,U
+GRN	99	Experimental Frenzy	4.0	R
+GRN	100	Fearless Halberdier	3.0	R
+GRN	225	Find // Finality	8.0	B,G
+GRN	101	Fire Urchin	2.0	R
+GRN	171	Firemind's Research	2.0	R,U
+GRN	11	Flight of Equenauts	8.0	W
+GRN	226	Flower // Flourish	7.0	G,W
+GRN	264	Forest	0.0	G
+GRN	216	Fresh-Faced Recruit	2.0	R,W
+GRN	172	Garrison Sergeant	5.0	R,W
+GRN	235	Gatekeeper Gargoyle	6.0	
+GRN	247	Gateway Plaza	0.0	
+GRN	129	Generous Stray	3.0	G
+GRN	12	Gird for Battle	1.0	W
+GRN	236	Glaive of the Guildpact	2.0	
+GRN	173	Glowspore Shaman	2.0	B,G
+GRN	102	Goblin Banneret	1.0	R
+GRN	103	Goblin Cratermaker	2.0	R
+GRN	174	Goblin Electromancer	2.0	R,U
+GRN	104	Goblin Locksmith	2.0	R
+GRN	175	Golgari Findbroker	4.0	B,G
+GRN	248	Golgari Guildgate	0.0	B,G
+GRN	237	Golgari Locket	3.0	B,G
+GRN	130	Golgari Raiders	4.0	G
+GRN	131	Grappling Sundew	2.0	G
+GRN	105	Gravitic Punch	4.0	R
+GRN	71	Gruesome Menagerie	5.0	B
+GRN	41	Guild Summit	3.0	U
+GRN	250	Guildmages' Forum	0.0	
+GRN	13	Haazda Marshal	1.0	W
+GRN	176	Hammer Dropper	4.0	R,W
+GRN	132	Hatchery Spider	7.0	G
+GRN	14	Healer's Hawk	1.0	W
+GRN	106	Hellkite Whelp	5.0	R
+GRN	72	Hired Poisoner	1.0	B
+GRN	133	Hitchclaw Recluse	3.0	G
+GRN	177	House Guildmage	2.0	B,U
+GRN	15	Hunted Witness	1.0	W
+GRN	178	Hypothesizzle	5.0	R,U
+GRN	273	Impervious Greatwurm	10.0	G
+GRN	107	Inescapable Blaze	6.0	R
+GRN	16	Inspiring Unicorn	4.0	W
+GRN	227	Integrity // Intervention	5.0	R,W
+GRN	17	Intrusive Packbeast	5.0	W
+GRN	228	Invert // Invent	7.0	R,U
+GRN	179	Ionize	3.0	R,U
+GRN	134	Ironshell Beetle	2.0	G
+GRN	261	Island	0.0	U
+GRN	180	Izoni, Thousand-Eyed	6.0	B,G
+GRN	251	Izzet Guildgate	0.0	R,U
+GRN	238	Izzet Locket	3.0	R,U
+GRN	181	Join Shields	5.0	G,W
+GRN	182	Justice Strike	2.0	R,W
+GRN	183	Knight of Autumn	3.0	G,W
+GRN	135	Kraul Foragers	5.0	G
+GRN	136	Kraul Harpooner	2.0	G
+GRN	270	Kraul Raider	3.0	B
+GRN	73	Kraul Swarm	5.0	B
+GRN	108	Lava Coil	2.0	R
+GRN	184	Lazav, the Multifarious	2.0	B,U
+GRN	185	League Guildmage	2.0	R,U
+GRN	42	Leapfrog	3.0	U
+GRN	186	Ledev Champion	3.0	G,W
+GRN	18	Ledev Guardian	4.0	W
+GRN	187	Legion Guildmage	2.0	R,W
+GRN	109	Legion Warboss	3.0	R
+GRN	19	Light of the Legion	6.0	W
+GRN	74	Lotleth Giant	7.0	B
+GRN	20	Loxodon Restorer	6.0	W
+GRN	21	Luminous Bonds	3.0	W
+GRN	110	Maniacal Rage	2.0	R
+GRN	188	March of the Multitudes	3.0	G,W
+GRN	75	Mausoleum Secrets	2.0	B
+GRN	43	Maximize Altitude	1.0	U
+GRN	111	Maximize Velocity	1.0	R
+GRN	76	Mephitic Vapors	3.0	B
+GRN	77	Midnight Reaper	3.0	B
+GRN	137	Might of the Masses	1.0	G
+GRN	44	Mission Briefing	2.0	U
+GRN	189	Mnemonic Betrayal	3.0	B,U
+GRN	190	Molderhulk	9.0	B,G
+GRN	78	Moodmark Painter	4.0	B
+GRN	263	Mountain	0.0	R
+GRN	45	Murmuring Mystic	4.0	U
+GRN	46	Muse Drake	4.0	U
+GRN	47	Narcomoeba	2.0	U
+GRN	79	Necrotic Wound	1.0	B
+GRN	80	Never Happened	3.0	B
+GRN	191	Nightveil Predator	4.0	B,U
+GRN	48	Nightveil Sprite	2.0	U
+GRN	192	Niv-Mizzet, Parun	6.0	R,U
+GRN	193	Notion Rain	3.0	B,U
+GRN	138	Nullhide Ferox	4.0	G
+GRN	194	Ochran Assassin	3.0	B,G
+GRN	49	Omnispell Adept	5.0	U
+GRN	112	Ornery Goblin	2.0	R
+GRN	253	Overgrown Tomb	0.0	B,G
+GRN	139	Pack's Favor	3.0	G
+GRN	22	Parhelion Patrol	4.0	W
+GRN	50	Passwall Adept	2.0	U
+GRN	140	Pause for Reflection	3.0	G
+GRN	141	Pelt Collector	1.0	G
+GRN	81	Pilfering Imp	1.0	B
+GRN	217	Piston-Fist Cyclops	3.0	R,U
+GRN	218	Pitiless Gorgon	3.0	B,G
+GRN	82	Plaguecrafter	3.0	B
+GRN	260	Plains	0.0	W
+GRN	142	Portcullis Vine	1.0	G
+GRN	267	Precision Bolt	3.0	R
+GRN	143	Prey Upon	1.0	G
+GRN	83	Price of Fame	4.0	B
+GRN	51	Quasiduplicate	3.0	U
+GRN	52	Radical Idea	2.0	U
+GRN	266	Ral's Dispersal	5.0	U
+GRN	268	Ral's Staticaster	4.0	R,U
+GRN	265	Ral, Caller of Storms	6.0	R,U
+GRN	195	Ral, Izzet Viceroy	5.0	R,U
+GRN	239	Rampaging Monument	4.0	
+GRN	229	Response // Resurgence	7.0	R,W
+GRN	196	Rhizome Lurcher	4.0	B,G
+GRN	23	Righteous Blow	1.0	W
+GRN	113	Risk Factor	3.0	R
+GRN	84	Ritual of Soot	4.0	B
+GRN	24	Roc Charger	3.0	W
+GRN	197	Rosemane Centaur	5.0	G,W
+GRN	114	Rubblebelt Boar	4.0	R
+GRN	115	Runaway Steam-Kin	2.0	R
+GRN	254	Sacred Foundry	0.0	R,W
+GRN	53	Selective Snare	1.0	U
+GRN	255	Selesnya Guildgate	0.0	G,W
+GRN	240	Selesnya Locket	3.0	G,W
+GRN	85	Severed Strands	2.0	B
+GRN	144	Siege Wurm	7.0	G
+GRN	241	Silent Dart	1.0	
+GRN	54	Sinister Sabotage	3.0	U
+GRN	198	Skyknight Legionnaire	3.0	R,W
+GRN	25	Skyline Scout	2.0	W
+GRN	116	Smelt-Ward Minotaur	3.0	R
+GRN	199	Sonic Assault	3.0	R,U
+GRN	86	Spinal Centipede	3.0	B
+GRN	145	Sprouting Renewal	3.0	G
+GRN	230	Status // Statue	5.0	B,G
+GRN	257	Steam Vents	0.0	R,U
+GRN	117	Street Riot	5.0	R
+GRN	200	Sumala Woodshaper	4.0	G,W
+GRN	26	Sunhome Stalwart	2.0	W
+GRN	118	Sure Strike	2.0	R
+GRN	262	Swamp	0.0	B
+GRN	201	Swarm Guildmage	2.0	B,G
+GRN	202	Swathcutter Giant	6.0	R,W
+GRN	203	Swiftblade Vindicator	2.0	R,W
+GRN	27	Sworn Companions	3.0	W
+GRN	204	Tajic, Legion's Edge	3.0	R,W
+GRN	28	Take Heart	1.0	W
+GRN	258	Temple Garden	0.0	G,W
+GRN	29	Tenth District Guard	2.0	W
+GRN	205	Thief of Sanity	3.0	B,U
+GRN	206	Thought Erasure	2.0	B,U
+GRN	55	Thoughtbound Phantasm	1.0	U
+GRN	207	Thousand-Year Storm	6.0	R,U
+GRN	119	Torch Courier	1.0	R
+GRN	208	Trostani Discordant	5.0	G,W
+GRN	209	Truefire Captain	4.0	R,W
+GRN	87	Undercity Necrolisk	4.0	B
+GRN	210	Undercity Uprising	4.0	B,G
+GRN	211	Underrealm Lich	5.0	B,G
+GRN	56	Unexplained Disappearance	2.0	U
+GRN	212	Unmoored Ego	3.0	B,U
+GRN	146	Urban Utopia	2.0	G
+GRN	57	Vedalken Mesmerist	2.0	U
+GRN	88	Veiled Shade	3.0	B
+GRN	30	Venerated Loxodon	5.0	W
+GRN	219	Vernadi Shieldmate	2.0	G,W
+GRN	89	Vicious Rumors	1.0	B
+GRN	147	Vigorspore Wurm	6.0	G
+GRN	148	Vivid Revival	5.0	G
+GRN	272	Vraska's Stoneglare	6.0	B,G
+GRN	213	Vraska, Golgari Queen	4.0	B,G
+GRN	269	Vraska, Regal Gorgon	7.0	B,G
+GRN	58	Wall of Mist	2.0	U
+GRN	242	Wand of Vertebrae	1.0	
+GRN	149	Wary Okapi	3.0	G
+GRN	59	Watcher in the Mist	5.0	U
+GRN	259	Watery Grave	0.0	B,U
+GRN	214	Wee Dragonauts	3.0	R,U
+GRN	220	Whisper Agent	3.0	B,U
+GRN	90	Whispering Snitch	2.0	B
+GRN	150	Wild Ceratok	4.0	G
+GRN	60	Wishcoin Crab	4.0	U
+GRN	120	Wojek Bodyguard	3.0	R
+GRN	215	Worldsoul Colossus	2.0	G,W

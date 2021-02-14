@@ -1,265 +1,265 @@
-IKO	1	Adaptive Shimmerer	
-IKO	2	Farfinder	
-IKO	3	Mysterious Egg	
-IKO	4	Blade Banish	W
-IKO	5	Checkpoint Officer	W
-IKO	6	Coordinated Charge	W
-IKO	7	Cubwarden	W
-IKO	8	Daysquad Marshal	W
-IKO	9	Divine Arrow	W
-IKO	10	Drannith Healer	W
-IKO	11	Drannith Magistrate	W
-IKO	12	Fight as One	W
-IKO	13	Flourishing Fox	W
-IKO	14	Garrison Cat	W
-IKO	15	Helica Glider	W
-IKO	16	Huntmaster Liger	W
-IKO	17	Imposing Vantasaur	W
-IKO	18	Keensight Mentor	W
-IKO	19	Lavabrink Venturer	W
-IKO	20	Light of Hope	W
-IKO	21	Luminous Broodmoth	W
-IKO	22	Majestic Auricorn	W
-IKO	23	Maned Serval	W
-IKO	24	Mythos of Snapdax	B,R,W
-IKO	25	Pacifism	W
-IKO	26	Patagia Tiger	W
-IKO	27	Perimeter Sergeant	W
-IKO	28	Sanctuary Lockdown	W
-IKO	29	Savai Sabertooth	W
-IKO	30	Snare Tactician	W
-IKO	31	Solid Footing	W
-IKO	32	Splendor Mare	W
-IKO	33	Spontaneous Flight	W
-IKO	34	Stormwild Capridor	W
-IKO	35	Swallow Whole	W
-IKO	36	Valiant Rescuer	W
-IKO	37	Vulpikeet	W
-IKO	38	Will of the All-Hunter	W
-IKO	39	Aegis Turtle	U
-IKO	40	Anticipate	U
-IKO	41	Archipelagore	U
-IKO	42	Avian Oddity	U
-IKO	43	Boon of the Wish-Giver	U
-IKO	44	Capture Sphere	U
-IKO	45	Convolute	U
-IKO	46	Crystacean	U
-IKO	47	Dreamtail Heron	U
-IKO	48	Escape Protocol	U
-IKO	49	Essence Scatter	U
-IKO	50	Facet Reader	U
-IKO	51	Frost Lynx	U
-IKO	52	Frostveil Ambush	U
-IKO	53	Glimmerbell	U
-IKO	54	Gust of Wind	U
-IKO	55	Hampering Snare	U
-IKO	56	Keep Safe	U
-IKO	57	Mystic Subdual	U
-IKO	58	Mythos of Illuna	G,R,U
-IKO	59	Neutralize	U
-IKO	60	Of One Mind	U
-IKO	61	Ominous Seas	U
-IKO	62	Phase Dolphin	U
-IKO	63	Pollywog Symbiote	U
-IKO	64	Pouncing Shoreshark	U
-IKO	65	Reconnaissance Mission	U
-IKO	66	Sea-Dasher Octopus	U
-IKO	67	Shark Typhoon	U
-IKO	68	Startling Development	U
-IKO	69	Thieving Otter	U
-IKO	70	Voracious Greatshark	U
-IKO	71	Wingfold Pteron	U
-IKO	72	Wingspan Mentor	U
-IKO	73	Bastion of Remembrance	B
-IKO	74	Blitz Leech	B
-IKO	75	Blood Curdle	B
-IKO	76	Boot Nipper	B
-IKO	77	Bushmeat Poacher	B
-IKO	78	Call of the Death-Dweller	B
-IKO	79	Cavern Whisperer	B
-IKO	80	Chittering Harvester	B
-IKO	81	Corpse Churn	B
-IKO	82	Dark Bargain	B
-IKO	83	Dead Weight	B
-IKO	84	Dirge Bat	B
-IKO	85	Durable Coilbug	B
-IKO	86	Duskfang Mentor	B
-IKO	87	Easy Prey	B
-IKO	88	Extinction Event	B
-IKO	89	Gloom Pangolin	B
-IKO	90	Grimdancer	B
-IKO	91	Heartless Act	B
-IKO	92	Hunted Nightmare	B
-IKO	93	Insatiable Hemophage	B
-IKO	94	Lurking Deadeye	B
-IKO	95	Memory Leak	B
-IKO	96	Mutual Destruction	B
-IKO	97	Mythos of Nethroi	B,G,W
-IKO	98	Nightsquad Commando	B
-IKO	99	Serrated Scorpion	B
-IKO	100	Suffocating Fumes	B
-IKO	101	Unbreakable Bond	B
-IKO	102	Unexpected Fangs	B
-IKO	103	Unlikely Aid	B
-IKO	104	Void Beckoner	B
-IKO	105	Whisper Squad	B
-IKO	106	Zagoth Mamba	B
-IKO	107	Blazing Volley	R
-IKO	108	Blisterspit Gremlin	R
-IKO	109	Blitz of the Thunder-Raptor	R
-IKO	110	Cathartic Reunion	R
-IKO	111	Clash of Titans	R
-IKO	112	Cloudpiercer	R
-IKO	113	Drannith Stinger	R
-IKO	114	Everquill Phoenix	R
-IKO	115	Ferocious Tigorilla	R
-IKO	116	Fire Prophecy	R
-IKO	117	Flame Spill	R
-IKO	118	Footfall Crater	R
-IKO	119	Forbidden Friendship	R
-IKO	120	Frenzied Raptor	R
-IKO	121	Frillscare Mentor	R
-IKO	122	Go for Blood	R
-IKO	123	Heightened Reflexes	R
-IKO	124	Lava Serpent	R
-IKO	125	Lukka, Coppercoat Outcast	R
-IKO	126	Momentum Rumbler	R
-IKO	127	Mythos of Vadrok	R,U,W
-IKO	128	Porcuparrot	R
-IKO	129	Prickly Marmoset	R
-IKO	130	Pyroceratops	R
-IKO	131	Raking Claws	R
-IKO	132	Reptilian Reflection	R
-IKO	133	Rooting Moloch	R
-IKO	134	Rumbling Rockslide	R
-IKO	135	Sanctuary Smasher	R
-IKO	136	Shredded Sails	R
-IKO	137	Spelleater Wolverine	R
-IKO	138	Tentative Connection	R
-IKO	139	Unpredictable Cyclone	R
-IKO	140	Weaponize the Monsters	R
-IKO	141	Yidaro, Wandering Monster	R
-IKO	142	Adventurous Impulse	G
-IKO	143	Almighty Brushwagg	G
-IKO	144	Auspicious Starrix	G
-IKO	145	Barrier Breach	G
-IKO	146	Bristling Boar	G
-IKO	147	Charge of the Forever-Beast	G
-IKO	148	Colossification	G
-IKO	149	Essence Symbiote	G
-IKO	150	Excavation Mole	G
-IKO	151	Exuberant Wolfbear	G
-IKO	152	Fertilid	G
-IKO	153	Flycatcher Giraffid	G
-IKO	154	Fully Grown	G
-IKO	155	Gemrazer	G
-IKO	156	Glowstone Recluse	G
-IKO	157	Greater Sandwurm	G
-IKO	158	Honey Mammoth	G
-IKO	159	Hornbash Mentor	G
-IKO	160	Humble Naturalist	G
-IKO	161	Ivy Elemental	G
-IKO	162	Kogla, the Titan Ape	G
-IKO	163	Lead the Stampede	G
-IKO	164	Migration Path	G
-IKO	165	Migratory Greathorn	G
-IKO	166	Monstrous Step	G
-IKO	167	Mosscoat Goriak	G
-IKO	168	Mythos of Brokkos	B,G,U
-IKO	169	Plummet	G
-IKO	170	Ram Through	G
-IKO	171	Sudden Spinnerets	G
-IKO	172	Survivors' Bond	G
-IKO	173	Thwart the Enemy	G
-IKO	174	Titanoth Rex	G
-IKO	175	Vivien, Monsters' Advocate	G
-IKO	176	Wilt	G
-IKO	177	Back for More	B,G
-IKO	178	Boneyard Lurker	B,G
-IKO	179	Brokkos, Apex of Forever	B,G,U
-IKO	180	Channeled Force	R,U
-IKO	181	Chevill, Bane of Monsters	B,G
-IKO	182	Death's Oasis	B,G,W
-IKO	183	Dire Tactics	B,W
-IKO	184	Eerie Ultimatum	B,G,W
-IKO	185	Emergent Ultimatum	B,G,U
-IKO	186	Frondland Felidar	G,W
-IKO	187	General Kudro of Drannith	B,W
-IKO	188	General's Enforcer	B,W
-IKO	189	Genesis Ultimatum	G,R,U
-IKO	190	Illuna, Apex of Wishes	G,R,U
-IKO	191	Inspired Ultimatum	R,U,W
-IKO	192	Kinnan, Bonder Prodigy	G,U
-IKO	193	Labyrinth Raptor	B,R
-IKO	194	Lore Drakkis	R,U
-IKO	195	Narset of the Ancient Way	R,U,W
-IKO	196	Necropanther	B,W
-IKO	197	Nethroi, Apex of Death	B,G,W
-IKO	198	Offspring's Revenge	B,R,W
-IKO	199	Parcelbeast	G,U
-IKO	200	Primal Empathy	G,U
-IKO	201	Quartzwood Crasher	G,R
-IKO	202	Regal Leosaur	R,W
-IKO	203	Rielle, the Everwise	R,U
-IKO	204	Ruinous Ultimatum	B,R,W
-IKO	205	Savai Thundermane	R,W
-IKO	206	Skull Prophet	B,G
-IKO	207	Skycat Sovereign	U,W
-IKO	208	Slitherwisp	B,U
-IKO	209	Snapdax, Apex of the Hunt	B,R,W
-IKO	210	Song of Creation	G,R,U
-IKO	211	Sprite Dragon	R,U
-IKO	212	Titans' Nest	B,G,U
-IKO	213	Trumpeting Gnarr	G,U
-IKO	214	Vadrok, Apex of Thunder	R,U,W
-IKO	215	Whirlwind of Thought	R,U,W
-IKO	216	Winota, Joiner of Forces	R,W
-IKO	217	Zenith Flare	R,W
-IKO	218	Alert Heedbonder	G,W
-IKO	219	Cunning Nightbonder	B,U
-IKO	220	Fiend Artisan	B,G
-IKO	221	Gyruda, Doom of Depths	B,U
-IKO	222	Jegantha, the Wellspring	B,G,R,U,W
-IKO	223	Jubilant Skybonder	U,W
-IKO	224	Kaheera, the Orphanguard	G,W
-IKO	225	Keruga, the Macrosage	G,U
-IKO	226	Lurrus of the Dream-Den	B,W
-IKO	227	Lutri, the Spellchaser	R,U
-IKO	228	Obosh, the Preypiercer	B,R
-IKO	229	Proud Wildbonder	G,R
-IKO	230	Sonorous Howlbonder	B,R
-IKO	231	Umori, the Collector	B,G
-IKO	232	Yorion, Sky Nomad	U,W
-IKO	233	Zirda, the Dawnwaker	R,W
-IKO	234	Crystalline Giant	
-IKO	235	Indatha Crystal	B,G,W
-IKO	236	Ketria Crystal	G,R,U
-IKO	237	The Ozolith	
-IKO	238	Raugrin Crystal	R,U,W
-IKO	239	Savai Crystal	B,R,W
-IKO	240	Sleeper Dart	
-IKO	241	Springjaw Trap	
-IKO	242	Zagoth Crystal	B,G,U
-IKO	243	Bloodfell Caves	B,R
-IKO	244	Blossoming Sands	G,W
-IKO	245	Bonders' Enclave	
-IKO	246	Dismal Backwater	B,U
-IKO	247	Evolving Wilds	
-IKO	248	Indatha Triome	B,G,W
-IKO	249	Jungle Hollow	B,G
-IKO	250	Ketria Triome	G,R,U
-IKO	251	Raugrin Triome	R,U,W
-IKO	252	Rugged Highlands	G,R
-IKO	253	Savai Triome	B,R,W
-IKO	254	Scoured Barrens	B,W
-IKO	255	Swiftwater Cliffs	R,U
-IKO	256	Thornwood Falls	G,U
-IKO	257	Tranquil Cove	U,W
-IKO	258	Wind-Scarred Crag	R,W
-IKO	259	Zagoth Triome	B,G,U
-IKO	260	Plains	W
-IKO	263	Island	U
-IKO	266	Swamp	B
-IKO	269	Mountain	R
-IKO	272	Forest	G
-IKO	275	Zilortha, Strength Incarnate	G,R
+IKO	1	Adaptive Shimmerer	5.0	
+IKO	142	Adventurous Impulse	1.0	G
+IKO	39	Aegis Turtle	1.0	U
+IKO	218	Alert Heedbonder	3.0	G,W
+IKO	143	Almighty Brushwagg	1.0	G
+IKO	40	Anticipate	2.0	U
+IKO	41	Archipelagore	7.0	U
+IKO	144	Auspicious Starrix	5.0	G
+IKO	42	Avian Oddity	4.0	U
+IKO	177	Back for More	6.0	B,G
+IKO	145	Barrier Breach	3.0	G
+IKO	73	Bastion of Remembrance	3.0	B
+IKO	4	Blade Banish	4.0	W
+IKO	107	Blazing Volley	1.0	R
+IKO	108	Blisterspit Gremlin	1.0	R
+IKO	74	Blitz Leech	6.0	B
+IKO	109	Blitz of the Thunder-Raptor	2.0	R
+IKO	75	Blood Curdle	4.0	B
+IKO	243	Bloodfell Caves	0.0	B,R
+IKO	244	Blossoming Sands	0.0	G,W
+IKO	245	Bonders' Enclave	0.0	
+IKO	178	Boneyard Lurker	4.0	B,G
+IKO	43	Boon of the Wish-Giver	6.0	U
+IKO	76	Boot Nipper	2.0	B
+IKO	146	Bristling Boar	4.0	G
+IKO	179	Brokkos, Apex of Forever	5.0	B,G,U
+IKO	77	Bushmeat Poacher	4.0	B
+IKO	78	Call of the Death-Dweller	3.0	B
+IKO	44	Capture Sphere	4.0	U
+IKO	110	Cathartic Reunion	2.0	R
+IKO	79	Cavern Whisperer	5.0	B
+IKO	180	Channeled Force	4.0	R,U
+IKO	147	Charge of the Forever-Beast	3.0	G
+IKO	5	Checkpoint Officer	2.0	W
+IKO	181	Chevill, Bane of Monsters	2.0	B,G
+IKO	80	Chittering Harvester	6.0	B
+IKO	111	Clash of Titans	5.0	R
+IKO	112	Cloudpiercer	5.0	R
+IKO	148	Colossification	7.0	G
+IKO	45	Convolute	3.0	U
+IKO	6	Coordinated Charge	5.0	W
+IKO	81	Corpse Churn	2.0	B
+IKO	46	Crystacean	4.0	U
+IKO	234	Crystalline Giant	3.0	
+IKO	7	Cubwarden	4.0	W
+IKO	219	Cunning Nightbonder	2.0	B,U
+IKO	82	Dark Bargain	4.0	B
+IKO	8	Daysquad Marshal	4.0	W
+IKO	83	Dead Weight	1.0	B
+IKO	182	Death's Oasis	3.0	B,G,W
+IKO	183	Dire Tactics	2.0	B,W
+IKO	84	Dirge Bat	4.0	B
+IKO	246	Dismal Backwater	0.0	B,U
+IKO	9	Divine Arrow	2.0	W
+IKO	10	Drannith Healer	2.0	W
+IKO	11	Drannith Magistrate	2.0	W
+IKO	113	Drannith Stinger	2.0	R
+IKO	47	Dreamtail Heron	5.0	U
+IKO	85	Durable Coilbug	2.0	B
+IKO	86	Duskfang Mentor	3.0	B
+IKO	87	Easy Prey	2.0	B
+IKO	184	Eerie Ultimatum	7.0	B,G,W
+IKO	185	Emergent Ultimatum	7.0	B,G,U
+IKO	48	Escape Protocol	2.0	U
+IKO	49	Essence Scatter	2.0	U
+IKO	149	Essence Symbiote	2.0	G
+IKO	114	Everquill Phoenix	4.0	R
+IKO	247	Evolving Wilds	0.0	
+IKO	150	Excavation Mole	3.0	G
+IKO	88	Extinction Event	4.0	B
+IKO	151	Exuberant Wolfbear	4.0	G
+IKO	50	Facet Reader	2.0	U
+IKO	2	Farfinder	3.0	
+IKO	115	Ferocious Tigorilla	4.0	R
+IKO	152	Fertilid	3.0	G
+IKO	220	Fiend Artisan	2.0	B,G
+IKO	12	Fight as One	1.0	W
+IKO	116	Fire Prophecy	2.0	R
+IKO	117	Flame Spill	3.0	R
+IKO	13	Flourishing Fox	1.0	W
+IKO	153	Flycatcher Giraffid	5.0	G
+IKO	118	Footfall Crater	1.0	R
+IKO	119	Forbidden Friendship	2.0	R
+IKO	272	Forest	0.0	G
+IKO	120	Frenzied Raptor	3.0	R
+IKO	121	Frillscare Mentor	3.0	R
+IKO	186	Frondland Felidar	4.0	G,W
+IKO	51	Frost Lynx	3.0	U
+IKO	52	Frostveil Ambush	5.0	U
+IKO	154	Fully Grown	3.0	G
+IKO	14	Garrison Cat	1.0	W
+IKO	155	Gemrazer	4.0	G
+IKO	187	General Kudro of Drannith	3.0	B,W
+IKO	188	General's Enforcer	2.0	B,W
+IKO	189	Genesis Ultimatum	7.0	G,R,U
+IKO	53	Glimmerbell	2.0	U
+IKO	89	Gloom Pangolin	3.0	B
+IKO	156	Glowstone Recluse	3.0	G
+IKO	122	Go for Blood	2.0	R
+IKO	157	Greater Sandwurm	7.0	G
+IKO	90	Grimdancer	3.0	B
+IKO	54	Gust of Wind	4.0	U
+IKO	221	Gyruda, Doom of Depths	6.0	B,U
+IKO	55	Hampering Snare	2.0	U
+IKO	91	Heartless Act	2.0	B
+IKO	123	Heightened Reflexes	1.0	R
+IKO	15	Helica Glider	3.0	W
+IKO	158	Honey Mammoth	6.0	G
+IKO	159	Hornbash Mentor	3.0	G
+IKO	160	Humble Naturalist	2.0	G
+IKO	92	Hunted Nightmare	3.0	B
+IKO	16	Huntmaster Liger	4.0	W
+IKO	190	Illuna, Apex of Wishes	5.0	G,R,U
+IKO	17	Imposing Vantasaur	6.0	W
+IKO	235	Indatha Crystal	3.0	B,G,W
+IKO	248	Indatha Triome	0.0	B,G,W
+IKO	93	Insatiable Hemophage	4.0	B
+IKO	191	Inspired Ultimatum	7.0	R,U,W
+IKO	263	Island	0.0	U
+IKO	161	Ivy Elemental	1.0	G
+IKO	222	Jegantha, the Wellspring	5.0	B,G,R,U,W
+IKO	223	Jubilant Skybonder	3.0	U,W
+IKO	249	Jungle Hollow	0.0	B,G
+IKO	224	Kaheera, the Orphanguard	3.0	G,W
+IKO	18	Keensight Mentor	3.0	W
+IKO	56	Keep Safe	2.0	U
+IKO	225	Keruga, the Macrosage	5.0	G,U
+IKO	236	Ketria Crystal	3.0	G,R,U
+IKO	250	Ketria Triome	0.0	G,R,U
+IKO	192	Kinnan, Bonder Prodigy	2.0	G,U
+IKO	162	Kogla, the Titan Ape	6.0	G
+IKO	193	Labyrinth Raptor	2.0	B,R
+IKO	124	Lava Serpent	6.0	R
+IKO	19	Lavabrink Venturer	3.0	W
+IKO	163	Lead the Stampede	3.0	G
+IKO	20	Light of Hope	1.0	W
+IKO	194	Lore Drakkis	3.0	R,U
+IKO	125	Lukka, Coppercoat Outcast	5.0	R
+IKO	21	Luminous Broodmoth	4.0	W
+IKO	94	Lurking Deadeye	4.0	B
+IKO	226	Lurrus of the Dream-Den	3.0	B,W
+IKO	227	Lutri, the Spellchaser	3.0	R,U
+IKO	22	Majestic Auricorn	5.0	W
+IKO	23	Maned Serval	2.0	W
+IKO	95	Memory Leak	3.0	B
+IKO	164	Migration Path	4.0	G
+IKO	165	Migratory Greathorn	4.0	G
+IKO	126	Momentum Rumbler	4.0	R
+IKO	166	Monstrous Step	5.0	G
+IKO	167	Mosscoat Goriak	3.0	G
+IKO	269	Mountain	0.0	R
+IKO	96	Mutual Destruction	1.0	B
+IKO	3	Mysterious Egg	1.0	
+IKO	57	Mystic Subdual	2.0	U
+IKO	168	Mythos of Brokkos	4.0	B,G,U
+IKO	58	Mythos of Illuna	4.0	G,R,U
+IKO	97	Mythos of Nethroi	3.0	B,G,W
+IKO	24	Mythos of Snapdax	4.0	B,R,W
+IKO	127	Mythos of Vadrok	4.0	R,U,W
+IKO	195	Narset of the Ancient Way	4.0	R,U,W
+IKO	196	Necropanther	3.0	B,W
+IKO	197	Nethroi, Apex of Death	5.0	B,G,W
+IKO	59	Neutralize	3.0	U
+IKO	98	Nightsquad Commando	3.0	B
+IKO	228	Obosh, the Preypiercer	5.0	B,R
+IKO	60	Of One Mind	3.0	U
+IKO	198	Offspring's Revenge	5.0	B,R,W
+IKO	61	Ominous Seas	2.0	U
+IKO	25	Pacifism	2.0	W
+IKO	199	Parcelbeast	4.0	G,U
+IKO	26	Patagia Tiger	5.0	W
+IKO	27	Perimeter Sergeant	3.0	W
+IKO	62	Phase Dolphin	3.0	U
+IKO	260	Plains	0.0	W
+IKO	169	Plummet	2.0	G
+IKO	63	Pollywog Symbiote	2.0	U
+IKO	128	Porcuparrot	4.0	R
+IKO	64	Pouncing Shoreshark	5.0	U
+IKO	129	Prickly Marmoset	3.0	R
+IKO	200	Primal Empathy	3.0	G,U
+IKO	229	Proud Wildbonder	4.0	G,R
+IKO	130	Pyroceratops	4.0	R
+IKO	201	Quartzwood Crasher	5.0	G,R
+IKO	131	Raking Claws	2.0	R
+IKO	170	Ram Through	2.0	G
+IKO	238	Raugrin Crystal	3.0	R,U,W
+IKO	251	Raugrin Triome	0.0	R,U,W
+IKO	65	Reconnaissance Mission	4.0	U
+IKO	202	Regal Leosaur	2.0	R,W
+IKO	132	Reptilian Reflection	3.0	R
+IKO	203	Rielle, the Everwise	3.0	R,U
+IKO	133	Rooting Moloch	5.0	R
+IKO	252	Rugged Highlands	0.0	G,R
+IKO	204	Ruinous Ultimatum	7.0	B,R,W
+IKO	134	Rumbling Rockslide	4.0	R
+IKO	28	Sanctuary Lockdown	3.0	W
+IKO	135	Sanctuary Smasher	6.0	R
+IKO	239	Savai Crystal	3.0	B,R,W
+IKO	29	Savai Sabertooth	2.0	W
+IKO	205	Savai Thundermane	2.0	R,W
+IKO	253	Savai Triome	0.0	B,R,W
+IKO	254	Scoured Barrens	0.0	B,W
+IKO	66	Sea-Dasher Octopus	3.0	U
+IKO	99	Serrated Scorpion	1.0	B
+IKO	67	Shark Typhoon	6.0	U
+IKO	136	Shredded Sails	2.0	R
+IKO	206	Skull Prophet	2.0	B,G
+IKO	207	Skycat Sovereign	2.0	U,W
+IKO	240	Sleeper Dart	2.0	
+IKO	208	Slitherwisp	3.0	B,U
+IKO	209	Snapdax, Apex of the Hunt	4.0	B,R,W
+IKO	30	Snare Tactician	3.0	W
+IKO	31	Solid Footing	1.0	W
+IKO	210	Song of Creation	4.0	G,R,U
+IKO	230	Sonorous Howlbonder	3.0	B,R
+IKO	137	Spelleater Wolverine	3.0	R
+IKO	32	Splendor Mare	3.0	W
+IKO	33	Spontaneous Flight	3.0	W
+IKO	241	Springjaw Trap	1.0	
+IKO	211	Sprite Dragon	2.0	R,U
+IKO	68	Startling Development	2.0	U
+IKO	34	Stormwild Capridor	3.0	W
+IKO	171	Sudden Spinnerets	1.0	G
+IKO	100	Suffocating Fumes	3.0	B
+IKO	172	Survivors' Bond	2.0	G
+IKO	35	Swallow Whole	1.0	W
+IKO	266	Swamp	0.0	B
+IKO	255	Swiftwater Cliffs	0.0	R,U
+IKO	138	Tentative Connection	4.0	R
+IKO	237	The Ozolith	1.0	
+IKO	69	Thieving Otter	3.0	U
+IKO	256	Thornwood Falls	0.0	G,U
+IKO	173	Thwart the Enemy	3.0	G
+IKO	174	Titanoth Rex	9.0	G
+IKO	212	Titans' Nest	4.0	B,G,U
+IKO	257	Tranquil Cove	0.0	U,W
+IKO	213	Trumpeting Gnarr	3.0	G,U
+IKO	231	Umori, the Collector	4.0	B,G
+IKO	101	Unbreakable Bond	5.0	B
+IKO	102	Unexpected Fangs	2.0	B
+IKO	103	Unlikely Aid	2.0	B
+IKO	139	Unpredictable Cyclone	5.0	R
+IKO	214	Vadrok, Apex of Thunder	3.0	R,U,W
+IKO	36	Valiant Rescuer	2.0	W
+IKO	175	Vivien, Monsters' Advocate	5.0	G
+IKO	104	Void Beckoner	8.0	B
+IKO	70	Voracious Greatshark	5.0	U
+IKO	37	Vulpikeet	4.0	W
+IKO	140	Weaponize the Monsters	1.0	R
+IKO	215	Whirlwind of Thought	4.0	R,U,W
+IKO	105	Whisper Squad	1.0	B
+IKO	38	Will of the All-Hunter	2.0	W
+IKO	176	Wilt	2.0	G
+IKO	258	Wind-Scarred Crag	0.0	R,W
+IKO	71	Wingfold Pteron	6.0	U
+IKO	72	Wingspan Mentor	3.0	U
+IKO	216	Winota, Joiner of Forces	4.0	R,W
+IKO	141	Yidaro, Wandering Monster	7.0	R
+IKO	232	Yorion, Sky Nomad	5.0	U,W
+IKO	242	Zagoth Crystal	3.0	B,G,U
+IKO	106	Zagoth Mamba	1.0	B
+IKO	259	Zagoth Triome	0.0	B,G,U
+IKO	217	Zenith Flare	4.0	R,W
+IKO	275	Zilortha, Strength Incarnate	5.0	G,R
+IKO	233	Zirda, the Dawnwaker	3.0	R,W

@@ -1,0 +1,329 @@
+M20	124	Act of Treason	3.0	R
+M20	1	Aerial Assault	3.0	W
+M20	42	Aether Gust	2.0	U
+M20	43	Agent of Treachery	7.0	U
+M20	337	Aggressive Mammoth	6.0	G
+M20	83	Agonizing Syphon	4.0	B
+M20	44	Air Elemental	5.0	U
+M20	282	Ajani, Inspiring Leader	6.0	W
+M20	2	Ajani, Strength of the Pride	4.0	W
+M20	3	Ancestral Blade	2.0	W
+M20	4	Angel of Vitality	3.0	W
+M20	5	Angelic Gift	2.0	W
+M20	302	Angelic Guardian	6.0	W
+M20	45	Anticipate	2.0	U
+M20	221	Anvilwrought Raptor	4.0	
+M20	6	Apostle of Purifying Light	2.0	W
+M20	46	Atemsis, All-Seeing	6.0	U
+M20	84	Audacious Thief	3.0	B
+M20	222	Bag of Holding	1.0	
+M20	165	Barkhide Troll	2.0	G
+M20	85	Barony Vampire	3.0	B
+M20	319	Bartizan Bats	4.0	B
+M20	303	Bastion Enforcer	3.0	W
+M20	7	Battalion Foot Soldier	3.0	W
+M20	47	Befuddle	3.0	U
+M20	8	Bishop of Wings	2.0	W
+M20	86	Bladebrand	2.0	B
+M20	87	Blightbeetle	2.0	B
+M20	88	Blood Burglar	2.0	B
+M20	89	Blood for Bones	4.0	B
+M20	242	Bloodfell Caves	0.0	B,R
+M20	90	Bloodsoaked Altar	6.0	B
+M20	91	Bloodthirsty Aerialist	3.0	B
+M20	243	Blossoming Sands	0.0	G,W
+M20	320	Bogstomper	6.0	B
+M20	92	Bone Splinters	1.0	B
+M20	48	Bone to Ash	4.0	U
+M20	93	Boneclad Necromancer	5.0	B
+M20	49	Boreal Elemental	5.0	U
+M20	166	Brightwood Tracker	4.0	G
+M20	50	Brineborn Cutthroat	2.0	U
+M20	338	Bristling Boar	4.0	G
+M20	9	Brought Back	2.0	W
+M20	339	Canopy Spider	2.0	G
+M20	51	Captivating Gyre	6.0	U
+M20	10	Cavalier of Dawn	5.0	W
+M20	125	Cavalier of Flame	5.0	R
+M20	52	Cavalier of Gales	5.0	U
+M20	94	Cavalier of Night	5.0	B
+M20	167	Cavalier of Thorns	5.0	G
+M20	287	Celestial Messenger	4.0	U
+M20	168	Centaur Courser	3.0	G
+M20	53	Cerulean Drake	2.0	U
+M20	129	Chandra's Embercat	2.0	R
+M20	295	Chandra's Flame Wave	5.0	R
+M20	130	Chandra's Outrage	4.0	R
+M20	131	Chandra's Regulator	2.0	R
+M20	132	Chandra's Spitfire	3.0	R
+M20	126	Chandra, Acolyte of Flame	3.0	R
+M20	127	Chandra, Awakened Inferno	6.0	R
+M20	294	Chandra, Flame's Fury	6.0	R
+M20	128	Chandra, Novice Pyromancer	4.0	R
+M20	54	Cloudkin Seer	3.0	U
+M20	223	Colossus Hammer	1.0	
+M20	304	Concordia Pegasus	2.0	W
+M20	55	Convolute	3.0	U
+M20	315	Coral Merfolk	2.0	U
+M20	206	Corpse Knight	2.0	B,W
+M20	207	Creeping Trailblazer	2.0	G,R
+M20	244	Cryptic Caves	0.0	
+M20	133	Daggersail Aeronaut	4.0	R
+M20	321	Dark Remedy	2.0	B
+M20	11	Dawning Angel	5.0	W
+M20	12	Daybreak Chaplain	2.0	W
+M20	134	Destructive Digger	3.0	R
+M20	13	Devout Decree	2.0	W
+M20	224	Diamond Knight	3.0	
+M20	14	Disenchant	2.0	W
+M20	322	Disentomb	1.0	B
+M20	95	Disfigure	1.0	B
+M20	245	Dismal Backwater	0.0	B,U
+M20	225	Diviner's Lockbox	4.0	
+M20	135	Dragon Mage	7.0	R
+M20	136	Drakuseth, Maw of Flames	7.0	R
+M20	56	Drawn from Dreams	4.0	U
+M20	96	Dread Presence	4.0	B
+M20	57	Dungeon Geists	4.0	U
+M20	97	Duress	1.0	B
+M20	169	Elvish Reclaimer	1.0	G
+M20	137	Ember Hauler	2.0	R
+M20	98	Embodiment of Agonies	3.0	B
+M20	208	Empyrean Eagle	3.0	U,W
+M20	328	Engulfing Eruption	4.0	R
+M20	99	Epicure of Blood	5.0	B
+M20	15	Eternal Isolation	2.0	W
+M20	299	Ethereal Elk	5.0	G
+M20	246	Evolving Wilds	0.0	
+M20	58	Faerie Miscreant	1.0	U
+M20	100	Fathom Fleet Cutthroat	4.0	B
+M20	329	Fearless Halberdier	3.0	R
+M20	16	Fencing Ace	2.0	W
+M20	101	Feral Abomination	6.0	B
+M20	170	Feral Invocation	3.0	G
+M20	171	Ferocious Pup	3.0	G
+M20	247	Field of the Dead	0.0	
+M20	138	Fire Elemental	5.0	R
+M20	139	Flame Sweep	3.0	R
+M20	59	Flood of Tears	6.0	U
+M20	277	Forest	0.0	G
+M20	60	Fortress Crab	4.0	U
+M20	340	Frilled Sandwalla	1.0	G
+M20	61	Frilled Sea Serpent	6.0	U
+M20	62	Frost Lynx	3.0	U
+M20	140	Fry	2.0	R
+M20	172	Gargos, Vicious Watcher	6.0	G
+M20	17	Gauntlets of Light	3.0	W
+M20	173	Gift of Paradise	3.0	G
+M20	18	Glaring Aegis	1.0	W
+M20	141	Glint-Horn Buccaneer	3.0	R
+M20	300	Gnarlback Rhino	4.0	G
+M20	330	Goblin Assailant	2.0	R
+M20	142	Goblin Bird-Grabber	2.0	R
+M20	143	Goblin Ringleader	4.0	R
+M20	144	Goblin Smuggler	3.0	R
+M20	19	Gods Willing	1.0	W
+M20	283	Goldmane Griffin	5.0	W
+M20	226	Golos, Tireless Pilgrim	5.0	B,G,R,U,W
+M20	102	Gorging Vulture	3.0	B
+M20	227	Grafdigger's Cage	1.0	
+M20	103	Gravedigger	4.0	B
+M20	323	Gravewaker	6.0	B
+M20	174	Greenwood Sentinel	2.0	G
+M20	20	Griffin Protector	4.0	W
+M20	21	Griffin Sentinel	3.0	W
+M20	175	Growth Cycle	2.0	G
+M20	104	Gruesome Scourger	5.0	B
+M20	305	Haazda Officer	3.0	W
+M20	22	Hanged Executioner	3.0	W
+M20	63	Hard Cover	1.0	U
+M20	176	Healer of the Glade	1.0	G
+M20	228	Heart-Piercer Bow	2.0	
+M20	23	Herald of the Sun	6.0	W
+M20	331	Hostile Minotaur	4.0	R
+M20	177	Howling Giant	7.0	G
+M20	229	Icon of Ancestry	3.0	
+M20	332	Immortal Phoenix	6.0	R
+M20	306	Impassioned Orator	2.0	W
+M20	307	Imperial Outrider	4.0	W
+M20	145	Infuriate	1.0	R
+M20	24	Inspired Charge	4.0	W
+M20	25	Inspiring Captain	4.0	W
+M20	308	Ironclad Krovod	4.0	W
+M20	209	Ironroot Warlord	3.0	G,W
+M20	265	Island	0.0	U
+M20	248	Jungle Hollow	0.0	B,G
+M20	210	Kaalia, Zenith Seeker	3.0	B,R,W
+M20	146	Keldon Raider	4.0	R
+M20	211	Kethis, the Hidden Hand	3.0	B,G,W
+M20	105	Knight of the Ebon Legion	1.0	B
+M20	212	Kykar, Wind's Fury	4.0	R,U,W
+M20	147	Lavakin Brawler	4.0	R
+M20	178	Leafkin Druid	2.0	G
+M20	106	Legion's End	2.0	B
+M20	179	Leyline of Abundance	4.0	G
+M20	64	Leyline of Anticipation	4.0	U
+M20	148	Leyline of Combustion	4.0	R
+M20	26	Leyline of Sanctity	4.0	W
+M20	107	Leyline of the Void	4.0	B
+M20	213	Lightning Stormkin	2.0	R,U
+M20	180	Loaming Shaman	3.0	G
+M20	249	Lotus Field	0.0	
+M20	27	Loxodon Lifechanter	6.0	W
+M20	28	Loyal Pegasus	1.0	W
+M20	181	Mammoth Spider	5.0	G
+M20	149	Maniacal Rage	2.0	R
+M20	230	Manifold Key	1.0	
+M20	231	Marauder's Axe	2.0	
+M20	150	Marauding Raptor	2.0	R
+M20	151	Mask of Immolation	2.0	R
+M20	29	Master Splicer	4.0	W
+M20	65	Masterful Replication	6.0	U
+M20	232	Meteor Golem	7.0	
+M20	66	Metropolis Sprite	2.0	U
+M20	182	Might of the Masses	1.0	G
+M20	108	Mind Rot	3.0	B
+M20	67	Moat Piranhas	2.0	U
+M20	214	Moldervine Reclamation	5.0	B,G
+M20	30	Moment of Heroism	2.0	W
+M20	31	Moorland Inquisitor	2.0	W
+M20	273	Mountain	0.0	R
+M20	286	Mu Yanling, Celestial Wind	6.0	U
+M20	68	Mu Yanling, Sky Dancer	3.0	U
+M20	109	Murder	3.0	B
+M20	233	Mystic Forge	4.0	
+M20	183	Natural End	3.0	G
+M20	69	Negate	2.0	U
+M20	184	Netcaster Spider	3.0	G
+M20	185	Nightpack Ambusher	4.0	G
+M20	333	Nimble Birdsticker	3.0	R
+M20	110	Noxious Grasp	2.0	B
+M20	341	Oakenform	3.0	G
+M20	70	Octoprophet	4.0	U
+M20	215	Ogre Siegebreaker	4.0	B,R
+M20	216	Omnath, Locus of the Roil	4.0	G,R,U
+M20	186	Overcome	5.0	G
+M20	187	Overgrowth Elemental	3.0	G
+M20	32	Pacifism	2.0	W
+M20	152	Pack Mastiff	2.0	R
+M20	234	Pattern Matcher	4.0	
+M20	316	Phantom Warrior	3.0	U
+M20	261	Plains	0.0	W
+M20	33	Planar Cleansing	6.0	W
+M20	188	Plummet	2.0	G
+M20	71	Portal of Sanctuary	3.0	U
+M20	235	Prismite	2.0	
+M20	342	Prized Unicorn	4.0	G
+M20	309	Prowling Caracal	2.0	W
+M20	189	Pulse of Murasa	3.0	G
+M20	296	Pyroclastic Elemental	5.0	R
+M20	190	Rabid Bite	2.0	G
+M20	34	Raise the Alarm	2.0	W
+M20	153	Rapacious Dragon	5.0	R
+M20	154	Reckless Air Strike	1.0	R
+M20	155	Reduce to Ashes	5.0	R
+M20	72	Renowned Weaponsmith	2.0	U
+M20	156	Repeated Reverberation	4.0	R
+M20	236	Retributive Wand	3.0	
+M20	317	Riddlemaster Sphinx	6.0	U
+M20	281	Rienne, Angel of Rebirth	5.0	G,R,W
+M20	157	Ripscale Predator	6.0	R
+M20	217	Risen Reef	3.0	G,U
+M20	111	Rotting Regisaur	3.0	B
+M20	334	Rubblebelt Recluse	5.0	R
+M20	250	Rugged Highlands	0.0	G,R
+M20	35	Rule of Law	3.0	W
+M20	73	Sage's Row Denizen	3.0	U
+M20	237	Salvager of Ruin	3.0	
+M20	112	Sanitarium Skeleton	1.0	B
+M20	291	Savage Gorger	3.0	B
+M20	284	Savannah Sage	2.0	W
+M20	158	Scampering Scorcher	4.0	R
+M20	113	Scheming Symmetry	1.0	B
+M20	74	Scholar of the Ages	7.0	U
+M20	159	Scorch Spitter	1.0	R
+M20	251	Scoured Barrens	0.0	B,W
+M20	238	Scuttlemutt	3.0	
+M20	191	Season of Growth	2.0	G
+M20	192	Sedge Scorpion	1.0	G
+M20	36	Sephara, Sky's Blade	7.0	W
+M20	310	Serra's Guardian	6.0	W
+M20	193	Shared Summons	5.0	G
+M20	194	Shifting Ceratops	4.0	G
+M20	335	Shivan Dragon	6.0	R
+M20	160	Shock	1.0	R
+M20	311	Show of Valor	2.0	W
+M20	312	Siege Mastodon	5.0	W
+M20	195	Silverback Shaman	5.0	G
+M20	324	Skeleton Archer	4.0	B
+M20	218	Skyknight Vanguard	2.0	R,W
+M20	75	Sleep Paralysis	4.0	U
+M20	318	Snapping Drake	4.0	U
+M20	114	Sorcerer of the Fang	2.0	B
+M20	292	Sorin's Guide	5.0	B
+M20	325	Sorin's Thirst	2.0	B
+M20	115	Sorin, Imperious Bloodlord	3.0	B
+M20	290	Sorin, Vampire Lord	6.0	B
+M20	116	Soul Salvage	3.0	B
+M20	37	Soulmender	1.0	W
+M20	76	Spectral Sailor	1.0	U
+M20	38	Squad Captain	5.0	W
+M20	39	Starfield Mystic	2.0	W
+M20	40	Steadfast Sentry	3.0	W
+M20	239	Steel Overseer	2.0	
+M20	240	Stone Golem	5.0	
+M20	269	Swamp	0.0	B
+M20	252	Swiftwater Cliffs	0.0	R,U
+M20	313	Take Vengeance	2.0	W
+M20	77	Tale's End	2.0	U
+M20	161	Tectonic Rift	4.0	R
+M20	253	Temple of Epiphany	0.0	R,U
+M20	254	Temple of Malady	0.0	B,G
+M20	255	Temple of Mystery	0.0	G,U
+M20	256	Temple of Silence	0.0	B,W
+M20	257	Temple of Triumph	0.0	R,W
+M20	196	Thicket Crasher	4.0	G
+M20	293	Thirsting Bloodlord	4.0	B
+M20	258	Thornwood Falls	0.0	G,U
+M20	117	Thought Distortion	6.0	B
+M20	197	Thrashing Brontodon	3.0	G
+M20	162	Thunderkin Awakener	2.0	R
+M20	343	Titanic Growth	2.0	G
+M20	219	Tomebound Lich	3.0	B,U
+M20	259	Tranquil Cove	0.0	U,W
+M20	314	Trusted Pegasus	3.0	W
+M20	285	Twinblade Paladin	4.0	W
+M20	163	Uncaged Fury	3.0	R
+M20	164	Unchained Berserker	2.0	R
+M20	118	Undead Servant	4.0	B
+M20	119	Unholy Indenture	3.0	B
+M20	78	Unsummon	1.0	U
+M20	326	Vampire Opportunist	2.0	B
+M20	120	Vampire of the Dire Moon	1.0	B
+M20	198	Veil of Summer	1.0	G
+M20	121	Vengeful Warchief	5.0	B
+M20	241	Vial of Dragonfire	2.0	
+M20	122	Vilis, Broker of Blood	8.0	B
+M20	301	Vivien's Crocodile	3.0	G
+M20	199	Vivien, Arkbow Ranger	4.0	G
+M20	298	Vivien, Nature's Avenger	6.0	G
+M20	336	Volcanic Dragon	6.0	R
+M20	200	Voracious Hydra	2.0	G
+M20	201	Vorstclaw	6.0	G
+M20	202	Wakeroot Elemental	6.0	G
+M20	327	Walking Corpse	2.0	B
+M20	79	Warden of Evos Isle	3.0	U
+M20	288	Waterkin Shaman	2.0	U
+M20	297	Wildfire Elemental	4.0	R
+M20	260	Wind-Scarred Crag	0.0	R,W
+M20	80	Winged Words	3.0	U
+M20	203	Wolfkin Bond	5.0	G
+M20	204	Wolfrider's Saddle	4.0	G
+M20	205	Woodland Champion	2.0	G
+M20	344	Woodland Mystic	2.0	G
+M20	289	Yanling's Harbinger	5.0	U
+M20	123	Yarok's Fenlurker	2.0	B
+M20	81	Yarok's Wavecrasher	4.0	U
+M20	220	Yarok, the Desecrated	5.0	B,G,U
+M20	41	Yoked Ox	1.0	W
+M20	82	Zephyr Charge	2.0	U

@@ -1,109 +1,109 @@
-ZNR	89	Acquisitions Expert	B
-ZNR	90	Agadeem's Awakening // Agadeem, the Undercrypt	B
-ZNR	91	Blackbloom Rogue // Blackbloom Bog	B
-ZNR	92	Blood Beckoning	B
-ZNR	93	Blood Price	B
-ZNR	94	Bloodchief's Thirst	B
-ZNR	95	Coveted Prize	B
-ZNR	96	Deadly Alliance	B
-ZNR	97	Demon's Disciple	B
-ZNR	98	Drana, the Last Bloodchief	B
-ZNR	99	Drana's Silencer	B
-ZNR	100	Dreadwurm	B
-ZNR	101	Expedition Skulker	B
-ZNR	102	Feed the Swarm	B
-ZNR	103	Ghastly Gloomhunter	B
-ZNR	104	Guul Draz Mucklord	B
-ZNR	105	Hagra Constrictor	B
-ZNR	106	Hagra Mauling // Hagra Broodpit	B
-ZNR	107	Highborn Vampire	B
-ZNR	108	Inscription of Ruin	B
-ZNR	109	Lithoform Blight	B
-ZNR	110	Malakir Blood-Priest	B
-ZNR	111	Malakir Rebirth // Malakir Mire	B
-ZNR	112	Marauding Blight-Priest	B
-ZNR	113	Mind Carver	B
-ZNR	114	Mind Drain	B
-ZNR	115	Nighthawk Scavenger	B
-ZNR	116	Nimana Skitter-Sneak	B
-ZNR	117	Nimana Skydancer	B
-ZNR	118	Nullpriest of Oblivion	B
-ZNR	119	Oblivion's Hunger	B
-ZNR	120	Pelakka Predation // Pelakka Caverns	B
-ZNR	121	Scion of the Swarm	B
-ZNR	122	Scourge of the Skyclaves	B
-ZNR	123	Shadow Stinger	B
-ZNR	124	Shadows' Verdict	B
-ZNR	125	Skyclave Shade	B
-ZNR	126	Skyclave Shadowcat	B
-ZNR	127	Soul Shatter	B
-ZNR	128	Subtle Strike	B
-ZNR	129	Taborax, Hope's Demise	B
-ZNR	130	Thwart the Grave	B
-ZNR	131	Vanquish the Weak	B
-ZNR	132	Zof Consumption // Zof Bloodbog	B
-ZNR	133	Akoum Hellhound	R
-ZNR	134	Akoum Warrior // Akoum Teeth	R
-ZNR	135	Ardent Electromancer	R
-ZNR	136	Cinderclasm	R
-ZNR	137	Cleansing Wildfire	R
-ZNR	138	Expedition Champion	R
-ZNR	139	Fireblade Charger	R
-ZNR	140	Fissure Wizard	R
-ZNR	141	Goma Fada Vanguard	R
-ZNR	142	Grotag Bug-Catcher	R
-ZNR	143	Grotag Night-Runner	R
-ZNR	144	Inordinate Rage	R
-ZNR	145	Kargan Intimidator	R
-ZNR	146	Kazuul's Fury // Kazuul's Cliffs	R
-ZNR	147	Leyline Tyrant	R
-ZNR	148	Magmatic Channeler	R
-ZNR	149	Molten Blast	R
-ZNR	150	Moraug, Fury of Akoum	R
-ZNR	151	Nahiri's Lithoforming	R
-ZNR	152	Pyroclastic Hellion	R
-ZNR	153	Relic Robber	R
-ZNR	154	Rockslide Sorcerer	R
-ZNR	155	Roil Eruption	R
-ZNR	156	Roiling Vortex	R
-ZNR	157	Scavenged Blade	R
-ZNR	158	Scorch Rider	R
-ZNR	159	Shatterskull Charger	R
-ZNR	160	Shatterskull Minotaur	R
-ZNR	161	Shatterskull Smashing // Shatterskull, the Hammer Pass	R
-ZNR	162	Sizzling Barrage	R
-ZNR	163	Skyclave Geopede	R
-ZNR	164	Sneaking Guide	R
-ZNR	165	Song-Mad Treachery // Song-Mad Ruins	R
-ZNR	166	Spikefield Hazard // Spikefield Cave	R
-ZNR	167	Spitfire Lagac	R
-ZNR	168	Synchronized Spellcraft	R
-ZNR	169	Teeterpeak Ambusher	R
-ZNR	170	Thundering Rebuke	R
-ZNR	171	Thundering Sparkmage	R
-ZNR	172	Tormenting Voice	R
-ZNR	173	Tuktuk Rubblefort	R
-ZNR	174	Valakut Awakening // Valakut Stoneforge	R
-ZNR	175	Valakut Exploration	R
-ZNR	176	Wayward Guide-Beast	R
-ZNR	235	Ravager's Mace	B,R
-ZNR	241	Zagras, Thief of Heartbeats	B,R
-ZNR	243	Cliffhaven Kitesail	
-ZNR	244	Forsaken Monument	
-ZNR	245	Lithoform Engine	
-ZNR	246	Myriad Construct	
-ZNR	247	Relic Amulet	
-ZNR	248	Relic Axe	
-ZNR	249	Relic Golem	
-ZNR	250	Relic Vial	
-ZNR	251	Sea Gate Colossus	
-ZNR	252	Skyclave Relic	
-ZNR	253	Skyclave Sentinel	
-ZNR	254	Spare Supplies	
-ZNR	255	Stonework Packbeast	
-ZNR	256	Utility Knife	
-ZNR	257	Base Camp	
-ZNR	262	Crawling Barrens	
-ZNR	265	Throne of Makindi	
-ZNR	272	Swamp	B
-ZNR	275	Mountain	R
+ZNR	89	Acquisitions Expert	2.0	B
+ZNR	90	Agadeem's Awakening // Agadeem, the Undercrypt	3.0	B
+ZNR	133	Akoum Hellhound	1.0	R
+ZNR	134	Akoum Warrior // Akoum Teeth	6.0	R
+ZNR	135	Ardent Electromancer	3.0	R
+ZNR	257	Base Camp	0.0	
+ZNR	91	Blackbloom Rogue // Blackbloom Bog	3.0	B
+ZNR	92	Blood Beckoning	1.0	B
+ZNR	93	Blood Price	4.0	B
+ZNR	94	Bloodchief's Thirst	1.0	B
+ZNR	136	Cinderclasm	2.0	R
+ZNR	137	Cleansing Wildfire	2.0	R
+ZNR	243	Cliffhaven Kitesail	1.0	
+ZNR	95	Coveted Prize	5.0	B
+ZNR	262	Crawling Barrens	0.0	
+ZNR	96	Deadly Alliance	5.0	B
+ZNR	97	Demon's Disciple	3.0	B
+ZNR	99	Drana's Silencer	6.0	B
+ZNR	98	Drana, the Last Bloodchief	5.0	B
+ZNR	100	Dreadwurm	5.0	B
+ZNR	138	Expedition Champion	3.0	R
+ZNR	101	Expedition Skulker	2.0	B
+ZNR	102	Feed the Swarm	2.0	B
+ZNR	139	Fireblade Charger	1.0	R
+ZNR	140	Fissure Wizard	2.0	R
+ZNR	244	Forsaken Monument	5.0	
+ZNR	103	Ghastly Gloomhunter	2.0	B
+ZNR	141	Goma Fada Vanguard	2.0	R
+ZNR	142	Grotag Bug-Catcher	2.0	R
+ZNR	143	Grotag Night-Runner	3.0	R
+ZNR	104	Guul Draz Mucklord	3.0	B
+ZNR	105	Hagra Constrictor	3.0	B
+ZNR	106	Hagra Mauling // Hagra Broodpit	4.0	B
+ZNR	107	Highborn Vampire	4.0	B
+ZNR	144	Inordinate Rage	2.0	R
+ZNR	108	Inscription of Ruin	3.0	B
+ZNR	145	Kargan Intimidator	2.0	R
+ZNR	146	Kazuul's Fury // Kazuul's Cliffs	3.0	R
+ZNR	147	Leyline Tyrant	4.0	R
+ZNR	109	Lithoform Blight	2.0	B
+ZNR	245	Lithoform Engine	4.0	
+ZNR	148	Magmatic Channeler	2.0	R
+ZNR	110	Malakir Blood-Priest	2.0	B
+ZNR	111	Malakir Rebirth // Malakir Mire	1.0	B
+ZNR	112	Marauding Blight-Priest	3.0	B
+ZNR	113	Mind Carver	1.0	B
+ZNR	114	Mind Drain	3.0	B
+ZNR	149	Molten Blast	3.0	R
+ZNR	150	Moraug, Fury of Akoum	6.0	R
+ZNR	275	Mountain	0.0	R
+ZNR	246	Myriad Construct	4.0	
+ZNR	151	Nahiri's Lithoforming	2.0	R
+ZNR	115	Nighthawk Scavenger	3.0	B
+ZNR	116	Nimana Skitter-Sneak	4.0	B
+ZNR	117	Nimana Skydancer	3.0	B
+ZNR	118	Nullpriest of Oblivion	2.0	B
+ZNR	119	Oblivion's Hunger	2.0	B
+ZNR	120	Pelakka Predation // Pelakka Caverns	3.0	B
+ZNR	152	Pyroclastic Hellion	5.0	R
+ZNR	235	Ravager's Mace	3.0	B,R
+ZNR	247	Relic Amulet	2.0	
+ZNR	248	Relic Axe	2.0	
+ZNR	249	Relic Golem	3.0	
+ZNR	153	Relic Robber	3.0	R
+ZNR	250	Relic Vial	3.0	
+ZNR	154	Rockslide Sorcerer	4.0	R
+ZNR	155	Roil Eruption	2.0	R
+ZNR	156	Roiling Vortex	2.0	R
+ZNR	157	Scavenged Blade	2.0	R
+ZNR	121	Scion of the Swarm	5.0	B
+ZNR	158	Scorch Rider	4.0	R
+ZNR	122	Scourge of the Skyclaves	2.0	B
+ZNR	251	Sea Gate Colossus	7.0	
+ZNR	123	Shadow Stinger	3.0	B
+ZNR	124	Shadows' Verdict	5.0	B
+ZNR	159	Shatterskull Charger	3.0	R
+ZNR	160	Shatterskull Minotaur	6.0	R
+ZNR	161	Shatterskull Smashing // Shatterskull, the Hammer Pass	2.0	R
+ZNR	162	Sizzling Barrage	2.0	R
+ZNR	163	Skyclave Geopede	3.0	R
+ZNR	252	Skyclave Relic	3.0	
+ZNR	253	Skyclave Sentinel	3.0	
+ZNR	125	Skyclave Shade	2.0	B
+ZNR	126	Skyclave Shadowcat	4.0	B
+ZNR	164	Sneaking Guide	1.0	R
+ZNR	165	Song-Mad Treachery // Song-Mad Ruins	5.0	R
+ZNR	127	Soul Shatter	3.0	B
+ZNR	254	Spare Supplies	2.0	
+ZNR	166	Spikefield Hazard // Spikefield Cave	1.0	R
+ZNR	167	Spitfire Lagac	4.0	R
+ZNR	255	Stonework Packbeast	2.0	
+ZNR	128	Subtle Strike	2.0	B
+ZNR	272	Swamp	0.0	B
+ZNR	168	Synchronized Spellcraft	5.0	R
+ZNR	129	Taborax, Hope's Demise	3.0	B
+ZNR	169	Teeterpeak Ambusher	2.0	R
+ZNR	265	Throne of Makindi	0.0	
+ZNR	170	Thundering Rebuke	2.0	R
+ZNR	171	Thundering Sparkmage	4.0	R
+ZNR	130	Thwart the Grave	6.0	B
+ZNR	172	Tormenting Voice	2.0	R
+ZNR	173	Tuktuk Rubblefort	3.0	R
+ZNR	256	Utility Knife	1.0	
+ZNR	174	Valakut Awakening // Valakut Stoneforge	3.0	R
+ZNR	175	Valakut Exploration	3.0	R
+ZNR	131	Vanquish the Weak	3.0	B
+ZNR	176	Wayward Guide-Beast	1.0	R
+ZNR	241	Zagras, Thief of Heartbeats	6.0	B,R
+ZNR	132	Zof Consumption // Zof Bloodbog	6.0	B

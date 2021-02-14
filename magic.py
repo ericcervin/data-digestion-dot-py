@@ -1,15 +1,16 @@
-#data files from https://mtgjson.com/
+#json data files from https://mtgjson.com/downloads/all-sets/
 
 import json
 
-sets = ['KHM','M21','ZNR','IKO','THB','ELD']
+sets = ['GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
 
 def main():
     #files from https://mtgjson.com/
 
     set_data = load_set_data(sets)
     #print set_data.keys()
-    for k in set_data.keys():
+    print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
+    for k in sets:
         set_id = k
         name = set_data[k]['name']
         total_set_size = set_data[k]['total_set_size']
@@ -34,14 +35,16 @@ def brief_card_map(card_json):
            'number': card_json.get('number',''),
            'color_id': card_json.get('colorIdentity',''),
            'is_rakdos': isRakdos(card_json.get('colorIdentity','')),
-           'is_starter': card_json.get('isStarter','')
+           'is_starter': card_json.get('isStarter',''),
+           'cmc': card_json.get('convertedManaCost','')
           }
     
 def brief_card_text(card_map):
     return ('\t').join([
                  card_map['set_code'],
-                 card_map['number'],
+                 card_map['number'].replace('\u2605',''),
                  card_map['name'],
+                 str(card_map['cmc']),
                  #card_map['type'].encode("ascii","ignore"),
                  (',').join(card_map['color_id']),
                  #str(card_map['is_rakdos'])
@@ -76,10 +79,10 @@ def load_set_data(sets):
 
 
 def print_card_tsv(file_name,card_map):   
-    sorted_cards = sorted(card_map.items(), key=lambda x: int(x[1][0]['number']))
+    sorted_cards = sorted(card_map.items(), key=lambda x: x[1][0]['name'])
     #print(sorted_cards[0])
     with open("./resources/magic/OUT/" + file_name, "w") as card_file:
              for c in sorted_cards:                     
-               text = brief_card_text(c[1][0])
+               text = brief_card_text(c[1][0]).encode('utf-8')
                card_file.write(text)
 main()    

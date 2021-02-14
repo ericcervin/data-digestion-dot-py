@@ -1,0 +1,136 @@
+M20	124	Act of Treason	3.0	R
+M20	83	Agonizing Syphon	4.0	B
+M20	221	Anvilwrought Raptor	4.0	
+M20	84	Audacious Thief	3.0	B
+M20	222	Bag of Holding	1.0	
+M20	85	Barony Vampire	3.0	B
+M20	319	Bartizan Bats	4.0	B
+M20	86	Bladebrand	2.0	B
+M20	87	Blightbeetle	2.0	B
+M20	88	Blood Burglar	2.0	B
+M20	89	Blood for Bones	4.0	B
+M20	242	Bloodfell Caves	0.0	B,R
+M20	90	Bloodsoaked Altar	6.0	B
+M20	91	Bloodthirsty Aerialist	3.0	B
+M20	320	Bogstomper	6.0	B
+M20	92	Bone Splinters	1.0	B
+M20	93	Boneclad Necromancer	5.0	B
+M20	125	Cavalier of Flame	5.0	R
+M20	94	Cavalier of Night	5.0	B
+M20	129	Chandra's Embercat	2.0	R
+M20	295	Chandra's Flame Wave	5.0	R
+M20	130	Chandra's Outrage	4.0	R
+M20	131	Chandra's Regulator	2.0	R
+M20	132	Chandra's Spitfire	3.0	R
+M20	126	Chandra, Acolyte of Flame	3.0	R
+M20	127	Chandra, Awakened Inferno	6.0	R
+M20	294	Chandra, Flame's Fury	6.0	R
+M20	128	Chandra, Novice Pyromancer	4.0	R
+M20	223	Colossus Hammer	1.0	
+M20	244	Cryptic Caves	0.0	
+M20	133	Daggersail Aeronaut	4.0	R
+M20	321	Dark Remedy	2.0	B
+M20	134	Destructive Digger	3.0	R
+M20	224	Diamond Knight	3.0	
+M20	322	Disentomb	1.0	B
+M20	95	Disfigure	1.0	B
+M20	225	Diviner's Lockbox	4.0	
+M20	135	Dragon Mage	7.0	R
+M20	136	Drakuseth, Maw of Flames	7.0	R
+M20	96	Dread Presence	4.0	B
+M20	97	Duress	1.0	B
+M20	137	Ember Hauler	2.0	R
+M20	98	Embodiment of Agonies	3.0	B
+M20	328	Engulfing Eruption	4.0	R
+M20	99	Epicure of Blood	5.0	B
+M20	246	Evolving Wilds	0.0	
+M20	100	Fathom Fleet Cutthroat	4.0	B
+M20	329	Fearless Halberdier	3.0	R
+M20	101	Feral Abomination	6.0	B
+M20	247	Field of the Dead	0.0	
+M20	138	Fire Elemental	5.0	R
+M20	139	Flame Sweep	3.0	R
+M20	140	Fry	2.0	R
+M20	141	Glint-Horn Buccaneer	3.0	R
+M20	330	Goblin Assailant	2.0	R
+M20	142	Goblin Bird-Grabber	2.0	R
+M20	143	Goblin Ringleader	4.0	R
+M20	144	Goblin Smuggler	3.0	R
+M20	102	Gorging Vulture	3.0	B
+M20	227	Grafdigger's Cage	1.0	
+M20	103	Gravedigger	4.0	B
+M20	323	Gravewaker	6.0	B
+M20	104	Gruesome Scourger	5.0	B
+M20	228	Heart-Piercer Bow	2.0	
+M20	331	Hostile Minotaur	4.0	R
+M20	229	Icon of Ancestry	3.0	
+M20	332	Immortal Phoenix	6.0	R
+M20	145	Infuriate	1.0	R
+M20	146	Keldon Raider	4.0	R
+M20	105	Knight of the Ebon Legion	1.0	B
+M20	147	Lavakin Brawler	4.0	R
+M20	106	Legion's End	2.0	B
+M20	148	Leyline of Combustion	4.0	R
+M20	107	Leyline of the Void	4.0	B
+M20	249	Lotus Field	0.0	
+M20	149	Maniacal Rage	2.0	R
+M20	230	Manifold Key	1.0	
+M20	231	Marauder's Axe	2.0	
+M20	150	Marauding Raptor	2.0	R
+M20	151	Mask of Immolation	2.0	R
+M20	232	Meteor Golem	7.0	
+M20	108	Mind Rot	3.0	B
+M20	273	Mountain	0.0	R
+M20	109	Murder	3.0	B
+M20	233	Mystic Forge	4.0	
+M20	333	Nimble Birdsticker	3.0	R
+M20	110	Noxious Grasp	2.0	B
+M20	215	Ogre Siegebreaker	4.0	B,R
+M20	152	Pack Mastiff	2.0	R
+M20	234	Pattern Matcher	4.0	
+M20	235	Prismite	2.0	
+M20	296	Pyroclastic Elemental	5.0	R
+M20	153	Rapacious Dragon	5.0	R
+M20	154	Reckless Air Strike	1.0	R
+M20	155	Reduce to Ashes	5.0	R
+M20	156	Repeated Reverberation	4.0	R
+M20	236	Retributive Wand	3.0	
+M20	157	Ripscale Predator	6.0	R
+M20	111	Rotting Regisaur	3.0	B
+M20	334	Rubblebelt Recluse	5.0	R
+M20	237	Salvager of Ruin	3.0	
+M20	112	Sanitarium Skeleton	1.0	B
+M20	291	Savage Gorger	3.0	B
+M20	158	Scampering Scorcher	4.0	R
+M20	113	Scheming Symmetry	1.0	B
+M20	159	Scorch Spitter	1.0	R
+M20	238	Scuttlemutt	3.0	
+M20	335	Shivan Dragon	6.0	R
+M20	160	Shock	1.0	R
+M20	324	Skeleton Archer	4.0	B
+M20	114	Sorcerer of the Fang	2.0	B
+M20	292	Sorin's Guide	5.0	B
+M20	325	Sorin's Thirst	2.0	B
+M20	115	Sorin, Imperious Bloodlord	3.0	B
+M20	290	Sorin, Vampire Lord	6.0	B
+M20	116	Soul Salvage	3.0	B
+M20	239	Steel Overseer	2.0	
+M20	240	Stone Golem	5.0	
+M20	269	Swamp	0.0	B
+M20	161	Tectonic Rift	4.0	R
+M20	293	Thirsting Bloodlord	4.0	B
+M20	117	Thought Distortion	6.0	B
+M20	162	Thunderkin Awakener	2.0	R
+M20	163	Uncaged Fury	3.0	R
+M20	164	Unchained Berserker	2.0	R
+M20	118	Undead Servant	4.0	B
+M20	119	Unholy Indenture	3.0	B
+M20	326	Vampire Opportunist	2.0	B
+M20	120	Vampire of the Dire Moon	1.0	B
+M20	121	Vengeful Warchief	5.0	B
+M20	241	Vial of Dragonfire	2.0	
+M20	122	Vilis, Broker of Blood	8.0	B
+M20	336	Volcanic Dragon	6.0	R
+M20	327	Walking Corpse	2.0	B
+M20	297	Wildfire Elemental	4.0	R
+M20	123	Yarok's Fenlurker	2.0	B

@@ -1,0 +1,265 @@
+WAR	113	Ahn-Crop Invader	3.0	R
+WAR	76	Aid the Fallen	2.0	B
+WAR	4	Ajani's Pridemate	2.0	W
+WAR	184	Ajani, the Greathearted	4.0	G,W
+WAR	185	Angrath's Rampage	2.0	B,R
+WAR	227	Angrath, Captain of Chaos	4.0	B,R
+WAR	149	Arboreal Grazer	1.0	G
+WAR	151	Arlinn's Wolf	3.0	G
+WAR	150	Arlinn, Voice of the Pack	6.0	G
+WAR	40	Ashiok's Skulker	5.0	U
+WAR	228	Ashiok, Dream Render	3.0	B,U
+WAR	41	Augur of Bolas	2.0	U
+WAR	42	Aven Eternal	3.0	U
+WAR	152	Awakening of Vitu-Ghazi	5.0	G
+WAR	153	Band Together	3.0	G
+WAR	77	Banehound	1.0	B
+WAR	5	Battlefield Promotion	2.0	W
+WAR	186	Bioessence Hydra	5.0	G,U
+WAR	244	Blast Zone	0.0	
+WAR	78	Bleeding Edge	3.0	B
+WAR	114	Blindblast	3.0	R
+WAR	154	Bloom Hulk	4.0	G
+WAR	79	Bolas's Citadel	6.0	B
+WAR	115	Bolt Bend	4.0	R
+WAR	6	Bond of Discipline	5.0	W
+WAR	155	Bond of Flourishing	2.0	G
+WAR	43	Bond of Insight	4.0	U
+WAR	116	Bond of Passion	6.0	R
+WAR	80	Bond of Revival	5.0	B
+WAR	7	Bulwark Giant	6.0	W
+WAR	117	Burning Prophet	2.0	R
+WAR	44	Callous Dismissal	2.0	U
+WAR	187	Casualties of War	6.0	B,G
+WAR	156	Centaur Nurturer	4.0	G
+WAR	118	Chainwhip Cyclops	5.0	R
+WAR	157	Challenger Troll	5.0	G
+WAR	120	Chandra's Pyrohelix	2.0	R
+WAR	121	Chandra's Triumph	2.0	R
+WAR	119	Chandra, Fire Artisan	4.0	R
+WAR	81	Charity Extractor	4.0	B
+WAR	8	Charmed Stray	1.0	W
+WAR	82	Command the Dreadhorde	6.0	B
+WAR	45	Commence the Endgame	6.0	U
+WAR	46	Contentious Plan	2.0	U
+WAR	158	Courage in Crisis	3.0	G
+WAR	188	Cruel Celebrant	2.0	B,W
+WAR	47	Crush Dissent	4.0	U
+WAR	122	Cyclops Electromancer	5.0	R
+WAR	84	Davriel's Shadowfugue	4.0	B
+WAR	83	Davriel, Rogue Shadowmage	3.0	B
+WAR	189	Deathsprout	4.0	B,G
+WAR	9	Defiant Strike	1.0	W
+WAR	85	Deliver Unto Evil	3.0	B
+WAR	123	Demolish	4.0	R
+WAR	190	Despark	2.0	B,W
+WAR	266	Desperate Lunge	2.0	W
+WAR	124	Devouring Hellion	3.0	R
+WAR	10	Divine Arrow	2.0	W
+WAR	192	Domri's Ambush	2.0	G,R
+WAR	191	Domri, Anarch of Bolas	3.0	G,R
+WAR	193	Dovin's Veto	2.0	U,W
+WAR	229	Dovin, Hand of Control	3.0	U,W
+WAR	125	Dreadhorde Arcanist	2.0	R
+WAR	194	Dreadhorde Butcher	2.0	B,R
+WAR	86	Dreadhorde Invasion	2.0	B
+WAR	126	Dreadhorde Twins	4.0	R
+WAR	87	Dreadmalkin	1.0	B
+WAR	88	Duskmantle Operative	2.0	B
+WAR	195	Elite Guardmage	4.0	U,W
+WAR	245	Emergence Zone	0.0	
+WAR	11	Enforcer Griffin	5.0	W
+WAR	196	Enter the God-Eternals	5.0	B,U
+WAR	48	Erratic Visionary	2.0	U
+WAR	49	Eternal Skylord	5.0	U
+WAR	90	Eternal Taskmaster	2.0	B
+WAR	159	Evolution Sage	3.0	G
+WAR	50	Fblthp, the Lost	2.0	U
+WAR	197	Feather, the Redeemed	3.0	R,W
+WAR	160	Finale of Devastation	2.0	G
+WAR	91	Finale of Eternity	2.0	B
+WAR	12	Finale of Glory	2.0	W
+WAR	127	Finale of Promise	2.0	R
+WAR	51	Finale of Revelation	2.0	U
+WAR	237	Firemind Vessel	4.0	
+WAR	52	Flux Channeler	3.0	U
+WAR	161	Forced Landing	2.0	G
+WAR	262	Forest	0.0	G
+WAR	246	Gateway Plaza	0.0	
+WAR	162	Giant Growth	1.0	G
+WAR	13	Gideon Blackblade	3.0	W
+WAR	267	Gideon's Battle Cry	4.0	W
+WAR	268	Gideon's Company	4.0	W
+WAR	14	Gideon's Sacrifice	1.0	W
+WAR	15	Gideon's Triumph	2.0	W
+WAR	265	Gideon, the Oathsworn	6.0	W
+WAR	198	Gleaming Overseer	3.0	B,U
+WAR	128	Goblin Assailant	2.0	R
+WAR	129	Goblin Assault Team	4.0	R
+WAR	92	God-Eternal Bontu	5.0	B
+WAR	53	God-Eternal Kefnet	4.0	U
+WAR	16	God-Eternal Oketra	5.0	W
+WAR	163	God-Eternal Rhonas	5.0	G
+WAR	238	God-Pharaoh's Statue	6.0	
+WAR	17	Grateful Apparition	2.0	W
+WAR	130	Grim Initiate	1.0	R
+WAR	239	Guild Globe	2.0	
+WAR	271	Guildpact Informant	3.0	U
+WAR	131	Heartfire	2.0	R
+WAR	199	Heartwarming Redemption	4.0	R,W
+WAR	93	Herald of the Dreadhorde	4.0	B
+WAR	132	Honor the God-Pharaoh	3.0	R
+WAR	200	Huatli's Raptor	2.0	G,W
+WAR	230	Huatli, the Sun's Heart	3.0	G,W
+WAR	18	Ignite the Beacon	5.0	W
+WAR	133	Ilharg, the Raze-Boar	5.0	R
+WAR	247	Interplanar Beacon	0.0	
+WAR	201	Invade the City	3.0	R,U
+WAR	134	Invading Manticore	6.0	R
+WAR	240	Iron Bully	3.0	
+WAR	19	Ironclad Krovod	4.0	W
+WAR	253	Island	0.0	U
+WAR	272	Jace's Projection	4.0	U
+WAR	273	Jace's Ruse	5.0	U
+WAR	55	Jace's Triumph	3.0	U
+WAR	270	Jace, Arcane Strategist	6.0	U
+WAR	54	Jace, Wielder of Mysteries	4.0	U
+WAR	136	Jaya's Greeting	2.0	R
+WAR	135	Jaya, Venerated Firemage	5.0	R
+WAR	164	Jiang Yanggu, Wildcrafter	3.0	G
+WAR	248	Karn's Bastion	0.0	
+WAR	1	Karn, the Great Creator	4.0	
+WAR	57	Kasmina's Transmutation	2.0	U
+WAR	56	Kasmina, Enigmatic Mentor	4.0	U
+WAR	94	Kaya's Ghostform	1.0	B
+WAR	231★	Kaya, Bane of the Dead	6.0	B,W
+WAR	58	Kiora's Dambreaker	6.0	U
+WAR	232	Kiora, Behemoth Beckoner	3.0	G,U
+WAR	165	Kraul Stinger	3.0	G
+WAR	137	Krenko, Tin Street Kingpin	3.0	R
+WAR	166	Kronch Wrangler	2.0	G
+WAR	20	Law-Rune Enforcer	1.0	W
+WAR	95	Lazotep Behemoth	5.0	B
+WAR	59	Lazotep Plating	2.0	U
+WAR	96	Lazotep Reaver	2.0	B
+WAR	202	Leyline Prowler	3.0	B,G
+WAR	98	Liliana's Triumph	2.0	B
+WAR	97	Liliana, Dreadhorde General	6.0	B
+WAR	203	Living Twister	3.0	G,R
+WAR	21	Loxodon Sergeant	4.0	W
+WAR	22	Makeshift Battalion	3.0	W
+WAR	241	Mana Geode	3.0	
+WAR	23	Martyr for the Cause	2.0	W
+WAR	99	Massacre Girl	5.0	B
+WAR	204	Mayhem Devil	3.0	B,R
+WAR	205	Merfolk Skydiver	2.0	G,U
+WAR	138	Mizzium Tank	3.0	R
+WAR	249	Mobilized District	0.0	
+WAR	259	Mountain	0.0	R
+WAR	167	Mowu, Loyal Companion	4.0	G
+WAR	60	Naga Eternal	3.0	U
+WAR	139	Nahiri's Stoneblades	2.0	R
+WAR	233	Nahiri, Storm of Stone	4.0	R,W
+WAR	62	Narset's Reversal	2.0	U
+WAR	61	Narset, Parter of Veils	3.0	U
+WAR	140	Neheb, Dreadhorde Champion	4.0	R
+WAR	206	Neoform	2.0	G,U
+WAR	168	New Horizons	3.0	G
+WAR	207	Nicol Bolas, Dragon-God	5.0	B,R,U
+WAR	170	Nissa's Triumph	2.0	G
+WAR	169	Nissa, Who Shakes the World	5.0	G
+WAR	208	Niv-Mizzet Reborn	5.0	B,G,R,U,W
+WAR	63	No Escape	3.0	U
+WAR	209	Oath of Kaya	3.0	B,W
+WAR	101	Ob Nixilis's Cruelty	3.0	B
+WAR	100	Ob Nixilis, the Hate-Twisted	5.0	B
+WAR	269	Orzhov Guildgate	0.0	B,W
+WAR	171	Paradise Druid	2.0	G
+WAR	24	Parhelion II	8.0	W
+WAR	250	Plains	0.0	W
+WAR	172	Planewide Celebration	7.0	G
+WAR	210	Pledge of Unity	3.0	G,W
+WAR	173	Pollenbright Druid	2.0	G
+WAR	25	Pouncing Lynx	2.0	W
+WAR	102	Price of Betrayal	1.0	B
+WAR	174	Primordial Wurm	6.0	G
+WAR	242	Prismite	2.0	
+WAR	26	Prison Realm	3.0	W
+WAR	141	Raging Kronch	3.0	R
+WAR	212	Ral's Outburst	4.0	R,U
+WAR	211	Ral, Storm Conduit	4.0	R,U
+WAR	27	Rally of Wings	2.0	W
+WAR	28	Ravnica at War	4.0	W
+WAR	64	Relentless Advance	4.0	U
+WAR	65	Rescuer Sphinx	4.0	U
+WAR	175	Return to Nature	2.0	G
+WAR	29	Rising Populace	3.0	W
+WAR	213	Roalesk, Apex Hybrid	5.0	G,U
+WAR	214	Role Reversal	3.0	R,U
+WAR	215	Rubblebelt Rioters	3.0	G,R
+WAR	243	Saheeli's Silverwing	4.0	
+WAR	234	Saheeli, Sublime Artificer	3.0	R,U
+WAR	142	Samut's Sprint	1.0	R
+WAR	235	Samut, Tyrant Smasher	4.0	G,R
+WAR	143	Sarkhan the Masterless	5.0	R
+WAR	144	Sarkhan's Catharsis	5.0	R
+WAR	103	Shriekdiver	3.0	B
+WAR	66	Silent Submersible	2.0	U
+WAR	274	Simic Guildgate	0.0	G,U
+WAR	30	Single Combat	5.0	W
+WAR	67	Sky Theater Strix	2.0	U
+WAR	176	Snarespinner	2.0	G
+WAR	216	Solar Blaze	4.0	R,W
+WAR	104	Sorin's Thirst	2.0	B
+WAR	217	Sorin, Vengeful Bloodlord	4.0	B,W
+WAR	218	Soul Diviner	2.0	B,U
+WAR	68	Spark Double	4.0	U
+WAR	105	Spark Harvest	1.0	B
+WAR	106	Spark Reaper	3.0	B
+WAR	145	Spellgorger Weird	3.0	R
+WAR	69	Spellkeeper Weird	3.0	U
+WAR	177	Steady Aim	2.0	G
+WAR	70	Stealth Mission	3.0	U
+WAR	178	Storm the Citadel	5.0	G
+WAR	219	Storrev, Devkarin Lich	4.0	B,G
+WAR	31	Sunblade Angel	6.0	W
+WAR	256	Swamp	0.0	B
+WAR	71	Tamiyo's Epiphany	4.0	U
+WAR	220	Tamiyo, Collector of Tales	4.0	G,U
+WAR	72	Teferi's Time Twist	2.0	U
+WAR	221	Teferi, Time Raveler	3.0	U,W
+WAR	222	Tenth District Legionnaire	2.0	R,W
+WAR	33	Teyo's Lightshield	3.0	W
+WAR	32	Teyo, the Shieldmage	3.0	W
+WAR	275	Tezzeret, Master of the Bridge	6.0	B,U
+WAR	89	The Elderspell	2.0	B
+WAR	37	The Wanderer	4.0	W
+WAR	73	Thunder Drake	4.0	U
+WAR	179	Thundering Ceratok	5.0	G
+WAR	147	Tibalt's Rager	2.0	R
+WAR	146★	Tibalt, Rakish Instigator	3.0	R
+WAR	223	Time Wipe	5.0	U,W
+WAR	107	Tithebearer Giant	6.0	B
+WAR	108	Toll of the Invasion	3.0	B
+WAR	224	Tolsimir, Friend to Wolves	5.0	G,W
+WAR	34	Tomik, Distinguished Advokist	2.0	W
+WAR	35	Topple the Statue	3.0	W
+WAR	74	Totally Lost	5.0	U
+WAR	36	Trusted Pegasus	3.0	W
+WAR	148	Turret Ogre	4.0	R
+WAR	225	Tyrant's Scorn	2.0	B,U
+WAR	3	Ugin's Conjurant	0.0	
+WAR	2	Ugin, the Ineffable	6.0	
+WAR	109	Unlikely Aid	2.0	B
+WAR	110	Vampire Opportunist	2.0	B
+WAR	181	Vivien's Arkbow	2.0	G
+WAR	182	Vivien's Grizzly	3.0	G
+WAR	180	Vivien, Champion of the Wilds	3.0	G
+WAR	111	Vizier of the Scorpion	3.0	B
+WAR	112	Vraska's Finisher	3.0	B
+WAR	236	Vraska, Swarm's Eminence	4.0	B,G
+WAR	75	Wall of Runes	1.0	U
+WAR	38	Wanderer's Strike	5.0	W
+WAR	39	War Screecher	2.0	W
+WAR	183	Wardscale Crocodile	5.0	G
+WAR	226	Widespread Brutality	4.0	B,R

@@ -1,0 +1,91 @@
+RNA	91	Act of Treason	3.0	R
+RNA	92	Amplifire	4.0	R
+RNA	61	Awaken the Erstwhile	5.0	B
+RNA	62	Bankrupt in Blood	2.0	B
+RNA	221	Bedeck // Bedazzle	8.0	B,R
+RNA	157	Bedevil	3.0	B,R
+RNA	63	Blade Juggler	5.0	B
+RNA	64	Bladebrand	2.0	B
+RNA	245	Blood Crypt	0.0	B,R
+RNA	65	Bloodmist Infiltrator	3.0	B
+RNA	93	Burn Bright	3.0	R
+RNA	94	Burning-Tree Vandal	3.0	R
+RNA	160	Captive Audience	7.0	B,R
+RNA	222	Carnival // Carnage	5.0	B,R
+RNA	66	Carrion Imp	4.0	B
+RNA	67	Catacomb Crocodile	5.0	B
+RNA	95	Cavalcade of Calamity	2.0	R
+RNA	96	Clamor Shaman	3.0	R
+RNA	68	Clear the Stage	5.0	B
+RNA	69	Consign to the Pit	6.0	B
+RNA	70	Cry of the Carnarium	3.0	B
+RNA	164	Cult Guildmage	2.0	B,R
+RNA	97	Dagger Caster	4.0	R
+RNA	71	Dead Revels	4.0	B
+RNA	72	Debtors' Transport	6.0	B
+RNA	98	Deface	1.0	R
+RNA	268	Dovin's Automaton	4.0	
+RNA	73	Drill Bit	3.0	B
+RNA	99	Electrodominance	2.0	R
+RNA	100	Feral Maaka	2.0	R
+RNA	172	Fireblade Artist	2.0	B,R
+RNA	101	Flames of the Raze-Boar	6.0	R
+RNA	74	Font of Agonies	1.0	B
+RNA	216	Footlight Fiend	1.0	B,R
+RNA	232	Gate Colossus	8.0	
+RNA	102	Gates Ablaze	3.0	R
+RNA	247	Gateway Plaza	0.0	
+RNA	176	Get the Point	5.0	B,R
+RNA	103	Ghor-Clan Wrecker	4.0	R
+RNA	233	Glass of the Guildpact	2.0	
+RNA	104	Goblin Gathering	3.0	R
+RNA	75	Grotesque Demise	3.0	B
+RNA	76	Gutterbones	1.0	B
+RNA	181	Hackrobat	3.0	B,R
+RNA	77	Ill-Gotten Inheritance	4.0	B
+RNA	106	Immolation Shaman	2.0	R
+RNA	185	Judith, the Scourge Diva	3.0	B,R
+RNA	235	Junktroller	4.0	
+RNA	107	Light Up the Stage	3.0	R
+RNA	191	Macabre Mockery	4.0	B,R
+RNA	108	Mirror March	6.0	R
+RNA	263	Mountain	0.0	R
+RNA	78	Noxious Groodion	3.0	B
+RNA	79	Orzhov Enforcer	2.0	B
+RNA	80	Orzhov Racketeers	5.0	B
+RNA	81	Pestilent Spirit	3.0	B
+RNA	82	Plague Wight	2.0	B
+RNA	254	Plaza of Harmony	0.0	
+RNA	83	Priest of Forgotten Gods	2.0	B
+RNA	196	Rafter Demon	4.0	B,R
+RNA	270	Ragefire	2.0	R
+RNA	197	Rakdos Firewheeler	4.0	B,R
+RNA	255	Rakdos Guildgate	0.0	B,R
+RNA	237	Rakdos Locket	3.0	B,R
+RNA	198	Rakdos Roustabout	3.0	B,R
+RNA	84	Rakdos Trumpeter	2.0	B,R
+RNA	199	Rakdos, the Showstopper	6.0	B,R
+RNA	109	Rix Maadi Reveler	2.0	B,R
+RNA	110	Rubble Reading	4.0	R
+RNA	111	Rubblebelt Recluse	5.0	R
+RNA	112	Rumbling Ruin	6.0	R
+RNA	113	Scorchmark	2.0	R
+RNA	238	Scrabbling Claws	1.0	
+RNA	239	Screaming Shield	1.0	
+RNA	114	Skarrgan Hellkite	5.0	R
+RNA	115	Skewer the Critics	3.0	R
+RNA	116	Smelt-Ward Ignus	2.0	R
+RNA	85	Spawn of Mayhem	4.0	B
+RNA	117	Spear Spewer	1.0	R
+RNA	118	Spikewheel Acrobat	4.0	R
+RNA	86	Spire Mangler	3.0	B
+RNA	119	Storm Strike	1.0	R
+RNA	262	Swamp	0.0	B
+RNA	273	The Haunt of Hightower	6.0	B
+RNA	213	Theater of Horrors	3.0	B,R
+RNA	87	Thirsting Shade	1.0	B
+RNA	120	Tin Street Dodger	1.0	R
+RNA	242	Tome of the Guildpact	5.0	
+RNA	88	Undercity Scavenger	4.0	B
+RNA	89	Undercity's Embrace	3.0	B
+RNA	90	Vindictive Vampire	4.0	B

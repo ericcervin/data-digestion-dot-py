@@ -1,82 +1,82 @@
-IKO	1	Adaptive Shimmerer	
-IKO	2	Farfinder	
-IKO	3	Mysterious Egg	
-IKO	73	Bastion of Remembrance	B
-IKO	74	Blitz Leech	B
-IKO	75	Blood Curdle	B
-IKO	76	Boot Nipper	B
-IKO	77	Bushmeat Poacher	B
-IKO	78	Call of the Death-Dweller	B
-IKO	79	Cavern Whisperer	B
-IKO	80	Chittering Harvester	B
-IKO	81	Corpse Churn	B
-IKO	82	Dark Bargain	B
-IKO	83	Dead Weight	B
-IKO	84	Dirge Bat	B
-IKO	85	Durable Coilbug	B
-IKO	86	Duskfang Mentor	B
-IKO	87	Easy Prey	B
-IKO	88	Extinction Event	B
-IKO	89	Gloom Pangolin	B
-IKO	90	Grimdancer	B
-IKO	91	Heartless Act	B
-IKO	92	Hunted Nightmare	B
-IKO	93	Insatiable Hemophage	B
-IKO	94	Lurking Deadeye	B
-IKO	95	Memory Leak	B
-IKO	96	Mutual Destruction	B
-IKO	98	Nightsquad Commando	B
-IKO	99	Serrated Scorpion	B
-IKO	100	Suffocating Fumes	B
-IKO	101	Unbreakable Bond	B
-IKO	102	Unexpected Fangs	B
-IKO	103	Unlikely Aid	B
-IKO	104	Void Beckoner	B
-IKO	105	Whisper Squad	B
-IKO	106	Zagoth Mamba	B
-IKO	107	Blazing Volley	R
-IKO	108	Blisterspit Gremlin	R
-IKO	109	Blitz of the Thunder-Raptor	R
-IKO	110	Cathartic Reunion	R
-IKO	111	Clash of Titans	R
-IKO	112	Cloudpiercer	R
-IKO	113	Drannith Stinger	R
-IKO	114	Everquill Phoenix	R
-IKO	115	Ferocious Tigorilla	R
-IKO	116	Fire Prophecy	R
-IKO	117	Flame Spill	R
-IKO	118	Footfall Crater	R
-IKO	119	Forbidden Friendship	R
-IKO	120	Frenzied Raptor	R
-IKO	121	Frillscare Mentor	R
-IKO	122	Go for Blood	R
-IKO	123	Heightened Reflexes	R
-IKO	124	Lava Serpent	R
-IKO	125	Lukka, Coppercoat Outcast	R
-IKO	126	Momentum Rumbler	R
-IKO	128	Porcuparrot	R
-IKO	129	Prickly Marmoset	R
-IKO	130	Pyroceratops	R
-IKO	131	Raking Claws	R
-IKO	132	Reptilian Reflection	R
-IKO	133	Rooting Moloch	R
-IKO	134	Rumbling Rockslide	R
-IKO	135	Sanctuary Smasher	R
-IKO	136	Shredded Sails	R
-IKO	137	Spelleater Wolverine	R
-IKO	138	Tentative Connection	R
-IKO	139	Unpredictable Cyclone	R
-IKO	140	Weaponize the Monsters	R
-IKO	141	Yidaro, Wandering Monster	R
-IKO	193	Labyrinth Raptor	B,R
-IKO	228	Obosh, the Preypiercer	B,R
-IKO	230	Sonorous Howlbonder	B,R
-IKO	234	Crystalline Giant	
-IKO	237	The Ozolith	
-IKO	240	Sleeper Dart	
-IKO	241	Springjaw Trap	
-IKO	243	Bloodfell Caves	B,R
-IKO	245	Bonders' Enclave	
-IKO	247	Evolving Wilds	
-IKO	266	Swamp	B
-IKO	269	Mountain	R
+IKO	1	Adaptive Shimmerer	5.0	
+IKO	73	Bastion of Remembrance	3.0	B
+IKO	107	Blazing Volley	1.0	R
+IKO	108	Blisterspit Gremlin	1.0	R
+IKO	74	Blitz Leech	6.0	B
+IKO	109	Blitz of the Thunder-Raptor	2.0	R
+IKO	75	Blood Curdle	4.0	B
+IKO	243	Bloodfell Caves	0.0	B,R
+IKO	245	Bonders' Enclave	0.0	
+IKO	76	Boot Nipper	2.0	B
+IKO	77	Bushmeat Poacher	4.0	B
+IKO	78	Call of the Death-Dweller	3.0	B
+IKO	110	Cathartic Reunion	2.0	R
+IKO	79	Cavern Whisperer	5.0	B
+IKO	80	Chittering Harvester	6.0	B
+IKO	111	Clash of Titans	5.0	R
+IKO	112	Cloudpiercer	5.0	R
+IKO	81	Corpse Churn	2.0	B
+IKO	234	Crystalline Giant	3.0	
+IKO	82	Dark Bargain	4.0	B
+IKO	83	Dead Weight	1.0	B
+IKO	84	Dirge Bat	4.0	B
+IKO	113	Drannith Stinger	2.0	R
+IKO	85	Durable Coilbug	2.0	B
+IKO	86	Duskfang Mentor	3.0	B
+IKO	87	Easy Prey	2.0	B
+IKO	114	Everquill Phoenix	4.0	R
+IKO	247	Evolving Wilds	0.0	
+IKO	88	Extinction Event	4.0	B
+IKO	2	Farfinder	3.0	
+IKO	115	Ferocious Tigorilla	4.0	R
+IKO	116	Fire Prophecy	2.0	R
+IKO	117	Flame Spill	3.0	R
+IKO	118	Footfall Crater	1.0	R
+IKO	119	Forbidden Friendship	2.0	R
+IKO	120	Frenzied Raptor	3.0	R
+IKO	121	Frillscare Mentor	3.0	R
+IKO	89	Gloom Pangolin	3.0	B
+IKO	122	Go for Blood	2.0	R
+IKO	90	Grimdancer	3.0	B
+IKO	91	Heartless Act	2.0	B
+IKO	123	Heightened Reflexes	1.0	R
+IKO	92	Hunted Nightmare	3.0	B
+IKO	93	Insatiable Hemophage	4.0	B
+IKO	193	Labyrinth Raptor	2.0	B,R
+IKO	124	Lava Serpent	6.0	R
+IKO	125	Lukka, Coppercoat Outcast	5.0	R
+IKO	94	Lurking Deadeye	4.0	B
+IKO	95	Memory Leak	3.0	B
+IKO	126	Momentum Rumbler	4.0	R
+IKO	269	Mountain	0.0	R
+IKO	96	Mutual Destruction	1.0	B
+IKO	3	Mysterious Egg	1.0	
+IKO	98	Nightsquad Commando	3.0	B
+IKO	228	Obosh, the Preypiercer	5.0	B,R
+IKO	128	Porcuparrot	4.0	R
+IKO	129	Prickly Marmoset	3.0	R
+IKO	130	Pyroceratops	4.0	R
+IKO	131	Raking Claws	2.0	R
+IKO	132	Reptilian Reflection	3.0	R
+IKO	133	Rooting Moloch	5.0	R
+IKO	134	Rumbling Rockslide	4.0	R
+IKO	135	Sanctuary Smasher	6.0	R
+IKO	99	Serrated Scorpion	1.0	B
+IKO	136	Shredded Sails	2.0	R
+IKO	240	Sleeper Dart	2.0	
+IKO	230	Sonorous Howlbonder	3.0	B,R
+IKO	137	Spelleater Wolverine	3.0	R
+IKO	241	Springjaw Trap	1.0	
+IKO	100	Suffocating Fumes	3.0	B
+IKO	266	Swamp	0.0	B
+IKO	138	Tentative Connection	4.0	R
+IKO	237	The Ozolith	1.0	
+IKO	101	Unbreakable Bond	5.0	B
+IKO	102	Unexpected Fangs	2.0	B
+IKO	103	Unlikely Aid	2.0	B
+IKO	139	Unpredictable Cyclone	5.0	R
+IKO	104	Void Beckoner	8.0	B
+IKO	140	Weaponize the Monsters	1.0	R
+IKO	105	Whisper Squad	1.0	B
+IKO	141	Yidaro, Wandering Monster	7.0	R
+IKO	106	Zagoth Mamba	1.0	B

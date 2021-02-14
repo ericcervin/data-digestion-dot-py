@@ -1,273 +1,273 @@
-THB	1	Alseid of Life's Bounty	W
-THB	2	Archon of Falling Stars	W
-THB	3	Archon of Sun's Grace	W
-THB	4	Banishing Light	W
-THB	5	The Birth of Meletis	W
-THB	6	Captivating Unicorn	W
-THB	7	Commanding Presence	W
-THB	8	Dawn Evangel	W
-THB	9	Daxos, Blessed by the Sun	W
-THB	10	Daybreak Chimera	W
-THB	11	Dreadful Apathy	W
-THB	12	Eidolon of Obstruction	W
-THB	13	Elspeth Conquers Death	W
-THB	14	Elspeth, Sun's Nemesis	W
-THB	15	Favored of Iroas	W
-THB	16	Flicker of Fate	W
-THB	17	Glory Bearers	W
-THB	18	Heliod, Sun-Crowned	W
-THB	19	Heliod's Intervention	W
-THB	20	Heliod's Pilgrim	W
-THB	21	Heliod's Punishment	W
-THB	22	Hero of the Pride	W
-THB	23	Hero of the Winds	W
-THB	24	Idyllic Tutor	W
-THB	25	Indomitable Will	W
-THB	26	Karametra's Blessing	W
-THB	27	Lagonna-Band Storyteller	W
-THB	28	Leonin of the Lost Pride	W
-THB	29	Nyxborn Courser	W
-THB	30	Omen of the Sun	W
-THB	31	Phalanx Tactics	W
-THB	32	Pious Wayfarer	W
-THB	33	Reverent Hoplite	W
-THB	34	Revoke Existence	W
-THB	35	Rumbling Sentry	W
-THB	36	Sentinel's Eyes	W
-THB	37	Shatter the Sky	W
-THB	38	Sunmane Pegasus	W
-THB	39	Taranika, Akroan Veteran	W
-THB	40	Transcendent Envoy	W
-THB	41	Triumphant Surge	W
-THB	42	Alirios, Enraptured	U
-THB	43	Ashiok's Erasure	U
-THB	44	Brine Giant	U
-THB	45	Callaphe, Beloved of the Sea	U
-THB	46	Chain to Memory	U
-THB	47	Deny the Divine	U
-THB	48	Eidolon of Philosophy	U
-THB	49	Elite Instructor	U
-THB	50	Glimpse of Freedom	U
-THB	51	Ichthyomorphosis	U
-THB	52	Kiora Bests the Sea God	U
-THB	53	Medomai's Prophecy	U
-THB	54	Memory Drain	U
-THB	55	Nadir Kraken	U
-THB	56	Naiad of Hidden Coves	U
-THB	57	Nyxborn Seaguard	U
-THB	58	Omen of the Sea	U
-THB	59	One with the Stars	U
-THB	60	Protean Thaumaturge	U
-THB	61	Riptide Turtle	U
-THB	62	Sage of Mysteries	U
-THB	63	Sea God's Scorn	U
-THB	64	Shimmerwing Chimera	U
-THB	65	Shoal Kraken	U
-THB	66	Sleep of the Dead	U
-THB	67	Starlit Mantle	U
-THB	68	Stern Dismissal	U
-THB	69	Stinging Lionfish	U
-THB	70	Sweet Oblivion	U
-THB	71	Thassa, Deep-Dwelling	U
-THB	72	Thassa's Intervention	U
-THB	73	Thassa's Oracle	U
-THB	74	Thirst for Meaning	U
-THB	75	Threnody Singer	U
-THB	76	Thryx, the Sudden Storm	U
-THB	77	Towering-Wave Mystic	U
-THB	78	Triton Waverider	U
-THB	79	Vexing Gull	U
-THB	80	Wavebreak Hippocamp	U
-THB	81	Whirlwind Denial	U
-THB	82	Witness of Tomorrows	U
-THB	83	Agonizing Remorse	B
-THB	84	Aphemia, the Cacophony	B
-THB	85	Aspect of Lamprey	B
-THB	86	Blight-Breath Catoblepas	B
-THB	87	Cling to Dust	B
-THB	88	Discordant Piper	B
-THB	89	Drag to the Underworld	B
-THB	90	Eat to Extinction	B
-THB	91	Elspeth's Nightmare	B
-THB	92	Enemy of Enlightenment	B
-THB	93	Erebos, Bleak-Hearted	B
-THB	94	Erebos's Intervention	B
-THB	95	Final Death	B
-THB	96	Fruit of Tizerus	B
-THB	97	Funeral Rites	B
-THB	98	Gravebreaker Lamia	B
-THB	99	Gray Merchant of Asphodel	B
-THB	100	Grim Physician	B
-THB	101	Hateful Eidolon	B
-THB	102	Inevitable End	B
-THB	103	Lampad of Death's Vigil	B
-THB	104	Minion's Return	B
-THB	105	Mire Triton	B
-THB	106	Mire's Grasp	B
-THB	107	Mogis's Favor	B
-THB	108	Nightmare Shepherd	B
-THB	109	Nyxborn Marauder	B
-THB	110	Omen of the Dead	B
-THB	111	Pharika's Libation	B
-THB	112	Pharika's Spawn	B
-THB	113	Rage-Scarred Berserker	B
-THB	114	Scavenging Harpy	B
-THB	115	Soulreaper of Mogis	B
-THB	116	Temple Thief	B
-THB	117	Treacherous Blessing	B
-THB	118	Tymaret Calls the Dead	B
-THB	119	Tymaret, Chosen from Death	B
-THB	120	Underworld Charger	B
-THB	121	Underworld Dreams	B
-THB	122	Venomous Hierophant	B
-THB	123	Woe Strider	B
-THB	124	The Akroan War	R
-THB	125	Anax, Hardened in the Forge	R
-THB	126	Arena Trickster	R
-THB	127	Aspect of Manticore	R
-THB	128	Blood Aspirant	R
-THB	129	Careless Celebrant	R
-THB	130	Dreamshaper Shaman	R
-THB	131	Dreamstalker Manticore	R
-THB	132	Escape Velocity	R
-THB	133	Fateful End	R
-THB	134	Final Flare	R
-THB	135	Flummoxed Cyclops	R
-THB	136	Furious Rise	R
-THB	137	Hero of the Games	R
-THB	138	Heroes of the Revel	R
-THB	139	Impending Doom	R
-THB	140	Incendiary Oracle	R
-THB	141	Infuriate	R
-THB	142	Iroas's Blessing	R
-THB	143	Irreverent Revelers	R
-THB	144	Nyxborn Brute	R
-THB	145	Omen of the Forge	R
-THB	146	Oread of Mountain's Blaze	R
-THB	147	Ox of Agonas	R
-THB	148	Phoenix of Ash	R
-THB	149	Portent of Betrayal	R
-THB	150	Purphoros, Bronze-Blooded	R
-THB	151	Purphoros's Intervention	R
-THB	152	Satyr's Cunning	R
-THB	153	Skophos Maze-Warden	R
-THB	154	Skophos Warleader	R
-THB	155	Stampede Rider	R
-THB	156	Storm Herald	R
-THB	157	Storm's Wrath	R
-THB	158	Tectonic Giant	R
-THB	159	Thrill of Possibility	R
-THB	160	The Triumph of Anax	R
-THB	161	Underworld Breach	R
-THB	162	Underworld Fires	R
-THB	163	Underworld Rage-Hound	R
-THB	164	Wrap in Flames	R
-THB	165	Arasta of the Endless Web	G
-THB	166	The Binding of the Titans	G
-THB	167	Chainweb Aracnir	G
-THB	168	Destiny Spinner	G
-THB	169	Dryad of the Ilysian Grove	G
-THB	170	The First Iroan Games	G
-THB	171	Gift of Strength	G
-THB	172	Hydra's Growth	G
-THB	173	Hyrax Tower Scout	G
-THB	174	Ilysian Caryatid	G
-THB	175	Inspire Awe	G
-THB	176	Klothys's Design	G
-THB	177	Loathsome Chimera	G
-THB	178	Mantle of the Wolf	G
-THB	179	Moss Viper	G
-THB	180	Mystic Repeal	G
-THB	181	Nessian Boar	G
-THB	182	Nessian Hornbeetle	G
-THB	183	Nessian Wanderer	G
-THB	184	Nexus Wardens	G
-THB	185	Nylea, Keen-Eyed	G
-THB	186	Nylea's Forerunner	G
-THB	187	Nylea's Huntmaster	G
-THB	188	Nylea's Intervention	G
-THB	189	Nyx Herald	G
-THB	190	Nyxbloom Ancient	G
-THB	191	Nyxborn Colossus	G
-THB	192	Omen of the Hunt	G
-THB	193	Pheres-Band Brawler	G
-THB	194	Plummet	G
-THB	195	Relentless Pursuit	G
-THB	196	Renata, Called to the Hunt	G
-THB	197	Return to Nature	G
-THB	198	Setessan Champion	G
-THB	199	Setessan Petitioner	G
-THB	200	Setessan Skirmisher	G
-THB	201	Setessan Training	G
-THB	202	Skola Grovedancer	G
-THB	203	Voracious Typhon	G
-THB	204	Warbriar Blessing	G
-THB	205	Wolfwillow Haven	G
-THB	206	Acolyte of Affliction	B,G
-THB	207	Allure of the Unknown	B,R
-THB	208	Ashiok, Nightmare Muse	B,U
-THB	209	Atris, Oracle of Half-Truths	B,U
-THB	210	Bronzehide Lion	G,W
-THB	211	Calix, Destiny's Hand	G,W
-THB	212	Dalakos, Crafter of Wonders	R,U
-THB	213	Devourer of Memory	B,U
-THB	214	Dream Trawler	U,W
-THB	215	Enigmatic Incarnation	G,U
-THB	216	Eutropia the Twice-Favored	G,U
-THB	217	Gallia of the Endless Dance	G,R
-THB	218	Haktos the Unscarred	R,W
-THB	219	Hero of the Nyxborn	R,W
-THB	220	Klothys, God of Destiny	G,R
-THB	221	Kroxa, Titan of Death's Hunger	B,R
-THB	222	Kunoros, Hound of Athreos	B,W
-THB	223	Mischievous Chimera	R,U
-THB	224	Polukranos, Unchained	B,G
-THB	225	Rise to Glory	B,W
-THB	226	Siona, Captain of the Pyleas	G,W
-THB	227	Slaughter-Priest of Mogis	B,R
-THB	228	Staggering Insight	U,W
-THB	229	Uro, Titan of Nature's Wrath	G,U
-THB	230	Warden of the Chained	G,R
-THB	231	Altar of the Pantheon	
-THB	232	Bronze Sword	
-THB	233	Entrancing Lyre	
-THB	234	Mirror Shield	
-THB	235	Nyx Lotus	
-THB	236	Shadowspear	
-THB	237	Soul-Guide Lantern	
-THB	238	Thaumaturge's Familiar	
-THB	239	Thundering Chariot	
-THB	240	Traveler's Amulet	
-THB	241	Wings of Hubris	
-THB	242	Field of Ruin	
-THB	243	Labyrinth of Skophos	
-THB	244	Temple of Abandon	G,R
-THB	245	Temple of Deceit	B,U
-THB	246	Temple of Enlightenment	U,W
-THB	247	Temple of Malice	B,R
-THB	248	Temple of Plenty	G,W
-THB	249	Unknown Shores	
-THB	250	Plains	W
-THB	251	Island	U
-THB	252	Swamp	B
-THB	253	Mountain	R
-THB	254	Forest	G
-THB	269	Athreos, Shroud-Veiled	B,W
-THB	270	Elspeth, Undaunted Hero	W
-THB	271	Eidolon of Inspiration	W
-THB	272	Elspeth's Devotee	W
-THB	273	Sunlit Hoplite	W
-THB	274	Ashiok, Sculptor of Fears	B,U
-THB	275	Swimmer in Nightmares	U
-THB	276	Mindwrack Harpy	B
-THB	277	Ashiok's Forerunner	B,U
-THB	288	Grasping Giant	W
-THB	289	Victory's Envoy	W
-THB	290	Sphinx Mindbreaker	U
-THB	291	Serpent of Yawning Depths	U
-THB	292	Demon of Loathing	B
-THB	293	Underworld Sentinel	B
-THB	294	Deathbellow War Cry	R
-THB	295	Terror of Mount Velus	R
-THB	296	Ironscale Hydra	G
-THB	297	Treeshaker Chimera	G
+THB	206	Acolyte of Affliction	4.0	B,G
+THB	83	Agonizing Remorse	2.0	B
+THB	42	Alirios, Enraptured	3.0	U
+THB	207	Allure of the Unknown	5.0	B,R
+THB	1	Alseid of Life's Bounty	1.0	W
+THB	231	Altar of the Pantheon	3.0	
+THB	125	Anax, Hardened in the Forge	3.0	R
+THB	84	Aphemia, the Cacophony	2.0	B
+THB	165	Arasta of the Endless Web	4.0	G
+THB	2	Archon of Falling Stars	6.0	W
+THB	3	Archon of Sun's Grace	4.0	W
+THB	126	Arena Trickster	4.0	R
+THB	43	Ashiok's Erasure	4.0	U
+THB	277	Ashiok's Forerunner	5.0	B,U
+THB	208	Ashiok, Nightmare Muse	5.0	B,U
+THB	274	Ashiok, Sculptor of Fears	6.0	B,U
+THB	85	Aspect of Lamprey	4.0	B
+THB	127	Aspect of Manticore	3.0	R
+THB	269	Athreos, Shroud-Veiled	6.0	B,W
+THB	209	Atris, Oracle of Half-Truths	4.0	B,U
+THB	4	Banishing Light	3.0	W
+THB	86	Blight-Breath Catoblepas	6.0	B
+THB	128	Blood Aspirant	2.0	R
+THB	44	Brine Giant	7.0	U
+THB	232	Bronze Sword	1.0	
+THB	210	Bronzehide Lion	2.0	G,W
+THB	211	Calix, Destiny's Hand	4.0	G,W
+THB	45	Callaphe, Beloved of the Sea	3.0	U
+THB	6	Captivating Unicorn	5.0	W
+THB	129	Careless Celebrant	2.0	R
+THB	46	Chain to Memory	1.0	U
+THB	167	Chainweb Aracnir	1.0	G
+THB	87	Cling to Dust	1.0	B
+THB	7	Commanding Presence	4.0	W
+THB	212	Dalakos, Crafter of Wonders	3.0	R,U
+THB	8	Dawn Evangel	3.0	W
+THB	9	Daxos, Blessed by the Sun	2.0	W
+THB	10	Daybreak Chimera	5.0	W
+THB	294	Deathbellow War Cry	8.0	R
+THB	292	Demon of Loathing	7.0	B
+THB	47	Deny the Divine	3.0	U
+THB	168	Destiny Spinner	2.0	G
+THB	213	Devourer of Memory	2.0	B,U
+THB	88	Discordant Piper	2.0	B
+THB	89	Drag to the Underworld	4.0	B
+THB	11	Dreadful Apathy	3.0	W
+THB	214	Dream Trawler	6.0	U,W
+THB	130	Dreamshaper Shaman	6.0	R
+THB	131	Dreamstalker Manticore	3.0	R
+THB	169	Dryad of the Ilysian Grove	3.0	G
+THB	90	Eat to Extinction	4.0	B
+THB	271	Eidolon of Inspiration	3.0	W
+THB	12	Eidolon of Obstruction	2.0	W
+THB	48	Eidolon of Philosophy	1.0	U
+THB	49	Elite Instructor	3.0	U
+THB	13	Elspeth Conquers Death	5.0	W
+THB	272	Elspeth's Devotee	4.0	W
+THB	91	Elspeth's Nightmare	3.0	B
+THB	14	Elspeth, Sun's Nemesis	4.0	W
+THB	270	Elspeth, Undaunted Hero	5.0	W
+THB	92	Enemy of Enlightenment	6.0	B
+THB	215	Enigmatic Incarnation	4.0	G,U
+THB	233	Entrancing Lyre	3.0	
+THB	94	Erebos's Intervention	1.0	B
+THB	93	Erebos, Bleak-Hearted	4.0	B
+THB	132	Escape Velocity	1.0	R
+THB	216	Eutropia the Twice-Favored	3.0	G,U
+THB	133	Fateful End	3.0	R
+THB	15	Favored of Iroas	3.0	W
+THB	242	Field of Ruin	0.0	
+THB	95	Final Death	5.0	B
+THB	134	Final Flare	3.0	R
+THB	16	Flicker of Fate	2.0	W
+THB	135	Flummoxed Cyclops	4.0	R
+THB	254	Forest	0.0	G
+THB	96	Fruit of Tizerus	1.0	B
+THB	97	Funeral Rites	3.0	B
+THB	136	Furious Rise	3.0	R
+THB	217	Gallia of the Endless Dance	2.0	G,R
+THB	171	Gift of Strength	2.0	G
+THB	50	Glimpse of Freedom	2.0	U
+THB	17	Glory Bearers	4.0	W
+THB	288	Grasping Giant	6.0	W
+THB	98	Gravebreaker Lamia	5.0	B
+THB	99	Gray Merchant of Asphodel	5.0	B
+THB	100	Grim Physician	1.0	B
+THB	218	Haktos the Unscarred	4.0	R,W
+THB	101	Hateful Eidolon	1.0	B
+THB	19	Heliod's Intervention	2.0	W
+THB	20	Heliod's Pilgrim	3.0	W
+THB	21	Heliod's Punishment	2.0	W
+THB	18	Heliod, Sun-Crowned	3.0	W
+THB	137	Hero of the Games	3.0	R
+THB	219	Hero of the Nyxborn	3.0	R,W
+THB	22	Hero of the Pride	2.0	W
+THB	23	Hero of the Winds	4.0	W
+THB	138	Heroes of the Revel	5.0	R
+THB	172	Hydra's Growth	3.0	G
+THB	173	Hyrax Tower Scout	3.0	G
+THB	51	Ichthyomorphosis	3.0	U
+THB	24	Idyllic Tutor	3.0	W
+THB	174	Ilysian Caryatid	2.0	G
+THB	139	Impending Doom	3.0	R
+THB	140	Incendiary Oracle	2.0	R
+THB	25	Indomitable Will	2.0	W
+THB	102	Inevitable End	3.0	B
+THB	141	Infuriate	1.0	R
+THB	175	Inspire Awe	4.0	G
+THB	142	Iroas's Blessing	4.0	R
+THB	296	Ironscale Hydra	5.0	G
+THB	143	Irreverent Revelers	3.0	R
+THB	251	Island	0.0	U
+THB	26	Karametra's Blessing	1.0	W
+THB	52	Kiora Bests the Sea God	7.0	U
+THB	176	Klothys's Design	6.0	G
+THB	220	Klothys, God of Destiny	3.0	G,R
+THB	221	Kroxa, Titan of Death's Hunger	2.0	B,R
+THB	222	Kunoros, Hound of Athreos	3.0	B,W
+THB	243	Labyrinth of Skophos	0.0	
+THB	27	Lagonna-Band Storyteller	4.0	W
+THB	103	Lampad of Death's Vigil	2.0	B
+THB	28	Leonin of the Lost Pride	2.0	W
+THB	177	Loathsome Chimera	3.0	G
+THB	178	Mantle of the Wolf	4.0	G
+THB	53	Medomai's Prophecy	2.0	U
+THB	54	Memory Drain	4.0	U
+THB	276	Mindwrack Harpy	4.0	B
+THB	104	Minion's Return	3.0	B
+THB	105	Mire Triton	2.0	B
+THB	106	Mire's Grasp	2.0	B
+THB	234	Mirror Shield	2.0	
+THB	223	Mischievous Chimera	2.0	R,U
+THB	107	Mogis's Favor	1.0	B
+THB	179	Moss Viper	1.0	G
+THB	253	Mountain	0.0	R
+THB	180	Mystic Repeal	1.0	G
+THB	55	Nadir Kraken	3.0	U
+THB	56	Naiad of Hidden Coves	3.0	U
+THB	181	Nessian Boar	5.0	G
+THB	182	Nessian Hornbeetle	2.0	G
+THB	183	Nessian Wanderer	2.0	G
+THB	184	Nexus Wardens	3.0	G
+THB	108	Nightmare Shepherd	4.0	B
+THB	186	Nylea's Forerunner	5.0	G
+THB	187	Nylea's Huntmaster	4.0	G
+THB	188	Nylea's Intervention	2.0	G
+THB	185	Nylea, Keen-Eyed	4.0	G
+THB	189	Nyx Herald	3.0	G
+THB	235	Nyx Lotus	4.0	
+THB	190	Nyxbloom Ancient	7.0	G
+THB	144	Nyxborn Brute	5.0	R
+THB	191	Nyxborn Colossus	6.0	G
+THB	29	Nyxborn Courser	3.0	W
+THB	109	Nyxborn Marauder	4.0	B
+THB	57	Nyxborn Seaguard	4.0	U
+THB	110	Omen of the Dead	1.0	B
+THB	145	Omen of the Forge	2.0	R
+THB	192	Omen of the Hunt	3.0	G
+THB	58	Omen of the Sea	2.0	U
+THB	30	Omen of the Sun	3.0	W
+THB	59	One with the Stars	4.0	U
+THB	146	Oread of Mountain's Blaze	2.0	R
+THB	147	Ox of Agonas	5.0	R
+THB	31	Phalanx Tactics	2.0	W
+THB	111	Pharika's Libation	3.0	B
+THB	112	Pharika's Spawn	4.0	B
+THB	193	Pheres-Band Brawler	6.0	G
+THB	148	Phoenix of Ash	3.0	R
+THB	32	Pious Wayfarer	1.0	W
+THB	250	Plains	0.0	W
+THB	194	Plummet	2.0	G
+THB	224	Polukranos, Unchained	4.0	B,G
+THB	149	Portent of Betrayal	4.0	R
+THB	60	Protean Thaumaturge	2.0	U
+THB	151	Purphoros's Intervention	1.0	R
+THB	150	Purphoros, Bronze-Blooded	5.0	R
+THB	113	Rage-Scarred Berserker	5.0	B
+THB	195	Relentless Pursuit	3.0	G
+THB	196	Renata, Called to the Hunt	4.0	G
+THB	197	Return to Nature	2.0	G
+THB	33	Reverent Hoplite	5.0	W
+THB	34	Revoke Existence	2.0	W
+THB	61	Riptide Turtle	2.0	U
+THB	225	Rise to Glory	5.0	B,W
+THB	35	Rumbling Sentry	5.0	W
+THB	62	Sage of Mysteries	1.0	U
+THB	152	Satyr's Cunning	1.0	R
+THB	114	Scavenging Harpy	3.0	B
+THB	63	Sea God's Scorn	6.0	U
+THB	36	Sentinel's Eyes	1.0	W
+THB	291	Serpent of Yawning Depths	6.0	U
+THB	198	Setessan Champion	3.0	G
+THB	199	Setessan Petitioner	3.0	G
+THB	200	Setessan Skirmisher	2.0	G
+THB	201	Setessan Training	2.0	G
+THB	236	Shadowspear	1.0	
+THB	37	Shatter the Sky	4.0	W
+THB	64	Shimmerwing Chimera	4.0	U
+THB	65	Shoal Kraken	5.0	U
+THB	226	Siona, Captain of the Pyleas	3.0	G,W
+THB	202	Skola Grovedancer	2.0	G
+THB	153	Skophos Maze-Warden	4.0	R
+THB	154	Skophos Warleader	5.0	R
+THB	227	Slaughter-Priest of Mogis	2.0	B,R
+THB	66	Sleep of the Dead	1.0	U
+THB	237	Soul-Guide Lantern	1.0	
+THB	115	Soulreaper of Mogis	3.0	B
+THB	290	Sphinx Mindbreaker	7.0	U
+THB	228	Staggering Insight	2.0	U,W
+THB	155	Stampede Rider	3.0	R
+THB	67	Starlit Mantle	2.0	U
+THB	68	Stern Dismissal	1.0	U
+THB	69	Stinging Lionfish	2.0	U
+THB	156	Storm Herald	3.0	R
+THB	157	Storm's Wrath	4.0	R
+THB	273	Sunlit Hoplite	2.0	W
+THB	38	Sunmane Pegasus	4.0	W
+THB	252	Swamp	0.0	B
+THB	70	Sweet Oblivion	2.0	U
+THB	275	Swimmer in Nightmares	3.0	U
+THB	39	Taranika, Akroan Veteran	3.0	W
+THB	158	Tectonic Giant	4.0	R
+THB	116	Temple Thief	2.0	B
+THB	244	Temple of Abandon	0.0	G,R
+THB	245	Temple of Deceit	0.0	B,U
+THB	246	Temple of Enlightenment	0.0	U,W
+THB	247	Temple of Malice	0.0	B,R
+THB	248	Temple of Plenty	0.0	G,W
+THB	295	Terror of Mount Velus	7.0	R
+THB	72	Thassa's Intervention	2.0	U
+THB	73	Thassa's Oracle	2.0	U
+THB	71	Thassa, Deep-Dwelling	4.0	U
+THB	238	Thaumaturge's Familiar	3.0	
+THB	124	The Akroan War	4.0	R
+THB	166	The Binding of the Titans	2.0	G
+THB	5	The Birth of Meletis	2.0	W
+THB	170	The First Iroan Games	3.0	G
+THB	160	The Triumph of Anax	3.0	R
+THB	74	Thirst for Meaning	3.0	U
+THB	75	Threnody Singer	2.0	U
+THB	159	Thrill of Possibility	2.0	R
+THB	76	Thryx, the Sudden Storm	5.0	U
+THB	239	Thundering Chariot	4.0	
+THB	77	Towering-Wave Mystic	2.0	U
+THB	40	Transcendent Envoy	2.0	W
+THB	240	Traveler's Amulet	1.0	
+THB	117	Treacherous Blessing	3.0	B
+THB	297	Treeshaker Chimera	7.0	G
+THB	78	Triton Waverider	4.0	U
+THB	41	Triumphant Surge	4.0	W
+THB	118	Tymaret Calls the Dead	3.0	B
+THB	119	Tymaret, Chosen from Death	2.0	B
+THB	161	Underworld Breach	2.0	R
+THB	120	Underworld Charger	3.0	B
+THB	121	Underworld Dreams	3.0	B
+THB	162	Underworld Fires	2.0	R
+THB	163	Underworld Rage-Hound	2.0	R
+THB	293	Underworld Sentinel	5.0	B
+THB	249	Unknown Shores	0.0	
+THB	229	Uro, Titan of Nature's Wrath	3.0	G,U
+THB	122	Venomous Hierophant	4.0	B
+THB	79	Vexing Gull	3.0	U
+THB	289	Victory's Envoy	5.0	W
+THB	203	Voracious Typhon	4.0	G
+THB	204	Warbriar Blessing	2.0	G
+THB	230	Warden of the Chained	3.0	G,R
+THB	80	Wavebreak Hippocamp	3.0	U
+THB	81	Whirlwind Denial	3.0	U
+THB	241	Wings of Hubris	2.0	
+THB	82	Witness of Tomorrows	5.0	U
+THB	123	Woe Strider	3.0	B
+THB	205	Wolfwillow Haven	2.0	G
+THB	164	Wrap in Flames	4.0	R
