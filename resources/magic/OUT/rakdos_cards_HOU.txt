@@ -1,0 +1,81 @@
+HOU	158	Abandoned Sarcophagus	3.0	Artifact	
+HOU	83	Abrade	2.0	Instant	R
+HOU	56	Accursed Horde	4.0	Creature  Zombie	B
+HOU	57	Ammit Eternal	3.0	Creature  Zombie Crocodile Demon	B
+HOU	58	Apocalypse Demon	6.0	Creature  Demon	B
+HOU	59	Banewhip Punisher	3.0	Creature  Human Warrior	B
+HOU	84	Blur of Blades	2.0	Instant	R
+HOU	60	Bontu's Last Reckoning	3.0	Sorcery	B
+HOU	85	Burning-Fist Minotaur	2.0	Creature  Minotaur Wizard	R
+HOU	61	Carrion Screecher	4.0	Creature  Zombie Bird	B
+HOU	86	Chandra's Defeat	1.0	Instant	R
+HOU	87	Chaos Maw	7.0	Creature  Hellion	R
+HOU	209	Cinder Barrens	0.0	Land	B,R
+HOU	150	Claim // Fame	3.0	Sorcery	B,R
+HOU	88	Crash Through	1.0	Sorcery	R
+HOU	159	Crook of Condemnation	2.0	Artifact	
+HOU	160	Dagger of the Worthy	2.0	Artifact  Equipment	
+HOU	89	Defiant Khenra	2.0	Creature  Jackal Warrior	R
+HOU	170	Desert of the Fervent	0.0	Land  Desert	R
+HOU	171	Desert of the Glorified	0.0	Land  Desert	B
+HOU	62	Doomfall	3.0	Sorcery	B
+HOU	63	Dreamstealer	3.0	Creature  Human Wizard	B
+HOU	175	Dunes of the Dead	0.0	Land  Desert	
+HOU	90	Earthshaker Khenra	2.0	Creature  Jackal Warrior	R
+HOU	176	Endless Sands	0.0	Land  Desert	
+HOU	91	Fervent Paincaster	3.0	Creature  Human Wizard	R
+HOU	92	Firebrand Archer	2.0	Creature  Human Archer	R
+HOU	93	Frontline Devastator	4.0	Creature  Zombie Minotaur Warrior	R
+HOU	94	Gilded Cerodon	5.0	Creature  Beast	R
+HOU	161	God-Pharaoh's Gift	7.0	Artifact	
+HOU	95	Granitic Titan	6.0	Creature  Elemental	R
+HOU	162	Graven Abomination	3.0	Artifact Creature  Horror	
+HOU	64	Grisly Survivor	3.0	Creature  Minotaur Warrior	B
+HOU	96	Hazoret's Undying Fury	6.0	Sorcery	R
+HOU	163	Hollow One	5.0	Artifact Creature  Golem	
+HOU	178	Hostile Desert	0.0	Land  Desert	
+HOU	97	Hour of Devastation	5.0	Sorcery	R
+HOU	65	Hour of Glory	4.0	Instant	B
+HOU	179	Ifnir Deadlands	0.0	Land  Desert	B
+HOU	98	Imminent Doom	3.0	Enchantment	R
+HOU	99	Inferno Jet	6.0	Sorcery	R
+HOU	66	Khenra Eternal	2.0	Creature  Zombie Jackal Warrior	B
+HOU	100	Khenra Scrapper	3.0	Creature  Jackal Warrior	R
+HOU	101	Kindled Fury	1.0	Instant	R
+HOU	67	Lethal Sting	3.0	Sorcery	B
+HOU	68	Liliana's Defeat	1.0	Sorcery	B
+HOU	69	Lurching Rotbeast	4.0	Creature  Zombie Beast	B
+HOU	102	Magmaroth	4.0	Creature  Elemental	R
+HOU	164	Manalith	3.0	Artifact	
+HOU	103	Manticore Eternal	5.0	Creature  Zombie Manticore	R
+HOU	70	Marauding Boneslasher	3.0	Creature  Zombie Minotaur	B
+HOU	71	Merciless Eternal	3.0	Creature  Zombie Cleric	B
+HOU	165	Mirage Mirror	3.0	Artifact	
+HOU	72	Moaning Wall	3.0	Creature  Zombie Wall	B
+HOU	188	Mountain	0.0	Basic Land  Mountain	R
+HOU	104	Neheb, the Eternal	5.0	Legendary Creature  Zombie Minotaur Warrior	R
+HOU	105	Open Fire	3.0	Instant	R
+HOU	106	Puncturing Blow	4.0	Sorcery	R
+HOU	181	Ramunap Ruins	0.0	Land  Desert	R
+HOU	74	Razaketh's Rite	5.0	Sorcery	B
+HOU	73	Razaketh, the Foulblooded	8.0	Legendary Creature  Demon	B
+HOU	75	Ruin Rat	2.0	Creature  Rat	B
+HOU	107	Sand Strangler	4.0	Creature  Beast	R
+HOU	182	Scavenger Grounds	0.0	Land  Desert	
+HOU	76	Scrounger of Souls	5.0	Creature  Horror	B
+HOU	166	Sunset Pyramid	2.0	Artifact	
+HOU	184	Survivors' Encampment	0.0	Land  Desert	
+HOU	187	Swamp	0.0	Basic Land  Swamp	B
+HOU	146	The Scorpion God	5.0	Legendary Creature  God	B,R
+HOU	108	Thorned Moloch	3.0	Creature  Lizard	R
+HOU	77	Torment of Hailfire	2.0	Sorcery	B
+HOU	78	Torment of Scarabs	4.0	Enchantment  Aura Curse	B
+HOU	79	Torment of Venom	4.0	Instant	B
+HOU	167	Traveler's Amulet	1.0	Artifact	
+HOU	80	Vile Manifestation	2.0	Creature  Horror	B
+HOU	168	Wall of Forgotten Pharaohs	2.0	Artifact Creature  Wall	
+HOU	206	Wasp of the Bitter End	2.0	Creature  Insect Horror	B
+HOU	109	Wildfire Eternal	4.0	Creature  Zombie Jackal Cleric	R
+HOU	81	Without Weakness	2.0	Instant	B
+HOU	82	Wretched Camel	2.0	Creature  Zombie Camel	B
+HOU	207	Zealot of the God-Pharaoh	4.0	Creature  Minotaur Archer	R

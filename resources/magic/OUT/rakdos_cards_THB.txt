@@ -1,107 +1,107 @@
-THB	83	Agonizing Remorse	2.0	B
-THB	207	Allure of the Unknown	5.0	B,R
-THB	231	Altar of the Pantheon	3.0	
-THB	125	Anax, Hardened in the Forge	3.0	R
-THB	84	Aphemia, the Cacophony	2.0	B
-THB	126	Arena Trickster	4.0	R
-THB	85	Aspect of Lamprey	4.0	B
-THB	127	Aspect of Manticore	3.0	R
-THB	86	Blight-Breath Catoblepas	6.0	B
-THB	128	Blood Aspirant	2.0	R
-THB	232	Bronze Sword	1.0	
-THB	129	Careless Celebrant	2.0	R
-THB	87	Cling to Dust	1.0	B
-THB	294	Deathbellow War Cry	8.0	R
-THB	292	Demon of Loathing	7.0	B
-THB	88	Discordant Piper	2.0	B
-THB	89	Drag to the Underworld	4.0	B
-THB	130	Dreamshaper Shaman	6.0	R
-THB	131	Dreamstalker Manticore	3.0	R
-THB	90	Eat to Extinction	4.0	B
-THB	91	Elspeth's Nightmare	3.0	B
-THB	92	Enemy of Enlightenment	6.0	B
-THB	233	Entrancing Lyre	3.0	
-THB	94	Erebos's Intervention	1.0	B
-THB	93	Erebos, Bleak-Hearted	4.0	B
-THB	132	Escape Velocity	1.0	R
-THB	133	Fateful End	3.0	R
-THB	242	Field of Ruin	0.0	
-THB	95	Final Death	5.0	B
-THB	134	Final Flare	3.0	R
-THB	135	Flummoxed Cyclops	4.0	R
-THB	96	Fruit of Tizerus	1.0	B
-THB	97	Funeral Rites	3.0	B
-THB	136	Furious Rise	3.0	R
-THB	98	Gravebreaker Lamia	5.0	B
-THB	99	Gray Merchant of Asphodel	5.0	B
-THB	100	Grim Physician	1.0	B
-THB	101	Hateful Eidolon	1.0	B
-THB	137	Hero of the Games	3.0	R
-THB	138	Heroes of the Revel	5.0	R
-THB	139	Impending Doom	3.0	R
-THB	140	Incendiary Oracle	2.0	R
-THB	102	Inevitable End	3.0	B
-THB	141	Infuriate	1.0	R
-THB	142	Iroas's Blessing	4.0	R
-THB	143	Irreverent Revelers	3.0	R
-THB	221	Kroxa, Titan of Death's Hunger	2.0	B,R
-THB	243	Labyrinth of Skophos	0.0	
-THB	103	Lampad of Death's Vigil	2.0	B
-THB	276	Mindwrack Harpy	4.0	B
-THB	104	Minion's Return	3.0	B
-THB	105	Mire Triton	2.0	B
-THB	106	Mire's Grasp	2.0	B
-THB	234	Mirror Shield	2.0	
-THB	107	Mogis's Favor	1.0	B
-THB	253	Mountain	0.0	R
-THB	108	Nightmare Shepherd	4.0	B
-THB	235	Nyx Lotus	4.0	
-THB	144	Nyxborn Brute	5.0	R
-THB	109	Nyxborn Marauder	4.0	B
-THB	110	Omen of the Dead	1.0	B
-THB	145	Omen of the Forge	2.0	R
-THB	146	Oread of Mountain's Blaze	2.0	R
-THB	147	Ox of Agonas	5.0	R
-THB	111	Pharika's Libation	3.0	B
-THB	112	Pharika's Spawn	4.0	B
-THB	148	Phoenix of Ash	3.0	R
-THB	149	Portent of Betrayal	4.0	R
-THB	151	Purphoros's Intervention	1.0	R
-THB	150	Purphoros, Bronze-Blooded	5.0	R
-THB	113	Rage-Scarred Berserker	5.0	B
-THB	152	Satyr's Cunning	1.0	R
-THB	114	Scavenging Harpy	3.0	B
-THB	236	Shadowspear	1.0	
-THB	153	Skophos Maze-Warden	4.0	R
-THB	154	Skophos Warleader	5.0	R
-THB	227	Slaughter-Priest of Mogis	2.0	B,R
-THB	237	Soul-Guide Lantern	1.0	
-THB	115	Soulreaper of Mogis	3.0	B
-THB	155	Stampede Rider	3.0	R
-THB	156	Storm Herald	3.0	R
-THB	157	Storm's Wrath	4.0	R
-THB	252	Swamp	0.0	B
-THB	158	Tectonic Giant	4.0	R
-THB	116	Temple Thief	2.0	B
-THB	247	Temple of Malice	0.0	B,R
-THB	295	Terror of Mount Velus	7.0	R
-THB	238	Thaumaturge's Familiar	3.0	
-THB	124	The Akroan War	4.0	R
-THB	160	The Triumph of Anax	3.0	R
-THB	159	Thrill of Possibility	2.0	R
-THB	239	Thundering Chariot	4.0	
-THB	240	Traveler's Amulet	1.0	
-THB	117	Treacherous Blessing	3.0	B
-THB	118	Tymaret Calls the Dead	3.0	B
-THB	119	Tymaret, Chosen from Death	2.0	B
-THB	161	Underworld Breach	2.0	R
-THB	120	Underworld Charger	3.0	B
-THB	121	Underworld Dreams	3.0	B
-THB	162	Underworld Fires	2.0	R
-THB	163	Underworld Rage-Hound	2.0	R
-THB	293	Underworld Sentinel	5.0	B
-THB	249	Unknown Shores	0.0	
-THB	122	Venomous Hierophant	4.0	B
-THB	241	Wings of Hubris	2.0	
-THB	123	Woe Strider	3.0	B
-THB	164	Wrap in Flames	4.0	R
+THB	83	Agonizing Remorse	2.0	Sorcery	B
+THB	207	Allure of the Unknown	5.0	Sorcery	B,R
+THB	231	Altar of the Pantheon	3.0	Artifact	
+THB	125	Anax, Hardened in the Forge	3.0	Legendary Enchantment Creature  Demigod	R
+THB	84	Aphemia, the Cacophony	2.0	Legendary Enchantment Creature  Harpy	B
+THB	126	Arena Trickster	4.0	Creature  Human Shaman	R
+THB	85	Aspect of Lamprey	4.0	Enchantment  Aura	B
+THB	127	Aspect of Manticore	3.0	Enchantment  Aura	R
+THB	86	Blight-Breath Catoblepas	6.0	Creature  Beast	B
+THB	128	Blood Aspirant	2.0	Creature  Satyr Berserker	R
+THB	232	Bronze Sword	1.0	Artifact  Equipment	
+THB	129	Careless Celebrant	2.0	Creature  Satyr Shaman	R
+THB	87	Cling to Dust	1.0	Instant	B
+THB	294	Deathbellow War Cry	8.0	Sorcery	R
+THB	292	Demon of Loathing	7.0	Creature  Demon	B
+THB	88	Discordant Piper	2.0	Creature  Zombie Satyr	B
+THB	89	Drag to the Underworld	4.0	Instant	B
+THB	130	Dreamshaper Shaman	6.0	Enchantment Creature  Minotaur Shaman	R
+THB	131	Dreamstalker Manticore	3.0	Enchantment Creature  Manticore	R
+THB	90	Eat to Extinction	4.0	Instant	B
+THB	91	Elspeth's Nightmare	3.0	Enchantment  Saga	B
+THB	92	Enemy of Enlightenment	6.0	Enchantment Creature  Demon	B
+THB	233	Entrancing Lyre	3.0	Artifact	
+THB	94	Erebos's Intervention	1.0	Instant	B
+THB	93	Erebos, Bleak-Hearted	4.0	Legendary Enchantment Creature  God	B
+THB	132	Escape Velocity	1.0	Enchantment  Aura	R
+THB	133	Fateful End	3.0	Instant	R
+THB	242	Field of Ruin	0.0	Land	
+THB	95	Final Death	5.0	Instant	B
+THB	134	Final Flare	3.0	Instant	R
+THB	135	Flummoxed Cyclops	4.0	Creature  Cyclops	R
+THB	96	Fruit of Tizerus	1.0	Sorcery	B
+THB	97	Funeral Rites	3.0	Sorcery	B
+THB	136	Furious Rise	3.0	Enchantment	R
+THB	98	Gravebreaker Lamia	5.0	Enchantment Creature  Snake Lamia	B
+THB	99	Gray Merchant of Asphodel	5.0	Creature  Zombie	B
+THB	100	Grim Physician	1.0	Creature  Zombie	B
+THB	101	Hateful Eidolon	1.0	Enchantment Creature  Spirit	B
+THB	137	Hero of the Games	3.0	Creature  Human Soldier	R
+THB	138	Heroes of the Revel	5.0	Creature  Satyr Soldier	R
+THB	139	Impending Doom	3.0	Enchantment  Aura	R
+THB	140	Incendiary Oracle	2.0	Creature  Human Shaman	R
+THB	102	Inevitable End	3.0	Enchantment  Aura	B
+THB	141	Infuriate	1.0	Instant	R
+THB	142	Iroas's Blessing	4.0	Enchantment  Aura	R
+THB	143	Irreverent Revelers	3.0	Creature  Satyr	R
+THB	221	Kroxa, Titan of Death's Hunger	2.0	Legendary Creature  Elder Giant	B,R
+THB	243	Labyrinth of Skophos	0.0	Land	
+THB	103	Lampad of Death's Vigil	2.0	Enchantment Creature  Nymph	B
+THB	276	Mindwrack Harpy	4.0	Enchantment Creature  Harpy	B
+THB	104	Minion's Return	3.0	Enchantment  Aura	B
+THB	105	Mire Triton	2.0	Creature  Zombie Merfolk	B
+THB	106	Mire's Grasp	2.0	Enchantment  Aura	B
+THB	234	Mirror Shield	2.0	Artifact  Equipment	
+THB	107	Mogis's Favor	1.0	Enchantment  Aura	B
+THB	253	Mountain	0.0	Basic Land  Mountain	R
+THB	108	Nightmare Shepherd	4.0	Enchantment Creature  Demon	B
+THB	235	Nyx Lotus	4.0	Legendary Artifact	
+THB	144	Nyxborn Brute	5.0	Enchantment Creature  Cyclops	R
+THB	109	Nyxborn Marauder	4.0	Enchantment Creature  Minotaur	B
+THB	110	Omen of the Dead	1.0	Enchantment	B
+THB	145	Omen of the Forge	2.0	Enchantment	R
+THB	146	Oread of Mountain's Blaze	2.0	Enchantment Creature  Nymph	R
+THB	147	Ox of Agonas	5.0	Creature  Ox	R
+THB	111	Pharika's Libation	3.0	Instant	B
+THB	112	Pharika's Spawn	4.0	Creature  Gorgon	B
+THB	148	Phoenix of Ash	3.0	Creature  Phoenix	R
+THB	149	Portent of Betrayal	4.0	Sorcery	R
+THB	151	Purphoros's Intervention	1.0	Sorcery	R
+THB	150	Purphoros, Bronze-Blooded	5.0	Legendary Enchantment Creature  God	R
+THB	113	Rage-Scarred Berserker	5.0	Creature  Minotaur Berserker	B
+THB	152	Satyr's Cunning	1.0	Sorcery	R
+THB	114	Scavenging Harpy	3.0	Creature  Harpy	B
+THB	236	Shadowspear	1.0	Legendary Artifact  Equipment	
+THB	153	Skophos Maze-Warden	4.0	Creature  Minotaur Warrior	R
+THB	154	Skophos Warleader	5.0	Creature  Minotaur Warrior	R
+THB	227	Slaughter-Priest of Mogis	2.0	Creature  Minotaur Shaman	B,R
+THB	237	Soul-Guide Lantern	1.0	Artifact	
+THB	115	Soulreaper of Mogis	3.0	Enchantment Creature  Minotaur Shaman	B
+THB	155	Stampede Rider	3.0	Creature  Satyr	R
+THB	156	Storm Herald	3.0	Creature  Human Shaman	R
+THB	157	Storm's Wrath	4.0	Sorcery	R
+THB	252	Swamp	0.0	Basic Land  Swamp	B
+THB	158	Tectonic Giant	4.0	Creature  Elemental Giant	R
+THB	116	Temple Thief	2.0	Creature  Human Rogue	B
+THB	247	Temple of Malice	0.0	Land	B,R
+THB	295	Terror of Mount Velus	7.0	Creature  Dragon	R
+THB	238	Thaumaturge's Familiar	3.0	Artifact Creature  Bird	
+THB	124	The Akroan War	4.0	Enchantment  Saga	R
+THB	160	The Triumph of Anax	3.0	Enchantment  Saga	R
+THB	159	Thrill of Possibility	2.0	Instant	R
+THB	239	Thundering Chariot	4.0	Artifact  Vehicle	
+THB	240	Traveler's Amulet	1.0	Artifact	
+THB	117	Treacherous Blessing	3.0	Enchantment	B
+THB	118	Tymaret Calls the Dead	3.0	Enchantment  Saga	B
+THB	119	Tymaret, Chosen from Death	2.0	Legendary Enchantment Creature  Demigod	B
+THB	161	Underworld Breach	2.0	Enchantment	R
+THB	120	Underworld Charger	3.0	Creature  Nightmare Horse	B
+THB	121	Underworld Dreams	3.0	Enchantment	B
+THB	162	Underworld Fires	2.0	Sorcery	R
+THB	163	Underworld Rage-Hound	2.0	Creature  Elemental Dog	R
+THB	293	Underworld Sentinel	5.0	Creature  Skeleton Soldier	B
+THB	249	Unknown Shores	0.0	Land	
+THB	122	Venomous Hierophant	4.0	Creature  Gorgon Cleric	B
+THB	241	Wings of Hubris	2.0	Artifact  Equipment	
+THB	123	Woe Strider	3.0	Creature  Horror	B
+THB	164	Wrap in Flames	4.0	Sorcery	R

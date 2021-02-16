@@ -1,0 +1,113 @@
+XLN	132	Angrath's Marauders	7.0	Creature  Human Pirate	R
+XLN	89	Anointed Deacon	5.0	Creature  Vampire Cleric	B
+XLN	90	Arguel's Blood Fast // Temple of Aclazotz	2.0	Legendary Enchantment	B
+XLN	91	Bishop of the Bloodstained	5.0	Creature  Vampire Cleric	B
+XLN	92	Blight Keeper	1.0	Creature  Bat Imp	B
+XLN	93	Bloodcrazed Paladin	2.0	Creature  Vampire Knight	B
+XLN	133	Bonded Horncrest	4.0	Creature  Dinosaur	R
+XLN	94	Boneyard Parley	7.0	Sorcery	B
+XLN	134	Brazen Buccaneers	4.0	Creature  Human Pirate	R
+XLN	135	Burning Sun's Avatar	6.0	Creature  Dinosaur Avatar	R
+XLN	136	Captain Lannery Storm	3.0	Legendary Creature  Human Pirate	R
+XLN	137	Captivating Crew	4.0	Creature  Human Pirate	R
+XLN	138	Charging Monstrosaur	5.0	Creature  Dinosaur	R
+XLN	233	Cobbled Wings	2.0	Artifact  Equipment	
+XLN	234	Conqueror's Galleon // Conqueror's Foothold	4.0	Artifact  Vehicle	
+XLN	95	Contract Killing	5.0	Sorcery	B
+XLN	96	Costly Plunder	2.0	Instant	B
+XLN	97	Dark Nourishment	5.0	Instant	B
+XLN	98	Deadeye Tormentor	3.0	Creature  Human Pirate	B
+XLN	99	Deadeye Tracker	1.0	Creature  Human Pirate	B
+XLN	100	Deathless Ancient	6.0	Creature  Vampire Knight	B
+XLN	139	Demolish	4.0	Sorcery	R
+XLN	101	Desperate Castaways	2.0	Creature  Human Pirate	B
+XLN	140	Dinosaur Stampede	3.0	Instant	R
+XLN	221	Dire Fleet Captain	2.0	Creature  Orc Pirate	B,R
+XLN	102	Dire Fleet Hoarder	2.0	Creature  Human Pirate	B
+XLN	103	Dire Fleet Interloper	4.0	Creature  Human Pirate	B
+XLN	104	Dire Fleet Ravager	5.0	Creature  Orc Pirate Wizard	B
+XLN	235	Dowsing Dagger // Lost Vale	2.0	Artifact  Equipment	
+XLN	252	Dragonskull Summit	0.0	Land	B,R
+XLN	141	Dual Shot	1.0	Instant	R
+XLN	105	Duress	1.0	Sorcery	B
+XLN	236	Dusk Legion Dreadnought	5.0	Artifact  Vehicle	
+XLN	237	Elaborate Firecannon	2.0	Artifact	
+XLN	106	Fathom Fleet Captain	2.0	Creature  Human Pirate	B
+XLN	107	Fathom Fleet Cutthroat	4.0	Creature  Human Pirate	B
+XLN	142	Fathom Fleet Firebrand	2.0	Creature  Human Pirate	R
+XLN	238	Fell Flagship	3.0	Artifact  Vehicle	
+XLN	254	Field of Ruin	0.0	Land	
+XLN	143	Fiery Cannonade	3.0	Instant	R
+XLN	144	Fire Shrine Keeper	1.0	Creature  Elemental	R
+XLN	145	Firecannon Blast	3.0	Sorcery	R
+XLN	146	Frenzied Raptor	3.0	Creature  Dinosaur	R
+XLN	239	Gilded Sentinel	4.0	Artifact Creature  Golem	
+XLN	108	Grim Captain's Call	3.0	Sorcery	B
+XLN	147	Headstrong Brute	3.0	Creature  Orc Pirate	R
+XLN	109	Heartless Pillage	3.0	Sorcery	B
+XLN	240	Hierophant's Chalice	3.0	Artifact	
+XLN	148	Hijack	3.0	Sorcery	R
+XLN	287	Huatli's Spurring	1.0	Instant	R
+XLN	110	Kitesail Freebooter	2.0	Creature  Human Pirate	B
+XLN	149	Lightning Strike	2.0	Instant	R
+XLN	150	Lightning-Rig Crew	3.0	Creature  Goblin Pirate	R
+XLN	111	Lurking Chupacabra	4.0	Creature  Beast Horror	B
+XLN	151	Makeshift Munitions	2.0	Enchantment	R
+XLN	112	March of the Drowned	1.0	Sorcery	B
+XLN	113	Mark of the Vampire	4.0	Enchantment  Aura	B
+XLN	272	Mountain	0.0	Basic Land  Mountain	R
+XLN	152	Nest Robber	2.0	Creature  Dinosaur	R
+XLN	153	Otepec Huntmaster	2.0	Creature  Human Shaman	R
+XLN	241	Pillar of Origins	2.0	Artifact	
+XLN	242	Pirate's Cutlass	3.0	Artifact  Equipment	
+XLN	243	Primal Amulet // Primal Wellspring	4.0	Artifact	
+XLN	244	Prying Blade	1.0	Artifact  Equipment	
+XLN	114	Queen's Agent	6.0	Creature  Vampire Scout	B
+XLN	115	Queen's Bay Soldier	2.0	Creature  Vampire Soldier	B
+XLN	116	Raiders' Wake	4.0	Enchantment	B
+XLN	154	Rampaging Ferocidon	3.0	Creature  Dinosaur	R
+XLN	155	Raptor Hatchling	2.0	Creature  Dinosaur	R
+XLN	156	Repeating Barrage	3.0	Sorcery	R
+XLN	117	Revel in Riches	5.0	Enchantment	B
+XLN	157	Rigging Runner	1.0	Creature  Goblin Pirate	R
+XLN	158	Rile	1.0	Sorcery	R
+XLN	159	Rowdy Crew	4.0	Creature  Human Pirate	R
+XLN	118	Ruin Raider	3.0	Creature  Orc Pirate	B
+XLN	160	Rummaging Goblin	3.0	Creature  Goblin Rogue	R
+XLN	119	Ruthless Knave	3.0	Creature  Orc Pirate	B
+XLN	120	Sanctum Seeker	4.0	Creature  Vampire Knight	B
+XLN	121	Seekers' Squire	2.0	Creature  Human Scout	B
+XLN	245	Sentinel Totem	1.0	Artifact	
+XLN	246	Shadowed Caravel	2.0	Artifact  Vehicle	
+XLN	122	Skittering Heartstopper	1.0	Creature  Insect	B
+XLN	123	Skulduggery	1.0	Instant	B
+XLN	124	Skymarch Bloodletter	3.0	Creature  Vampire Soldier	B
+XLN	247	Sleek Schooner	3.0	Artifact  Vehicle	
+XLN	248	Sorcerous Spyglass	2.0	Artifact	
+XLN	125	Spreading Rot	5.0	Sorcery	B
+XLN	161	Star of Extinction	7.0	Sorcery	R
+XLN	162	Storm Fleet Arsonist	5.0	Creature  Orc Pirate	R
+XLN	163	Storm Fleet Pyromancer	5.0	Creature  Human Pirate Wizard	R
+XLN	164	Sun-Crowned Hunters	6.0	Creature  Dinosaur	R
+XLN	165	Sunbird's Invocation	6.0	Enchantment	R
+XLN	166	Sure Strike	2.0	Instant	R
+XLN	268	Swamp	0.0	Basic Land  Swamp	B
+XLN	167	Swashbuckling	2.0	Enchantment  Aura	R
+XLN	126	Sword-Point Diplomacy	3.0	Sorcery	B
+XLN	249	Thaumatic Compass // Spires of Orazca	2.0	Artifact	
+XLN	168	Thrash of Raptors	4.0	Creature  Dinosaur	R
+XLN	169	Tilonalli's Knight	2.0	Creature  Human Knight	R
+XLN	170	Tilonalli's Skinshifter	3.0	Creature  Human Shaman	R
+XLN	250	Treasure Map // Treasure Cove	2.0	Artifact	
+XLN	171	Trove of Temptation	4.0	Enchantment	R
+XLN	258	Unclaimed Territory	0.0	Land	
+XLN	172	Unfriendly Fire	5.0	Instant	R
+XLN	259	Unknown Shores	0.0	Land	
+XLN	173	Vance's Blasting Cannons // Spitfire Bastion	4.0	Legendary Enchantment	R
+XLN	127	Vanquish the Weak	3.0	Instant	B
+XLN	251	Vanquisher's Banner	5.0	Artifact	
+XLN	128	Vicious Conquistador	1.0	Creature  Vampire Soldier	B
+XLN	129	Vraska's Contempt	4.0	Instant	B
+XLN	130	Walk the Plank	2.0	Sorcery	B
+XLN	131	Wanted Scoundrels	2.0	Creature  Human Pirate	B
+XLN	174	Wily Goblin	2.0	Creature  Goblin Pirate	R

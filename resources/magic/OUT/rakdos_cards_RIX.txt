@@ -1,0 +1,85 @@
+RIX	202	Angrath's Ambusher	3.0	Creature  Orc Pirate	B
+RIX	204	Angrath's Fury	5.0	Sorcery	B,R
+RIX	201	Angrath, Minotaur Pirate	6.0	Legendary Planeswalker  Angrath	B,R
+RIX	152	Angrath, the Flame-Chained	5.0	Legendary Planeswalker  Angrath	B,R
+RIX	185	Arch of Orazca	0.0	Land	
+RIX	62	Arterial Flow	3.0	Sorcery	B
+RIX	175	Awakened Amalgam	4.0	Artifact Creature  Golem	
+RIX	176	Azor's Gateway // Sanctum of the Sun	2.0	Legendary Artifact	
+RIX	92	Blood Sun	3.0	Enchantment	R
+RIX	93	Bombard	3.0	Instant	R
+RIX	94	Brass's Bounty	7.0	Sorcery	R
+RIX	95	Brazen Freebooter	4.0	Creature  Human Pirate	R
+RIX	96	Buccaneer's Bravado	2.0	Instant	R
+RIX	63	Canal Monitor	5.0	Creature  Lizard	B
+RIX	177	Captain's Hook	3.0	Artifact  Equipment	
+RIX	64	Champion of Dusk	5.0	Creature  Vampire Knight	B
+RIX	97	Charging Tuskodon	5.0	Creature  Dinosaur	R
+RIX	205	Cinder Barrens	0.0	Land	B,R
+RIX	98	Daring Buccaneer	1.0	Creature  Human Pirate	R
+RIX	65	Dark Inquiry	3.0	Sorcery	B
+RIX	66	Dead Man's Chest	2.0	Enchantment  Aura	B
+RIX	67	Dinosaur Hunter	2.0	Creature  Human Pirate	B
+RIX	99	Dire Fleet Daredevil	2.0	Creature  Human Pirate	R
+RIX	156	Dire Fleet Neckbreaker	4.0	Creature  Orc Pirate	B,R
+RIX	68	Dire Fleet Poisoner	2.0	Creature  Human Pirate	B
+RIX	69	Dusk Charger	4.0	Creature  Horse	B
+RIX	70	Dusk Legion Zealot	2.0	Creature  Vampire Soldier	B
+RIX	100	Etali, Primal Storm	6.0	Legendary Creature  Elder Dinosaur	R
+RIX	186	Evolving Wilds	0.0	Land	
+RIX	101	Fanatical Firebrand	1.0	Creature  Goblin Pirate	R
+RIX	71	Fathom Fleet Boarder	3.0	Creature  Orc Pirate	B
+RIX	72	Forerunner of the Coalition	3.0	Creature  Human Pirate	B
+RIX	102	Forerunner of the Empire	4.0	Creature  Human Soldier	R
+RIX	103	Form of the Dinosaur	6.0	Enchantment	R
+RIX	104	Frilled Deathspitter	3.0	Creature  Dinosaur	R
+RIX	178	Gleaming Barrier	2.0	Artifact Creature  Wall	
+RIX	105	Goblin Trailblazer	2.0	Creature  Goblin Pirate	R
+RIX	73	Golden Demise	3.0	Sorcery	B
+RIX	179	Golden Guardian // Gold-Forge Garrison	4.0	Artifact Creature  Golem	
+RIX	74	Grasping Scoundrel	1.0	Creature  Human Pirate	B
+RIX	75	Gruesome Fate	3.0	Sorcery	B
+RIX	76	Impale	4.0	Sorcery	B
+RIX	77	Mastermind's Acquisition	4.0	Sorcery	B
+RIX	78	Mausoleum Harpy	5.0	Creature  Harpy	B
+RIX	79	Moment of Craving	2.0	Instant	B
+RIX	195	Mountain	0.0	Basic Land  Mountain	R
+RIX	106	Mutiny	1.0	Sorcery	R
+RIX	107	Needletooth Raptor	4.0	Creature  Dinosaur	R
+RIX	80	Oathsworn Vampire	2.0	Creature  Vampire Knight	B
+RIX	108	Orazca Raptor	4.0	Creature  Dinosaur	R
+RIX	181	Orazca Relic	3.0	Artifact	
+RIX	109	Pirate's Pillage	4.0	Sorcery	R
+RIX	81	Pitiless Plunderer	4.0	Creature  Human Pirate	B
+RIX	82	Ravenous Chupacabra	4.0	Creature  Beast Horror	B
+RIX	83	Reaver Ambush	3.0	Instant	B
+RIX	110	Reckless Rage	1.0	Instant	R
+RIX	84	Recover	3.0	Sorcery	B
+RIX	111	Rekindling Phoenix	4.0	Creature  Phoenix	R
+RIX	85	Sadistic Skymarcher	3.0	Creature  Vampire Soldier	B
+RIX	112	See Red	2.0	Enchantment  Aura	R
+RIX	113	Shake the Foundations	3.0	Instant	R
+RIX	114	Shatter	2.0	Instant	R
+RIX	182	Silent Gravestone	1.0	Artifact	
+RIX	115	Silverclad Ferocidons	7.0	Creature  Dinosaur	R
+RIX	116	Stampeding Horncrest	5.0	Creature  Dinosaur	R
+RIX	117	Storm Fleet Swashbuckler	2.0	Creature  Human Pirate	R
+RIX	183	Strider Harness	3.0	Artifact  Equipment	
+RIX	118	Sun-Collared Raptor	2.0	Creature  Dinosaur	R
+RIX	203	Swab Goblin	2.0	Creature  Goblin Pirate	R
+RIX	119	Swaggering Corsair	3.0	Creature  Human Pirate	R
+RIX	194	Swamp	0.0	Basic Land  Swamp	B
+RIX	86	Tetzimoc, Primal Death	6.0	Legendary Creature  Elder Dinosaur	B
+RIX	180	The Immortal Sun	6.0	Legendary Artifact	
+RIX	120	Tilonalli's Crown	2.0	Enchantment  Aura	R
+RIX	121	Tilonalli's Summoner	2.0	Creature  Human Shaman	R
+RIX	87	Tomb Robber	3.0	Creature  Human Pirate	B
+RIX	184	Traveler's Amulet	1.0	Artifact	
+RIX	88	Twilight Prophet	4.0	Creature  Vampire Cleric	B
+RIX	198	Vampire Champion	4.0	Creature  Vampire Soldier	B
+RIX	89	Vampire Revenant	4.0	Creature  Vampire Spirit	B
+RIX	90	Vona's Hunger	3.0	Instant	B
+RIX	91	Voracious Vampire	3.0	Creature  Vampire Knight	B
+RIX	199	Vraska's Conquistador	2.0	Creature  Vampire Soldier	B
+RIX	200	Vraska's Scorn	4.0	Sorcery	B
+RIX	197	Vraska, Scheming Gorgon	6.0	Legendary Planeswalker  Vraska	B

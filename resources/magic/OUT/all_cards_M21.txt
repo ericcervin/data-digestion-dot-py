@@ -1,285 +1,285 @@
-M21	321	Adherent of Hope	2.0	W
-M21	87	Alchemist's Gift	1.0	B
-M21	215	Alpine Houndmaster	2.0	R,W
-M21	2	Alpine Watchdog	2.0	W
-M21	3	Angelic Ascension	2.0	W
-M21	242	Animal Sanctuary	0.0	
-M21	4	Anointed Chorister	1.0	W
-M21	88	Archfiend's Vessel	1.0	B
-M21	5	Aven Gagglemaster	5.0	W
-M21	173	Azusa, Lost but Seeking	3.0	G
-M21	89	Bad Deal	6.0	B
-M21	6	Baneslayer Angel	5.0	W
-M21	45	Barrin, Tolarian Archmage	3.0	U
-M21	7	Basri Ket	3.0	W
-M21	8	Basri's Acolyte	4.0	W
-M21	322	Basri's Aegis	4.0	W
-M21	9	Basri's Lieutenant	4.0	W
-M21	10	Basri's Solidarity	2.0	W
-M21	320	Basri, Devoted Paladin	6.0	W
-M21	130	Battle-Rattle Shaman	4.0	R
-M21	90	Blood Glutton	5.0	B
-M21	243	Bloodfell Caves	0.0	B,R
-M21	244	Blossoming Sands	0.0	G,W
-M21	131	Bolt Hound	3.0	R
-M21	132	Bone Pit Brute	6.0	R
-M21	133	Brash Taunter	5.0	R
-M21	174	Burlfist Oak	4.0	G
-M21	134	Burn Bright	3.0	R
-M21	91	Caged Zombie	3.0	B
-M21	46	Cancel	3.0	U
-M21	175	Canopy Stalker	4.0	G
-M21	47	Capture Sphere	4.0	U
-M21	92	Carrion Grub	4.0	B
-M21	11	Celestial Enforcer	3.0	W
-M21	333	Chandra's Firemaw	5.0	R
-M21	136	Chandra's Incinerator	6.0	R
-M21	137	Chandra's Magmutt	2.0	R
-M21	138	Chandra's Pyreling	2.0	R
-M21	332	Chandra, Flame's Catalyst	6.0	R
-M21	135	Chandra, Heart of Fire	5.0	R
-M21	228	Chromatic Orrery	7.0	
-M21	229	Chrome Replicator	5.0	
-M21	176	Colossal Dreadmaw	6.0	G
-M21	216	Conclave Mentor	2.0	G,W
-M21	12	Concordia Pegasus	2.0	W
-M21	139	Conspicuous Snoop	2.0	R
-M21	13	Containment Priest	2.0	W
-M21	140	Crash Through	1.0	R
-M21	93	Crypt Lurker	4.0	B
-M21	177	Cultivate	3.0	G
-M21	14	Daybreak Charger	2.0	W
-M21	94	Deathbloom Thallid	3.0	B
-M21	15	Defiant Strike	1.0	W
-M21	95	Demonic Embrace	3.0	B
-M21	141	Destructive Tampering	3.0	R
-M21	217	Dire Fleet Warmonger	3.0	B,R
-M21	48	Discontinuity	6.0	U
-M21	245	Dismal Backwater	0.0	B,U
-M21	142	Double Vision	5.0	R
-M21	178	Drowsing Tyrannodon	2.0	G
-M21	16	Dub	3.0	W
-M21	96	Duress	1.0	B
-M21	179	Elder Gargaroth	5.0	G
-M21	97	Eliminate	2.0	B
-M21	49	Enthralling Hold	5.0	U
-M21	230	Epitaph Golem	5.0	
-M21	218	Experimental Overload	4.0	R,U
-M21	246	Fabled Passage	0.0	
-M21	17	Faith's Fetters	4.0	W
-M21	18	Falconer Adept	4.0	W
-M21	19	Feat of Resistance	2.0	W
-M21	180	Feline Sovereign	3.0	G
-M21	98	Fetid Imp	2.0	B
-M21	181	Fierce Empath	3.0	G
-M21	143	Fiery Emancipation	6.0	R
-M21	99	Finishing Blow	5.0	B
-M21	272	Forest	0.0	G
-M21	231	Forgotten Sentinel	4.0	
-M21	50	Frantic Inventory	2.0	U
-M21	51	Frost Breath	3.0	U
-M21	182	Fungal Rebirth	3.0	G
-M21	144	Furious Rise	3.0	R
-M21	145	Furor of the Bitten	1.0	R
-M21	146	Gadrak, the Crown-Scourge	3.0	R
-M21	20	Gale Swooper	4.0	W
-M21	184	Garruk's Gorehorn	5.0	G
-M21	185	Garruk's Harbinger	3.0	G
-M21	186	Garruk's Uprising	3.0	G
-M21	337	Garruk's Warsteed	5.0	G
-M21	336	Garruk, Savage Herald	6.0	G
-M21	183	Garruk, Unleashed	4.0	G
-M21	52	Ghostly Pilferer	2.0	U
-M21	100	Gloom Sower	7.0	B
-M21	21	Glorious Anthem	3.0	W
-M21	187	Gnarled Sage	5.0	G
-M21	147	Goblin Arsonist	1.0	R
-M21	148	Goblin Wizardry	4.0	R
-M21	101	Goremand	6.0	B
-M21	102	Grasp of Darkness	2.0	B
-M21	22	Griffin Aerie	2.0	W
-M21	103	Grim Tutor	3.0	B
-M21	149	Havoc Jester	5.0	R
-M21	150	Heartfire Immolator	2.0	R
-M21	151	Hellkite Punisher	7.0	R
-M21	188	Heroic Intervention	2.0	G
-M21	325	Historian of Zhalfir	4.0	U
-M21	152	Hobblefiend	2.0	R
-M21	104	Hooded Blightfang	3.0	B
-M21	189	Hunter's Edge	4.0	G
-M21	23	Idol of Endurance	3.0	W
-M21	153	Igneous Cur	2.0	R
-M21	219	Indulging Patrician	3.0	B,W
-M21	105	Infernal Scarring	2.0	B
-M21	190	Invigorating Surge	3.0	G
-M21	263	Island	0.0	U
-M21	53	Jeskai Elder	2.0	U
-M21	191	Jolrael, Mwonvuli Recluse	2.0	G
-M21	247	Jungle Hollow	0.0	B,G
-M21	106	Kaervek, the Spiteful	4.0	B
-M21	54	Keen Glidemaster	2.0	U
-M21	334	Keral Keep Disciples	4.0	R
-M21	154	Kinetic Augur	4.0	R
-M21	107	Kitesail Freebooter	2.0	B
-M21	220	Leafkin Avenger	4.0	G,R
-M21	24	Legion's Judgment	3.0	W
-M21	55	Library Larcenist	3.0	U
-M21	192	Life Goes On	1.0	G
-M21	25	Light of Promise	3.0	W
-M21	109	Liliana's Devotee	3.0	B
-M21	329	Liliana's Scorn	5.0	B
-M21	330	Liliana's Scrounger	3.0	B
-M21	110	Liliana's Standard Bearer	3.0	B
-M21	111	Liliana's Steward	1.0	B
-M21	328	Liliana, Death Mage	6.0	B
-M21	108	Liliana, Waker of the Dead	4.0	B
-M21	193	Llanowar Visionary	3.0	G
-M21	56	Lofty Denial	2.0	U
-M21	221	Lorescale Coatl	3.0	G,U
-M21	26	Makeshift Battalion	3.0	W
-M21	112	Malefic Scythe	2.0	B
-M21	27	Mangara, the Diplomat	4.0	W
-M21	113	Masked Blackguard	2.0	B
-M21	114	Massacre Wurm	6.0	B
-M21	232	Mazemind Tome	2.0	
-M21	233	Meteorite	5.0	
-M21	115	Mind Rot	3.0	B
-M21	57	Miscast	1.0	U
-M21	58	Mistral Singer	3.0	U
-M21	269	Mountain	0.0	R
-M21	326	Mystic Skyfish	3.0	U
-M21	116	Necromentia	3.0	B
-M21	222	Niambi, Esteemed Speaker	2.0	U,W
-M21	28	Nine Lives	3.0	W
-M21	223	Obsessive Stitcher	3.0	B,U
-M21	155	Onakke Ogre	3.0	R
-M21	59	Opt	1.0	U
-M21	194	Ornery Dilophosaur	4.0	G
-M21	29	Pack Leader	2.0	W
-M21	234	Palladium Myr	3.0	
-M21	117	Peer into the Abyss	7.0	B
-M21	118	Pestilent Haze	3.0	B
-M21	156	Pitchburn Devils	5.0	R
-M21	260	Plains	0.0	W
-M21	195	Portcullis Vine	1.0	G
-M21	338	Predatory Wurm	4.0	G
-M21	196	Pridemalkin	3.0	G
-M21	197	Primal Might	1.0	G
-M21	235	Prismite	2.0	
-M21	60	Pursued Whale	7.0	U
-M21	198	Quirion Dryad	2.0	G
-M21	224	Radha, Heart of Keld	3.0	G,R
-M21	248	Radiant Fountain	0.0	
-M21	61	Rain of Revelation	4.0	U
-M21	30	Rambunctious Mutt	5.0	W
-M21	199	Ranger's Guile	1.0	G
-M21	62	Read the Tides	6.0	U
-M21	200	Return to Nature	2.0	G
-M21	31	Revitalize	2.0	W
-M21	63	Rewind	4.0	U
-M21	64	Riddleform	2.0	U
-M21	278	Rin and Seri, Inseparable	4.0	G,R,W
-M21	119	Rise Again	5.0	B
-M21	65	Roaming Ghostlight	5.0	U
-M21	66	Rookie Mistake	1.0	U
-M21	67	Rousing Read	3.0	U
-M21	249	Rugged Highlands	0.0	G,R
-M21	201	Run Afoul	1.0	G
-M21	32	Runed Halo	2.0	W
-M21	202	Sabertooth Mauler	4.0	G
-M21	225	Sanctum of All	5.0	B,G,R,U,W
-M21	68	Sanctum of Calm Waters	4.0	U
-M21	203	Sanctum of Fruitful Harvest	3.0	G
-M21	157	Sanctum of Shattered Heights	3.0	R
-M21	120	Sanctum of Stone Fangs	2.0	B
-M21	33	Sanctum of Tranquil Light	1.0	W
-M21	121	Sanguine Indulgence	4.0	B
-M21	204	Scavenging Ooze	2.0	G
-M21	158	Scorching Dragonfire	2.0	R
-M21	250	Scoured Barrens	0.0	B,W
-M21	34	Seasoned Hallowblade	2.0	W
-M21	35	Secure the Scene	5.0	W
-M21	69	See the Truth	2.0	U
-M21	36	Selfless Savior	1.0	W
-M21	205	Setessan Training	2.0	G
-M21	70	Shacklegeist	2.0	U
-M21	71	Shipwreck Dowser	5.0	U
-M21	159	Shock	1.0	R
-M21	236	Short Sword	1.0	
-M21	37	Siege Striker	3.0	W
-M21	323	Sigiled Contender	4.0	W
-M21	237	Silent Dart	1.0	
-M21	122	Silversmote Ghoul	3.0	B
-M21	123	Skeleton Archer	4.0	B
-M21	238	Skyscanner	3.0	
-M21	206	Skyway Sniper	1.0	G
-M21	207	Snarespinner	2.0	G
-M21	239	Solemn Simulacrum	4.0	
-M21	160	Soul Sear	3.0	R
-M21	240	Sparkhunter Masticore	3.0	
-M21	38	Speaker of the Heavens	1.0	W
-M21	161	Spellgorger Weird	3.0	R
-M21	72	Spined Megalodon	7.0	U
-M21	331	Spirit of Malevolence	2.0	B
-M21	208	Sporeweb Weaver	3.0	G
-M21	39	Staunch Shieldmate	1.0	W
-M21	335	Storm Caller	3.0	R
-M21	73	Stormwing Entity	5.0	U
-M21	162	Subira, Tulzidi Caravanner	3.0	R
-M21	74	Sublime Epiphany	6.0	U
-M21	163	Sure Strike	2.0	R
-M21	266	Swamp	0.0	B
-M21	40	Swift Response	2.0	W
-M21	251	Swiftwater Cliffs	0.0	R,U
-M21	124	Tavern Swindler	2.0	B
-M21	76	Teferi's Ageless Insight	4.0	U
-M21	77	Teferi's Protege	3.0	U
-M21	78	Teferi's Tutelage	3.0	U
-M21	327	Teferi's Wavecaster	5.0	U
-M21	75	Teferi, Master of Time	4.0	U
-M21	324	Teferi, Timeless Voyager	6.0	U
-M21	41	Tempered Veteran	2.0	W
-M21	252	Temple of Epiphany	0.0	R,U
-M21	253	Temple of Malady	0.0	B,G
-M21	254	Temple of Mystery	0.0	G,U
-M21	255	Temple of Silence	0.0	B,W
-M21	256	Temple of Triumph	0.0	R,W
-M21	164	Terror of the Peaks	5.0	R
-M21	125	Thieves' Guild Enforcer	1.0	B
-M21	257	Thornwood Falls	0.0	G,U
-M21	209	Thrashing Brontodon	3.0	G
-M21	165	Thrill of Possibility	2.0	R
-M21	79	Tide Skimmer	4.0	U
-M21	210	Titanic Growth	2.0	G
-M21	80	Tolarian Kraken	6.0	U
-M21	81	Tome Anima	4.0	U
-M21	241	Tormod's Crypt	0.0	
-M21	211	Track Down	2.0	G
-M21	166	Traitorous Greed	4.0	R
-M21	258	Tranquil Cove	0.0	U,W
-M21	167	Transmogrify	4.0	R
-M21	212	Trufflesnout	3.0	G
-M21	168	Turn to Slag	5.0	R
-M21	169	Turret Ogre	4.0	R
-M21	226	Twinblade Assassins	5.0	B,G
-M21	1	Ugin, the Spirit Dragon	8.0	
-M21	170	Unleash Fury	2.0	R
-M21	82	Unsubstantiate	2.0	U
-M21	42	Valorous Steed	5.0	W
-M21	126	Village Rites	1.0	B
-M21	127	Vito, Thorn of the Dusk Rose	3.0	B
-M21	83	Vodalian Arcanist	2.0	U
-M21	171	Volcanic Geyser	2.0	R
-M21	172	Volcanic Salvo	12.0	R
-M21	43	Vryn Wingmare	3.0	W
-M21	84	Waker of Waves	7.0	U
-M21	128	Walking Corpse	2.0	B
-M21	85	Wall of Runes	1.0	U
-M21	44	Warded Battlements	3.0	W
-M21	213	Warden of the Woods	6.0	G
-M21	227	Watcher of the Spheres	2.0	U,W
-M21	339	Wildwood Patrol	3.0	G
-M21	214	Wildwood Scourge	1.0	G
-M21	259	Wind-Scarred Crag	0.0	R,W
-M21	86	Wishcoin Crab	4.0	U
-M21	129	Witch's Cauldron	1.0	B
+M21	321	Adherent of Hope	2.0	Creature  Human Soldier	W
+M21	87	Alchemist's Gift	1.0	Instant	B
+M21	215	Alpine Houndmaster	2.0	Creature  Human Warrior	R,W
+M21	2	Alpine Watchdog	2.0	Creature  Dog	W
+M21	3	Angelic Ascension	2.0	Instant	W
+M21	242	Animal Sanctuary	0.0	Land	
+M21	4	Anointed Chorister	1.0	Creature  Human Cleric	W
+M21	88	Archfiend's Vessel	1.0	Creature  Human Cleric	B
+M21	5	Aven Gagglemaster	5.0	Creature  Bird Warrior	W
+M21	173	Azusa, Lost but Seeking	3.0	Legendary Creature  Human Monk	G
+M21	89	Bad Deal	6.0	Sorcery	B
+M21	6	Baneslayer Angel	5.0	Creature  Angel	W
+M21	45	Barrin, Tolarian Archmage	3.0	Legendary Creature  Human Wizard	U
+M21	7	Basri Ket	3.0	Legendary Planeswalker  Basri	W
+M21	8	Basri's Acolyte	4.0	Creature  Cat Cleric	W
+M21	322	Basri's Aegis	4.0	Sorcery	W
+M21	9	Basri's Lieutenant	4.0	Creature  Human Knight	W
+M21	10	Basri's Solidarity	2.0	Sorcery	W
+M21	320	Basri, Devoted Paladin	6.0	Legendary Planeswalker  Basri	W
+M21	130	Battle-Rattle Shaman	4.0	Creature  Goblin Shaman	R
+M21	90	Blood Glutton	5.0	Creature  Vampire	B
+M21	243	Bloodfell Caves	0.0	Land	B,R
+M21	244	Blossoming Sands	0.0	Land	G,W
+M21	131	Bolt Hound	3.0	Creature  Elemental Dog	R
+M21	132	Bone Pit Brute	6.0	Creature  Cyclops	R
+M21	133	Brash Taunter	5.0	Creature  Goblin	R
+M21	174	Burlfist Oak	4.0	Creature  Treefolk	G
+M21	134	Burn Bright	3.0	Instant	R
+M21	91	Caged Zombie	3.0	Creature  Zombie	B
+M21	46	Cancel	3.0	Instant	U
+M21	175	Canopy Stalker	4.0	Creature  Cat	G
+M21	47	Capture Sphere	4.0	Enchantment  Aura	U
+M21	92	Carrion Grub	4.0	Creature  Insect	B
+M21	11	Celestial Enforcer	3.0	Creature  Human Cleric	W
+M21	333	Chandra's Firemaw	5.0	Creature  Hellion	R
+M21	136	Chandra's Incinerator	6.0	Creature  Elemental	R
+M21	137	Chandra's Magmutt	2.0	Creature  Elemental Dog	R
+M21	138	Chandra's Pyreling	2.0	Creature  Elemental Lizard	R
+M21	332	Chandra, Flame's Catalyst	6.0	Legendary Planeswalker  Chandra	R
+M21	135	Chandra, Heart of Fire	5.0	Legendary Planeswalker  Chandra	R
+M21	228	Chromatic Orrery	7.0	Legendary Artifact	
+M21	229	Chrome Replicator	5.0	Artifact Creature  Construct	
+M21	176	Colossal Dreadmaw	6.0	Creature  Dinosaur	G
+M21	216	Conclave Mentor	2.0	Creature  Centaur Cleric	G,W
+M21	12	Concordia Pegasus	2.0	Creature  Pegasus	W
+M21	139	Conspicuous Snoop	2.0	Creature  Goblin Rogue	R
+M21	13	Containment Priest	2.0	Creature  Human Cleric	W
+M21	140	Crash Through	1.0	Sorcery	R
+M21	93	Crypt Lurker	4.0	Creature  Horror	B
+M21	177	Cultivate	3.0	Sorcery	G
+M21	14	Daybreak Charger	2.0	Creature  Unicorn	W
+M21	94	Deathbloom Thallid	3.0	Creature  Fungus	B
+M21	15	Defiant Strike	1.0	Instant	W
+M21	95	Demonic Embrace	3.0	Enchantment  Aura	B
+M21	141	Destructive Tampering	3.0	Sorcery	R
+M21	217	Dire Fleet Warmonger	3.0	Creature  Orc Pirate	B,R
+M21	48	Discontinuity	6.0	Instant	U
+M21	245	Dismal Backwater	0.0	Land	B,U
+M21	142	Double Vision	5.0	Enchantment	R
+M21	178	Drowsing Tyrannodon	2.0	Creature  Dinosaur	G
+M21	16	Dub	3.0	Enchantment  Aura	W
+M21	96	Duress	1.0	Sorcery	B
+M21	179	Elder Gargaroth	5.0	Creature  Beast	G
+M21	97	Eliminate	2.0	Instant	B
+M21	49	Enthralling Hold	5.0	Enchantment  Aura	U
+M21	230	Epitaph Golem	5.0	Artifact Creature  Golem	
+M21	218	Experimental Overload	4.0	Sorcery	R,U
+M21	246	Fabled Passage	0.0	Land	
+M21	17	Faith's Fetters	4.0	Enchantment  Aura	W
+M21	18	Falconer Adept	4.0	Creature  Human Soldier	W
+M21	19	Feat of Resistance	2.0	Instant	W
+M21	180	Feline Sovereign	3.0	Creature  Cat	G
+M21	98	Fetid Imp	2.0	Creature  Imp	B
+M21	181	Fierce Empath	3.0	Creature  Elf	G
+M21	143	Fiery Emancipation	6.0	Enchantment	R
+M21	99	Finishing Blow	5.0	Instant	B
+M21	272	Forest	0.0	Basic Land  Forest	G
+M21	231	Forgotten Sentinel	4.0	Artifact Creature  Golem	
+M21	50	Frantic Inventory	2.0	Instant	U
+M21	51	Frost Breath	3.0	Instant	U
+M21	182	Fungal Rebirth	3.0	Instant	G
+M21	144	Furious Rise	3.0	Enchantment	R
+M21	145	Furor of the Bitten	1.0	Enchantment  Aura	R
+M21	146	Gadrak, the Crown-Scourge	3.0	Legendary Creature  Dragon	R
+M21	20	Gale Swooper	4.0	Creature  Griffin	W
+M21	184	Garruk's Gorehorn	5.0	Creature  Beast	G
+M21	185	Garruk's Harbinger	3.0	Creature  Beast	G
+M21	186	Garruk's Uprising	3.0	Enchantment	G
+M21	337	Garruk's Warsteed	5.0	Creature  Rhino	G
+M21	336	Garruk, Savage Herald	6.0	Legendary Planeswalker  Garruk	G
+M21	183	Garruk, Unleashed	4.0	Legendary Planeswalker  Garruk	G
+M21	52	Ghostly Pilferer	2.0	Creature  Spirit Rogue	U
+M21	100	Gloom Sower	7.0	Creature  Horror	B
+M21	21	Glorious Anthem	3.0	Enchantment	W
+M21	187	Gnarled Sage	5.0	Creature  Treefolk Druid	G
+M21	147	Goblin Arsonist	1.0	Creature  Goblin Shaman	R
+M21	148	Goblin Wizardry	4.0	Instant	R
+M21	101	Goremand	6.0	Creature  Demon	B
+M21	102	Grasp of Darkness	2.0	Instant	B
+M21	22	Griffin Aerie	2.0	Enchantment	W
+M21	103	Grim Tutor	3.0	Sorcery	B
+M21	149	Havoc Jester	5.0	Creature  Devil	R
+M21	150	Heartfire Immolator	2.0	Creature  Human Wizard	R
+M21	151	Hellkite Punisher	7.0	Creature  Dragon	R
+M21	188	Heroic Intervention	2.0	Instant	G
+M21	325	Historian of Zhalfir	4.0	Creature  Human Wizard	U
+M21	152	Hobblefiend	2.0	Creature  Devil	R
+M21	104	Hooded Blightfang	3.0	Creature  Snake	B
+M21	189	Hunter's Edge	4.0	Sorcery	G
+M21	23	Idol of Endurance	3.0	Artifact	W
+M21	153	Igneous Cur	2.0	Creature  Elemental Dog	R
+M21	219	Indulging Patrician	3.0	Creature  Vampire Noble	B,W
+M21	105	Infernal Scarring	2.0	Enchantment  Aura	B
+M21	190	Invigorating Surge	3.0	Instant	G
+M21	263	Island	0.0	Basic Land  Island	U
+M21	53	Jeskai Elder	2.0	Creature  Human Monk	U
+M21	191	Jolrael, Mwonvuli Recluse	2.0	Legendary Creature  Human Druid	G
+M21	247	Jungle Hollow	0.0	Land	B,G
+M21	106	Kaervek, the Spiteful	4.0	Legendary Creature  Human Warlock	B
+M21	54	Keen Glidemaster	2.0	Creature  Human Soldier	U
+M21	334	Keral Keep Disciples	4.0	Creature  Human Monk	R
+M21	154	Kinetic Augur	4.0	Creature  Human Shaman	R
+M21	107	Kitesail Freebooter	2.0	Creature  Human Pirate	B
+M21	220	Leafkin Avenger	4.0	Creature  Elemental Druid	G,R
+M21	24	Legion's Judgment	3.0	Sorcery	W
+M21	55	Library Larcenist	3.0	Creature  Merfolk Rogue	U
+M21	192	Life Goes On	1.0	Instant	G
+M21	25	Light of Promise	3.0	Enchantment  Aura	W
+M21	109	Liliana's Devotee	3.0	Creature  Human Warlock	B
+M21	329	Liliana's Scorn	5.0	Sorcery	B
+M21	330	Liliana's Scrounger	3.0	Creature  Human Wizard	B
+M21	110	Liliana's Standard Bearer	3.0	Creature  Zombie Knight	B
+M21	111	Liliana's Steward	1.0	Creature  Zombie	B
+M21	328	Liliana, Death Mage	6.0	Legendary Planeswalker  Liliana	B
+M21	108	Liliana, Waker of the Dead	4.0	Legendary Planeswalker  Liliana	B
+M21	193	Llanowar Visionary	3.0	Creature  Elf Druid	G
+M21	56	Lofty Denial	2.0	Instant	U
+M21	221	Lorescale Coatl	3.0	Creature  Snake	G,U
+M21	26	Makeshift Battalion	3.0	Creature  Human Soldier	W
+M21	112	Malefic Scythe	2.0	Artifact  Equipment	B
+M21	27	Mangara, the Diplomat	4.0	Legendary Creature  Human Cleric	W
+M21	113	Masked Blackguard	2.0	Creature  Human Rogue	B
+M21	114	Massacre Wurm	6.0	Creature  Wurm	B
+M21	232	Mazemind Tome	2.0	Artifact	
+M21	233	Meteorite	5.0	Artifact	
+M21	115	Mind Rot	3.0	Sorcery	B
+M21	57	Miscast	1.0	Instant	U
+M21	58	Mistral Singer	3.0	Creature  Siren	U
+M21	269	Mountain	0.0	Basic Land  Mountain	R
+M21	326	Mystic Skyfish	3.0	Creature  Fish	U
+M21	116	Necromentia	3.0	Sorcery	B
+M21	222	Niambi, Esteemed Speaker	2.0	Legendary Creature  Human Cleric	U,W
+M21	28	Nine Lives	3.0	Enchantment	W
+M21	223	Obsessive Stitcher	3.0	Creature  Human Wizard	B,U
+M21	155	Onakke Ogre	3.0	Creature  Ogre Warrior	R
+M21	59	Opt	1.0	Instant	U
+M21	194	Ornery Dilophosaur	4.0	Creature  Dinosaur	G
+M21	29	Pack Leader	2.0	Creature  Dog	W
+M21	234	Palladium Myr	3.0	Artifact Creature  Myr	
+M21	117	Peer into the Abyss	7.0	Sorcery	B
+M21	118	Pestilent Haze	3.0	Sorcery	B
+M21	156	Pitchburn Devils	5.0	Creature  Devil	R
+M21	260	Plains	0.0	Basic Land  Plains	W
+M21	195	Portcullis Vine	1.0	Creature  Plant Wall	G
+M21	338	Predatory Wurm	4.0	Creature  Wurm	G
+M21	196	Pridemalkin	3.0	Creature  Cat	G
+M21	197	Primal Might	1.0	Sorcery	G
+M21	235	Prismite	2.0	Artifact Creature  Golem	
+M21	60	Pursued Whale	7.0	Creature  Whale	U
+M21	198	Quirion Dryad	2.0	Creature  Dryad	G
+M21	224	Radha, Heart of Keld	3.0	Legendary Creature  Elf Warrior	G,R
+M21	248	Radiant Fountain	0.0	Land	
+M21	61	Rain of Revelation	4.0	Instant	U
+M21	30	Rambunctious Mutt	5.0	Creature  Dog	W
+M21	199	Ranger's Guile	1.0	Instant	G
+M21	62	Read the Tides	6.0	Sorcery	U
+M21	200	Return to Nature	2.0	Instant	G
+M21	31	Revitalize	2.0	Instant	W
+M21	63	Rewind	4.0	Instant	U
+M21	64	Riddleform	2.0	Enchantment	U
+M21	278	Rin and Seri, Inseparable	4.0	Legendary Creature  Dog Cat	G,R,W
+M21	119	Rise Again	5.0	Sorcery	B
+M21	65	Roaming Ghostlight	5.0	Creature  Spirit	U
+M21	66	Rookie Mistake	1.0	Instant	U
+M21	67	Rousing Read	3.0	Enchantment  Aura	U
+M21	249	Rugged Highlands	0.0	Land	G,R
+M21	201	Run Afoul	1.0	Instant	G
+M21	32	Runed Halo	2.0	Enchantment	W
+M21	202	Sabertooth Mauler	4.0	Creature  Cat	G
+M21	225	Sanctum of All	5.0	Legendary Enchantment  Shrine	B,G,R,U,W
+M21	68	Sanctum of Calm Waters	4.0	Legendary Enchantment  Shrine	U
+M21	203	Sanctum of Fruitful Harvest	3.0	Legendary Enchantment  Shrine	G
+M21	157	Sanctum of Shattered Heights	3.0	Legendary Enchantment  Shrine	R
+M21	120	Sanctum of Stone Fangs	2.0	Legendary Enchantment  Shrine	B
+M21	33	Sanctum of Tranquil Light	1.0	Legendary Enchantment  Shrine	W
+M21	121	Sanguine Indulgence	4.0	Sorcery	B
+M21	204	Scavenging Ooze	2.0	Creature  Ooze	G
+M21	158	Scorching Dragonfire	2.0	Instant	R
+M21	250	Scoured Barrens	0.0	Land	B,W
+M21	34	Seasoned Hallowblade	2.0	Creature  Human Warrior	W
+M21	35	Secure the Scene	5.0	Sorcery	W
+M21	69	See the Truth	2.0	Sorcery	U
+M21	36	Selfless Savior	1.0	Creature  Dog	W
+M21	205	Setessan Training	2.0	Enchantment  Aura	G
+M21	70	Shacklegeist	2.0	Creature  Spirit	U
+M21	71	Shipwreck Dowser	5.0	Creature  Merfolk Wizard	U
+M21	159	Shock	1.0	Instant	R
+M21	236	Short Sword	1.0	Artifact  Equipment	
+M21	37	Siege Striker	3.0	Creature  Human Soldier	W
+M21	323	Sigiled Contender	4.0	Creature  Human Warrior	W
+M21	237	Silent Dart	1.0	Artifact	
+M21	122	Silversmote Ghoul	3.0	Creature  Zombie Vampire	B
+M21	123	Skeleton Archer	4.0	Creature  Skeleton Archer	B
+M21	238	Skyscanner	3.0	Artifact Creature  Thopter	
+M21	206	Skyway Sniper	1.0	Creature  Elf Archer	G
+M21	207	Snarespinner	2.0	Creature  Spider	G
+M21	239	Solemn Simulacrum	4.0	Artifact Creature  Golem	
+M21	160	Soul Sear	3.0	Instant	R
+M21	240	Sparkhunter Masticore	3.0	Artifact Creature  Masticore	
+M21	38	Speaker of the Heavens	1.0	Creature  Human Cleric	W
+M21	161	Spellgorger Weird	3.0	Creature  Weird	R
+M21	72	Spined Megalodon	7.0	Creature  Shark	U
+M21	331	Spirit of Malevolence	2.0	Creature  Spirit	B
+M21	208	Sporeweb Weaver	3.0	Creature  Spider	G
+M21	39	Staunch Shieldmate	1.0	Creature  Dwarf Soldier	W
+M21	335	Storm Caller	3.0	Creature  Ogre Shaman	R
+M21	73	Stormwing Entity	5.0	Creature  Elemental	U
+M21	162	Subira, Tulzidi Caravanner	3.0	Legendary Creature  Human Shaman	R
+M21	74	Sublime Epiphany	6.0	Instant	U
+M21	163	Sure Strike	2.0	Instant	R
+M21	266	Swamp	0.0	Basic Land  Swamp	B
+M21	40	Swift Response	2.0	Instant	W
+M21	251	Swiftwater Cliffs	0.0	Land	R,U
+M21	124	Tavern Swindler	2.0	Creature  Human Rogue	B
+M21	76	Teferi's Ageless Insight	4.0	Legendary Enchantment	U
+M21	77	Teferi's Protege	3.0	Creature  Human Wizard	U
+M21	78	Teferi's Tutelage	3.0	Enchantment	U
+M21	327	Teferi's Wavecaster	5.0	Creature  Merfolk Wizard	U
+M21	75	Teferi, Master of Time	4.0	Legendary Planeswalker  Teferi	U
+M21	324	Teferi, Timeless Voyager	6.0	Legendary Planeswalker  Teferi	U
+M21	41	Tempered Veteran	2.0	Creature  Human Knight	W
+M21	252	Temple of Epiphany	0.0	Land	R,U
+M21	253	Temple of Malady	0.0	Land	B,G
+M21	254	Temple of Mystery	0.0	Land	G,U
+M21	255	Temple of Silence	0.0	Land	B,W
+M21	256	Temple of Triumph	0.0	Land	R,W
+M21	164	Terror of the Peaks	5.0	Creature  Dragon	R
+M21	125	Thieves' Guild Enforcer	1.0	Creature  Human Rogue	B
+M21	257	Thornwood Falls	0.0	Land	G,U
+M21	209	Thrashing Brontodon	3.0	Creature  Dinosaur	G
+M21	165	Thrill of Possibility	2.0	Instant	R
+M21	79	Tide Skimmer	4.0	Creature  Drake	U
+M21	210	Titanic Growth	2.0	Instant	G
+M21	80	Tolarian Kraken	6.0	Creature  Kraken	U
+M21	81	Tome Anima	4.0	Creature  Spirit	U
+M21	241	Tormod's Crypt	0.0	Artifact	
+M21	211	Track Down	2.0	Sorcery	G
+M21	166	Traitorous Greed	4.0	Sorcery	R
+M21	258	Tranquil Cove	0.0	Land	U,W
+M21	167	Transmogrify	4.0	Sorcery	R
+M21	212	Trufflesnout	3.0	Creature  Boar	G
+M21	168	Turn to Slag	5.0	Sorcery	R
+M21	169	Turret Ogre	4.0	Creature  Ogre Warrior	R
+M21	226	Twinblade Assassins	5.0	Creature  Elf Assassin	B,G
+M21	1	Ugin, the Spirit Dragon	8.0	Legendary Planeswalker  Ugin	
+M21	170	Unleash Fury	2.0	Instant	R
+M21	82	Unsubstantiate	2.0	Instant	U
+M21	42	Valorous Steed	5.0	Creature  Unicorn	W
+M21	126	Village Rites	1.0	Instant	B
+M21	127	Vito, Thorn of the Dusk Rose	3.0	Legendary Creature  Vampire Cleric	B
+M21	83	Vodalian Arcanist	2.0	Creature  Merfolk Wizard	U
+M21	171	Volcanic Geyser	2.0	Instant	R
+M21	172	Volcanic Salvo	12.0	Sorcery	R
+M21	43	Vryn Wingmare	3.0	Creature  Pegasus	W
+M21	84	Waker of Waves	7.0	Creature  Whale	U
+M21	128	Walking Corpse	2.0	Creature  Zombie	B
+M21	85	Wall of Runes	1.0	Creature  Wall	U
+M21	44	Warded Battlements	3.0	Creature  Wall	W
+M21	213	Warden of the Woods	6.0	Creature  Treefolk	G
+M21	227	Watcher of the Spheres	2.0	Creature  Bird Wizard	U,W
+M21	339	Wildwood Patrol	3.0	Creature  Centaur Scout	G
+M21	214	Wildwood Scourge	1.0	Creature  Hydra	G
+M21	259	Wind-Scarred Crag	0.0	Land	R,W
+M21	86	Wishcoin Crab	4.0	Creature  Crab	U
+M21	129	Witch's Cauldron	1.0	Artifact	B

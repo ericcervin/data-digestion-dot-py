@@ -1,82 +1,82 @@
-IKO	1	Adaptive Shimmerer	5.0	
-IKO	73	Bastion of Remembrance	3.0	B
-IKO	107	Blazing Volley	1.0	R
-IKO	108	Blisterspit Gremlin	1.0	R
-IKO	74	Blitz Leech	6.0	B
-IKO	109	Blitz of the Thunder-Raptor	2.0	R
-IKO	75	Blood Curdle	4.0	B
-IKO	243	Bloodfell Caves	0.0	B,R
-IKO	245	Bonders' Enclave	0.0	
-IKO	76	Boot Nipper	2.0	B
-IKO	77	Bushmeat Poacher	4.0	B
-IKO	78	Call of the Death-Dweller	3.0	B
-IKO	110	Cathartic Reunion	2.0	R
-IKO	79	Cavern Whisperer	5.0	B
-IKO	80	Chittering Harvester	6.0	B
-IKO	111	Clash of Titans	5.0	R
-IKO	112	Cloudpiercer	5.0	R
-IKO	81	Corpse Churn	2.0	B
-IKO	234	Crystalline Giant	3.0	
-IKO	82	Dark Bargain	4.0	B
-IKO	83	Dead Weight	1.0	B
-IKO	84	Dirge Bat	4.0	B
-IKO	113	Drannith Stinger	2.0	R
-IKO	85	Durable Coilbug	2.0	B
-IKO	86	Duskfang Mentor	3.0	B
-IKO	87	Easy Prey	2.0	B
-IKO	114	Everquill Phoenix	4.0	R
-IKO	247	Evolving Wilds	0.0	
-IKO	88	Extinction Event	4.0	B
-IKO	2	Farfinder	3.0	
-IKO	115	Ferocious Tigorilla	4.0	R
-IKO	116	Fire Prophecy	2.0	R
-IKO	117	Flame Spill	3.0	R
-IKO	118	Footfall Crater	1.0	R
-IKO	119	Forbidden Friendship	2.0	R
-IKO	120	Frenzied Raptor	3.0	R
-IKO	121	Frillscare Mentor	3.0	R
-IKO	89	Gloom Pangolin	3.0	B
-IKO	122	Go for Blood	2.0	R
-IKO	90	Grimdancer	3.0	B
-IKO	91	Heartless Act	2.0	B
-IKO	123	Heightened Reflexes	1.0	R
-IKO	92	Hunted Nightmare	3.0	B
-IKO	93	Insatiable Hemophage	4.0	B
-IKO	193	Labyrinth Raptor	2.0	B,R
-IKO	124	Lava Serpent	6.0	R
-IKO	125	Lukka, Coppercoat Outcast	5.0	R
-IKO	94	Lurking Deadeye	4.0	B
-IKO	95	Memory Leak	3.0	B
-IKO	126	Momentum Rumbler	4.0	R
-IKO	269	Mountain	0.0	R
-IKO	96	Mutual Destruction	1.0	B
-IKO	3	Mysterious Egg	1.0	
-IKO	98	Nightsquad Commando	3.0	B
-IKO	228	Obosh, the Preypiercer	5.0	B,R
-IKO	128	Porcuparrot	4.0	R
-IKO	129	Prickly Marmoset	3.0	R
-IKO	130	Pyroceratops	4.0	R
-IKO	131	Raking Claws	2.0	R
-IKO	132	Reptilian Reflection	3.0	R
-IKO	133	Rooting Moloch	5.0	R
-IKO	134	Rumbling Rockslide	4.0	R
-IKO	135	Sanctuary Smasher	6.0	R
-IKO	99	Serrated Scorpion	1.0	B
-IKO	136	Shredded Sails	2.0	R
-IKO	240	Sleeper Dart	2.0	
-IKO	230	Sonorous Howlbonder	3.0	B,R
-IKO	137	Spelleater Wolverine	3.0	R
-IKO	241	Springjaw Trap	1.0	
-IKO	100	Suffocating Fumes	3.0	B
-IKO	266	Swamp	0.0	B
-IKO	138	Tentative Connection	4.0	R
-IKO	237	The Ozolith	1.0	
-IKO	101	Unbreakable Bond	5.0	B
-IKO	102	Unexpected Fangs	2.0	B
-IKO	103	Unlikely Aid	2.0	B
-IKO	139	Unpredictable Cyclone	5.0	R
-IKO	104	Void Beckoner	8.0	B
-IKO	140	Weaponize the Monsters	1.0	R
-IKO	105	Whisper Squad	1.0	B
-IKO	141	Yidaro, Wandering Monster	7.0	R
-IKO	106	Zagoth Mamba	1.0	B
+IKO	1	Adaptive Shimmerer	5.0	Creature  Insect	
+IKO	73	Bastion of Remembrance	3.0	Enchantment	B
+IKO	107	Blazing Volley	1.0	Sorcery	R
+IKO	108	Blisterspit Gremlin	1.0	Creature  Gremlin	R
+IKO	74	Blitz Leech	6.0	Creature  Leech	B
+IKO	109	Blitz of the Thunder-Raptor	2.0	Instant	R
+IKO	75	Blood Curdle	4.0	Instant	B
+IKO	243	Bloodfell Caves	0.0	Land	B,R
+IKO	245	Bonders' Enclave	0.0	Land	
+IKO	76	Boot Nipper	2.0	Creature  Beast	B
+IKO	77	Bushmeat Poacher	4.0	Creature  Human Soldier	B
+IKO	78	Call of the Death-Dweller	3.0	Sorcery	B
+IKO	110	Cathartic Reunion	2.0	Sorcery	R
+IKO	79	Cavern Whisperer	5.0	Creature  Nightmare	B
+IKO	80	Chittering Harvester	6.0	Creature  Nightmare	B
+IKO	111	Clash of Titans	5.0	Instant	R
+IKO	112	Cloudpiercer	5.0	Creature  Dinosaur	R
+IKO	81	Corpse Churn	2.0	Instant	B
+IKO	234	Crystalline Giant	3.0	Artifact Creature  Giant	
+IKO	82	Dark Bargain	4.0	Instant	B
+IKO	83	Dead Weight	1.0	Enchantment  Aura	B
+IKO	84	Dirge Bat	4.0	Creature  Bat	B
+IKO	113	Drannith Stinger	2.0	Creature  Human Wizard	R
+IKO	85	Durable Coilbug	2.0	Creature  Insect	B
+IKO	86	Duskfang Mentor	3.0	Creature  Human Cleric	B
+IKO	87	Easy Prey	2.0	Instant	B
+IKO	114	Everquill Phoenix	4.0	Creature  Phoenix	R
+IKO	247	Evolving Wilds	0.0	Land	
+IKO	88	Extinction Event	4.0	Sorcery	B
+IKO	2	Farfinder	3.0	Creature  Fox	
+IKO	115	Ferocious Tigorilla	4.0	Creature  Cat Ape	R
+IKO	116	Fire Prophecy	2.0	Instant	R
+IKO	117	Flame Spill	3.0	Instant	R
+IKO	118	Footfall Crater	1.0	Enchantment  Aura	R
+IKO	119	Forbidden Friendship	2.0	Sorcery	R
+IKO	120	Frenzied Raptor	3.0	Creature  Dinosaur	R
+IKO	121	Frillscare Mentor	3.0	Creature  Human Warrior	R
+IKO	89	Gloom Pangolin	3.0	Creature  Nightmare Pangolin	B
+IKO	122	Go for Blood	2.0	Sorcery	R
+IKO	90	Grimdancer	3.0	Creature  Nightmare	B
+IKO	91	Heartless Act	2.0	Instant	B
+IKO	123	Heightened Reflexes	1.0	Instant	R
+IKO	92	Hunted Nightmare	3.0	Creature  Nightmare	B
+IKO	93	Insatiable Hemophage	4.0	Creature  Nightmare	B
+IKO	193	Labyrinth Raptor	2.0	Creature  Nightmare Dinosaur	B,R
+IKO	124	Lava Serpent	6.0	Creature  Elemental Serpent	R
+IKO	125	Lukka, Coppercoat Outcast	5.0	Legendary Planeswalker  Lukka	R
+IKO	94	Lurking Deadeye	4.0	Creature  Human Assassin	B
+IKO	95	Memory Leak	3.0	Sorcery	B
+IKO	126	Momentum Rumbler	4.0	Creature  Dinosaur	R
+IKO	269	Mountain	0.0	Basic Land  Mountain	R
+IKO	96	Mutual Destruction	1.0	Sorcery	B
+IKO	3	Mysterious Egg	1.0	Creature  Egg	
+IKO	98	Nightsquad Commando	3.0	Creature  Human Soldier	B
+IKO	228	Obosh, the Preypiercer	5.0	Legendary Creature  Hellion Horror	B,R
+IKO	128	Porcuparrot	4.0	Creature  Bird Beast	R
+IKO	129	Prickly Marmoset	3.0	Creature  Monkey	R
+IKO	130	Pyroceratops	4.0	Creature  Elemental Dinosaur	R
+IKO	131	Raking Claws	2.0	Instant	R
+IKO	132	Reptilian Reflection	3.0	Enchantment	R
+IKO	133	Rooting Moloch	5.0	Creature  Lizard	R
+IKO	134	Rumbling Rockslide	4.0	Sorcery	R
+IKO	135	Sanctuary Smasher	6.0	Creature  Rhino Beast	R
+IKO	99	Serrated Scorpion	1.0	Creature  Scorpion	B
+IKO	136	Shredded Sails	2.0	Instant	R
+IKO	240	Sleeper Dart	2.0	Artifact	
+IKO	230	Sonorous Howlbonder	3.0	Creature  Human Warrior	B,R
+IKO	137	Spelleater Wolverine	3.0	Creature  Wolverine	R
+IKO	241	Springjaw Trap	1.0	Artifact	
+IKO	100	Suffocating Fumes	3.0	Instant	B
+IKO	266	Swamp	0.0	Basic Land  Swamp	B
+IKO	138	Tentative Connection	4.0	Sorcery	R
+IKO	237	The Ozolith	1.0	Legendary Artifact	
+IKO	101	Unbreakable Bond	5.0	Sorcery	B
+IKO	102	Unexpected Fangs	2.0	Instant	B
+IKO	103	Unlikely Aid	2.0	Instant	B
+IKO	139	Unpredictable Cyclone	5.0	Enchantment	R
+IKO	104	Void Beckoner	8.0	Creature  Nightmare Horror	B
+IKO	140	Weaponize the Monsters	1.0	Enchantment	R
+IKO	105	Whisper Squad	1.0	Creature  Human Soldier	B
+IKO	141	Yidaro, Wandering Monster	7.0	Legendary Creature  Dinosaur Turtle	R
+IKO	106	Zagoth Mamba	1.0	Creature  Nightmare Snake	B

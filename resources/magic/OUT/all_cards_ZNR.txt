@@ -1,270 +1,270 @@
-ZNR	89	Acquisitions Expert	2.0	B
-ZNR	177	Adventure Awaits	2.0	G
-ZNR	90	Agadeem's Awakening // Agadeem, the Undercrypt	3.0	B
-ZNR	220	Akiri, Fearless Voyager	3.0	R,W
-ZNR	133	Akoum Hellhound	1.0	R
-ZNR	134	Akoum Warrior // Akoum Teeth	6.0	R
-ZNR	1	Allied Assault	3.0	W
-ZNR	178	Ancient Greenwarden	6.0	G
-ZNR	2	Angel of Destiny	5.0	W
-ZNR	3	Angelheart Protector	3.0	W
-ZNR	45	Anticognition	2.0	U
-ZNR	4	Archon of Emeria	3.0	W
-ZNR	5	Archpriest of Iona	1.0	W
-ZNR	135	Ardent Electromancer	3.0	R
-ZNR	179	Ashaya, Soul of the Wild	5.0	G
-ZNR	6	Attended Healer	4.0	W
-ZNR	180	Bala Ged Recovery // Bala Ged Sanctuary	3.0	G
-ZNR	257	Base Camp	0.0	
-ZNR	46	Beyeen Veil // Beyeen Coast	2.0	U
-ZNR	91	Blackbloom Rogue // Blackbloom Bog	3.0	B
-ZNR	92	Blood Beckoning	1.0	B
-ZNR	93	Blood Price	4.0	B
-ZNR	94	Bloodchief's Thirst	1.0	B
-ZNR	258	Branchloft Pathway // Boulderloft Pathway	0.0	G,W
-ZNR	259	Brightclimb Pathway // Grimclimb Pathway	0.0	B,W
-ZNR	181	Broken Wings	3.0	G
-ZNR	221	Brushfire Elemental	2.0	G,R
-ZNR	47	Bubble Snare	1.0	U
-ZNR	182	Canopy Baloth	4.0	G
-ZNR	7	Canyon Jerboa	3.0	W
-ZNR	48	Cascade Seer	4.0	U
-ZNR	49	Charix, the Raging Isle	4.0	U
-ZNR	50	Chilling Trap	1.0	U
-ZNR	136	Cinderclasm	2.0	R
-ZNR	137	Cleansing Wildfire	2.0	R
-ZNR	260	Clearwater Pathway // Murkwater Pathway	0.0	B,U
-ZNR	51	Cleric of Chill Depths	2.0	U
-ZNR	222	Cleric of Life's Bond	2.0	B,W
-ZNR	243	Cliffhaven Kitesail	1.0	
-ZNR	8	Cliffhaven Sell-Sword	2.0	W
-ZNR	52	Concerted Defense	1.0	U
-ZNR	53	Confounding Conundrum	2.0	U
-ZNR	54	Coralhelm Chronicler	3.0	U
-ZNR	95	Coveted Prize	5.0	B
-ZNR	261	Cragcrown Pathway // Timbercrown Pathway	0.0	G,R
-ZNR	183	Cragplate Baloth	7.0	G
-ZNR	262	Crawling Barrens	0.0	
-ZNR	55	Cunning Geysermage	3.0	U
-ZNR	184	Dauntless Survivor	2.0	G
-ZNR	9	Dauntless Unity	2.0	W
-ZNR	96	Deadly Alliance	5.0	B
-ZNR	56	Deliberate	2.0	U
-ZNR	97	Demon's Disciple	3.0	B
-ZNR	10	Disenchant	2.0	W
-ZNR	99	Drana's Silencer	6.0	B
-ZNR	98	Drana, the Last Bloodchief	5.0	B
-ZNR	100	Dreadwurm	5.0	B
-ZNR	11	Emeria Captain	4.0	W
-ZNR	12	Emeria's Call // Emeria, Shattered Skyclave	7.0	W
-ZNR	138	Expedition Champion	3.0	R
-ZNR	57	Expedition Diviner	4.0	U
-ZNR	13	Expedition Healer	2.0	W
-ZNR	101	Expedition Skulker	2.0	B
-ZNR	14	Farsight Adept	3.0	W
-ZNR	15	Fearless Fledgling	2.0	W
-ZNR	102	Feed the Swarm	2.0	B
-ZNR	16	Felidar Retreat	4.0	W
-ZNR	58	Field Research	3.0	U
-ZNR	139	Fireblade Charger	1.0	R
-ZNR	140	Fissure Wizard	2.0	R
-ZNR	278	Forest	0.0	G
-ZNR	244	Forsaken Monument	5.0	
-ZNR	103	Ghastly Gloomhunter	2.0	B
-ZNR	59	Glacial Grasp	3.0	U
-ZNR	60	Glasspool Mimic // Glasspool Shore	3.0	U
-ZNR	185	Gnarlid Colony	2.0	G
-ZNR	141	Goma Fada Vanguard	2.0	R
-ZNR	223	Grakmaw, Skyclave Ravager	3.0	B,G
-ZNR	142	Grotag Bug-Catcher	2.0	R
-ZNR	143	Grotag Night-Runner	3.0	R
-ZNR	104	Guul Draz Mucklord	3.0	B
-ZNR	105	Hagra Constrictor	3.0	B
-ZNR	106	Hagra Mauling // Hagra Broodpit	4.0	B
-ZNR	107	Highborn Vampire	4.0	B
-ZNR	144	Inordinate Rage	2.0	R
-ZNR	186	Inscription of Abundance	2.0	G
-ZNR	61	Inscription of Insight	4.0	U
-ZNR	108	Inscription of Ruin	3.0	B
-ZNR	62	Into the Roil	2.0	U
-ZNR	187	Iridescent Hornbeetle	5.0	G
-ZNR	269	Island	0.0	U
-ZNR	63	Jace, Mirror Mage	3.0	U
-ZNR	188	Joraga Visionary	4.0	G
-ZNR	17	Journey to Oblivion	5.0	W
-ZNR	64	Jwari Disruption // Jwari Ruins	2.0	U
-ZNR	18	Kabira Outrider	4.0	W
-ZNR	19	Kabira Takedown // Kabira Plateau	2.0	W
-ZNR	145	Kargan Intimidator	2.0	R
-ZNR	224	Kargan Warleader	3.0	R,W
-ZNR	225	Kaza, Roil Chaser	2.0	R,U
-ZNR	189	Kazandu Mammoth // Kazandu Valley	3.0	G
-ZNR	190	Kazandu Nectarpot	2.0	G
-ZNR	191	Kazandu Stomper	6.0	G
-ZNR	146	Kazuul's Fury // Kazuul's Cliffs	3.0	R
-ZNR	192	Khalni Ambush // Khalni Territory	3.0	G
-ZNR	20	Kitesail Cleric	1.0	W
-ZNR	21	Kor Blademaster	2.0	W
-ZNR	22	Kor Celebrant	3.0	W
-ZNR	23	Legion Angel	4.0	W
-ZNR	147	Leyline Tyrant	4.0	R
-ZNR	226	Linvala, Shield of Sea Gate	3.0	U,W
-ZNR	109	Lithoform Blight	2.0	B
-ZNR	245	Lithoform Engine	4.0	
-ZNR	65	Living Tempest	5.0	U
-ZNR	193	Lotus Cobra	2.0	G
-ZNR	66	Lullmage's Domination	3.0	U
-ZNR	227	Lullmage's Familiar	3.0	G,U
-ZNR	24	Luminarch Aspirant	2.0	W
-ZNR	67	Maddening Cacophony	2.0	U
-ZNR	148	Magmatic Channeler	2.0	R
-ZNR	25	Makindi Ox	5.0	W
-ZNR	26	Makindi Stampede // Makindi Mesas	5.0	W
-ZNR	110	Malakir Blood-Priest	2.0	B
-ZNR	111	Malakir Rebirth // Malakir Mire	1.0	B
-ZNR	112	Marauding Blight-Priest	3.0	B
-ZNR	68	Master of Winds	4.0	U
-ZNR	27	Maul of the Skyclaves	3.0	W
-ZNR	69	Merfolk Falconer	5.0	U
-ZNR	70	Merfolk Windrobber	1.0	U
-ZNR	28	Mesa Lynx	2.0	W
-ZNR	194	Might of Murasa	2.0	G
-ZNR	113	Mind Carver	1.0	B
-ZNR	114	Mind Drain	3.0	B
-ZNR	149	Molten Blast	3.0	R
-ZNR	150	Moraug, Fury of Akoum	6.0	R
-ZNR	228	Moss-Pit Skeleton	2.0	B,G
-ZNR	275	Mountain	0.0	R
-ZNR	195	Murasa Brute	3.0	G
-ZNR	229	Murasa Rootgrazer	2.0	G,W
-ZNR	196	Murasa Sproutling	3.0	G
-ZNR	246	Myriad Construct	4.0	
-ZNR	29	Nahiri's Binding	3.0	W
-ZNR	151	Nahiri's Lithoforming	2.0	R
-ZNR	230	Nahiri, Heir of the Ancients	4.0	R,W
-ZNR	263	Needleverge Pathway // Pillarverge Pathway	0.0	R,W
-ZNR	71	Negate	2.0	U
-ZNR	115	Nighthawk Scavenger	3.0	B
-ZNR	116	Nimana Skitter-Sneak	4.0	B
-ZNR	117	Nimana Skydancer	3.0	B
-ZNR	72	Nimble Trapfinder	2.0	U
-ZNR	231	Nissa of Shadowed Boughs	4.0	B,G
-ZNR	197	Nissa's Zendikon	4.0	G
-ZNR	118	Nullpriest of Oblivion	2.0	B
-ZNR	119	Oblivion's Hunger	2.0	B
-ZNR	232	Omnath, Locus of Creation	4.0	G,R,U,W
-ZNR	30	Ondu Inversion // Ondu Skyruins	8.0	W
-ZNR	233	Orah, Skyclave Hierophant	4.0	B,W
-ZNR	198	Oran-Rief Ooze	3.0	G
-ZNR	31	Paired Tactician	3.0	W
-ZNR	120	Pelakka Predation // Pelakka Caverns	3.0	B
-ZNR	234	Phylath, World Sculptor	6.0	G,R
-ZNR	266	Plains	0.0	W
-ZNR	32	Practiced Tactics	1.0	W
-ZNR	33	Pressure Point	2.0	W
-ZNR	34	Prowling Felidar	4.0	W
-ZNR	152	Pyroclastic Hellion	5.0	R
-ZNR	199	Rabid Bite	2.0	G
-ZNR	235	Ravager's Mace	3.0	B,R
-ZNR	200	Reclaim the Wastes	1.0	G
-ZNR	247	Relic Amulet	2.0	
-ZNR	248	Relic Axe	2.0	
-ZNR	249	Relic Golem	3.0	
-ZNR	153	Relic Robber	3.0	R
-ZNR	250	Relic Vial	3.0	
-ZNR	35	Resolute Strike	1.0	W
-ZNR	73	Risen Riptide	3.0	U
-ZNR	264	Riverglide Pathway // Lavaglide Pathway	0.0	R,U
-ZNR	154	Rockslide Sorcerer	4.0	R
-ZNR	155	Roil Eruption	2.0	R
-ZNR	201	Roiling Regrowth	3.0	G
-ZNR	156	Roiling Vortex	2.0	R
-ZNR	74	Roost of Drakes	1.0	U
-ZNR	75	Ruin Crab	1.0	U
-ZNR	202	Scale the Heights	3.0	G
-ZNR	157	Scavenged Blade	2.0	R
-ZNR	121	Scion of the Swarm	5.0	B
-ZNR	158	Scorch Rider	4.0	R
-ZNR	122	Scourge of the Skyclaves	2.0	B
-ZNR	203	Scute Swarm	3.0	G
-ZNR	36	Sea Gate Banneret	1.0	W
-ZNR	251	Sea Gate Colossus	7.0	
-ZNR	76	Sea Gate Restoration // Sea Gate, Reborn	7.0	U
-ZNR	77	Sea Gate Stormcaller	2.0	U
-ZNR	78	Seafloor Stalker	3.0	U
-ZNR	37	Sejiri Shelter // Sejiri Glacier	2.0	W
-ZNR	123	Shadow Stinger	3.0	B
-ZNR	124	Shadows' Verdict	5.0	B
-ZNR	159	Shatterskull Charger	3.0	R
-ZNR	160	Shatterskull Minotaur	6.0	R
-ZNR	161	Shatterskull Smashing // Shatterskull, the Hammer Pass	2.0	R
-ZNR	79	Shell Shield	1.0	U
-ZNR	38	Shepherd of Heroes	5.0	W
-ZNR	80	Silundi Vision // Silundi Isle	3.0	U
-ZNR	162	Sizzling Barrage	2.0	R
-ZNR	39	Skyclave Apparition	3.0	W
-ZNR	40	Skyclave Cleric // Skyclave Basilica	2.0	W
-ZNR	163	Skyclave Geopede	3.0	R
-ZNR	204	Skyclave Pick-Axe	1.0	G
-ZNR	81	Skyclave Plunder	5.0	U
-ZNR	252	Skyclave Relic	3.0	
-ZNR	253	Skyclave Sentinel	3.0	
-ZNR	125	Skyclave Shade	2.0	B
-ZNR	126	Skyclave Shadowcat	4.0	B
-ZNR	82	Skyclave Squid	2.0	U
-ZNR	42	Smite the Monstrous	4.0	W
-ZNR	164	Sneaking Guide	1.0	R
-ZNR	236	Soaring Thought-Thief	2.0	B,U
-ZNR	165	Song-Mad Treachery // Song-Mad Ruins	5.0	R
-ZNR	127	Soul Shatter	3.0	B
-ZNR	254	Spare Supplies	2.0	
-ZNR	166	Spikefield Hazard // Spikefield Cave	1.0	R
-ZNR	167	Spitfire Lagac	4.0	R
-ZNR	237	Spoils of Adventure	6.0	U,W
-ZNR	205	Springmantle Cleric	5.0	G
-ZNR	41	Squad Commander	4.0	W
-ZNR	255	Stonework Packbeast	2.0	
-ZNR	206	Strength of Solidarity	1.0	G
-ZNR	128	Subtle Strike	2.0	B
-ZNR	83	Sure-Footed Infiltrator	4.0	U
-ZNR	272	Swamp	0.0	B
-ZNR	207	Swarm Shambler	1.0	G
-ZNR	168	Synchronized Spellcraft	5.0	R
-ZNR	129	Taborax, Hope's Demise	3.0	B
-ZNR	208	Tajuru Blightblade	1.0	G
-ZNR	209	Tajuru Paragon	2.0	G
-ZNR	210	Tajuru Snarecaster	3.0	G
-ZNR	211	Tangled Florahedron // Tangled Vale	2.0	G
-ZNR	212	Taunting Arbormage	3.0	G
-ZNR	43	Tazeem Raptor	3.0	W
-ZNR	84	Tazeem Roilmage	2.0	U
-ZNR	44	Tazri, Beacon of Unity	5.0	B,G,R,U,W
-ZNR	169	Teeterpeak Ambusher	2.0	R
-ZNR	213	Territorial Scythecat	3.0	G
-ZNR	85	Thieving Skydiver	2.0	U
-ZNR	265	Throne of Makindi	0.0	
-ZNR	170	Thundering Rebuke	2.0	R
-ZNR	171	Thundering Sparkmage	4.0	R
-ZNR	130	Thwart the Grave	6.0	B
-ZNR	172	Tormenting Voice	2.0	R
-ZNR	173	Tuktuk Rubblefort	3.0	R
-ZNR	214	Turntimber Ascetic	5.0	G
-ZNR	215	Turntimber Symbiosis // Turntimber, Serpentine Wood	7.0	G
-ZNR	238	Umara Mystic	3.0	R,U
-ZNR	86	Umara Wizard // Umara Skyfalls	5.0	U
-ZNR	256	Utility Knife	1.0	
-ZNR	174	Valakut Awakening // Valakut Stoneforge	3.0	R
-ZNR	175	Valakut Exploration	3.0	R
-ZNR	131	Vanquish the Weak	3.0	B
-ZNR	216	Vastwood Fortification // Vastwood Thicket	1.0	G
-ZNR	217	Vastwood Surge	4.0	G
-ZNR	239	Verazol, the Split Current	2.0	G,U
-ZNR	218	Veteran Adventurer	6.0	G
-ZNR	219	Vine Gecko	2.0	G
-ZNR	176	Wayward Guide-Beast	1.0	R
-ZNR	87	Windrider Wizard	3.0	U
-ZNR	240	Yasharn, Implacable Earth	4.0	G,W
-ZNR	241	Zagras, Thief of Heartbeats	6.0	B,R
-ZNR	242	Zareth San, the Trickster	5.0	B,U
-ZNR	132	Zof Consumption // Zof Bloodbog	6.0	B
-ZNR	88	Zulaport Duelist	1.0	U
+ZNR	89	Acquisitions Expert	2.0	Creature  Human Rogue	B
+ZNR	177	Adventure Awaits	2.0	Sorcery	G
+ZNR	90	Agadeem's Awakening // Agadeem, the Undercrypt	3.0	Sorcery	B
+ZNR	220	Akiri, Fearless Voyager	3.0	Legendary Creature  Kor Warrior	R,W
+ZNR	133	Akoum Hellhound	1.0	Creature  Elemental Dog	R
+ZNR	134	Akoum Warrior // Akoum Teeth	6.0	Creature  Minotaur Warrior	R
+ZNR	1	Allied Assault	3.0	Instant	W
+ZNR	178	Ancient Greenwarden	6.0	Creature  Elemental	G
+ZNR	2	Angel of Destiny	5.0	Creature  Angel Cleric	W
+ZNR	3	Angelheart Protector	3.0	Creature  Human Cleric	W
+ZNR	45	Anticognition	2.0	Instant	U
+ZNR	4	Archon of Emeria	3.0	Creature  Archon	W
+ZNR	5	Archpriest of Iona	1.0	Creature  Human Cleric	W
+ZNR	135	Ardent Electromancer	3.0	Creature  Human Wizard	R
+ZNR	179	Ashaya, Soul of the Wild	5.0	Legendary Creature  Elemental	G
+ZNR	6	Attended Healer	4.0	Creature  Kor Cleric	W
+ZNR	180	Bala Ged Recovery // Bala Ged Sanctuary	3.0	Sorcery	G
+ZNR	257	Base Camp	0.0	Land	
+ZNR	46	Beyeen Veil // Beyeen Coast	2.0	Instant	U
+ZNR	91	Blackbloom Rogue // Blackbloom Bog	3.0	Creature  Human Rogue	B
+ZNR	92	Blood Beckoning	1.0	Sorcery	B
+ZNR	93	Blood Price	4.0	Sorcery	B
+ZNR	94	Bloodchief's Thirst	1.0	Sorcery	B
+ZNR	258	Branchloft Pathway // Boulderloft Pathway	0.0	Land	G,W
+ZNR	259	Brightclimb Pathway // Grimclimb Pathway	0.0	Land	B,W
+ZNR	181	Broken Wings	3.0	Instant	G
+ZNR	221	Brushfire Elemental	2.0	Creature  Elemental	G,R
+ZNR	47	Bubble Snare	1.0	Enchantment  Aura	U
+ZNR	182	Canopy Baloth	4.0	Creature  Beast	G
+ZNR	7	Canyon Jerboa	3.0	Creature  Mouse	W
+ZNR	48	Cascade Seer	4.0	Creature  Merfolk Wizard	U
+ZNR	49	Charix, the Raging Isle	4.0	Legendary Creature  Leviathan Crab	U
+ZNR	50	Chilling Trap	1.0	Instant	U
+ZNR	136	Cinderclasm	2.0	Instant	R
+ZNR	137	Cleansing Wildfire	2.0	Sorcery	R
+ZNR	260	Clearwater Pathway // Murkwater Pathway	0.0	Land	B,U
+ZNR	51	Cleric of Chill Depths	2.0	Creature  Merfolk Cleric	U
+ZNR	222	Cleric of Life's Bond	2.0	Creature  Vampire Cleric	B,W
+ZNR	243	Cliffhaven Kitesail	1.0	Artifact  Equipment	
+ZNR	8	Cliffhaven Sell-Sword	2.0	Creature  Kor Warrior	W
+ZNR	52	Concerted Defense	1.0	Instant	U
+ZNR	53	Confounding Conundrum	2.0	Enchantment	U
+ZNR	54	Coralhelm Chronicler	3.0	Creature  Merfolk Wizard	U
+ZNR	95	Coveted Prize	5.0	Sorcery	B
+ZNR	261	Cragcrown Pathway // Timbercrown Pathway	0.0	Land	G,R
+ZNR	183	Cragplate Baloth	7.0	Creature  Beast	G
+ZNR	262	Crawling Barrens	0.0	Land	
+ZNR	55	Cunning Geysermage	3.0	Creature  Human Wizard	U
+ZNR	184	Dauntless Survivor	2.0	Creature  Human Warrior	G
+ZNR	9	Dauntless Unity	2.0	Instant	W
+ZNR	96	Deadly Alliance	5.0	Instant	B
+ZNR	56	Deliberate	2.0	Instant	U
+ZNR	97	Demon's Disciple	3.0	Creature  Human Cleric	B
+ZNR	10	Disenchant	2.0	Instant	W
+ZNR	99	Drana's Silencer	6.0	Creature  Vampire Rogue	B
+ZNR	98	Drana, the Last Bloodchief	5.0	Legendary Creature  Vampire Cleric	B
+ZNR	100	Dreadwurm	5.0	Creature  Wurm Horror	B
+ZNR	11	Emeria Captain	4.0	Creature  Angel Warrior	W
+ZNR	12	Emeria's Call // Emeria, Shattered Skyclave	7.0	Sorcery	W
+ZNR	138	Expedition Champion	3.0	Creature  Human Warrior	R
+ZNR	57	Expedition Diviner	4.0	Creature  Merfolk Wizard	U
+ZNR	13	Expedition Healer	2.0	Creature  Kor Cleric	W
+ZNR	101	Expedition Skulker	2.0	Creature  Vampire Rogue	B
+ZNR	14	Farsight Adept	3.0	Creature  Kor Wizard	W
+ZNR	15	Fearless Fledgling	2.0	Creature  Griffin	W
+ZNR	102	Feed the Swarm	2.0	Sorcery	B
+ZNR	16	Felidar Retreat	4.0	Enchantment	W
+ZNR	58	Field Research	3.0	Sorcery	U
+ZNR	139	Fireblade Charger	1.0	Creature  Goblin Warrior	R
+ZNR	140	Fissure Wizard	2.0	Creature  Goblin Wizard	R
+ZNR	278	Forest	0.0	Basic Land  Forest	G
+ZNR	244	Forsaken Monument	5.0	Legendary Artifact	
+ZNR	103	Ghastly Gloomhunter	2.0	Creature  Zombie Bat	B
+ZNR	59	Glacial Grasp	3.0	Instant	U
+ZNR	60	Glasspool Mimic // Glasspool Shore	3.0	Creature  Shapeshifter Rogue	U
+ZNR	185	Gnarlid Colony	2.0	Creature  Beast	G
+ZNR	141	Goma Fada Vanguard	2.0	Creature  Human Warrior	R
+ZNR	223	Grakmaw, Skyclave Ravager	3.0	Legendary Creature  Hydra Horror	B,G
+ZNR	142	Grotag Bug-Catcher	2.0	Creature  Goblin Warrior	R
+ZNR	143	Grotag Night-Runner	3.0	Creature  Goblin Rogue	R
+ZNR	104	Guul Draz Mucklord	3.0	Creature  Crocodile	B
+ZNR	105	Hagra Constrictor	3.0	Creature  Snake	B
+ZNR	106	Hagra Mauling // Hagra Broodpit	4.0	Instant	B
+ZNR	107	Highborn Vampire	4.0	Creature  Vampire Warrior	B
+ZNR	144	Inordinate Rage	2.0	Instant	R
+ZNR	186	Inscription of Abundance	2.0	Instant	G
+ZNR	61	Inscription of Insight	4.0	Sorcery	U
+ZNR	108	Inscription of Ruin	3.0	Sorcery	B
+ZNR	62	Into the Roil	2.0	Instant	U
+ZNR	187	Iridescent Hornbeetle	5.0	Creature  Insect	G
+ZNR	269	Island	0.0	Basic Land  Island	U
+ZNR	63	Jace, Mirror Mage	3.0	Legendary Planeswalker  Jace	U
+ZNR	188	Joraga Visionary	4.0	Creature  Elf Wizard	G
+ZNR	17	Journey to Oblivion	5.0	Enchantment	W
+ZNR	64	Jwari Disruption // Jwari Ruins	2.0	Instant	U
+ZNR	18	Kabira Outrider	4.0	Creature  Human Warrior	W
+ZNR	19	Kabira Takedown // Kabira Plateau	2.0	Instant	W
+ZNR	145	Kargan Intimidator	2.0	Creature  Human Warrior	R
+ZNR	224	Kargan Warleader	3.0	Creature  Human Warrior	R,W
+ZNR	225	Kaza, Roil Chaser	2.0	Legendary Creature  Human Wizard	R,U
+ZNR	189	Kazandu Mammoth // Kazandu Valley	3.0	Creature  Elephant	G
+ZNR	190	Kazandu Nectarpot	2.0	Creature  Insect	G
+ZNR	191	Kazandu Stomper	6.0	Creature  Beast	G
+ZNR	146	Kazuul's Fury // Kazuul's Cliffs	3.0	Instant	R
+ZNR	192	Khalni Ambush // Khalni Territory	3.0	Instant	G
+ZNR	20	Kitesail Cleric	1.0	Creature  Kor Cleric	W
+ZNR	21	Kor Blademaster	2.0	Creature  Kor Warrior	W
+ZNR	22	Kor Celebrant	3.0	Creature  Kor Cleric	W
+ZNR	23	Legion Angel	4.0	Creature  Angel Warrior	W
+ZNR	147	Leyline Tyrant	4.0	Creature  Dragon	R
+ZNR	226	Linvala, Shield of Sea Gate	3.0	Legendary Creature  Angel Wizard	U,W
+ZNR	109	Lithoform Blight	2.0	Enchantment  Aura	B
+ZNR	245	Lithoform Engine	4.0	Legendary Artifact	
+ZNR	65	Living Tempest	5.0	Creature  Elemental	U
+ZNR	193	Lotus Cobra	2.0	Creature  Snake	G
+ZNR	66	Lullmage's Domination	3.0	Sorcery	U
+ZNR	227	Lullmage's Familiar	3.0	Creature  Beast	G,U
+ZNR	24	Luminarch Aspirant	2.0	Creature  Human Cleric	W
+ZNR	67	Maddening Cacophony	2.0	Sorcery	U
+ZNR	148	Magmatic Channeler	2.0	Creature  Human Wizard	R
+ZNR	25	Makindi Ox	5.0	Creature  Ox	W
+ZNR	26	Makindi Stampede // Makindi Mesas	5.0	Sorcery	W
+ZNR	110	Malakir Blood-Priest	2.0	Creature  Vampire Cleric	B
+ZNR	111	Malakir Rebirth // Malakir Mire	1.0	Instant	B
+ZNR	112	Marauding Blight-Priest	3.0	Creature  Vampire Cleric	B
+ZNR	68	Master of Winds	4.0	Creature  Sphinx Wizard	U
+ZNR	27	Maul of the Skyclaves	3.0	Artifact  Equipment	W
+ZNR	69	Merfolk Falconer	5.0	Creature  Merfolk Wizard	U
+ZNR	70	Merfolk Windrobber	1.0	Creature  Merfolk Rogue	U
+ZNR	28	Mesa Lynx	2.0	Creature  Cat	W
+ZNR	194	Might of Murasa	2.0	Instant	G
+ZNR	113	Mind Carver	1.0	Artifact  Equipment	B
+ZNR	114	Mind Drain	3.0	Sorcery	B
+ZNR	149	Molten Blast	3.0	Instant	R
+ZNR	150	Moraug, Fury of Akoum	6.0	Legendary Creature  Minotaur Warrior	R
+ZNR	228	Moss-Pit Skeleton	2.0	Creature  Plant Skeleton	B,G
+ZNR	275	Mountain	0.0	Basic Land  Mountain	R
+ZNR	195	Murasa Brute	3.0	Creature  Troll Warrior	G
+ZNR	229	Murasa Rootgrazer	2.0	Creature  Beast	G,W
+ZNR	196	Murasa Sproutling	3.0	Creature  Plant Elemental	G
+ZNR	246	Myriad Construct	4.0	Artifact Creature  Construct	
+ZNR	29	Nahiri's Binding	3.0	Enchantment  Aura	W
+ZNR	151	Nahiri's Lithoforming	2.0	Sorcery	R
+ZNR	230	Nahiri, Heir of the Ancients	4.0	Legendary Planeswalker  Nahiri	R,W
+ZNR	263	Needleverge Pathway // Pillarverge Pathway	0.0	Land	R,W
+ZNR	71	Negate	2.0	Instant	U
+ZNR	115	Nighthawk Scavenger	3.0	Creature  Vampire Rogue	B
+ZNR	116	Nimana Skitter-Sneak	4.0	Creature  Human Rogue	B
+ZNR	117	Nimana Skydancer	3.0	Creature  Human Rogue	B
+ZNR	72	Nimble Trapfinder	2.0	Creature  Human Rogue	U
+ZNR	231	Nissa of Shadowed Boughs	4.0	Legendary Planeswalker  Nissa	B,G
+ZNR	197	Nissa's Zendikon	4.0	Enchantment  Aura	G
+ZNR	118	Nullpriest of Oblivion	2.0	Creature  Vampire Cleric	B
+ZNR	119	Oblivion's Hunger	2.0	Instant	B
+ZNR	232	Omnath, Locus of Creation	4.0	Legendary Creature  Elemental	G,R,U,W
+ZNR	30	Ondu Inversion // Ondu Skyruins	8.0	Sorcery	W
+ZNR	233	Orah, Skyclave Hierophant	4.0	Legendary Creature  Kor Cleric	B,W
+ZNR	198	Oran-Rief Ooze	3.0	Creature  Ooze	G
+ZNR	31	Paired Tactician	3.0	Creature  Human Warrior	W
+ZNR	120	Pelakka Predation // Pelakka Caverns	3.0	Sorcery	B
+ZNR	234	Phylath, World Sculptor	6.0	Legendary Creature  Elemental	G,R
+ZNR	266	Plains	0.0	Basic Land  Plains	W
+ZNR	32	Practiced Tactics	1.0	Instant	W
+ZNR	33	Pressure Point	2.0	Instant	W
+ZNR	34	Prowling Felidar	4.0	Creature  Cat Beast	W
+ZNR	152	Pyroclastic Hellion	5.0	Creature  Hellion	R
+ZNR	199	Rabid Bite	2.0	Sorcery	G
+ZNR	235	Ravager's Mace	3.0	Artifact  Equipment	B,R
+ZNR	200	Reclaim the Wastes	1.0	Sorcery	G
+ZNR	247	Relic Amulet	2.0	Artifact	
+ZNR	248	Relic Axe	2.0	Artifact  Equipment	
+ZNR	249	Relic Golem	3.0	Artifact Creature  Golem	
+ZNR	153	Relic Robber	3.0	Creature  Goblin Rogue	R
+ZNR	250	Relic Vial	3.0	Artifact	
+ZNR	35	Resolute Strike	1.0	Instant	W
+ZNR	73	Risen Riptide	3.0	Creature  Elemental	U
+ZNR	264	Riverglide Pathway // Lavaglide Pathway	0.0	Land	R,U
+ZNR	154	Rockslide Sorcerer	4.0	Creature  Human Wizard	R
+ZNR	155	Roil Eruption	2.0	Sorcery	R
+ZNR	201	Roiling Regrowth	3.0	Instant	G
+ZNR	156	Roiling Vortex	2.0	Enchantment	R
+ZNR	74	Roost of Drakes	1.0	Enchantment	U
+ZNR	75	Ruin Crab	1.0	Creature  Crab	U
+ZNR	202	Scale the Heights	3.0	Sorcery	G
+ZNR	157	Scavenged Blade	2.0	Artifact  Equipment	R
+ZNR	121	Scion of the Swarm	5.0	Creature  Vampire Cleric	B
+ZNR	158	Scorch Rider	4.0	Creature  Human Warrior	R
+ZNR	122	Scourge of the Skyclaves	2.0	Creature  Demon	B
+ZNR	203	Scute Swarm	3.0	Creature  Insect	G
+ZNR	36	Sea Gate Banneret	1.0	Creature  Kor Warrior	W
+ZNR	251	Sea Gate Colossus	7.0	Artifact Creature  Golem Warrior	
+ZNR	76	Sea Gate Restoration // Sea Gate, Reborn	7.0	Sorcery	U
+ZNR	77	Sea Gate Stormcaller	2.0	Creature  Human Wizard	U
+ZNR	78	Seafloor Stalker	3.0	Creature  Merfolk Rogue	U
+ZNR	37	Sejiri Shelter // Sejiri Glacier	2.0	Instant	W
+ZNR	123	Shadow Stinger	3.0	Creature  Vampire Rogue	B
+ZNR	124	Shadows' Verdict	5.0	Sorcery	B
+ZNR	159	Shatterskull Charger	3.0	Creature  Giant Warrior	R
+ZNR	160	Shatterskull Minotaur	6.0	Creature  Minotaur Warrior	R
+ZNR	161	Shatterskull Smashing // Shatterskull, the Hammer Pass	2.0	Sorcery	R
+ZNR	79	Shell Shield	1.0	Instant	U
+ZNR	38	Shepherd of Heroes	5.0	Creature  Angel Cleric	W
+ZNR	80	Silundi Vision // Silundi Isle	3.0	Instant	U
+ZNR	162	Sizzling Barrage	2.0	Instant	R
+ZNR	39	Skyclave Apparition	3.0	Creature  Kor Spirit	W
+ZNR	40	Skyclave Cleric // Skyclave Basilica	2.0	Creature  Kor Cleric	W
+ZNR	163	Skyclave Geopede	3.0	Creature  Insect	R
+ZNR	204	Skyclave Pick-Axe	1.0	Artifact  Equipment	G
+ZNR	81	Skyclave Plunder	5.0	Sorcery	U
+ZNR	252	Skyclave Relic	3.0	Artifact	
+ZNR	253	Skyclave Sentinel	3.0	Artifact Creature  Gargoyle	
+ZNR	125	Skyclave Shade	2.0	Creature  Shade	B
+ZNR	126	Skyclave Shadowcat	4.0	Creature  Cat Horror	B
+ZNR	82	Skyclave Squid	2.0	Creature  Squid	U
+ZNR	42	Smite the Monstrous	4.0	Instant	W
+ZNR	164	Sneaking Guide	1.0	Creature  Goblin Rogue	R
+ZNR	236	Soaring Thought-Thief	2.0	Creature  Human Rogue	B,U
+ZNR	165	Song-Mad Treachery // Song-Mad Ruins	5.0	Sorcery	R
+ZNR	127	Soul Shatter	3.0	Instant	B
+ZNR	254	Spare Supplies	2.0	Artifact	
+ZNR	166	Spikefield Hazard // Spikefield Cave	1.0	Instant	R
+ZNR	167	Spitfire Lagac	4.0	Creature  Lizard	R
+ZNR	237	Spoils of Adventure	6.0	Instant	U,W
+ZNR	205	Springmantle Cleric	5.0	Creature  Elf Cleric	G
+ZNR	41	Squad Commander	4.0	Creature  Kor Warrior	W
+ZNR	255	Stonework Packbeast	2.0	Artifact Creature  Beast	
+ZNR	206	Strength of Solidarity	1.0	Sorcery	G
+ZNR	128	Subtle Strike	2.0	Instant	B
+ZNR	83	Sure-Footed Infiltrator	4.0	Creature  Merfolk Rogue	U
+ZNR	272	Swamp	0.0	Basic Land  Swamp	B
+ZNR	207	Swarm Shambler	1.0	Creature  Fungus Beast	G
+ZNR	168	Synchronized Spellcraft	5.0	Instant	R
+ZNR	129	Taborax, Hope's Demise	3.0	Legendary Creature  Demon Cleric	B
+ZNR	208	Tajuru Blightblade	1.0	Creature  Elf Rogue	G
+ZNR	209	Tajuru Paragon	2.0	Creature  Elf	G
+ZNR	210	Tajuru Snarecaster	3.0	Creature  Elf Rogue	G
+ZNR	211	Tangled Florahedron // Tangled Vale	2.0	Creature  Elemental	G
+ZNR	212	Taunting Arbormage	3.0	Creature  Elf Wizard	G
+ZNR	43	Tazeem Raptor	3.0	Creature  Bird	W
+ZNR	84	Tazeem Roilmage	2.0	Creature  Merfolk Wizard	U
+ZNR	44	Tazri, Beacon of Unity	5.0	Legendary Creature  Human Warrior	B,G,R,U,W
+ZNR	169	Teeterpeak Ambusher	2.0	Creature  Goblin Warrior	R
+ZNR	213	Territorial Scythecat	3.0	Creature  Cat	G
+ZNR	85	Thieving Skydiver	2.0	Creature  Merfolk Rogue	U
+ZNR	265	Throne of Makindi	0.0	Land	
+ZNR	170	Thundering Rebuke	2.0	Sorcery	R
+ZNR	171	Thundering Sparkmage	4.0	Creature  Human Wizard	R
+ZNR	130	Thwart the Grave	6.0	Sorcery	B
+ZNR	172	Tormenting Voice	2.0	Sorcery	R
+ZNR	173	Tuktuk Rubblefort	3.0	Creature  Wall	R
+ZNR	214	Turntimber Ascetic	5.0	Creature  Giant Cleric	G
+ZNR	215	Turntimber Symbiosis // Turntimber, Serpentine Wood	7.0	Sorcery	G
+ZNR	238	Umara Mystic	3.0	Creature  Merfolk Wizard	R,U
+ZNR	86	Umara Wizard // Umara Skyfalls	5.0	Creature  Merfolk Wizard	U
+ZNR	256	Utility Knife	1.0	Artifact  Equipment	
+ZNR	174	Valakut Awakening // Valakut Stoneforge	3.0	Instant	R
+ZNR	175	Valakut Exploration	3.0	Enchantment	R
+ZNR	131	Vanquish the Weak	3.0	Instant	B
+ZNR	216	Vastwood Fortification // Vastwood Thicket	1.0	Instant	G
+ZNR	217	Vastwood Surge	4.0	Sorcery	G
+ZNR	239	Verazol, the Split Current	2.0	Legendary Creature  Serpent	G,U
+ZNR	218	Veteran Adventurer	6.0	Creature  Human	G
+ZNR	219	Vine Gecko	2.0	Creature  Elemental Lizard	G
+ZNR	176	Wayward Guide-Beast	1.0	Creature  Beast	R
+ZNR	87	Windrider Wizard	3.0	Creature  Human Wizard	U
+ZNR	240	Yasharn, Implacable Earth	4.0	Legendary Creature  Elemental Boar	G,W
+ZNR	241	Zagras, Thief of Heartbeats	6.0	Legendary Creature  Vampire Rogue	B,R
+ZNR	242	Zareth San, the Trickster	5.0	Legendary Creature  Merfolk Rogue	B,U
+ZNR	132	Zof Consumption // Zof Bloodbog	6.0	Sorcery	B
+ZNR	88	Zulaport Duelist	1.0	Creature  Human Rogue	U

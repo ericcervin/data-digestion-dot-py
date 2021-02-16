@@ -1,0 +1,205 @@
+RIX	31	Admiral's Order	3.0	Instant	U
+RIX	122	Aggressive Urge	2.0	Instant	G
+RIX	202	Angrath's Ambusher	3.0	Creature  Orc Pirate	B
+RIX	204	Angrath's Fury	5.0	Sorcery	B,R
+RIX	201	Angrath, Minotaur Pirate	6.0	Legendary Planeswalker  Angrath	B,R
+RIX	152	Angrath, the Flame-Chained	5.0	Legendary Planeswalker  Angrath	B,R
+RIX	32	Aquatic Incursion	4.0	Enchantment	U
+RIX	185	Arch of Orazca	0.0	Land	
+RIX	62	Arterial Flow	3.0	Sorcery	B
+RIX	153	Atzocan Seer	3.0	Creature  Human Druid	G,W
+RIX	175	Awakened Amalgam	4.0	Artifact Creature  Golem	
+RIX	176	Azor's Gateway // Sanctum of the Sun	2.0	Legendary Artifact	
+RIX	154	Azor, the Lawbringer	6.0	Legendary Creature  Sphinx	U,W
+RIX	1	Baffling End	2.0	Enchantment	W
+RIX	2	Bishop of Binding	4.0	Creature  Vampire Cleric	W
+RIX	3	Blazing Hope	1.0	Instant	W
+RIX	92	Blood Sun	3.0	Enchantment	R
+RIX	93	Bombard	3.0	Instant	R
+RIX	94	Brass's Bounty	7.0	Sorcery	R
+RIX	95	Brazen Freebooter	4.0	Creature  Human Pirate	R
+RIX	96	Buccaneer's Bravado	2.0	Instant	R
+RIX	123	Cacophodon	4.0	Creature  Dinosaur	G
+RIX	63	Canal Monitor	5.0	Creature  Lizard	B
+RIX	177	Captain's Hook	3.0	Artifact  Equipment	
+RIX	64	Champion of Dusk	5.0	Creature  Vampire Knight	B
+RIX	97	Charging Tuskodon	5.0	Creature  Dinosaur	R
+RIX	124	Cherished Hatchling	2.0	Creature  Dinosaur	G
+RIX	205	Cinder Barrens	0.0	Land	B,R
+RIX	4	Cleansing Ray	2.0	Sorcery	W
+RIX	125	Colossal Dreadmaw	6.0	Creature  Dinosaur	G
+RIX	33	Crafty Cutpurse	4.0	Creature  Human Pirate	U
+RIX	34	Crashing Tide	3.0	Sorcery	U
+RIX	126	Crested Herdcaller	5.0	Creature  Dinosaur	G
+RIX	35	Curious Obsession	1.0	Enchantment  Aura	U
+RIX	98	Daring Buccaneer	1.0	Creature  Human Pirate	R
+RIX	65	Dark Inquiry	3.0	Sorcery	B
+RIX	66	Dead Man's Chest	2.0	Enchantment  Aura	B
+RIX	155	Deadeye Brawler	4.0	Creature  Human Pirate	B,U
+RIX	36	Deadeye Rig-Hauler	4.0	Creature  Human Pirate	U
+RIX	127	Deeproot Elite	2.0	Creature  Merfolk Warrior	G
+RIX	67	Dinosaur Hunter	2.0	Creature  Human Pirate	B
+RIX	99	Dire Fleet Daredevil	2.0	Creature  Human Pirate	R
+RIX	156	Dire Fleet Neckbreaker	4.0	Creature  Orc Pirate	B,R
+RIX	68	Dire Fleet Poisoner	2.0	Creature  Human Pirate	B
+RIX	5	Divine Verdict	4.0	Instant	W
+RIX	69	Dusk Charger	4.0	Creature  Horse	B
+RIX	70	Dusk Legion Zealot	2.0	Creature  Vampire Soldier	B
+RIX	157	Elenda, the Dusk Rose	4.0	Legendary Creature  Vampire Knight	B,W
+RIX	128	Enter the Unknown	1.0	Sorcery	G
+RIX	100	Etali, Primal Storm	6.0	Legendary Creature  Elder Dinosaur	R
+RIX	6	Everdawn Champion	3.0	Creature  Human Soldier	W
+RIX	186	Evolving Wilds	0.0	Land	
+RIX	37	Expel from Orazca	2.0	Instant	U
+RIX	7	Exultant Skymarcher	3.0	Creature  Vampire Soldier	W
+RIX	8	Famished Paladin	2.0	Creature  Vampire Knight	W
+RIX	101	Fanatical Firebrand	1.0	Creature  Goblin Pirate	R
+RIX	71	Fathom Fleet Boarder	3.0	Creature  Orc Pirate	B
+RIX	38	Flood of Recollection	2.0	Sorcery	U
+RIX	72	Forerunner of the Coalition	3.0	Creature  Human Pirate	B
+RIX	102	Forerunner of the Empire	4.0	Creature  Human Soldier	R
+RIX	129	Forerunner of the Heralds	4.0	Creature  Merfolk Scout	G
+RIX	9	Forerunner of the Legion	3.0	Creature  Vampire Knight	W
+RIX	196	Forest	0.0	Basic Land  Forest	G
+RIX	103	Form of the Dinosaur	6.0	Enchantment	R
+RIX	187	Forsaken Sanctuary	0.0	Land	B,W
+RIX	188	Foul Orchard	0.0	Land	B,G
+RIX	104	Frilled Deathspitter	3.0	Creature  Dinosaur	R
+RIX	130	Ghalta, Primal Hunger	12.0	Legendary Creature  Elder Dinosaur	G
+RIX	131	Giltgrove Stalker	2.0	Creature  Merfolk Warrior	G
+RIX	178	Gleaming Barrier	2.0	Artifact Creature  Wall	
+RIX	105	Goblin Trailblazer	2.0	Creature  Goblin Pirate	R
+RIX	73	Golden Demise	3.0	Sorcery	B
+RIX	179	Golden Guardian // Gold-Forge Garrison	4.0	Artifact Creature  Golem	
+RIX	74	Grasping Scoundrel	1.0	Creature  Human Pirate	B
+RIX	75	Gruesome Fate	3.0	Sorcery	B
+RIX	158	Hadana's Climb // Winged Temple of Orazca	3.0	Legendary Enchantment	G,U
+RIX	132	Hardy Veteran	2.0	Creature  Human Warrior	G
+RIX	189	Highland Lake	0.0	Land	R,U
+RIX	39	Hornswoggle	3.0	Instant	U
+RIX	159	Huatli, Radiant Champion	4.0	Legendary Planeswalker  Huatli	G,W
+RIX	133	Hunt the Weak	4.0	Sorcery	G
+RIX	76	Impale	4.0	Sorcery	B
+RIX	10	Imperial Ceratops	5.0	Creature  Dinosaur	W
+RIX	40	Induced Amnesia	3.0	Enchantment	U
+RIX	193	Island	0.0	Basic Land  Island	U
+RIX	134	Jade Bearer	1.0	Creature  Merfolk Shaman	G
+RIX	135	Jadecraft Artisan	4.0	Creature  Merfolk Shaman	G
+RIX	136	Jadelight Ranger	3.0	Creature  Merfolk Scout	G
+RIX	160	Journey to Eternity // Atzal, Cave of Eternity	3.0	Legendary Enchantment  Aura	B,G
+RIX	161	Jungle Creeper	3.0	Creature  Elemental	B,G
+RIX	137	Jungleborn Pioneer	3.0	Creature  Merfolk Scout	G
+RIX	41	Kitesail Corsair	2.0	Creature  Human Pirate	U
+RIX	138	Knight of the Stampede	4.0	Creature  Human Knight	G
+RIX	42	Kumena's Awakening	4.0	Enchantment	U
+RIX	162	Kumena, Tyrant of Orazca	3.0	Legendary Creature  Merfolk Shaman	G,U
+RIX	11	Legion Conquistador	3.0	Creature  Vampire Soldier	W
+RIX	163	Legion Lieutenant	2.0	Creature  Vampire Knight	B,W
+RIX	12	Luminous Bonds	3.0	Enchantment  Aura	W
+RIX	13	Majestic Heliopterus	4.0	Creature  Dinosaur	W
+RIX	14	Martyr of Dusk	2.0	Creature  Vampire Soldier	W
+RIX	77	Mastermind's Acquisition	4.0	Sorcery	B
+RIX	78	Mausoleum Harpy	5.0	Creature  Harpy	B
+RIX	164	Merfolk Mistbinder	2.0	Creature  Merfolk Shaman	G,U
+RIX	43	Mist-Cloaked Herald	1.0	Creature  Merfolk Warrior	U
+RIX	79	Moment of Craving	2.0	Instant	B
+RIX	15	Moment of Triumph	1.0	Instant	W
+RIX	195	Mountain	0.0	Basic Land  Mountain	R
+RIX	106	Mutiny	1.0	Sorcery	R
+RIX	139	Naturalize	2.0	Instant	G
+RIX	107	Needletooth Raptor	4.0	Creature  Dinosaur	R
+RIX	44	Negate	2.0	Instant	U
+RIX	45	Nezahal, Primal Tide	7.0	Legendary Creature  Elder Dinosaur	U
+RIX	80	Oathsworn Vampire	2.0	Creature  Vampire Knight	B
+RIX	140	Orazca Frillback	3.0	Creature  Dinosaur	G
+RIX	108	Orazca Raptor	4.0	Creature  Dinosaur	R
+RIX	181	Orazca Relic	3.0	Artifact	
+RIX	141	Overgrown Armasaur	5.0	Creature  Dinosaur	G
+RIX	16	Paladin of Atonement	2.0	Creature  Vampire Knight	W
+RIX	142	Path of Discovery	4.0	Enchantment	G
+RIX	165	Path of Mettle // Metzali, Tower of Triumph	2.0	Legendary Enchantment	R,W
+RIX	109	Pirate's Pillage	4.0	Sorcery	R
+RIX	81	Pitiless Plunderer	4.0	Creature  Human Pirate	B
+RIX	192	Plains	0.0	Basic Land  Plains	W
+RIX	143	Plummet	2.0	Instant	G
+RIX	144	Polyraptor	8.0	Creature  Dinosaur	G
+RIX	17	Pride of Conquerors	2.0	Instant	W
+RIX	166	Profane Procession // Tomb of the Dusk Rose	3.0	Legendary Enchantment	B,W
+RIX	167	Protean Raider	3.0	Creature  Shapeshifter Pirate	R,U
+RIX	18	Radiant Destiny	3.0	Enchantment	W
+RIX	168	Raging Regisaur	4.0	Creature  Dinosaur	G,R
+RIX	19	Raptor Companion	2.0	Creature  Dinosaur	W
+RIX	82	Ravenous Chupacabra	4.0	Creature  Beast Horror	B
+RIX	83	Reaver Ambush	3.0	Instant	B
+RIX	110	Reckless Rage	1.0	Instant	R
+RIX	84	Recover	3.0	Sorcery	B
+RIX	111	Rekindling Phoenix	4.0	Creature  Phoenix	R
+RIX	46	Release to the Wind	3.0	Instant	U
+RIX	169	Relentless Raptor	2.0	Creature  Dinosaur	R,W
+RIX	170	Resplendent Griffin	3.0	Creature  Griffin	U,W
+RIX	47	River Darter	3.0	Creature  Merfolk Warrior	U
+RIX	48	Riverwise Augur	4.0	Creature  Merfolk Wizard	U
+RIX	85	Sadistic Skymarcher	3.0	Creature  Vampire Soldier	B
+RIX	49	Sailor of Means	3.0	Creature  Human Pirate	U
+RIX	20	Sanguine Glorifier	4.0	Creature  Vampire Cleric	W
+RIX	50	Sea Legs	1.0	Enchantment  Aura	U
+RIX	51	Seafloor Oracle	4.0	Creature  Merfolk Wizard	U
+RIX	52	Secrets of the Golden City	3.0	Sorcery	U
+RIX	112	See Red	2.0	Enchantment  Aura	R
+RIX	113	Shake the Foundations	3.0	Instant	R
+RIX	114	Shatter	2.0	Instant	R
+RIX	171	Siegehorn Ceratops	2.0	Creature  Dinosaur	G,W
+RIX	182	Silent Gravestone	1.0	Artifact	
+RIX	115	Silverclad Ferocidons	7.0	Creature  Dinosaur	R
+RIX	53	Silvergill Adept	2.0	Creature  Merfolk Wizard	U
+RIX	54	Siren Reaver	4.0	Creature  Siren Pirate	U
+RIX	21	Skymarcher Aspirant	1.0	Creature  Vampire Soldier	W
+RIX	22	Slaughter the Strong	3.0	Sorcery	W
+RIX	55	Slippery Scoundrel	3.0	Creature  Human Pirate	U
+RIX	23	Snubhorn Sentry	1.0	Creature  Dinosaur	W
+RIX	56	Soul of the Rapids	5.0	Creature  Elemental	U
+RIX	24	Sphinx's Decree	2.0	Sorcery	W
+RIX	57	Spire Winder	4.0	Creature  Snake	U
+RIX	25	Squire's Devotion	3.0	Enchantment  Aura	W
+RIX	116	Stampeding Horncrest	5.0	Creature  Dinosaur	R
+RIX	190	Stone Quarry	0.0	Land	R,W
+RIX	172	Storm Fleet Sprinter	3.0	Creature  Human Pirate	R,U
+RIX	117	Storm Fleet Swashbuckler	2.0	Creature  Human Pirate	R
+RIX	173	Storm the Vault // Vault of Catlacan	4.0	Legendary Enchantment	R,U
+RIX	145	Strength of the Pack	6.0	Sorcery	G
+RIX	183	Strider Harness	3.0	Artifact  Equipment	
+RIX	26	Sun Sentinel	2.0	Creature  Human Soldier	W
+RIX	118	Sun-Collared Raptor	2.0	Creature  Dinosaur	R
+RIX	27	Sun-Crested Pterodon	5.0	Creature  Dinosaur	W
+RIX	203	Swab Goblin	2.0	Creature  Goblin Pirate	R
+RIX	119	Swaggering Corsair	3.0	Creature  Human Pirate	R
+RIX	194	Swamp	0.0	Basic Land  Swamp	B
+RIX	146	Swift Warden	3.0	Creature  Merfolk Warrior	G
+RIX	58	Sworn Guardian	2.0	Creature  Merfolk Warrior	U
+RIX	28	Temple Altisaur	5.0	Creature  Dinosaur	W
+RIX	147	Tendershoot Dryad	5.0	Creature  Dryad	G
+RIX	86	Tetzimoc, Primal Death	6.0	Legendary Creature  Elder Dinosaur	B
+RIX	180	The Immortal Sun	6.0	Legendary Artifact	
+RIX	148	Thrashing Brontodon	3.0	Creature  Dinosaur	G
+RIX	149	Thunderherd Migration	2.0	Sorcery	G
+RIX	120	Tilonalli's Crown	2.0	Enchantment  Aura	R
+RIX	121	Tilonalli's Summoner	2.0	Creature  Human Shaman	R
+RIX	59	Timestream Navigator	2.0	Creature  Human Pirate Wizard	U
+RIX	87	Tomb Robber	3.0	Creature  Human Pirate	B
+RIX	29	Trapjaw Tyrant	5.0	Creature  Dinosaur	W
+RIX	184	Traveler's Amulet	1.0	Artifact	
+RIX	88	Twilight Prophet	4.0	Creature  Vampire Cleric	B
+RIX	198	Vampire Champion	4.0	Creature  Vampire Soldier	B
+RIX	89	Vampire Revenant	4.0	Creature  Vampire Spirit	B
+RIX	90	Vona's Hunger	3.0	Instant	B
+RIX	91	Voracious Vampire	3.0	Creature  Vampire Knight	B
+RIX	199	Vraska's Conquistador	2.0	Creature  Vampire Soldier	B
+RIX	200	Vraska's Scorn	4.0	Sorcery	B
+RIX	197	Vraska, Scheming Gorgon	6.0	Legendary Planeswalker  Vraska	B
+RIX	60	Warkite Marauder	2.0	Creature  Human Pirate	U
+RIX	61	Waterknot	3.0	Enchantment  Aura	U
+RIX	150	Wayward Swordtooth	3.0	Creature  Dinosaur	G
+RIX	191	Woodland Stream	0.0	Land	G,U
+RIX	151	World Shaper	4.0	Creature  Merfolk Shaman	G
+RIX	174	Zacama, Primal Calamity	9.0	Legendary Creature  Elder Dinosaur	G,R,W
+RIX	30	Zetalpa, Primal Dawn	8.0	Legendary Creature  Elder Dinosaur	W

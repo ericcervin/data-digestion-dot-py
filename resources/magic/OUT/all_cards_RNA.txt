@@ -1,268 +1,268 @@
-RNA	151	Absorb	3.0	U,W
-RNA	91	Act of Treason	3.0	R
-RNA	152	Aeromunculus	3.0	G,U
-RNA	92	Amplifire	4.0	R
-RNA	1	Angel of Grace	5.0	W
-RNA	2	Angelic Exaltation	4.0	W
-RNA	153	Applied Biomancy	2.0	G,U
-RNA	3	Archway Angel	6.0	W
-RNA	31	Arrester's Admonition	3.0	U
-RNA	4	Arrester's Zeal	1.0	W
-RNA	61	Awaken the Erstwhile	5.0	B
-RNA	121	Axebane Beast	4.0	G
-RNA	243	Azorius Guildgate	0.0	U,W
-RNA	154	Azorius Knight-Arbiter	5.0	U,W
-RNA	231	Azorius Locket	3.0	U,W
-RNA	155	Azorius Skyguard	6.0	U,W
-RNA	62	Bankrupt in Blood	2.0	B
-RNA	156	Basilica Bell-Haunt	4.0	B,W
-RNA	221	Bedeck // Bedazzle	8.0	B,R
-RNA	157	Bedevil	3.0	B,R
-RNA	32	Benthic Biomancer	1.0	U
-RNA	122	Biogenic Ooze	5.0	G
-RNA	123	Biogenic Upgrade	6.0	G
-RNA	158	Biomancer's Familiar	2.0	G,U
-RNA	63	Blade Juggler	5.0	B
-RNA	64	Bladebrand	2.0	B
-RNA	245	Blood Crypt	0.0	B,R
-RNA	65	Bloodmist Infiltrator	3.0	B
-RNA	159	Bolrac-Clan Crusher	5.0	G,R
-RNA	246	Breeding Pool	0.0	G,U
-RNA	5	Bring to Trial	3.0	W
-RNA	93	Burn Bright	3.0	R
-RNA	94	Burning-Tree Vandal	3.0	R
-RNA	160	Captive Audience	7.0	B,R
-RNA	222	Carnival // Carnage	5.0	B,R
-RNA	66	Carrion Imp	4.0	B
-RNA	67	Catacomb Crocodile	5.0	B
-RNA	95	Cavalcade of Calamity	2.0	R
-RNA	271	Charging War Boar	3.0	G,R
-RNA	33	Chillbringer	5.0	U
-RNA	161	Cindervines	2.0	G,R
-RNA	6	Civic Stalwart	4.0	W
-RNA	96	Clamor Shaman	3.0	R
-RNA	162	Clan Guildmage	2.0	G,R
-RNA	34	Clear the Mind	3.0	U
-RNA	68	Clear the Stage	5.0	B
-RNA	35	Code of Constraint	3.0	U
-RNA	223	Collision // Colossus	4.0	G,R
-RNA	163	Combine Guildmage	2.0	G,U
-RNA	7	Concordia Pegasus	2.0	W
-RNA	224	Consecrate // Consume	6.0	B,W
-RNA	69	Consign to the Pit	6.0	B
-RNA	36	Coral Commando	3.0	U
-RNA	70	Cry of the Carnarium	3.0	B
-RNA	164	Cult Guildmage	2.0	B,R
-RNA	97	Dagger Caster	4.0	R
-RNA	71	Dead Revels	4.0	B
-RNA	72	Debtors' Transport	6.0	B
-RNA	98	Deface	1.0	R
-RNA	225	Depose // Deploy	6.0	U,W
-RNA	165	Deputy of Detention	3.0	U,W
-RNA	272	Domri's Nodorog	5.0	G,R
-RNA	166	Domri, Chaos Bringer	4.0	G,R
-RNA	269	Domri, City Smasher	6.0	G,R
-RNA	168	Dovin's Acuity	3.0	U,W
-RNA	268	Dovin's Automaton	4.0	
-RNA	267	Dovin's Dismissal	4.0	U,W
-RNA	265	Dovin, Architect of Law	6.0	U,W
-RNA	167	Dovin, Grand Arbiter	3.0	U,W
-RNA	73	Drill Bit	3.0	B
-RNA	99	Electrodominance	2.0	R
-RNA	266	Elite Arrester	1.0	U,W
-RNA	169	Emergency Powers	7.0	U,W
-RNA	124	End-Raze Forerunners	8.0	G
-RNA	125	Enraged Ceratok	4.0	G
-RNA	37	Essence Capture	2.0	U
-RNA	170	Ethereal Absolution	6.0	B,W
-RNA	8	Expose to Daylight	3.0	W
-RNA	38	Eyes Everywhere	3.0	U
-RNA	39	Faerie Duelist	2.0	U
-RNA	100	Feral Maaka	2.0	R
-RNA	171	Final Payment	2.0	B,W
-RNA	172	Fireblade Artist	2.0	B,R
-RNA	101	Flames of the Raze-Boar	6.0	R
-RNA	74	Font of Agonies	1.0	B
-RNA	216	Footlight Fiend	1.0	B,R
-RNA	9	Forbidding Spirit	3.0	W
-RNA	264	Forest	0.0	G
-RNA	173	Frenzied Arynx	4.0	G,R
-RNA	174	Frilled Mystic	4.0	G,U
-RNA	175	Galloping Lizrog	5.0	G,U
-RNA	232	Gate Colossus	8.0	
-RNA	126	Gatebreaker Ram	3.0	G
-RNA	102	Gates Ablaze	3.0	R
-RNA	247	Gateway Plaza	0.0	
-RNA	40	Gateway Sneak	3.0	U
-RNA	176	Get the Point	5.0	B,R
-RNA	103	Ghor-Clan Wrecker	4.0	R
-RNA	127	Gift of Strength	2.0	G
-RNA	233	Glass of the Guildpact	2.0	
-RNA	104	Goblin Gathering	3.0	R
-RNA	248	Godless Shrine	0.0	B,W
-RNA	177	Grasping Thrull	5.0	B,W
-RNA	105	Gravel-Hide Goblin	2.0	G,R
-RNA	75	Grotesque Demise	3.0	B
-RNA	178	Growth Spiral	2.0	G,U
-RNA	128	Growth-Chamber Guardian	2.0	G
-RNA	129	Gruul Beastmaster	4.0	G
-RNA	249	Gruul Guildgate	0.0	G,R
-RNA	234	Gruul Locket	3.0	G,R
-RNA	179	Gruul Spellbreaker	3.0	G,R
-RNA	130	Guardian Project	4.0	G
-RNA	76	Gutterbones	1.0	B
-RNA	180	Gyre Engineer	3.0	G,U
-RNA	10	Haazda Officer	3.0	W
-RNA	181	Hackrobat	3.0	B,R
-RNA	251	Hallowed Fountain	0.0	U,W
-RNA	11	Hero of Precinct One	2.0	W
-RNA	182	High Alert	3.0	U,W
-RNA	41	Humongulus	5.0	U
-RNA	183	Hydroid Krasis	2.0	G,U
-RNA	77	Ill-Gotten Inheritance	4.0	B
-RNA	106	Immolation Shaman	2.0	R
-RNA	12	Impassioned Orator	2.0	W
-RNA	184	Imperious Oligarch	2.0	B,W
-RNA	226	Incubation // Incongruity	4.0	G,U
-RNA	131	Incubation Druid	2.0	G
-RNA	261	Island	0.0	U
-RNA	185	Judith, the Scourge Diva	3.0	B,R
-RNA	235	Junktroller	4.0	
-RNA	13	Justiciar's Portal	2.0	W
-RNA	187	Kaya's Wrath	4.0	B,W
-RNA	186	Kaya, Orzhov Usurper	3.0	B,W
-RNA	14	Knight of Sorrows	5.0	W
-RNA	188	Knight of the Last Breath	7.0	B,W
-RNA	189	Lavinia, Azorius Renegade	2.0	U,W
-RNA	190	Lawmage's Binding	3.0	U,W
-RNA	107	Light Up the Stage	3.0	R
-RNA	15	Lumbering Battlement	5.0	W
-RNA	191	Macabre Mockery	4.0	B,R
-RNA	132	Mammoth Spider	5.0	G
-RNA	42	Mass Manipulation	4.0	U
-RNA	43	Mesmerizing Benthid	5.0	U
-RNA	16	Ministrant of Obligation	3.0	W
-RNA	108	Mirror March	6.0	R
-RNA	192	Mortify	3.0	B,W
-RNA	263	Mountain	0.0	R
-RNA	193	Nikya of the Old Ways	5.0	G,R
-RNA	78	Noxious Groodion	3.0	B
-RNA	133	Open the Gates	1.0	G
-RNA	79	Orzhov Enforcer	2.0	B
-RNA	252	Orzhov Guildgate	0.0	B,W
-RNA	236	Orzhov Locket	3.0	B,W
-RNA	80	Orzhov Racketeers	5.0	B
-RNA	44	Persistent Petitioners	2.0	U
-RNA	81	Pestilent Spirit	3.0	B
-RNA	194	Pitiless Pontiff	2.0	B,W
-RNA	82	Plague Wight	2.0	B
-RNA	260	Plains	0.0	W
-RNA	254	Plaza of Harmony	0.0	
-RNA	45	Precognitive Perception	5.0	U
-RNA	83	Priest of Forgotten Gods	2.0	B
-RNA	195	Prime Speaker Vannifar	4.0	G,U
-RNA	17	Prowling Caracal	2.0	W
-RNA	46	Prying Eyes	6.0	U
-RNA	47	Pteramander	1.0	U
-RNA	48	Quench	2.0	U
-RNA	196	Rafter Demon	4.0	B,R
-RNA	270	Ragefire	2.0	R
-RNA	197	Rakdos Firewheeler	4.0	B,R
-RNA	255	Rakdos Guildgate	0.0	B,R
-RNA	237	Rakdos Locket	3.0	B,R
-RNA	198	Rakdos Roustabout	3.0	B,R
-RNA	84	Rakdos Trumpeter	2.0	B,R
-RNA	199	Rakdos, the Showstopper	6.0	B,R
-RNA	18	Rally to Battle	4.0	W
-RNA	134	Rampage of the Clans	4.0	G
-RNA	135	Rampaging Rendhorn	5.0	G
-RNA	200	Ravager Wurm	6.0	G,R
-RNA	136	Regenesis	5.0	G
-RNA	227	Repudiate // Replicate	5.0	G,U
-RNA	19	Resolute Watchdog	1.0	W
-RNA	228	Revival // Revenge	8.0	B,W
-RNA	201	Rhythm of the Wild	3.0	G,R
-RNA	109	Rix Maadi Reveler	2.0	B,R
-RNA	137	Root Snare	2.0	G
-RNA	110	Rubble Reading	4.0	R
-RNA	217	Rubble Slinger	3.0	G,R
-RNA	111	Rubblebelt Recluse	5.0	R
-RNA	202	Rubblebelt Runner	3.0	G,R
-RNA	112	Rumbling Ruin	6.0	R
-RNA	49	Sage's Row Savant	2.0	U
-RNA	138	Sagittars' Volley	3.0	G
-RNA	139	Saruli Caretaker	1.0	G
-RNA	140	Sauroform Hybrid	2.0	G
-RNA	203	Savage Smash	3.0	G,R
-RNA	113	Scorchmark	2.0	R
-RNA	238	Scrabbling Claws	1.0	
-RNA	239	Screaming Shield	1.0	
-RNA	218	Scuttlegator	6.0	G,U
-RNA	50	Senate Courier	3.0	U,W
-RNA	219	Senate Griffin	4.0	U,W
-RNA	204	Senate Guildmage	2.0	U,W
-RNA	20	Sentinel's Mark	2.0	W
-RNA	205	Seraph of the Scales	4.0	B,W
-RNA	206	Sharktocrab	4.0	G,U
-RNA	51	Shimmer of Possibility	2.0	U
-RNA	141	Silhana Wayfinder	2.0	G
-RNA	207	Simic Ascendancy	2.0	G,U
-RNA	257	Simic Guildgate	0.0	G,U
-RNA	240	Simic Locket	3.0	G,U
-RNA	114	Skarrgan Hellkite	5.0	R
-RNA	52	Skatewing Spy	4.0	U
-RNA	115	Skewer the Critics	3.0	R
-RNA	53	Skitter Eel	4.0	U
-RNA	21	Sky Tether	1.0	W
-RNA	54	Slimebind	2.0	U
-RNA	116	Smelt-Ward Ignus	2.0	R
-RNA	22	Smothering Tithe	4.0	W
-RNA	85	Spawn of Mayhem	4.0	B
-RNA	117	Spear Spewer	1.0	R
-RNA	55	Sphinx of Foresight	4.0	U
-RNA	208	Sphinx of New Prahv	4.0	U,W
-RNA	241	Sphinx of the Guildpact	7.0	B,G,R,U,W
-RNA	209	Sphinx's Insight	4.0	U,W
-RNA	118	Spikewheel Acrobat	4.0	R
-RNA	86	Spire Mangler	3.0	B
-RNA	23	Spirit of the Spires	4.0	W
-RNA	142	Steeple Creeper	3.0	G,U
-RNA	259	Stomping Ground	0.0	G,R
-RNA	143	Stony Strength	1.0	G
-RNA	119	Storm Strike	1.0	R
-RNA	24	Summary Judgment	2.0	W
-RNA	210	Sunder Shaman	4.0	G,R
-RNA	262	Swamp	0.0	B
-RNA	56	Swirling Torrent	6.0	U
-RNA	144	Sylvan Brushstrider	3.0	G
-RNA	211	Syndicate Guildmage	2.0	B,W
-RNA	25	Syndicate Messenger	4.0	W
-RNA	26	Tenth District Veteran	3.0	W
-RNA	145	Territorial Boar	2.0	G
-RNA	212	Teysa Karlov	4.0	B,W
-RNA	273	The Haunt of Hightower	6.0	B
-RNA	213	Theater of Horrors	3.0	B,R
-RNA	87	Thirsting Shade	1.0	B
-RNA	57	Thought Collapse	3.0	U
-RNA	229	Thrash // Threat	6.0	G,R
-RNA	120	Tin Street Dodger	1.0	R
-RNA	146	Titanic Brawl	2.0	G
-RNA	27	Tithe Taker	2.0	W
-RNA	242	Tome of the Guildpact	5.0	
-RNA	147	Tower Defense	2.0	G
-RNA	148	Trollbred Guardian	5.0	G
-RNA	28	Twilight Panther	1.0	B,W
-RNA	29	Unbreakable Formation	3.0	W
-RNA	88	Undercity Scavenger	4.0	B
-RNA	89	Undercity's Embrace	3.0	B
-RNA	58	Verity Circle	3.0	U
-RNA	90	Vindictive Vampire	4.0	B
-RNA	220	Vizkopa Vampire	3.0	B,W
-RNA	59	Wall of Lost Thoughts	2.0	U
-RNA	230	Warrant // Warden	7.0	U,W
-RNA	30	Watchful Giant	6.0	W
-RNA	149	Wilderness Reclamation	4.0	G
-RNA	60	Windstorm Drake	5.0	U
-RNA	150	Wrecking Beast	7.0	G
-RNA	214	Zegana, Utopian Speaker	4.0	G,U
-RNA	215	Zhur-Taa Goblin	2.0	G,R
+RNA	151	Absorb	3.0	Instant	U,W
+RNA	91	Act of Treason	3.0	Sorcery	R
+RNA	152	Aeromunculus	3.0	Creature  Homunculus Mutant	G,U
+RNA	92	Amplifire	4.0	Creature  Elemental	R
+RNA	1	Angel of Grace	5.0	Creature  Angel	W
+RNA	2	Angelic Exaltation	4.0	Enchantment	W
+RNA	153	Applied Biomancy	2.0	Instant	G,U
+RNA	3	Archway Angel	6.0	Creature  Angel	W
+RNA	31	Arrester's Admonition	3.0	Instant	U
+RNA	4	Arrester's Zeal	1.0	Instant	W
+RNA	61	Awaken the Erstwhile	5.0	Sorcery	B
+RNA	121	Axebane Beast	4.0	Creature  Beast	G
+RNA	243	Azorius Guildgate	0.0	Land  Gate	U,W
+RNA	154	Azorius Knight-Arbiter	5.0	Creature  Human Knight	U,W
+RNA	231	Azorius Locket	3.0	Artifact	U,W
+RNA	155	Azorius Skyguard	6.0	Creature  Human Knight	U,W
+RNA	62	Bankrupt in Blood	2.0	Sorcery	B
+RNA	156	Basilica Bell-Haunt	4.0	Creature  Spirit	B,W
+RNA	221	Bedeck // Bedazzle	8.0	Instant	B,R
+RNA	157	Bedevil	3.0	Instant	B,R
+RNA	32	Benthic Biomancer	1.0	Creature  Merfolk Wizard Mutant	U
+RNA	122	Biogenic Ooze	5.0	Creature  Ooze	G
+RNA	123	Biogenic Upgrade	6.0	Sorcery	G
+RNA	158	Biomancer's Familiar	2.0	Creature  Mutant	G,U
+RNA	63	Blade Juggler	5.0	Creature  Human Rogue	B
+RNA	64	Bladebrand	2.0	Instant	B
+RNA	245	Blood Crypt	0.0	Land  Swamp Mountain	B,R
+RNA	65	Bloodmist Infiltrator	3.0	Creature  Vampire	B
+RNA	159	Bolrac-Clan Crusher	5.0	Creature  Ogre Warrior	G,R
+RNA	246	Breeding Pool	0.0	Land  Forest Island	G,U
+RNA	5	Bring to Trial	3.0	Sorcery	W
+RNA	93	Burn Bright	3.0	Instant	R
+RNA	94	Burning-Tree Vandal	3.0	Creature  Human Rogue	R
+RNA	160	Captive Audience	7.0	Enchantment	B,R
+RNA	222	Carnival // Carnage	5.0	Instant	B,R
+RNA	66	Carrion Imp	4.0	Creature  Imp	B
+RNA	67	Catacomb Crocodile	5.0	Creature  Crocodile	B
+RNA	95	Cavalcade of Calamity	2.0	Enchantment	R
+RNA	271	Charging War Boar	3.0	Creature  Boar	G,R
+RNA	33	Chillbringer	5.0	Creature  Elemental	U
+RNA	161	Cindervines	2.0	Enchantment	G,R
+RNA	6	Civic Stalwart	4.0	Creature  Elephant Soldier	W
+RNA	96	Clamor Shaman	3.0	Creature  Goblin Shaman	R
+RNA	162	Clan Guildmage	2.0	Creature  Human Shaman	G,R
+RNA	34	Clear the Mind	3.0	Sorcery	U
+RNA	68	Clear the Stage	5.0	Instant	B
+RNA	35	Code of Constraint	3.0	Instant	U
+RNA	223	Collision // Colossus	4.0	Instant	G,R
+RNA	163	Combine Guildmage	2.0	Creature  Merfolk Wizard	G,U
+RNA	7	Concordia Pegasus	2.0	Creature  Pegasus	W
+RNA	224	Consecrate // Consume	6.0	Instant	B,W
+RNA	69	Consign to the Pit	6.0	Sorcery	B
+RNA	36	Coral Commando	3.0	Creature  Merfolk Warrior	U
+RNA	70	Cry of the Carnarium	3.0	Sorcery	B
+RNA	164	Cult Guildmage	2.0	Creature  Human Shaman	B,R
+RNA	97	Dagger Caster	4.0	Creature  Viashino Rogue	R
+RNA	71	Dead Revels	4.0	Sorcery	B
+RNA	72	Debtors' Transport	6.0	Creature  Thrull	B
+RNA	98	Deface	1.0	Sorcery	R
+RNA	225	Depose // Deploy	6.0	Instant	U,W
+RNA	165	Deputy of Detention	3.0	Creature  Vedalken Wizard	U,W
+RNA	272	Domri's Nodorog	5.0	Creature  Beast	G,R
+RNA	166	Domri, Chaos Bringer	4.0	Legendary Planeswalker  Domri	G,R
+RNA	269	Domri, City Smasher	6.0	Legendary Planeswalker  Domri	G,R
+RNA	168	Dovin's Acuity	3.0	Enchantment	U,W
+RNA	268	Dovin's Automaton	4.0	Artifact Creature  Homunculus	
+RNA	267	Dovin's Dismissal	4.0	Instant	U,W
+RNA	265	Dovin, Architect of Law	6.0	Legendary Planeswalker  Dovin	U,W
+RNA	167	Dovin, Grand Arbiter	3.0	Legendary Planeswalker  Dovin	U,W
+RNA	73	Drill Bit	3.0	Sorcery	B
+RNA	99	Electrodominance	2.0	Instant	R
+RNA	266	Elite Arrester	1.0	Creature  Human Soldier	U,W
+RNA	169	Emergency Powers	7.0	Instant	U,W
+RNA	124	End-Raze Forerunners	8.0	Creature  Boar	G
+RNA	125	Enraged Ceratok	4.0	Creature  Rhino	G
+RNA	37	Essence Capture	2.0	Instant	U
+RNA	170	Ethereal Absolution	6.0	Enchantment	B,W
+RNA	8	Expose to Daylight	3.0	Instant	W
+RNA	38	Eyes Everywhere	3.0	Enchantment	U
+RNA	39	Faerie Duelist	2.0	Creature  Faerie Rogue	U
+RNA	100	Feral Maaka	2.0	Creature  Cat	R
+RNA	171	Final Payment	2.0	Instant	B,W
+RNA	172	Fireblade Artist	2.0	Creature  Human Shaman	B,R
+RNA	101	Flames of the Raze-Boar	6.0	Instant	R
+RNA	74	Font of Agonies	1.0	Enchantment	B
+RNA	216	Footlight Fiend	1.0	Creature  Devil	B,R
+RNA	9	Forbidding Spirit	3.0	Creature  Spirit Cleric	W
+RNA	264	Forest	0.0	Basic Land  Forest	G
+RNA	173	Frenzied Arynx	4.0	Creature  Cat Beast	G,R
+RNA	174	Frilled Mystic	4.0	Creature  Elf Lizard Wizard	G,U
+RNA	175	Galloping Lizrog	5.0	Creature  Frog Lizard	G,U
+RNA	232	Gate Colossus	8.0	Artifact Creature  Construct	
+RNA	126	Gatebreaker Ram	3.0	Creature  Sheep	G
+RNA	102	Gates Ablaze	3.0	Sorcery	R
+RNA	247	Gateway Plaza	0.0	Land  Gate	
+RNA	40	Gateway Sneak	3.0	Creature  Vedalken Rogue	U
+RNA	176	Get the Point	5.0	Instant	B,R
+RNA	103	Ghor-Clan Wrecker	4.0	Creature  Human Warrior	R
+RNA	127	Gift of Strength	2.0	Instant	G
+RNA	233	Glass of the Guildpact	2.0	Artifact	
+RNA	104	Goblin Gathering	3.0	Sorcery	R
+RNA	248	Godless Shrine	0.0	Land  Plains Swamp	B,W
+RNA	177	Grasping Thrull	5.0	Creature  Thrull	B,W
+RNA	105	Gravel-Hide Goblin	2.0	Creature  Goblin Shaman	G,R
+RNA	75	Grotesque Demise	3.0	Instant	B
+RNA	178	Growth Spiral	2.0	Instant	G,U
+RNA	128	Growth-Chamber Guardian	2.0	Creature  Elf Crab Warrior	G
+RNA	129	Gruul Beastmaster	4.0	Creature  Human Shaman	G
+RNA	249	Gruul Guildgate	0.0	Land  Gate	G,R
+RNA	234	Gruul Locket	3.0	Artifact	G,R
+RNA	179	Gruul Spellbreaker	3.0	Creature  Ogre Warrior	G,R
+RNA	130	Guardian Project	4.0	Enchantment	G
+RNA	76	Gutterbones	1.0	Creature  Skeleton Warrior	B
+RNA	180	Gyre Engineer	3.0	Creature  Vedalken Wizard	G,U
+RNA	10	Haazda Officer	3.0	Creature  Human Soldier	W
+RNA	181	Hackrobat	3.0	Creature  Human Rogue	B,R
+RNA	251	Hallowed Fountain	0.0	Land  Plains Island	U,W
+RNA	11	Hero of Precinct One	2.0	Creature  Human Warrior	W
+RNA	182	High Alert	3.0	Enchantment	U,W
+RNA	41	Humongulus	5.0	Creature  Homunculus	U
+RNA	183	Hydroid Krasis	2.0	Creature  Jellyfish Hydra Beast	G,U
+RNA	77	Ill-Gotten Inheritance	4.0	Enchantment	B
+RNA	106	Immolation Shaman	2.0	Creature  Viashino Shaman	R
+RNA	12	Impassioned Orator	2.0	Creature  Human Cleric	W
+RNA	184	Imperious Oligarch	2.0	Creature  Human Cleric	B,W
+RNA	226	Incubation // Incongruity	4.0	Sorcery	G,U
+RNA	131	Incubation Druid	2.0	Creature  Elf Druid	G
+RNA	261	Island	0.0	Basic Land  Island	U
+RNA	185	Judith, the Scourge Diva	3.0	Legendary Creature  Human Shaman	B,R
+RNA	235	Junktroller	4.0	Artifact Creature  Golem	
+RNA	13	Justiciar's Portal	2.0	Instant	W
+RNA	187	Kaya's Wrath	4.0	Sorcery	B,W
+RNA	186	Kaya, Orzhov Usurper	3.0	Legendary Planeswalker  Kaya	B,W
+RNA	14	Knight of Sorrows	5.0	Creature  Human Knight	W
+RNA	188	Knight of the Last Breath	7.0	Creature  Giant Knight	B,W
+RNA	189	Lavinia, Azorius Renegade	2.0	Legendary Creature  Human Soldier	U,W
+RNA	190	Lawmage's Binding	3.0	Enchantment  Aura	U,W
+RNA	107	Light Up the Stage	3.0	Sorcery	R
+RNA	15	Lumbering Battlement	5.0	Creature  Beast	W
+RNA	191	Macabre Mockery	4.0	Instant	B,R
+RNA	132	Mammoth Spider	5.0	Creature  Spider	G
+RNA	42	Mass Manipulation	4.0	Sorcery	U
+RNA	43	Mesmerizing Benthid	5.0	Creature  Octopus	U
+RNA	16	Ministrant of Obligation	3.0	Creature  Human Cleric	W
+RNA	108	Mirror March	6.0	Enchantment	R
+RNA	192	Mortify	3.0	Instant	B,W
+RNA	263	Mountain	0.0	Basic Land  Mountain	R
+RNA	193	Nikya of the Old Ways	5.0	Legendary Creature  Centaur Druid	G,R
+RNA	78	Noxious Groodion	3.0	Creature  Beast	B
+RNA	133	Open the Gates	1.0	Sorcery	G
+RNA	79	Orzhov Enforcer	2.0	Creature  Human Rogue	B
+RNA	252	Orzhov Guildgate	0.0	Land  Gate	B,W
+RNA	236	Orzhov Locket	3.0	Artifact	B,W
+RNA	80	Orzhov Racketeers	5.0	Creature  Human Rogue	B
+RNA	44	Persistent Petitioners	2.0	Creature  Human Advisor	U
+RNA	81	Pestilent Spirit	3.0	Creature  Spirit	B
+RNA	194	Pitiless Pontiff	2.0	Creature  Vampire Cleric	B,W
+RNA	82	Plague Wight	2.0	Creature  Zombie	B
+RNA	260	Plains	0.0	Basic Land  Plains	W
+RNA	254	Plaza of Harmony	0.0	Land	
+RNA	45	Precognitive Perception	5.0	Instant	U
+RNA	83	Priest of Forgotten Gods	2.0	Creature  Human Cleric	B
+RNA	195	Prime Speaker Vannifar	4.0	Legendary Creature  Elf Ooze Wizard	G,U
+RNA	17	Prowling Caracal	2.0	Creature  Cat	W
+RNA	46	Prying Eyes	6.0	Instant	U
+RNA	47	Pteramander	1.0	Creature  Salamander Drake	U
+RNA	48	Quench	2.0	Instant	U
+RNA	196	Rafter Demon	4.0	Creature  Demon	B,R
+RNA	270	Ragefire	2.0	Sorcery	R
+RNA	197	Rakdos Firewheeler	4.0	Creature  Human Rogue	B,R
+RNA	255	Rakdos Guildgate	0.0	Land  Gate	B,R
+RNA	237	Rakdos Locket	3.0	Artifact	B,R
+RNA	198	Rakdos Roustabout	3.0	Creature  Ogre Warrior	B,R
+RNA	84	Rakdos Trumpeter	2.0	Creature  Human Shaman	B,R
+RNA	199	Rakdos, the Showstopper	6.0	Legendary Creature  Demon	B,R
+RNA	18	Rally to Battle	4.0	Instant	W
+RNA	134	Rampage of the Clans	4.0	Instant	G
+RNA	135	Rampaging Rendhorn	5.0	Creature  Beast	G
+RNA	200	Ravager Wurm	6.0	Creature  Wurm	G,R
+RNA	136	Regenesis	5.0	Instant	G
+RNA	227	Repudiate // Replicate	5.0	Instant	G,U
+RNA	19	Resolute Watchdog	1.0	Creature  Dog	W
+RNA	228	Revival // Revenge	8.0	Sorcery	B,W
+RNA	201	Rhythm of the Wild	3.0	Enchantment	G,R
+RNA	109	Rix Maadi Reveler	2.0	Creature  Human Shaman	B,R
+RNA	137	Root Snare	2.0	Instant	G
+RNA	110	Rubble Reading	4.0	Sorcery	R
+RNA	217	Rubble Slinger	3.0	Creature  Human Warrior	G,R
+RNA	111	Rubblebelt Recluse	5.0	Creature  Ogre Berserker	R
+RNA	202	Rubblebelt Runner	3.0	Creature  Viashino Warrior	G,R
+RNA	112	Rumbling Ruin	6.0	Creature  Elemental	R
+RNA	49	Sage's Row Savant	2.0	Creature  Vedalken Wizard	U
+RNA	138	Sagittars' Volley	3.0	Instant	G
+RNA	139	Saruli Caretaker	1.0	Creature  Dryad	G
+RNA	140	Sauroform Hybrid	2.0	Creature  Human Lizard Warrior	G
+RNA	203	Savage Smash	3.0	Sorcery	G,R
+RNA	113	Scorchmark	2.0	Instant	R
+RNA	238	Scrabbling Claws	1.0	Artifact	
+RNA	239	Screaming Shield	1.0	Artifact  Equipment	
+RNA	218	Scuttlegator	6.0	Creature  Crab Turtle Crocodile	G,U
+RNA	50	Senate Courier	3.0	Creature  Bird	U,W
+RNA	219	Senate Griffin	4.0	Creature  Griffin	U,W
+RNA	204	Senate Guildmage	2.0	Creature  Human Wizard	U,W
+RNA	20	Sentinel's Mark	2.0	Enchantment  Aura	W
+RNA	205	Seraph of the Scales	4.0	Creature  Angel	B,W
+RNA	206	Sharktocrab	4.0	Creature  Shark Octopus Crab	G,U
+RNA	51	Shimmer of Possibility	2.0	Sorcery	U
+RNA	141	Silhana Wayfinder	2.0	Creature  Elf Scout	G
+RNA	207	Simic Ascendancy	2.0	Enchantment	G,U
+RNA	257	Simic Guildgate	0.0	Land  Gate	G,U
+RNA	240	Simic Locket	3.0	Artifact	G,U
+RNA	114	Skarrgan Hellkite	5.0	Creature  Dragon	R
+RNA	52	Skatewing Spy	4.0	Creature  Vedalken Rogue Mutant	U
+RNA	115	Skewer the Critics	3.0	Sorcery	R
+RNA	53	Skitter Eel	4.0	Creature  Fish Crab	U
+RNA	21	Sky Tether	1.0	Enchantment  Aura	W
+RNA	54	Slimebind	2.0	Enchantment  Aura	U
+RNA	116	Smelt-Ward Ignus	2.0	Creature  Elemental	R
+RNA	22	Smothering Tithe	4.0	Enchantment	W
+RNA	85	Spawn of Mayhem	4.0	Creature  Demon	B
+RNA	117	Spear Spewer	1.0	Creature  Goblin Warrior	R
+RNA	55	Sphinx of Foresight	4.0	Creature  Sphinx	U
+RNA	208	Sphinx of New Prahv	4.0	Creature  Sphinx	U,W
+RNA	241	Sphinx of the Guildpact	7.0	Artifact Creature  Sphinx	B,G,R,U,W
+RNA	209	Sphinx's Insight	4.0	Instant	U,W
+RNA	118	Spikewheel Acrobat	4.0	Creature  Human Rogue	R
+RNA	86	Spire Mangler	3.0	Creature  Insect	B
+RNA	23	Spirit of the Spires	4.0	Creature  Spirit	W
+RNA	142	Steeple Creeper	3.0	Creature  Frog Snake	G,U
+RNA	259	Stomping Ground	0.0	Land  Mountain Forest	G,R
+RNA	143	Stony Strength	1.0	Instant	G
+RNA	119	Storm Strike	1.0	Instant	R
+RNA	24	Summary Judgment	2.0	Instant	W
+RNA	210	Sunder Shaman	4.0	Creature  Giant Shaman	G,R
+RNA	262	Swamp	0.0	Basic Land  Swamp	B
+RNA	56	Swirling Torrent	6.0	Sorcery	U
+RNA	144	Sylvan Brushstrider	3.0	Creature  Beast	G
+RNA	211	Syndicate Guildmage	2.0	Creature  Human Cleric	B,W
+RNA	25	Syndicate Messenger	4.0	Creature  Bird	W
+RNA	26	Tenth District Veteran	3.0	Creature  Human Soldier	W
+RNA	145	Territorial Boar	2.0	Creature  Boar	G
+RNA	212	Teysa Karlov	4.0	Legendary Creature  Human Advisor	B,W
+RNA	273	The Haunt of Hightower	6.0	Legendary Creature  Vampire	B
+RNA	213	Theater of Horrors	3.0	Enchantment	B,R
+RNA	87	Thirsting Shade	1.0	Creature  Shade	B
+RNA	57	Thought Collapse	3.0	Instant	U
+RNA	229	Thrash // Threat	6.0	Instant	G,R
+RNA	120	Tin Street Dodger	1.0	Creature  Goblin Rogue	R
+RNA	146	Titanic Brawl	2.0	Instant	G
+RNA	27	Tithe Taker	2.0	Creature  Human Soldier	W
+RNA	242	Tome of the Guildpact	5.0	Artifact	
+RNA	147	Tower Defense	2.0	Instant	G
+RNA	148	Trollbred Guardian	5.0	Creature  Troll Frog Warrior	G
+RNA	28	Twilight Panther	1.0	Creature  Cat Spirit	B,W
+RNA	29	Unbreakable Formation	3.0	Instant	W
+RNA	88	Undercity Scavenger	4.0	Creature  Ogre Warrior	B
+RNA	89	Undercity's Embrace	3.0	Instant	B
+RNA	58	Verity Circle	3.0	Enchantment	U
+RNA	90	Vindictive Vampire	4.0	Creature  Vampire	B
+RNA	220	Vizkopa Vampire	3.0	Creature  Vampire	B,W
+RNA	59	Wall of Lost Thoughts	2.0	Creature  Wall	U
+RNA	230	Warrant // Warden	7.0	Instant	U,W
+RNA	30	Watchful Giant	6.0	Creature  Giant Soldier	W
+RNA	149	Wilderness Reclamation	4.0	Enchantment	G
+RNA	60	Windstorm Drake	5.0	Creature  Drake	U
+RNA	150	Wrecking Beast	7.0	Creature  Beast	G
+RNA	214	Zegana, Utopian Speaker	4.0	Legendary Creature  Merfolk Wizard	G,U
+RNA	215	Zhur-Taa Goblin	2.0	Creature  Goblin Berserker	G,R

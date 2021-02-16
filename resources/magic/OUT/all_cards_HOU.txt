@@ -1,0 +1,199 @@
+HOU	158	Abandoned Sarcophagus	3.0	Artifact	
+HOU	83	Abrade	2.0	Instant	R
+HOU	56	Accursed Horde	4.0	Creature  Zombie	B
+HOU	1	Act of Heroism	2.0	Instant	W
+HOU	2	Adorned Pouncer	2.0	Creature  Cat	W
+HOU	29	Aerial Guide	3.0	Creature  Drake	U
+HOU	110	Ambuscade	3.0	Instant	G
+HOU	57	Ammit Eternal	3.0	Creature  Zombie Crocodile Demon	B
+HOU	3	Angel of Condemnation	4.0	Creature  Angel	W
+HOU	4	Angel of the God-Pharaoh	6.0	Creature  Angel	W
+HOU	58	Apocalypse Demon	6.0	Creature  Demon	B
+HOU	152	Appeal // Authority	3.0	Sorcery	G,W
+HOU	30	Aven Reedstalker	4.0	Creature  Bird Warrior	U
+HOU	5	Aven of Enduring Hope	5.0	Creature  Bird Cleric	W
+HOU	201	Avid Reclaimer	3.0	Creature  Human Druid	G,U
+HOU	59	Banewhip Punisher	3.0	Creature  Human Warrior	B
+HOU	111	Beneath the Sands	3.0	Sorcery	G
+HOU	112	Bitterbow Sharpshooters	5.0	Creature  Jackal Archer	G
+HOU	138	Bloodwater Entity	3.0	Creature  Elemental	R,U
+HOU	84	Blur of Blades	2.0	Instant	R
+HOU	60	Bontu's Last Reckoning	3.0	Sorcery	B
+HOU	202	Brambleweft Behemoth	6.0	Creature  Elemental	G
+HOU	85	Burning-Fist Minotaur	2.0	Creature  Minotaur Wizard	R
+HOU	61	Carrion Screecher	4.0	Creature  Zombie Bird	B
+HOU	31	Champion of Wits	3.0	Creature  Naga Wizard	U
+HOU	86	Chandra's Defeat	1.0	Instant	R
+HOU	87	Chaos Maw	7.0	Creature  Hellion	R
+HOU	209	Cinder Barrens	0.0	Land	B,R
+HOU	150	Claim // Fame	3.0	Sorcery	B,R
+HOU	149	Consign // Oblivion	7.0	Instant	B,U
+HOU	32	Countervailing Winds	3.0	Instant	U
+HOU	88	Crash Through	1.0	Sorcery	R
+HOU	6	Crested Sunmare	5.0	Creature  Horse	W
+HOU	159	Crook of Condemnation	2.0	Artifact	
+HOU	169	Crypt of the Eternals	0.0	Land	B,R,U
+HOU	33	Cunning Survivor	2.0	Creature  Human Warrior	U
+HOU	160	Dagger of the Worthy	2.0	Artifact  Equipment	
+HOU	7	Dauntless Aven	3.0	Creature  Bird Warrior	W
+HOU	89	Defiant Khenra	2.0	Creature  Jackal Warrior	R
+HOU	170	Desert of the Fervent	0.0	Land  Desert	R
+HOU	171	Desert of the Glorified	0.0	Land  Desert	B
+HOU	172	Desert of the Indomitable	0.0	Land  Desert	G
+HOU	173	Desert of the Mindful	0.0	Land  Desert	U
+HOU	174	Desert of the True	0.0	Land  Desert	W
+HOU	8	Desert's Hold	3.0	Enchantment  Aura	W
+HOU	113	Devotee of Strength	3.0	Creature  Naga Wizard	G
+HOU	9	Disposal Mummy	3.0	Creature  Zombie Jackal	W
+HOU	11	Djeru's Renunciation	2.0	Instant	W
+HOU	10	Djeru, With Eyes Open	5.0	Legendary Creature  Human Warrior	W
+HOU	62	Doomfall	3.0	Sorcery	B
+HOU	63	Dreamstealer	3.0	Creature  Human Wizard	B
+HOU	157	Driven // Despair	4.0	Sorcery	B,G
+HOU	114	Dune Diviner	3.0	Creature  Naga Cleric	G
+HOU	175	Dunes of the Dead	0.0	Land  Desert	
+HOU	12	Dutiful Servants	4.0	Creature  Zombie	W
+HOU	90	Earthshaker Khenra	2.0	Creature  Jackal Warrior	R
+HOU	176	Endless Sands	0.0	Land  Desert	
+HOU	34	Eternal of Harsh Truths	3.0	Creature  Zombie Cleric	U
+HOU	148	Farm // Market	6.0	Instant	U,W
+HOU	115	Feral Prowler	2.0	Creature  Cat	G
+HOU	91	Fervent Paincaster	3.0	Creature  Human Wizard	R
+HOU	92	Firebrand Archer	2.0	Creature  Human Archer	R
+HOU	189	Forest	0.0	Basic Land  Forest	G
+HOU	35	Fraying Sanity	3.0	Enchantment  Aura Curse	U
+HOU	116	Frilled Sandwalla	1.0	Creature  Lizard	G
+HOU	93	Frontline Devastator	4.0	Creature  Zombie Minotaur Warrior	R
+HOU	13	Gideon's Defeat	1.0	Instant	W
+HOU	117	Gift of Strength	2.0	Instant	G
+HOU	94	Gilded Cerodon	5.0	Creature  Beast	R
+HOU	14	God-Pharaoh's Faithful	1.0	Creature  Human Wizard	W
+HOU	161	God-Pharaoh's Gift	7.0	Artifact	
+HOU	95	Granitic Titan	6.0	Creature  Elemental	R
+HOU	162	Graven Abomination	3.0	Artifact Creature  Horror	
+HOU	155	Grind // Dust	6.0	Sorcery	B,W
+HOU	64	Grisly Survivor	3.0	Creature  Minotaur Warrior	B
+HOU	118	Harrier Naga	3.0	Creature  Naga Warrior	G
+HOU	177	Hashep Oasis	0.0	Land  Desert	G
+HOU	96	Hazoret's Undying Fury	6.0	Sorcery	R
+HOU	163	Hollow One	5.0	Artifact Creature  Golem	
+HOU	119	Hope Tender	2.0	Creature  Human Druid	G
+HOU	178	Hostile Desert	0.0	Land  Desert	
+HOU	97	Hour of Devastation	5.0	Sorcery	R
+HOU	36	Hour of Eternity	3.0	Sorcery	U
+HOU	65	Hour of Glory	4.0	Instant	B
+HOU	120	Hour of Promise	5.0	Sorcery	G
+HOU	15	Hour of Revelation	6.0	Sorcery	W
+HOU	179	Ifnir Deadlands	0.0	Land  Desert	B
+HOU	37	Imaginary Threats	4.0	Instant	U
+HOU	98	Imminent Doom	3.0	Enchantment	R
+HOU	99	Inferno Jet	6.0	Sorcery	R
+HOU	180	Ipnu Rivulet	0.0	Land  Desert	U
+HOU	186	Island	0.0	Basic Land  Island	U
+HOU	38	Jace's Defeat	2.0	Instant	U
+HOU	39	Kefnet's Last Word	4.0	Sorcery	U
+HOU	66	Khenra Eternal	2.0	Creature  Zombie Jackal Warrior	B
+HOU	100	Khenra Scrapper	3.0	Creature  Jackal Warrior	R
+HOU	101	Kindled Fury	1.0	Instant	R
+HOU	153	Leave // Chance	6.0	Instant	R,W
+HOU	67	Lethal Sting	3.0	Sorcery	B
+HOU	121	Life Goes On	1.0	Instant	G
+HOU	68	Liliana's Defeat	1.0	Sorcery	B
+HOU	69	Lurching Rotbeast	4.0	Creature  Zombie Beast	B
+HOU	102	Magmaroth	4.0	Creature  Elemental	R
+HOU	122	Majestic Myriarch	5.0	Creature  Chimera	G
+HOU	164	Manalith	3.0	Artifact	
+HOU	103	Manticore Eternal	5.0	Creature  Zombie Manticore	R
+HOU	70	Marauding Boneslasher	3.0	Creature  Zombie Minotaur	B
+HOU	71	Merciless Eternal	3.0	Creature  Zombie Cleric	B
+HOU	165	Mirage Mirror	3.0	Artifact	
+HOU	72	Moaning Wall	3.0	Creature  Zombie Wall	B
+HOU	188	Mountain	0.0	Basic Land  Mountain	R
+HOU	16	Mummy Paramount	2.0	Creature  Zombie	W
+HOU	104	Neheb, the Eternal	5.0	Legendary Creature  Zombie Minotaur Warrior	R
+HOU	140	Nicol Bolas, God-Pharaoh	7.0	Legendary Planeswalker  Bolas	B,R,U
+HOU	205	Nicol Bolas, the Deceiver	8.0	Legendary Planeswalker  Bolas	B,R,U
+HOU	40	Nimble Obstructionist	3.0	Creature  Bird Wizard	U
+HOU	123	Nissa's Defeat	3.0	Sorcery	G
+HOU	203	Nissa's Encouragement	5.0	Sorcery	G
+HOU	200	Nissa, Genesis Mage	7.0	Legendary Planeswalker  Nissa	G
+HOU	124	Oasis Ritualist	4.0	Creature  Naga Druid	G
+HOU	141	Obelisk Spider	3.0	Creature  Spider	B,G
+HOU	17	Oketra's Avenger	2.0	Creature  Human Warrior	W
+HOU	18	Oketra's Last Mercy	3.0	Sorcery	W
+HOU	41	Ominous Sphinx	5.0	Creature  Sphinx	U
+HOU	105	Open Fire	3.0	Instant	R
+HOU	125	Overcome	5.0	Sorcery	G
+HOU	19	Overwhelming Splendor	8.0	Enchantment  Aura Curse	W
+HOU	185	Plains	0.0	Basic Land  Plains	W
+HOU	126	Pride Sovereign	3.0	Creature  Cat	G,W
+HOU	42	Proven Combatant	1.0	Creature  Human Warrior	U
+HOU	106	Puncturing Blow	4.0	Sorcery	R
+HOU	127	Quarry Beetle	5.0	Creature  Insect	G
+HOU	128	Rampaging Hippo	6.0	Creature  Hippo	G
+HOU	129	Ramunap Excavator	3.0	Creature  Naga Cleric	G
+HOU	130	Ramunap Hydra	4.0	Creature  Snake Hydra	G
+HOU	181	Ramunap Ruins	0.0	Land  Desert	R
+HOU	74	Razaketh's Rite	5.0	Sorcery	B
+HOU	73	Razaketh, the Foulblooded	8.0	Legendary Creature  Demon	B
+HOU	154	Reason // Believe	6.0	Sorcery	G,U
+HOU	156	Refuse // Cooperate	7.0	Instant	R,U
+HOU	131	Resilient Khenra	2.0	Creature  Jackal Wizard	G
+HOU	142	Resolute Survivors	3.0	Creature  Human Warrior	R,W
+HOU	132	Rhonas's Last Stand	2.0	Sorcery	G
+HOU	133	Rhonas's Stalwart	2.0	Creature  Human Warrior	G
+HOU	43	Riddleform	2.0	Enchantment	U
+HOU	143	River Hoopoe	2.0	Creature  Bird	G,U
+HOU	75	Ruin Rat	2.0	Creature  Rat	B
+HOU	144	Samut, the Tested	4.0	Legendary Planeswalker  Samut	G,R
+HOU	107	Sand Strangler	4.0	Creature  Beast	R
+HOU	20	Sandblast	3.0	Instant	W
+HOU	21	Saving Grace	2.0	Enchantment  Aura	W
+HOU	182	Scavenger Grounds	0.0	Land  Desert	
+HOU	76	Scrounger of Souls	5.0	Creature  Horror	B
+HOU	44	Seer of the Last Tomorrow	3.0	Creature  Naga Cleric	U
+HOU	183	Shefet Dunes	0.0	Land  Desert	W
+HOU	134	Sidewinder Naga	3.0	Creature  Naga Warrior	G
+HOU	135	Sifter Wurm	7.0	Creature  Wurm	G
+HOU	45	Sinuous Striker	3.0	Creature  Naga Warrior	U
+HOU	22	Solemnity	3.0	Enchantment	W
+HOU	23	Solitary Camel	3.0	Creature  Camel	W
+HOU	46	Spellweaver Eternal	2.0	Creature  Zombie Naga Wizard	U
+HOU	24	Steadfast Sentinel	4.0	Creature  Human Cleric	W
+HOU	25	Steward of Solidarity	2.0	Creature  Human Warrior	W
+HOU	47	Strategic Planning	2.0	Sorcery	U
+HOU	48	Striped Riverwinder	7.0	Creature  Serpent	U
+HOU	151	Struggle // Survive	5.0	Instant	G,R
+HOU	26	Sunscourge Champion	3.0	Creature  Human Wizard	W
+HOU	166	Sunset Pyramid	2.0	Artifact	
+HOU	49	Supreme Will	3.0	Instant	U
+HOU	184	Survivors' Encampment	0.0	Land  Desert	
+HOU	187	Swamp	0.0	Basic Land  Swamp	B
+HOU	50	Swarm Intelligence	7.0	Enchantment	U
+HOU	136	Tenacious Hunter	4.0	Creature  Crocodile	G
+HOU	139	The Locust God	6.0	Legendary Creature  God	R,U
+HOU	145	The Scarab God	5.0	Legendary Creature  God	B,U
+HOU	146	The Scorpion God	5.0	Legendary Creature  God	B,R
+HOU	108	Thorned Moloch	3.0	Creature  Lizard	R
+HOU	77	Torment of Hailfire	2.0	Sorcery	B
+HOU	78	Torment of Scarabs	4.0	Enchantment  Aura Curse	B
+HOU	79	Torment of Venom	4.0	Instant	B
+HOU	51	Tragic Lesson	3.0	Instant	U
+HOU	167	Traveler's Amulet	1.0	Artifact	
+HOU	137	Uncage the Menagerie	2.0	Sorcery	G
+HOU	27	Unconventional Tactics	3.0	Sorcery	W
+HOU	52	Unesh, Criosphinx Sovereign	6.0	Legendary Creature  Sphinx	U
+HOU	53	Unquenchable Thirst	2.0	Enchantment  Aura	U
+HOU	147	Unraveling Mummy	3.0	Creature  Zombie	B,W
+HOU	54	Unsummon	1.0	Instant	U
+HOU	80	Vile Manifestation	2.0	Creature  Horror	B
+HOU	208	Visage of Bolas	4.0	Artifact	B,R,U
+HOU	55	Vizier of the Anointed	4.0	Creature  Human Cleric	U
+HOU	28	Vizier of the True	4.0	Creature  Human Cleric	W
+HOU	168	Wall of Forgotten Pharaohs	2.0	Artifact Creature  Wall	
+HOU	206	Wasp of the Bitter End	2.0	Creature  Insect Horror	B
+HOU	109	Wildfire Eternal	4.0	Creature  Zombie Jackal Cleric	R
+HOU	81	Without Weakness	2.0	Instant	B
+HOU	204	Woodland Stream	0.0	Land	G,U
+HOU	82	Wretched Camel	2.0	Creature  Zombie Camel	B
+HOU	207	Zealot of the God-Pharaoh	4.0	Creature  Minotaur Archer	R

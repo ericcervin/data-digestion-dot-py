@@ -1,72 +1,72 @@
-GRN	91	Arclight Phoenix	4.0	R
-GRN	92	Barging Sergeant	5.0	R
-GRN	61	Barrier of Bones	1.0	B
-GRN	62	Bartizan Bats	4.0	B
-GRN	63	Blood Operative	3.0	B
-GRN	93	Book Devourer	6.0	R
-GRN	64	Burglar Rat	2.0	B
-GRN	65	Child of Night	2.0	B
-GRN	233	Chromatic Lantern	3.0	
-GRN	94	Command the Storm	5.0	R
-GRN	95	Cosmotronic Wave	4.0	R
-GRN	66	Creeping Chill	4.0	B
-GRN	67	Dead Weight	1.0	B
-GRN	68	Deadly Visit	5.0	B
-GRN	96	Direct Current	3.0	R
-GRN	69	Doom Whisperer	5.0	B
-GRN	70	Douser of Lights	5.0	B
-GRN	97	Electrostatic Field	2.0	R
-GRN	98	Erratic Cyclops	4.0	R
-GRN	99	Experimental Frenzy	4.0	R
-GRN	100	Fearless Halberdier	3.0	R
-GRN	101	Fire Urchin	2.0	R
-GRN	235	Gatekeeper Gargoyle	6.0	
-GRN	247	Gateway Plaza	0.0	
-GRN	236	Glaive of the Guildpact	2.0	
-GRN	102	Goblin Banneret	1.0	R
-GRN	103	Goblin Cratermaker	2.0	R
-GRN	104	Goblin Locksmith	2.0	R
-GRN	105	Gravitic Punch	4.0	R
-GRN	71	Gruesome Menagerie	5.0	B
-GRN	250	Guildmages' Forum	0.0	
-GRN	106	Hellkite Whelp	5.0	R
-GRN	72	Hired Poisoner	1.0	B
-GRN	107	Inescapable Blaze	6.0	R
-GRN	270	Kraul Raider	3.0	B
-GRN	73	Kraul Swarm	5.0	B
-GRN	108	Lava Coil	2.0	R
-GRN	109	Legion Warboss	3.0	R
-GRN	74	Lotleth Giant	7.0	B
-GRN	110	Maniacal Rage	2.0	R
-GRN	75	Mausoleum Secrets	2.0	B
-GRN	111	Maximize Velocity	1.0	R
-GRN	76	Mephitic Vapors	3.0	B
-GRN	77	Midnight Reaper	3.0	B
-GRN	78	Moodmark Painter	4.0	B
-GRN	263	Mountain	0.0	R
-GRN	79	Necrotic Wound	1.0	B
-GRN	80	Never Happened	3.0	B
-GRN	112	Ornery Goblin	2.0	R
-GRN	81	Pilfering Imp	1.0	B
-GRN	82	Plaguecrafter	3.0	B
-GRN	267	Precision Bolt	3.0	R
-GRN	83	Price of Fame	4.0	B
-GRN	239	Rampaging Monument	4.0	
-GRN	113	Risk Factor	3.0	R
-GRN	84	Ritual of Soot	4.0	B
-GRN	114	Rubblebelt Boar	4.0	R
-GRN	115	Runaway Steam-Kin	2.0	R
-GRN	85	Severed Strands	2.0	B
-GRN	241	Silent Dart	1.0	
-GRN	116	Smelt-Ward Minotaur	3.0	R
-GRN	86	Spinal Centipede	3.0	B
-GRN	117	Street Riot	5.0	R
-GRN	118	Sure Strike	2.0	R
-GRN	262	Swamp	0.0	B
-GRN	119	Torch Courier	1.0	R
-GRN	87	Undercity Necrolisk	4.0	B
-GRN	88	Veiled Shade	3.0	B
-GRN	89	Vicious Rumors	1.0	B
-GRN	242	Wand of Vertebrae	1.0	
-GRN	90	Whispering Snitch	2.0	B
-GRN	120	Wojek Bodyguard	3.0	R
+GRN	91	Arclight Phoenix	4.0	Creature  Phoenix	R
+GRN	92	Barging Sergeant	5.0	Creature  Minotaur Soldier	R
+GRN	61	Barrier of Bones	1.0	Creature  Skeleton Wall	B
+GRN	62	Bartizan Bats	4.0	Creature  Bat	B
+GRN	63	Blood Operative	3.0	Creature  Vampire Assassin	B
+GRN	93	Book Devourer	6.0	Creature  Beast	R
+GRN	64	Burglar Rat	2.0	Creature  Rat	B
+GRN	65	Child of Night	2.0	Creature  Vampire	B
+GRN	233	Chromatic Lantern	3.0	Artifact	
+GRN	94	Command the Storm	5.0	Instant	R
+GRN	95	Cosmotronic Wave	4.0	Sorcery	R
+GRN	66	Creeping Chill	4.0	Sorcery	B
+GRN	67	Dead Weight	1.0	Enchantment  Aura	B
+GRN	68	Deadly Visit	5.0	Sorcery	B
+GRN	96	Direct Current	3.0	Sorcery	R
+GRN	69	Doom Whisperer	5.0	Creature  Nightmare Demon	B
+GRN	70	Douser of Lights	5.0	Creature  Horror	B
+GRN	97	Electrostatic Field	2.0	Creature  Wall	R
+GRN	98	Erratic Cyclops	4.0	Creature  Cyclops Shaman	R
+GRN	99	Experimental Frenzy	4.0	Enchantment	R
+GRN	100	Fearless Halberdier	3.0	Creature  Human Warrior	R
+GRN	101	Fire Urchin	2.0	Creature  Elemental	R
+GRN	235	Gatekeeper Gargoyle	6.0	Artifact Creature  Gargoyle	
+GRN	247	Gateway Plaza	0.0	Land  Gate	
+GRN	236	Glaive of the Guildpact	2.0	Artifact  Equipment	
+GRN	102	Goblin Banneret	1.0	Creature  Goblin Soldier	R
+GRN	103	Goblin Cratermaker	2.0	Creature  Goblin Warrior	R
+GRN	104	Goblin Locksmith	2.0	Creature  Goblin Rogue	R
+GRN	105	Gravitic Punch	4.0	Sorcery	R
+GRN	71	Gruesome Menagerie	5.0	Sorcery	B
+GRN	250	Guildmages' Forum	0.0	Land	
+GRN	106	Hellkite Whelp	5.0	Creature  Dragon	R
+GRN	72	Hired Poisoner	1.0	Creature  Human Assassin	B
+GRN	107	Inescapable Blaze	6.0	Instant	R
+GRN	270	Kraul Raider	3.0	Creature  Insect Warrior	B
+GRN	73	Kraul Swarm	5.0	Creature  Insect Warrior	B
+GRN	108	Lava Coil	2.0	Sorcery	R
+GRN	109	Legion Warboss	3.0	Creature  Goblin Soldier	R
+GRN	74	Lotleth Giant	7.0	Creature  Zombie Giant	B
+GRN	110	Maniacal Rage	2.0	Enchantment  Aura	R
+GRN	75	Mausoleum Secrets	2.0	Instant	B
+GRN	111	Maximize Velocity	1.0	Sorcery	R
+GRN	76	Mephitic Vapors	3.0	Sorcery	B
+GRN	77	Midnight Reaper	3.0	Creature  Zombie Knight	B
+GRN	78	Moodmark Painter	4.0	Creature  Human Shaman	B
+GRN	263	Mountain	0.0	Basic Land  Mountain	R
+GRN	79	Necrotic Wound	1.0	Instant	B
+GRN	80	Never Happened	3.0	Sorcery	B
+GRN	112	Ornery Goblin	2.0	Creature  Goblin Warrior	R
+GRN	81	Pilfering Imp	1.0	Creature  Imp	B
+GRN	82	Plaguecrafter	3.0	Creature  Human Shaman	B
+GRN	267	Precision Bolt	3.0	Sorcery	R
+GRN	83	Price of Fame	4.0	Instant	B
+GRN	239	Rampaging Monument	4.0	Artifact Creature  Cleric	
+GRN	113	Risk Factor	3.0	Instant	R
+GRN	84	Ritual of Soot	4.0	Sorcery	B
+GRN	114	Rubblebelt Boar	4.0	Creature  Boar	R
+GRN	115	Runaway Steam-Kin	2.0	Creature  Elemental	R
+GRN	85	Severed Strands	2.0	Sorcery	B
+GRN	241	Silent Dart	1.0	Artifact	
+GRN	116	Smelt-Ward Minotaur	3.0	Creature  Minotaur Warrior	R
+GRN	86	Spinal Centipede	3.0	Creature  Insect	B
+GRN	117	Street Riot	5.0	Enchantment	R
+GRN	118	Sure Strike	2.0	Instant	R
+GRN	262	Swamp	0.0	Basic Land  Swamp	B
+GRN	119	Torch Courier	1.0	Creature  Goblin	R
+GRN	87	Undercity Necrolisk	4.0	Creature  Zombie Lizard	B
+GRN	88	Veiled Shade	3.0	Creature  Shade	B
+GRN	89	Vicious Rumors	1.0	Sorcery	B
+GRN	242	Wand of Vertebrae	1.0	Artifact	
+GRN	90	Whispering Snitch	2.0	Creature  Vampire Rogue	B
+GRN	120	Wojek Bodyguard	3.0	Creature  Human Soldier	R

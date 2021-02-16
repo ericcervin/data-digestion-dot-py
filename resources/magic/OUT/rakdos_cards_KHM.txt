@@ -1,114 +1,114 @@
-KHM	120	Arni Brokenbrow	3.0	R
-KHM	121	Axgard Cavalry	2.0	R
-KHM	122	Basalt Ravager	4.0	R
-KHM	388	Bearded Axe	3.0	R
-KHM	123	Birgi, God of Storytelling // Harnfel, Horn of Bounty	3.0	R
-KHM	252	Blightstep Pathway // Searstep Pathway	0.0	B,R
-KHM	79	Blood on the Snow	6.0	B
-KHM	235	Bloodline Pretender	3.0	
-KHM	80	Bloodsky Berserker	2.0	B
-KHM	124	Breakneck Berserker	3.0	R
-KHM	81	Burning-Rune Demon	6.0	B
-KHM	125	Calamity Bearer	4.0	R
-KHM	126	Cinderheart Giant	7.0	R
-KHM	376	Cleaving Reaper	5.0	B
-KHM	237	Cosmos Elixir	4.0	
-KHM	127	Craven Hulk	4.0	R
-KHM	82	Crippling Fear	4.0	B
-KHM	128	Crush the Weak	3.0	R
-KHM	83	Deathknell Berserker	2.0	B
-KHM	129	Demon Bolt	3.0	R
-KHM	84	Demonic Gifts	2.0	B
-KHM	85	Dogged Pursuit	4.0	B
-KHM	130	Doomskar Titan	6.0	R
-KHM	131	Dragonkin Berserker	2.0	R
-KHM	86	Draugr Necromancer	4.0	B
-KHM	87	Draugr Recruiter	4.0	B
-KHM	88	Draugr's Helm	2.0	B
-KHM	89	Dread Rider	6.0	B
-KHM	90	Dream Devourer	2.0	B
-KHM	132	Dual Strike	2.0	R
-KHM	91	Duskwielder	1.0	B
-KHM	133	Dwarven Hammer	3.0	R
-KHM	134	Dwarven Reinforcements	4.0	R
-KHM	92	Egon, God of Death // Throne of Death	3.0	B
-KHM	93	Elderfang Disciple	2.0	B
-KHM	385	Elderfang Ritualist	3.0	B
-KHM	94	Eradicator Valkyrie	4.0	B
-KHM	255	Faceless Haven	0.0	
-KHM	135	Fearless Liberator	2.0	R
-KHM	136	Fearless Pup	1.0	R
-KHM	95	Feed the Serpent	4.0	B
-KHM	389	Fire Giant's Fury	2.0	R
-KHM	137	Frenzied Raider	2.0	R
-KHM	138	Frost Bite	1.0	R
-KHM	238	Funeral Longboat	2.0	
-KHM	390	Gilded Assault Cart	3.0	R
-KHM	139	Goldspan Dragon	5.0	R
-KHM	239	Goldvein Pick	2.0	
-KHM	96	Grim Draugr	3.0	B
-KHM	140	Hagi Mob	5.0	R
-KHM	97	Hailstorm Valkyrie	4.0	B
-KHM	98	Haunting Voyage	6.0	B
-KHM	214	Immersturm Predator	4.0	B,R
-KHM	141	Immersturm Raider	2.0	R
-KHM	263	Immersturm Skullcairn	0.0	B,R
-KHM	99	Infernal Pet	3.0	B
-KHM	100	Jarl of the Forsaken	4.0	B
-KHM	217	Kardur's Vicious Return	4.0	B,R
-KHM	216	Kardur, Doomscourge	4.0	B,R
-KHM	101	Karfell Kennel-Master	5.0	B
-KHM	102	Koma's Faithful	3.0	B
-KHM	142	Magda, Brazen Outlaw	2.0	R
-KHM	240	Maskwood Nexus	4.0	
-KHM	397	Mountain	0.0	R
-KHM	143	Open the Omenpaths	3.0	R
-KHM	103	Poison the Cup	3.0	B
-KHM	104	Priest of the Haunted Edge	2.0	B
-KHM	144	Provoke the Trolls	4.0	R
-KHM	241	Pyre of Heroes	2.0	
-KHM	145	Quakebringer	5.0	R
-KHM	242	Raiders' Karve	3.0	
-KHM	105	Raise the Draugr	2.0	B
-KHM	243	Raven Wings	2.0	
-KHM	146	Reckless Crew	4.0	R
-KHM	386	Renegade Reaper	3.0	B
-KHM	244	Replicating Ring	3.0	
-KHM	106	Return Upon the Tide	5.0	B
-KHM	107	Rise of the Dread Marn	3.0	B
-KHM	147	Run Amok	2.0	R
-KHM	108	Rune of Mortality	2.0	B
-KHM	148	Rune of Speed	2.0	R
-KHM	245	Runed Crown	3.0	
-KHM	246	Scorn Effigy	3.0	
-KHM	149	Seize the Spoils	3.0	R
-KHM	150	Shackles of Treachery	3.0	R
-KHM	267	Shimmerdrift Vale	0.0	
-KHM	109	Skemfar Avenger	2.0	B
-KHM	110	Skemfar Shadowsage	4.0	B
-KHM	111	Skull Raid	4.0	B
-KHM	151	Smashing Success	4.0	R
-KHM	282	Snow-Covered Mountain	0.0	R
-KHM	280	Snow-Covered Swamp	0.0	B
-KHM	152	Squash	5.0	R
-KHM	270	Sulfurous Mire	0.0	B,R
-KHM	377	Surtland Flinger	5.0	R
-KHM	396	Swamp	0.0	B
-KHM	113	Tergrid's Shadow	5.0	B
-KHM	112	Tergrid, God of Fright // Tergrid's Lantern	5.0	B
-KHM	207	The Bloodsky Massacre	3.0	B,R
-KHM	387	Thornmantle Striker	5.0	B
-KHM	153	Tibalt's Trickery	2.0	R
-KHM	154	Toralf, God of Fury // Toralf's Hammer	4.0	R
-KHM	155	Tormentor's Helm	1.0	R
-KHM	156	Tundra Fumarole	3.0	R
-KHM	157	Tuskeri Firewalker	3.0	R
-KHM	272	Tyrite Sanctum	0.0	
-KHM	114	Valki, God of Lies // Tibalt, Cosmic Impostor	2.0	B,R
-KHM	115	Varragoth, Bloodsky Sire	3.0	B
-KHM	158	Vault Robber	2.0	R
-KHM	116	Vengeful Reaper	4.0	B
-KHM	117	Village Rites	1.0	B
-KHM	247	Weathered Runestone	2.0	
-KHM	118	Weigh Down	1.0	B
-KHM	119	Withercrown	2.0	B
+KHM	120	Arni Brokenbrow	3.0	Legendary Creature  Human Berserker	R
+KHM	121	Axgard Cavalry	2.0	Creature  Dwarf Berserker	R
+KHM	122	Basalt Ravager	4.0	Creature  Giant Wizard	R
+KHM	388	Bearded Axe	3.0	Artifact  Equipment	R
+KHM	123	Birgi, God of Storytelling // Harnfel, Horn of Bounty	3.0	Legendary Creature  God	R
+KHM	252	Blightstep Pathway // Searstep Pathway	0.0	Land	B,R
+KHM	79	Blood on the Snow	6.0	Snow Sorcery	B
+KHM	235	Bloodline Pretender	3.0	Artifact Creature  Shapeshifter	
+KHM	80	Bloodsky Berserker	2.0	Creature  Human Berserker	B
+KHM	124	Breakneck Berserker	3.0	Creature  Dwarf Berserker	R
+KHM	81	Burning-Rune Demon	6.0	Creature  Demon Berserker	B
+KHM	125	Calamity Bearer	4.0	Creature  Giant Berserker	R
+KHM	126	Cinderheart Giant	7.0	Creature  Giant Berserker	R
+KHM	376	Cleaving Reaper	5.0	Creature  Angel Berserker	B
+KHM	237	Cosmos Elixir	4.0	Artifact	
+KHM	127	Craven Hulk	4.0	Creature  Giant Coward	R
+KHM	82	Crippling Fear	4.0	Sorcery	B
+KHM	128	Crush the Weak	3.0	Sorcery	R
+KHM	83	Deathknell Berserker	2.0	Creature  Elf Berserker	B
+KHM	129	Demon Bolt	3.0	Instant	R
+KHM	84	Demonic Gifts	2.0	Instant	B
+KHM	85	Dogged Pursuit	4.0	Enchantment	B
+KHM	130	Doomskar Titan	6.0	Creature  Giant Berserker	R
+KHM	131	Dragonkin Berserker	2.0	Creature  Human Berserker	R
+KHM	86	Draugr Necromancer	4.0	Snow Creature  Zombie Cleric	B
+KHM	87	Draugr Recruiter	4.0	Creature  Zombie Cleric	B
+KHM	88	Draugr's Helm	2.0	Artifact  Equipment	B
+KHM	89	Dread Rider	6.0	Creature  Spirit Knight	B
+KHM	90	Dream Devourer	2.0	Creature  Demon Cleric	B
+KHM	132	Dual Strike	2.0	Instant	R
+KHM	91	Duskwielder	1.0	Creature  Elf Berserker	B
+KHM	133	Dwarven Hammer	3.0	Artifact  Equipment	R
+KHM	134	Dwarven Reinforcements	4.0	Sorcery	R
+KHM	92	Egon, God of Death // Throne of Death	3.0	Legendary Creature  God	B
+KHM	93	Elderfang Disciple	2.0	Creature  Elf Cleric	B
+KHM	385	Elderfang Ritualist	3.0	Creature  Elf Cleric	B
+KHM	94	Eradicator Valkyrie	4.0	Creature  Angel Berserker	B
+KHM	255	Faceless Haven	0.0	Snow Land	
+KHM	135	Fearless Liberator	2.0	Creature  Dwarf Berserker	R
+KHM	136	Fearless Pup	1.0	Creature  Wolf	R
+KHM	95	Feed the Serpent	4.0	Instant	B
+KHM	389	Fire Giant's Fury	2.0	Sorcery	R
+KHM	137	Frenzied Raider	2.0	Creature  Demon Berserker	R
+KHM	138	Frost Bite	1.0	Snow Instant	R
+KHM	238	Funeral Longboat	2.0	Artifact  Vehicle	
+KHM	390	Gilded Assault Cart	3.0	Artifact  Vehicle	R
+KHM	139	Goldspan Dragon	5.0	Creature  Dragon	R
+KHM	239	Goldvein Pick	2.0	Artifact  Equipment	
+KHM	96	Grim Draugr	3.0	Snow Creature  Zombie Berserker	B
+KHM	140	Hagi Mob	5.0	Creature  Troll Berserker	R
+KHM	97	Hailstorm Valkyrie	4.0	Snow Creature  Angel Wizard	B
+KHM	98	Haunting Voyage	6.0	Sorcery	B
+KHM	214	Immersturm Predator	4.0	Creature  Vampire Dragon	B,R
+KHM	141	Immersturm Raider	2.0	Creature  Demon Berserker	R
+KHM	263	Immersturm Skullcairn	0.0	Land	B,R
+KHM	99	Infernal Pet	3.0	Creature  Imp	B
+KHM	100	Jarl of the Forsaken	4.0	Creature  Zombie Cleric	B
+KHM	217	Kardur's Vicious Return	4.0	Enchantment  Saga	B,R
+KHM	216	Kardur, Doomscourge	4.0	Legendary Creature  Demon Berserker	B,R
+KHM	101	Karfell Kennel-Master	5.0	Creature  Zombie Berserker	B
+KHM	102	Koma's Faithful	3.0	Creature  Elf Cleric	B
+KHM	142	Magda, Brazen Outlaw	2.0	Legendary Creature  Dwarf Berserker	R
+KHM	240	Maskwood Nexus	4.0	Artifact	
+KHM	397	Mountain	0.0	Basic Land  Mountain	R
+KHM	143	Open the Omenpaths	3.0	Instant	R
+KHM	103	Poison the Cup	3.0	Instant	B
+KHM	104	Priest of the Haunted Edge	2.0	Snow Creature  Zombie Cleric	B
+KHM	144	Provoke the Trolls	4.0	Instant	R
+KHM	241	Pyre of Heroes	2.0	Artifact	
+KHM	145	Quakebringer	5.0	Creature  Giant Berserker	R
+KHM	242	Raiders' Karve	3.0	Artifact  Vehicle	
+KHM	105	Raise the Draugr	2.0	Instant	B
+KHM	243	Raven Wings	2.0	Artifact  Equipment	
+KHM	146	Reckless Crew	4.0	Sorcery	R
+KHM	386	Renegade Reaper	3.0	Creature  Angel Berserker	B
+KHM	244	Replicating Ring	3.0	Snow Artifact	
+KHM	106	Return Upon the Tide	5.0	Sorcery	B
+KHM	107	Rise of the Dread Marn	3.0	Instant	B
+KHM	147	Run Amok	2.0	Instant	R
+KHM	108	Rune of Mortality	2.0	Enchantment  Aura Rune	B
+KHM	148	Rune of Speed	2.0	Enchantment  Aura Rune	R
+KHM	245	Runed Crown	3.0	Artifact  Equipment	
+KHM	246	Scorn Effigy	3.0	Artifact Creature  Scarecrow	
+KHM	149	Seize the Spoils	3.0	Sorcery	R
+KHM	150	Shackles of Treachery	3.0	Sorcery	R
+KHM	267	Shimmerdrift Vale	0.0	Snow Land	
+KHM	109	Skemfar Avenger	2.0	Creature  Elf Berserker	B
+KHM	110	Skemfar Shadowsage	4.0	Creature  Elf Cleric	B
+KHM	111	Skull Raid	4.0	Sorcery	B
+KHM	151	Smashing Success	4.0	Instant	R
+KHM	282	Snow-Covered Mountain	0.0	Basic Snow Land  Mountain	R
+KHM	280	Snow-Covered Swamp	0.0	Basic Snow Land  Swamp	B
+KHM	152	Squash	5.0	Instant	R
+KHM	270	Sulfurous Mire	0.0	Snow Land  Swamp Mountain	B,R
+KHM	377	Surtland Flinger	5.0	Creature  Giant Berserker	R
+KHM	396	Swamp	0.0	Basic Land  Swamp	B
+KHM	113	Tergrid's Shadow	5.0	Instant	B
+KHM	112	Tergrid, God of Fright // Tergrid's Lantern	5.0	Legendary Creature  God	B
+KHM	207	The Bloodsky Massacre	3.0	Enchantment  Saga	B,R
+KHM	387	Thornmantle Striker	5.0	Creature  Elf Rogue	B
+KHM	153	Tibalt's Trickery	2.0	Instant	R
+KHM	154	Toralf, God of Fury // Toralf's Hammer	4.0	Legendary Creature  God	R
+KHM	155	Tormentor's Helm	1.0	Artifact  Equipment	R
+KHM	156	Tundra Fumarole	3.0	Snow Sorcery	R
+KHM	157	Tuskeri Firewalker	3.0	Creature  Human Berserker	R
+KHM	272	Tyrite Sanctum	0.0	Land	
+KHM	114	Valki, God of Lies // Tibalt, Cosmic Impostor	2.0	Legendary Creature  God	B,R
+KHM	115	Varragoth, Bloodsky Sire	3.0	Legendary Creature  Demon Rogue	B
+KHM	158	Vault Robber	2.0	Creature  Dwarf Rogue	R
+KHM	116	Vengeful Reaper	4.0	Creature  Angel Cleric	B
+KHM	117	Village Rites	1.0	Instant	B
+KHM	247	Weathered Runestone	2.0	Artifact	
+KHM	118	Weigh Down	1.0	Sorcery	B
+KHM	119	Withercrown	2.0	Enchantment  Aura	B

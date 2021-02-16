@@ -1,0 +1,127 @@
+M19	85	Abnormal Endurance	2.0	Instant	B
+M19	127	Act of Treason	3.0	Sorcery	R
+M19	128	Alpine Moon	1.0	Enchantment	R
+M19	226	Amulet of Safekeeping	2.0	Artifact	
+M19	129	Apex of Power	10.0	Sorcery	R
+M19	227	Arcane Encyclopedia	3.0	Artifact	
+M19	292	Arisen Gorgon	3.0	Creature  Zombie Gorgon	B
+M19	130	Banefire	1.0	Sorcery	R
+M19	86	Blood Divination	4.0	Sorcery	B
+M19	131	Boggart Brute	3.0	Creature  Goblin Warrior	R
+M19	87	Bogstomper	6.0	Creature  Beast	B
+M19	88	Bone Dragon	5.0	Creature  Dragon Skeleton	B
+M19	213	Brawl-Bash Ogre	4.0	Creature  Ogre Warrior	B,R
+M19	132	Catalyst Elemental	3.0	Creature  Elemental	R
+M19	228	Chaos Wand	3.0	Artifact	
+M19	89	Child of Night	2.0	Creature  Vampire	B
+M19	248	Cinder Barrens	0.0	Land	B,R
+M19	133	Crash Through	1.0	Sorcery	R
+M19	229	Crucible of Worlds	3.0	Artifact	
+M19	134	Dark-Dweller Oracle	2.0	Creature  Goblin Shaman	R
+M19	90	Death Baron	3.0	Creature  Zombie Wizard	B
+M19	135	Demanding Dragon	5.0	Creature  Dragon	R
+M19	91	Demon of Catastrophes	4.0	Creature  Demon	B
+M19	230	Desecrated Tomb	3.0	Artifact	
+M19	249	Detection Tower	0.0	Land	
+M19	231	Diamond Mare	2.0	Artifact Creature  Horse	
+M19	92	Diregraf Ghoul	1.0	Creature  Zombie	B
+M19	136	Dismissive Pyromancer	2.0	Creature  Human Wizard	R
+M19	93	Doomed Dissenter	2.0	Creature  Human	B
+M19	137	Doublecast	2.0	Sorcery	R
+M19	138	Dragon Egg	3.0	Creature  Dragon Egg	R
+M19	232	Dragon's Hoard	3.0	Artifact	
+M19	94	Duress	1.0	Sorcery	B
+M19	139	Electrify	4.0	Instant	R
+M19	95	Epicure of Blood	5.0	Creature  Vampire	B
+M19	233	Explosive Apparatus	1.0	Artifact	
+M19	96	Fell Specter	4.0	Creature  Specter	B
+M19	234	Field Creeper	2.0	Artifact Creature  Scarecrow	
+M19	140	Fiery Finish	6.0	Sorcery	R
+M19	141	Fire Elemental	5.0	Creature  Elemental	R
+M19	235	Fountain of Renewal	1.0	Artifact	
+M19	97	Fraying Omnipotence	5.0	Sorcery	B
+M19	236	Gargoyle Sentinel	3.0	Artifact Creature  Gargoyle	
+M19	237	Gearsmith Guardian	5.0	Artifact Creature  Construct	
+M19	142	Goblin Instigator	2.0	Creature  Goblin Rogue	R
+M19	143	Goblin Motivator	1.0	Creature  Goblin Warrior	R
+M19	144	Goblin Trashmaster	4.0	Creature  Goblin Warrior	R
+M19	312	Grasping Scoundrel	1.0	Creature  Human Pirate	B
+M19	98	Gravedigger	4.0	Creature  Zombie	B
+M19	293	Gravewaker	6.0	Creature  Bird Spirit	B
+M19	99	Graveyard Marshal	2.0	Creature  Zombie Soldier	B
+M19	145	Guttersnipe	3.0	Creature  Goblin Shaman	R
+M19	146	Havoc Devils	4.0	Creature  Devil	R
+M19	100	Hired Blade	3.0	Creature  Human Assassin	B
+M19	147	Hostile Minotaur	4.0	Creature  Minotaur	R
+M19	101	Infectious Horror	4.0	Creature  Zombie Horror	B
+M19	102	Infernal Reckoning	1.0	Instant	B
+M19	103	Infernal Scarring	2.0	Enchantment  Aura	B
+M19	148	Inferno Hellion	4.0	Creature  Hellion	R
+M19	104	Isareth the Awakener	3.0	Legendary Creature  Human Wizard	B
+M19	297	Kargan Dragonrider	2.0	Creature  Human Warrior	R
+M19	149	Lathliss, Dragon Queen	6.0	Legendary Creature  Dragon	R
+M19	150	Lava Axe	5.0	Sorcery	R
+M19	105	Lich's Caress	5.0	Sorcery	B
+M19	151	Lightning Mare	2.0	Creature  Elemental Horse	R
+M19	152	Lightning Strike	2.0	Instant	R
+M19	107	Liliana's Contract	5.0	Enchantment	B
+M19	294	Liliana's Spoils	4.0	Sorcery	B
+M19	106	Liliana, Untouched by Death	4.0	Legendary Planeswalker  Liliana	B
+M19	291	Liliana, the Necromancer	5.0	Legendary Planeswalker  Liliana	B
+M19	108	Macabre Waltz	2.0	Sorcery	B
+M19	238	Magistrate's Scepter	3.0	Artifact	
+M19	239	Manalith	3.0	Artifact	
+M19	240	Marauder's Axe	2.0	Artifact  Equipment	
+M19	241	Meteor Golem	7.0	Artifact Creature  Golem	
+M19	242	Millstone	2.0	Artifact	
+M19	109	Mind Rot	3.0	Sorcery	B
+M19	273	Mountain	0.0	Basic Land  Mountain	R
+M19	110	Murder	3.0	Instant	B
+M19	111	Nightmare's Thirst	1.0	Instant	B
+M19	153	Onakke Ogre	3.0	Creature  Ogre Warrior	R
+M19	112	Open the Graves	5.0	Enchantment	B
+M19	288	Pendulum of Patterns	2.0	Artifact	
+M19	113	Phylactery Lich	3.0	Creature  Zombie	B
+M19	114	Plague Mare	3.0	Creature  Nightmare Horse	B
+M19	313	Radiating Lightning	4.0	Instant	R
+M19	115	Ravenous Harpy	3.0	Creature  Harpy	B
+M19	116	Reassembling Skeleton	2.0	Creature  Skeleton Warrior	B
+M19	254	Reliquary Tower	0.0	Land	
+M19	117	Rise from the Grave	5.0	Sorcery	B
+M19	243	Rogue's Gloves	2.0	Artifact  Equipment	
+M19	255	Rupture Spire	0.0	Land	
+M19	298	Sarkhan's Dragonfire	5.0	Sorcery	R
+M19	155	Sarkhan's Unsealing	4.0	Enchantment	R
+M19	299	Sarkhan's Whelp	3.0	Creature  Dragon	R
+M19	296	Sarkhan, Dragonsoul	6.0	Legendary Planeswalker  Sarkhan	R
+M19	154	Sarkhan, Fireblood	3.0	Legendary Planeswalker  Sarkhan	R
+M19	300	Shivan Dragon	6.0	Creature  Dragon	R
+M19	156	Shock	1.0	Instant	R
+M19	157	Siegebreaker Giant	5.0	Creature  Giant Warrior	R
+M19	244	Sigiled Sword of Valeron	3.0	Artifact  Equipment	
+M19	118	Skeleton Archer	4.0	Creature  Skeleton Archer	B
+M19	119	Skymarch Bloodletter	3.0	Creature  Vampire Soldier	B
+M19	245	Skyscanner	3.0	Artifact Creature  Thopter	
+M19	158	Smelt	1.0	Instant	R
+M19	120	Sovereign's Bite	2.0	Sorcery	B
+M19	159	Sparktongue Dragon	5.0	Creature  Dragon	R
+M19	160	Spit Flame	3.0	Instant	R
+M19	121	Stitcher's Supplier	1.0	Creature  Zombie	B
+M19	122	Strangling Spores	4.0	Instant	B
+M19	161	Sure Strike	2.0	Instant	R
+M19	246	Suspicious Bookcase	2.0	Artifact Creature  Wall	
+M19	269	Swamp	0.0	Basic Land  Swamp	B
+M19	295	Tattered Mummy	2.0	Creature  Zombie Jackal	B
+M19	162	Tectonic Rift	4.0	Sorcery	R
+M19	290	Tezzeret's Strider	3.0	Artifact Creature  Golem	
+M19	163	Thud	1.0	Sorcery	R
+M19	164	Tormenting Voice	2.0	Sorcery	R
+M19	247	Transmogrifying Wand	3.0	Artifact	
+M19	165	Trumpet Blast	3.0	Instant	R
+M19	123	Two-Headed Zombie	4.0	Creature  Zombie	B
+M19	124	Vampire Neonate	1.0	Creature  Vampire	B
+M19	125	Vampire Sovereign	5.0	Creature  Vampire Noble	B
+M19	166	Viashino Pyromancer	2.0	Creature  Viashino Wizard	R
+M19	167	Volcanic Dragon	6.0	Creature  Dragon	R
+M19	168	Volley Veteran	4.0	Creature  Goblin Warrior	R
+M19	126	Walking Corpse	2.0	Creature  Zombie	B

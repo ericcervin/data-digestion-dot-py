@@ -1,96 +1,96 @@
-WAR	113	Ahn-Crop Invader	3.0	R
-WAR	76	Aid the Fallen	2.0	B
-WAR	185	Angrath's Rampage	2.0	B,R
-WAR	227	Angrath, Captain of Chaos	4.0	B,R
-WAR	77	Banehound	1.0	B
-WAR	244	Blast Zone	0.0	
-WAR	78	Bleeding Edge	3.0	B
-WAR	114	Blindblast	3.0	R
-WAR	79	Bolas's Citadel	6.0	B
-WAR	115	Bolt Bend	4.0	R
-WAR	116	Bond of Passion	6.0	R
-WAR	80	Bond of Revival	5.0	B
-WAR	117	Burning Prophet	2.0	R
-WAR	118	Chainwhip Cyclops	5.0	R
-WAR	120	Chandra's Pyrohelix	2.0	R
-WAR	121	Chandra's Triumph	2.0	R
-WAR	119	Chandra, Fire Artisan	4.0	R
-WAR	81	Charity Extractor	4.0	B
-WAR	82	Command the Dreadhorde	6.0	B
-WAR	122	Cyclops Electromancer	5.0	R
-WAR	84	Davriel's Shadowfugue	4.0	B
-WAR	83	Davriel, Rogue Shadowmage	3.0	B
-WAR	85	Deliver Unto Evil	3.0	B
-WAR	123	Demolish	4.0	R
-WAR	124	Devouring Hellion	3.0	R
-WAR	125	Dreadhorde Arcanist	2.0	R
-WAR	194	Dreadhorde Butcher	2.0	B,R
-WAR	86	Dreadhorde Invasion	2.0	B
-WAR	126	Dreadhorde Twins	4.0	R
-WAR	87	Dreadmalkin	1.0	B
-WAR	88	Duskmantle Operative	2.0	B
-WAR	245	Emergence Zone	0.0	
-WAR	90	Eternal Taskmaster	2.0	B
-WAR	91	Finale of Eternity	2.0	B
-WAR	127	Finale of Promise	2.0	R
-WAR	237	Firemind Vessel	4.0	
-WAR	246	Gateway Plaza	0.0	
-WAR	128	Goblin Assailant	2.0	R
-WAR	129	Goblin Assault Team	4.0	R
-WAR	92	God-Eternal Bontu	5.0	B
-WAR	238	God-Pharaoh's Statue	6.0	
-WAR	130	Grim Initiate	1.0	R
-WAR	239	Guild Globe	2.0	
-WAR	131	Heartfire	2.0	R
-WAR	93	Herald of the Dreadhorde	4.0	B
-WAR	132	Honor the God-Pharaoh	3.0	R
-WAR	133	Ilharg, the Raze-Boar	5.0	R
-WAR	247	Interplanar Beacon	0.0	
-WAR	134	Invading Manticore	6.0	R
-WAR	240	Iron Bully	3.0	
-WAR	136	Jaya's Greeting	2.0	R
-WAR	135	Jaya, Venerated Firemage	5.0	R
-WAR	248	Karn's Bastion	0.0	
-WAR	1	Karn, the Great Creator	4.0	
-WAR	94	Kaya's Ghostform	1.0	B
-WAR	137	Krenko, Tin Street Kingpin	3.0	R
-WAR	95	Lazotep Behemoth	5.0	B
-WAR	96	Lazotep Reaver	2.0	B
-WAR	98	Liliana's Triumph	2.0	B
-WAR	97	Liliana, Dreadhorde General	6.0	B
-WAR	241	Mana Geode	3.0	
-WAR	99	Massacre Girl	5.0	B
-WAR	204	Mayhem Devil	3.0	B,R
-WAR	138	Mizzium Tank	3.0	R
-WAR	249	Mobilized District	0.0	
-WAR	259	Mountain	0.0	R
-WAR	139	Nahiri's Stoneblades	2.0	R
-WAR	140	Neheb, Dreadhorde Champion	4.0	R
-WAR	101	Ob Nixilis's Cruelty	3.0	B
-WAR	100	Ob Nixilis, the Hate-Twisted	5.0	B
-WAR	102	Price of Betrayal	1.0	B
-WAR	242	Prismite	2.0	
-WAR	141	Raging Kronch	3.0	R
-WAR	243	Saheeli's Silverwing	4.0	
-WAR	142	Samut's Sprint	1.0	R
-WAR	143	Sarkhan the Masterless	5.0	R
-WAR	144	Sarkhan's Catharsis	5.0	R
-WAR	103	Shriekdiver	3.0	B
-WAR	104	Sorin's Thirst	2.0	B
-WAR	105	Spark Harvest	1.0	B
-WAR	106	Spark Reaper	3.0	B
-WAR	145	Spellgorger Weird	3.0	R
-WAR	256	Swamp	0.0	B
-WAR	89	The Elderspell	2.0	B
-WAR	147	Tibalt's Rager	2.0	R
-WAR	146★	Tibalt, Rakish Instigator	3.0	R
-WAR	107	Tithebearer Giant	6.0	B
-WAR	108	Toll of the Invasion	3.0	B
-WAR	148	Turret Ogre	4.0	R
-WAR	3	Ugin's Conjurant	0.0	
-WAR	2	Ugin, the Ineffable	6.0	
-WAR	109	Unlikely Aid	2.0	B
-WAR	110	Vampire Opportunist	2.0	B
-WAR	111	Vizier of the Scorpion	3.0	B
-WAR	112	Vraska's Finisher	3.0	B
-WAR	226	Widespread Brutality	4.0	B,R
+WAR	113	Ahn-Crop Invader	3.0	Creature  Zombie Minotaur Warrior	R
+WAR	76	Aid the Fallen	2.0	Sorcery	B
+WAR	185	Angrath's Rampage	2.0	Sorcery	B,R
+WAR	227	Angrath, Captain of Chaos	4.0	Legendary Planeswalker  Angrath	B,R
+WAR	77	Banehound	1.0	Creature  Nightmare Dog	B
+WAR	244	Blast Zone	0.0	Land	
+WAR	78	Bleeding Edge	3.0	Sorcery	B
+WAR	114	Blindblast	3.0	Instant	R
+WAR	79	Bolas's Citadel	6.0	Legendary Artifact	B
+WAR	115	Bolt Bend	4.0	Instant	R
+WAR	116	Bond of Passion	6.0	Sorcery	R
+WAR	80	Bond of Revival	5.0	Sorcery	B
+WAR	117	Burning Prophet	2.0	Creature  Human Wizard	R
+WAR	118	Chainwhip Cyclops	5.0	Creature  Cyclops Warrior	R
+WAR	120	Chandra's Pyrohelix	2.0	Instant	R
+WAR	121	Chandra's Triumph	2.0	Instant	R
+WAR	119	Chandra, Fire Artisan	4.0	Legendary Planeswalker  Chandra	R
+WAR	81	Charity Extractor	4.0	Creature  Human Knight	B
+WAR	82	Command the Dreadhorde	6.0	Sorcery	B
+WAR	122	Cyclops Electromancer	5.0	Creature  Cyclops Wizard	R
+WAR	84	Davriel's Shadowfugue	4.0	Sorcery	B
+WAR	83	Davriel, Rogue Shadowmage	3.0	Legendary Planeswalker  Davriel	B
+WAR	85	Deliver Unto Evil	3.0	Sorcery	B
+WAR	123	Demolish	4.0	Sorcery	R
+WAR	124	Devouring Hellion	3.0	Creature  Hellion	R
+WAR	125	Dreadhorde Arcanist	2.0	Creature  Zombie Wizard	R
+WAR	194	Dreadhorde Butcher	2.0	Creature  Zombie Warrior	B,R
+WAR	86	Dreadhorde Invasion	2.0	Enchantment	B
+WAR	126	Dreadhorde Twins	4.0	Creature  Zombie Jackal Warrior	R
+WAR	87	Dreadmalkin	1.0	Creature  Zombie Cat	B
+WAR	88	Duskmantle Operative	2.0	Creature  Human Rogue	B
+WAR	245	Emergence Zone	0.0	Land	
+WAR	90	Eternal Taskmaster	2.0	Creature  Zombie	B
+WAR	91	Finale of Eternity	2.0	Sorcery	B
+WAR	127	Finale of Promise	2.0	Sorcery	R
+WAR	237	Firemind Vessel	4.0	Artifact	
+WAR	246	Gateway Plaza	0.0	Land  Gate	
+WAR	128	Goblin Assailant	2.0	Creature  Goblin Warrior	R
+WAR	129	Goblin Assault Team	4.0	Creature  Goblin Warrior	R
+WAR	92	God-Eternal Bontu	5.0	Legendary Creature  Zombie God	B
+WAR	238	God-Pharaoh's Statue	6.0	Legendary Artifact	
+WAR	130	Grim Initiate	1.0	Creature  Zombie Warrior	R
+WAR	239	Guild Globe	2.0	Artifact	
+WAR	131	Heartfire	2.0	Instant	R
+WAR	93	Herald of the Dreadhorde	4.0	Creature  Zombie Warrior	B
+WAR	132	Honor the God-Pharaoh	3.0	Sorcery	R
+WAR	133	Ilharg, the Raze-Boar	5.0	Legendary Creature  Boar God	R
+WAR	247	Interplanar Beacon	0.0	Land	
+WAR	134	Invading Manticore	6.0	Creature  Zombie Manticore	R
+WAR	240	Iron Bully	3.0	Artifact Creature  Golem	
+WAR	136	Jaya's Greeting	2.0	Instant	R
+WAR	135	Jaya, Venerated Firemage	5.0	Legendary Planeswalker  Jaya	R
+WAR	248	Karn's Bastion	0.0	Land	
+WAR	1	Karn, the Great Creator	4.0	Legendary Planeswalker  Karn	
+WAR	94	Kaya's Ghostform	1.0	Enchantment  Aura	B
+WAR	137	Krenko, Tin Street Kingpin	3.0	Legendary Creature  Goblin	R
+WAR	95	Lazotep Behemoth	5.0	Creature  Zombie Hippo	B
+WAR	96	Lazotep Reaver	2.0	Creature  Zombie Beast	B
+WAR	98	Liliana's Triumph	2.0	Instant	B
+WAR	97	Liliana, Dreadhorde General	6.0	Legendary Planeswalker  Liliana	B
+WAR	241	Mana Geode	3.0	Artifact	
+WAR	99	Massacre Girl	5.0	Legendary Creature  Human Assassin	B
+WAR	204	Mayhem Devil	3.0	Creature  Devil	B,R
+WAR	138	Mizzium Tank	3.0	Artifact  Vehicle	R
+WAR	249	Mobilized District	0.0	Land	
+WAR	259	Mountain	0.0	Basic Land  Mountain	R
+WAR	139	Nahiri's Stoneblades	2.0	Instant	R
+WAR	140	Neheb, Dreadhorde Champion	4.0	Legendary Creature  Zombie Minotaur Warrior	R
+WAR	101	Ob Nixilis's Cruelty	3.0	Instant	B
+WAR	100	Ob Nixilis, the Hate-Twisted	5.0	Legendary Planeswalker  Nixilis	B
+WAR	102	Price of Betrayal	1.0	Sorcery	B
+WAR	242	Prismite	2.0	Artifact Creature  Golem	
+WAR	141	Raging Kronch	3.0	Creature  Beast	R
+WAR	243	Saheeli's Silverwing	4.0	Artifact Creature  Drake	
+WAR	142	Samut's Sprint	1.0	Instant	R
+WAR	143	Sarkhan the Masterless	5.0	Legendary Planeswalker  Sarkhan	R
+WAR	144	Sarkhan's Catharsis	5.0	Instant	R
+WAR	103	Shriekdiver	3.0	Creature  Zombie Bird Warrior	B
+WAR	104	Sorin's Thirst	2.0	Instant	B
+WAR	105	Spark Harvest	1.0	Sorcery	B
+WAR	106	Spark Reaper	3.0	Creature  Zombie	B
+WAR	145	Spellgorger Weird	3.0	Creature  Weird	R
+WAR	256	Swamp	0.0	Basic Land  Swamp	B
+WAR	89	The Elderspell	2.0	Sorcery	B
+WAR	147	Tibalt's Rager	2.0	Creature  Devil	R
+WAR	146★	Tibalt, Rakish Instigator	3.0	Legendary Planeswalker  Tibalt	R
+WAR	107	Tithebearer Giant	6.0	Creature  Giant Warrior	B
+WAR	108	Toll of the Invasion	3.0	Sorcery	B
+WAR	148	Turret Ogre	4.0	Creature  Ogre Warrior	R
+WAR	3	Ugin's Conjurant	0.0	Creature  Spirit Monk	
+WAR	2	Ugin, the Ineffable	6.0	Legendary Planeswalker  Ugin	
+WAR	109	Unlikely Aid	2.0	Instant	B
+WAR	110	Vampire Opportunist	2.0	Creature  Vampire	B
+WAR	111	Vizier of the Scorpion	3.0	Creature  Zombie Wizard	B
+WAR	112	Vraska's Finisher	3.0	Creature  Gorgon Assassin	B
+WAR	226	Widespread Brutality	4.0	Sorcery	B,R

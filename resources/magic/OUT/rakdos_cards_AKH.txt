@@ -1,0 +1,111 @@
+AKH	117	Ahn-Crop Crasher	3.0	Creature  Minotaur Warrior	R
+AKH	78	Archfiend of Ifnir	5.0	Creature  Demon	B
+AKH	79	Baleful Ammit	3.0	Creature  Crocodile Demon	B
+AKH	118	Battlefield Scavenger	2.0	Creature  Jackal Rogue	R
+AKH	119	Blazing Volley	1.0	Sorcery	R
+AKH	80	Blighted Bat	3.0	Creature  Zombie Bat	B
+AKH	120	Bloodlust Inciter	1.0	Creature  Human Warrior	R
+AKH	121	Bloodrage Brawler	2.0	Creature  Minotaur Warrior	R
+AKH	81	Bone Picker	4.0	Creature  Bird	B
+AKH	82	Bontu the Glorified	3.0	Legendary Creature  God	B
+AKH	225	Bontu's Monument	3.0	Legendary Artifact	
+AKH	122	Brute Strength	2.0	Instant	R
+AKH	123	By Force	1.0	Sorcery	R
+AKH	239	Canyon Slough	0.0	Land  Swamp Mountain	B,R
+AKH	83	Cartouche of Ambition	3.0	Enchantment  Aura Cartouche	B
+AKH	124	Cartouche of Zeal	1.0	Enchantment  Aura Cartouche	R
+AKH	240	Cascading Cataracts	0.0	Land	
+AKH	280	Cinder Barrens	0.0	Land	B,R
+AKH	125	Combat Celebrant	3.0	Creature  Human Warrior	R
+AKH	126	Consuming Fervor	1.0	Enchantment  Aura	R
+AKH	241	Cradle of the Accursed	0.0	Land  Desert	
+AKH	84	Cruel Reality	7.0	Enchantment  Aura Curse	B
+AKH	85	Cursed Minotaur	3.0	Creature  Zombie Minotaur	B
+AKH	223	Cut // Ribbons	4.0	Sorcery	B,R
+AKH	127	Deem Worthy	5.0	Instant	R
+AKH	128	Desert Cerodon	6.0	Creature  Beast	R
+AKH	276	Desiccated Naga	3.0	Creature  Zombie Naga	B
+AKH	86	Dispossess	3.0	Sorcery	B
+AKH	87	Doomed Dissenter	2.0	Creature  Human	B
+AKH	88	Dread Wanderer	1.0	Creature  Zombie Jackal	B
+AKH	89	Dune Beetle	2.0	Creature  Insect	B
+AKH	226	Edifice of Authority	3.0	Artifact	
+AKH	129	Electrify	4.0	Instant	R
+AKH	227	Embalmer's Tools	2.0	Artifact	
+AKH	130	Emberhorn Minotaur	4.0	Creature  Minotaur Warrior	R
+AKH	242	Evolving Wilds	0.0	Land	
+AKH	90	Faith of the Devoted	3.0	Enchantment	B
+AKH	91	Festering Mummy	1.0	Creature  Zombie	B
+AKH	92	Final Reward	5.0	Instant	B
+AKH	131	Flameblade Adept	1.0	Creature  Jackal Warrior	R
+AKH	132	Fling	2.0	Instant	R
+AKH	228	Gate to the Afterlife	3.0	Artifact	
+AKH	133	Glorious End	3.0	Instant	R
+AKH	134	Glorybringer	5.0	Creature  Dragon	R
+AKH	244	Grasping Dunes	0.0	Land  Desert	
+AKH	93	Gravedigger	4.0	Creature  Zombie	B
+AKH	94	Grim Strider	4.0	Creature  Horror	B
+AKH	135	Harsh Mentor	2.0	Creature  Human Cleric	R
+AKH	136	Hazoret the Fervent	4.0	Legendary Creature  God	R
+AKH	137	Hazoret's Favor	3.0	Enchantment	R
+AKH	229	Hazoret's Monument	3.0	Legendary Artifact	
+AKH	138	Heart-Piercer Manticore	4.0	Creature  Manticore	R
+AKH	230	Honed Khopesh	1.0	Artifact  Equipment	
+AKH	95	Horror of the Broken Lands	5.0	Creature  Horror	B
+AKH	139	Hyena Pack	4.0	Creature  Hyena	R
+AKH	213	Insult // Injury	6.0	Sorcery	R
+AKH	231	Kefnet's Monument	3.0	Legendary Artifact	
+AKH	96	Lay Bare the Heart	2.0	Sorcery	B
+AKH	277	Liliana's Influence	6.0	Sorcery	B
+AKH	98	Liliana's Mastery	5.0	Enchantment	B
+AKH	275	Liliana, Death Wielder	7.0	Legendary Planeswalker  Liliana	B
+AKH	97	Liliana, Death's Majesty	5.0	Legendary Planeswalker  Liliana	B
+AKH	140	Limits of Solidarity	4.0	Sorcery	R
+AKH	99	Lord of the Accursed	3.0	Creature  Zombie	B
+AKH	232	Luxa River Shrine	3.0	Artifact	
+AKH	141	Magma Spray	1.0	Instant	R
+AKH	142	Manticore of the Gauntlet	5.0	Creature  Manticore	R
+AKH	202	Merciless Javelineer	4.0	Creature  Minotaur Warrior	B,R
+AKH	100	Miasmic Mummy	2.0	Creature  Zombie Jackal	B
+AKH	143	Minotaur Sureshot	3.0	Creature  Minotaur Archer	R
+AKH	253	Mountain	0.0	Basic Land  Mountain	R
+AKH	144	Nef-Crop Entangler	2.0	Creature  Human Warrior	R
+AKH	203	Neheb, the Worthy	3.0	Legendary Creature  Minotaur Warrior	B,R
+AKH	101	Nest of Scarabs	3.0	Enchantment	B
+AKH	212	Never // Return	7.0	Sorcery	B
+AKH	145	Nimble-Blade Khenra	2.0	Creature  Jackal Warrior	R
+AKH	233	Oketra's Monument	3.0	Legendary Artifact	
+AKH	234	Oracle's Vault	4.0	Artifact	
+AKH	102	Painful Lesson	3.0	Sorcery	B
+AKH	246	Painted Bluffs	0.0	Land  Desert	
+AKH	146	Pathmaker Initiate	2.0	Creature  Human Wizard	R
+AKH	103	Pitiless Vizier	4.0	Creature  Minotaur Cleric	B
+AKH	104	Plague Belcher	3.0	Creature  Zombie Beast	B
+AKH	147	Pursue Glory	4.0	Instant	R
+AKH	235	Pyramid of the Pantheon	1.0	Artifact	
+AKH	236	Rhonas's Monument	3.0	Legendary Artifact	
+AKH	105	Ruthless Sniper	1.0	Creature  Human Archer	B
+AKH	106	Scarab Feast	1.0	Instant	B
+AKH	107	Shadow of the Grave	2.0	Instant	B
+AKH	148	Soul-Scar Mage	1.0	Creature  Human Wizard	R
+AKH	108	Soulstinger	4.0	Creature  Scorpion Demon	B
+AKH	109	Splendid Agony	3.0	Instant	B
+AKH	110	Stir the Sands	6.0	Sorcery	B
+AKH	249	Sunscorched Desert	0.0	Land  Desert	
+AKH	111	Supernatural Stamina	1.0	Instant	B
+AKH	252	Swamp	0.0	Basic Land  Swamp	B
+AKH	149	Sweltering Suns	3.0	Sorcery	R
+AKH	278	Tattered Mummy	2.0	Creature  Zombie Jackal	B
+AKH	150	Thresher Lizard	3.0	Creature  Lizard	R
+AKH	237	Throne of the God-Pharaoh	2.0	Legendary Artifact	
+AKH	151	Tormenting Voice	2.0	Sorcery	R
+AKH	112	Trespasser's Curse	2.0	Enchantment  Aura Curse	B
+AKH	113	Trial of Ambition	2.0	Enchantment	B
+AKH	152	Trial of Zeal	3.0	Enchantment	R
+AKH	153	Trueheart Twins	5.0	Creature  Jackal Warrior	R
+AKH	114	Unburden	3.0	Sorcery	B
+AKH	154	Violent Impact	4.0	Sorcery	R
+AKH	115	Wander in Death	3.0	Sorcery	B
+AKH	155	Warfire Javelineer	4.0	Creature  Minotaur Warrior	R
+AKH	116	Wasteland Scorpion	3.0	Creature  Scorpion	B
+AKH	238	Watchers of the Dead	2.0	Artifact Creature  Cat	

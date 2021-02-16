@@ -1,0 +1,299 @@
+M19	85	Abnormal Endurance	2.0	Instant	B
+M19	127	Act of Treason	3.0	Sorcery	R
+M19	1	Aegis of the Heavens	2.0	Instant	W
+M19	211	Aerial Engineer	4.0	Creature  Human Artificer	U,W
+M19	43	Aether Tunnel	2.0	Enchantment  Aura	U
+M19	2	Aethershield Artificer	4.0	Creature  Dwarf Artificer	W
+M19	302	Aggressive Mammoth	6.0	Creature  Elephant	G
+M19	308	Air Elemental	5.0	Creature  Elemental	U
+M19	282	Ajani's Influence	4.0	Sorcery	W
+M19	4	Ajani's Last Stand	4.0	Enchantment	W
+M19	5	Ajani's Pridemate	2.0	Creature  Cat Soldier	W
+M19	6	Ajani's Welcome	1.0	Enchantment	W
+M19	3	Ajani, Adversary of Tyrants	4.0	Legendary Planeswalker  Ajani	W
+M19	281	Ajani, Wise Counselor	5.0	Legendary Planeswalker  Ajani	W
+M19	128	Alpine Moon	1.0	Enchantment	R
+M19	226	Amulet of Safekeeping	2.0	Artifact	
+M19	7	Angel of the Dawn	5.0	Creature  Angel	W
+M19	44	Anticipate	2.0	Instant	U
+M19	129	Apex of Power	10.0	Sorcery	R
+M19	212	Arcades, the Strategist	4.0	Legendary Creature  Elder Dragon	G,U,W
+M19	227	Arcane Encyclopedia	3.0	Artifact	
+M19	292	Arisen Gorgon	3.0	Creature  Zombie Gorgon	B
+M19	45	Aven Wind Mage	3.0	Creature  Bird Wizard	U
+M19	46	Aviation Pioneer	3.0	Creature  Human Artificer	U
+M19	130	Banefire	1.0	Sorcery	R
+M19	309	Befuddle	3.0	Instant	U
+M19	169	Blanchwood Armor	3.0	Enchantment  Aura	G
+M19	86	Blood Divination	4.0	Sorcery	B
+M19	131	Boggart Brute	3.0	Creature  Goblin Warrior	R
+M19	87	Bogstomper	6.0	Creature  Beast	B
+M19	88	Bone Dragon	5.0	Creature  Dragon Skeleton	B
+M19	47	Bone to Ash	4.0	Instant	U
+M19	213	Brawl-Bash Ogre	4.0	Creature  Ogre Warrior	B,R
+M19	170	Bristling Boar	4.0	Creature  Boar	G
+M19	48	Cancel	3.0	Instant	U
+M19	132	Catalyst Elemental	3.0	Creature  Elemental	R
+M19	8	Cavalry Drillmaster	2.0	Creature  Human Knight	W
+M19	171	Centaur Courser	3.0	Creature  Centaur Warrior	G
+M19	228	Chaos Wand	3.0	Artifact	
+M19	89	Child of Night	2.0	Creature  Vampire	B
+M19	214	Chromium, the Mutable	7.0	Legendary Creature  Elder Dragon	B,U,W
+M19	248	Cinder Barrens	0.0	Land	B,R
+M19	9	Cleansing Nova	5.0	Sorcery	W
+M19	172	Colossal Dreadmaw	6.0	Creature  Dinosaur	G
+M19	173	Colossal Majesty	3.0	Enchantment	G
+M19	283	Court Cleric	1.0	Creature  Human Cleric	W
+M19	133	Crash Through	1.0	Sorcery	R
+M19	229	Crucible of Worlds	3.0	Artifact	
+M19	174	Daggerback Basilisk	3.0	Creature  Basilisk	G
+M19	134	Dark-Dweller Oracle	2.0	Creature  Goblin Shaman	R
+M19	10	Daybreak Chaplain	2.0	Creature  Human Cleric	W
+M19	90	Death Baron	3.0	Creature  Zombie Wizard	B
+M19	175	Declare Dominance	5.0	Sorcery	G
+M19	135	Demanding Dragon	5.0	Creature  Dragon	R
+M19	91	Demon of Catastrophes	4.0	Creature  Demon	B
+M19	49	Departed Deckhand	2.0	Creature  Spirit Pirate	U
+M19	230	Desecrated Tomb	3.0	Artifact	
+M19	249	Detection Tower	0.0	Land	
+M19	231	Diamond Mare	2.0	Artifact Creature  Horse	
+M19	92	Diregraf Ghoul	1.0	Creature  Zombie	B
+M19	136	Dismissive Pyromancer	2.0	Creature  Human Wizard	R
+M19	50	Disperse	2.0	Instant	U
+M19	51	Divination	3.0	Sorcery	U
+M19	52	Djinn of Wishes	5.0	Creature  Djinn	U
+M19	93	Doomed Dissenter	2.0	Creature  Human	B
+M19	137	Doublecast	2.0	Sorcery	R
+M19	215	Draconic Disciple	3.0	Creature  Human Shaman	G,R
+M19	138	Dragon Egg	3.0	Creature  Dragon Egg	R
+M19	232	Dragon's Hoard	3.0	Artifact	
+M19	176	Druid of Horns	4.0	Creature  Human Druid	G
+M19	177	Druid of the Cowl	2.0	Creature  Elf Druid	G
+M19	178	Dryad Greenseeker	2.0	Creature  Dryad	G
+M19	94	Duress	1.0	Sorcery	B
+M19	11	Dwarven Priest	4.0	Creature  Dwarf Cleric	W
+M19	53	Dwindle	3.0	Enchantment  Aura	U
+M19	139	Electrify	4.0	Instant	R
+M19	179	Elvish Clancaller	2.0	Creature  Elf Druid	G
+M19	180	Elvish Rejuvenator	3.0	Creature  Elf Druid	G
+M19	216	Enigma Drake	3.0	Creature  Drake	R,U
+M19	95	Epicure of Blood	5.0	Creature  Vampire	B
+M19	54	Essence Scatter	2.0	Instant	U
+M19	55	Exclusion Mage	3.0	Creature  Human Wizard	U
+M19	233	Explosive Apparatus	1.0	Artifact	
+M19	96	Fell Specter	4.0	Creature  Specter	B
+M19	234	Field Creeper	2.0	Artifact Creature  Scarecrow	
+M19	140	Fiery Finish	6.0	Sorcery	R
+M19	141	Fire Elemental	5.0	Creature  Elemental	R
+M19	277	Forest	0.0	Basic Land  Forest	G
+M19	250	Forsaken Sanctuary	0.0	Land	B,W
+M19	251	Foul Orchard	0.0	Land	B,G
+M19	235	Fountain of Renewal	1.0	Artifact	
+M19	97	Fraying Omnipotence	5.0	Sorcery	B
+M19	56	Frilled Sea Serpent	6.0	Creature  Serpent	U
+M19	12	Gallant Cavalry	4.0	Creature  Human Knight	W
+M19	236	Gargoyle Sentinel	3.0	Artifact Creature  Gargoyle	
+M19	237	Gearsmith Guardian	5.0	Artifact Creature  Construct	
+M19	57	Gearsmith Prodigy	1.0	Creature  Human Artificer	U
+M19	181	Ghastbark Twins	7.0	Creature  Treefolk	G
+M19	182	Ghirapur Guide	3.0	Creature  Elf Scout	G
+M19	58	Ghostform	2.0	Sorcery	U
+M19	183	Giant Spider	4.0	Creature  Spider	G
+M19	184	Gift of Paradise	3.0	Enchantment  Aura	G
+M19	185	Gigantosaurus	5.0	Creature  Dinosaur	G
+M19	142	Goblin Instigator	2.0	Creature  Goblin Rogue	R
+M19	143	Goblin Motivator	1.0	Creature  Goblin Warrior	R
+M19	144	Goblin Trashmaster	4.0	Creature  Goblin Warrior	R
+M19	186	Goreclaw, Terror of Qal Sisma	4.0	Legendary Creature  Bear	G
+M19	312	Grasping Scoundrel	1.0	Creature  Human Pirate	B
+M19	98	Gravedigger	4.0	Creature  Zombie	B
+M19	293	Gravewaker	6.0	Creature  Bird Spirit	B
+M19	99	Graveyard Marshal	2.0	Creature  Zombie Soldier	B
+M19	187	Greenwood Sentinel	2.0	Creature  Elf Scout	G
+M19	145	Guttersnipe	3.0	Creature  Goblin Shaman	R
+M19	146	Havoc Devils	4.0	Creature  Devil	R
+M19	13	Herald of Faith	5.0	Creature  Angel	W
+M19	217	Heroic Reinforcements	4.0	Sorcery	R,W
+M19	14	Hieromancer's Cage	4.0	Enchantment	W
+M19	188	Highland Game	2.0	Creature  Elk	G
+M19	252	Highland Lake	0.0	Land	R,U
+M19	100	Hired Blade	3.0	Creature  Human Assassin	B
+M19	59	Horizon Scholar	6.0	Creature  Sphinx	U
+M19	147	Hostile Minotaur	4.0	Creature  Minotaur	R
+M19	189	Hungering Hydra	1.0	Creature  Hydra	G
+M19	101	Infectious Horror	4.0	Creature  Zombie Horror	B
+M19	102	Infernal Reckoning	1.0	Instant	B
+M19	103	Infernal Scarring	2.0	Enchantment  Aura	B
+M19	148	Inferno Hellion	4.0	Creature  Hellion	R
+M19	15	Inspired Charge	4.0	Instant	W
+M19	16	Invoke the Divine	3.0	Instant	W
+M19	104	Isareth the Awakener	3.0	Legendary Creature  Human Wizard	B
+M19	265	Island	0.0	Basic Land  Island	U
+M19	17	Isolate	1.0	Instant	W
+M19	297	Kargan Dragonrider	2.0	Creature  Human Warrior	R
+M19	18	Knight of the Tusk	6.0	Creature  Human Knight	W
+M19	19	Knight's Pledge	2.0	Enchantment  Aura	W
+M19	20	Knightly Valor	5.0	Enchantment  Aura	W
+M19	149	Lathliss, Dragon Queen	6.0	Legendary Creature  Dragon	R
+M19	150	Lava Axe	5.0	Sorcery	R
+M19	21	Lena, Selfless Champion	6.0	Legendary Creature  Human Knight	W
+M19	22	Leonin Vanguard	1.0	Creature  Cat Soldier	W
+M19	23	Leonin Warleader	4.0	Creature  Cat Soldier	W
+M19	105	Lich's Caress	5.0	Sorcery	B
+M19	151	Lightning Mare	2.0	Creature  Elemental Horse	R
+M19	152	Lightning Strike	2.0	Instant	R
+M19	107	Liliana's Contract	5.0	Enchantment	B
+M19	294	Liliana's Spoils	4.0	Sorcery	B
+M19	106	Liliana, Untouched by Death	4.0	Legendary Planeswalker  Liliana	B
+M19	291	Liliana, the Necromancer	5.0	Legendary Planeswalker  Liliana	B
+M19	314	Llanowar Elves	1.0	Creature  Elf Druid	G
+M19	24	Loxodon Line Breaker	3.0	Creature  Elephant Soldier	W
+M19	25	Luminous Bonds	3.0	Enchantment  Aura	W
+M19	108	Macabre Waltz	2.0	Sorcery	B
+M19	238	Magistrate's Scepter	3.0	Artifact	
+M19	26	Make a Stand	3.0	Instant	W
+M19	239	Manalith	3.0	Artifact	
+M19	240	Marauder's Axe	2.0	Artifact  Equipment	
+M19	253	Meandering River	0.0	Land	U,W
+M19	27	Mentor of the Meek	3.0	Creature  Human Soldier	W
+M19	60	Metamorphic Alteration	2.0	Enchantment  Aura	U
+M19	241	Meteor Golem	7.0	Artifact Creature  Golem	
+M19	28	Mighty Leap	2.0	Instant	W
+M19	29	Militia Bugler	3.0	Creature  Human Soldier	W
+M19	242	Millstone	2.0	Artifact	
+M19	109	Mind Rot	3.0	Sorcery	B
+M19	61	Mirror Image	3.0	Creature  Shapeshifter	U
+M19	310	Mist-Cloaked Herald	1.0	Creature  Merfolk Warrior	U
+M19	62	Mistcaller	1.0	Creature  Merfolk Wizard	U
+M19	273	Mountain	0.0	Basic Land  Mountain	R
+M19	110	Murder	3.0	Instant	B
+M19	63	Mystic Archaeologist	2.0	Creature  Human Wizard	U
+M19	190	Naturalize	2.0	Instant	G
+M19	306	Nexus of Fate	7.0	Instant	U
+M19	218	Nicol Bolas, the Ravager // Nicol Bolas, the Arisen	4.0	Legendary Creature  Elder Dragon	B,R,U
+M19	111	Nightmare's Thirst	1.0	Instant	B
+M19	30	Novice Knight	1.0	Creature  Human Knight	W
+M19	191	Oakenform	3.0	Enchantment  Aura	G
+M19	64	Omenspeaker	2.0	Creature  Human Wizard	U
+M19	65	Omniscience	10.0	Enchantment	U
+M19	153	Onakke Ogre	3.0	Creature  Ogre Warrior	R
+M19	66	One with the Machine	4.0	Sorcery	U
+M19	112	Open the Graves	5.0	Enchantment	B
+M19	31	Oreskos Swiftclaw	2.0	Creature  Cat Warrior	W
+M19	219	Palladia-Mors, the Ruiner	6.0	Legendary Creature  Elder Dragon	G,R,W
+M19	67	Patient Rebuilding	5.0	Enchantment	U
+M19	32	Pegasus Courser	3.0	Creature  Pegasus	W
+M19	192	Pelakka Wurm	7.0	Creature  Wurm	G
+M19	288	Pendulum of Patterns	2.0	Artifact	
+M19	113	Phylactery Lich	3.0	Creature  Zombie	B
+M19	114	Plague Mare	3.0	Creature  Nightmare Horse	B
+M19	261	Plains	0.0	Basic Land  Plains	W
+M19	193	Plummet	2.0	Instant	G
+M19	220	Poison-Tip Archer	4.0	Creature  Elf Archer	B,G
+M19	194	Prodigious Growth	6.0	Enchantment  Aura	G
+M19	68	Psychic Corrosion	3.0	Enchantment	U
+M19	221	Psychic Symbiont	6.0	Creature  Nightmare Horror	B,U
+M19	195	Rabid Bite	2.0	Sorcery	G
+M19	313	Radiating Lightning	4.0	Instant	R
+M19	115	Ravenous Harpy	3.0	Creature  Harpy	B
+M19	116	Reassembling Skeleton	2.0	Creature  Skeleton Warrior	B
+M19	196	Reclamation Sage	3.0	Creature  Elf Shaman	G
+M19	197	Recollect	3.0	Sorcery	G
+M19	222	Regal Bloodlord	5.0	Creature  Vampire Soldier	B,W
+M19	254	Reliquary Tower	0.0	Land	
+M19	33	Remorseful Cleric	2.0	Creature  Spirit Cleric	W
+M19	34	Resplendent Angel	3.0	Creature  Angel	W
+M19	35	Revitalize	2.0	Instant	W
+M19	198	Rhox Oracle	5.0	Creature  Rhino Monk	G
+M19	287	Riddlemaster Sphinx	6.0	Creature  Sphinx	U
+M19	117	Rise from the Grave	5.0	Sorcery	B
+M19	243	Rogue's Gloves	2.0	Artifact  Equipment	
+M19	199	Root Snare	2.0	Instant	G
+M19	200	Runic Armasaur	3.0	Creature  Dinosaur	G
+M19	255	Rupture Spire	0.0	Land	
+M19	36	Rustwing Falcon	1.0	Creature  Bird	W
+M19	69	Sai, Master Thopterist	3.0	Legendary Creature  Human Artificer	U
+M19	70	Salvager of Secrets	5.0	Creature  Merfolk Wizard	U
+M19	298	Sarkhan's Dragonfire	5.0	Sorcery	R
+M19	155	Sarkhan's Unsealing	4.0	Enchantment	R
+M19	299	Sarkhan's Whelp	3.0	Creature  Dragon	R
+M19	296	Sarkhan, Dragonsoul	6.0	Legendary Planeswalker  Sarkhan	R
+M19	154	Sarkhan, Fireblood	3.0	Legendary Planeswalker  Sarkhan	R
+M19	223	Satyr Enchanter	3.0	Creature  Satyr Druid	G,W
+M19	201	Scapeshift	4.0	Sorcery	G
+M19	71	Scholar of Stars	4.0	Creature  Human Artificer	U
+M19	284	Serra's Guardian	6.0	Creature  Angel	W
+M19	37	Shield Mare	3.0	Creature  Horse	W
+M19	300	Shivan Dragon	6.0	Creature  Dragon	R
+M19	156	Shock	1.0	Instant	R
+M19	157	Siegebreaker Giant	5.0	Creature  Giant Warrior	R
+M19	72	Sift	4.0	Sorcery	U
+M19	244	Sigiled Sword of Valeron	3.0	Artifact  Equipment	
+M19	285	Silverbeak Griffin	2.0	Creature  Griffin	W
+M19	303	Skalla Wolf	5.0	Creature  Wolf Spirit	G
+M19	118	Skeleton Archer	4.0	Creature  Skeleton Archer	B
+M19	73	Skilled Animator	3.0	Creature  Human Artificer	U
+M19	119	Skymarch Bloodletter	3.0	Creature  Vampire Soldier	B
+M19	224	Skyrider Patrol	4.0	Creature  Elf Scout	G,U
+M19	245	Skyscanner	3.0	Artifact Creature  Thopter	
+M19	74	Sleep	4.0	Sorcery	U
+M19	158	Smelt	1.0	Instant	R
+M19	75	Snapping Drake	4.0	Creature  Drake	U
+M19	120	Sovereign's Bite	2.0	Sorcery	B
+M19	159	Sparktongue Dragon	5.0	Creature  Dragon	R
+M19	160	Spit Flame	3.0	Instant	R
+M19	38	Star-Crowned Stag	4.0	Creature  Elk	W
+M19	121	Stitcher's Supplier	1.0	Creature  Zombie	B
+M19	256	Stone Quarry	0.0	Land	R,W
+M19	122	Strangling Spores	4.0	Instant	B
+M19	257	Submerged Boneyard	0.0	Land	B,U
+M19	307	Sun Sentinel	2.0	Creature  Human Soldier	W
+M19	39	Suncleanser	2.0	Creature  Human Cleric	W
+M19	76	Supreme Phantom	2.0	Creature  Spirit	U
+M19	161	Sure Strike	2.0	Instant	R
+M19	77	Surge Mare	2.0	Creature  Horse Fish	U
+M19	246	Suspicious Bookcase	2.0	Artifact Creature  Wall	
+M19	269	Swamp	0.0	Basic Land  Swamp	B
+M19	78	Switcheroo	5.0	Sorcery	U
+M19	40	Take Vengeance	2.0	Sorcery	W
+M19	202	Talons of Wildwood	2.0	Enchantment  Aura	G
+M19	295	Tattered Mummy	2.0	Creature  Zombie Jackal	B
+M19	162	Tectonic Rift	4.0	Sorcery	R
+M19	289	Tezzeret's Gatebreaker	4.0	Artifact	U
+M19	290	Tezzeret's Strider	3.0	Artifact Creature  Golem	
+M19	79	Tezzeret, Artifice Master	5.0	Legendary Planeswalker  Tezzeret	U
+M19	286	Tezzeret, Cruel Machinist	6.0	Legendary Planeswalker  Tezzeret	U
+M19	203	Thorn Lieutenant	2.0	Creature  Elf Warrior	G
+M19	204	Thornhide Wolves	5.0	Creature  Wolf	G
+M19	163	Thud	1.0	Sorcery	R
+M19	258	Timber Gorge	0.0	Land	G,R
+M19	205	Titanic Growth	2.0	Instant	G
+M19	80	Tolarian Scholar	3.0	Creature  Human Wizard	U
+M19	164	Tormenting Voice	2.0	Sorcery	R
+M19	81	Totally Lost	5.0	Instant	U
+M19	259	Tranquil Expanse	0.0	Land	G,W
+M19	247	Transmogrifying Wand	3.0	Artifact	
+M19	165	Trumpet Blast	3.0	Instant	R
+M19	41	Trusty Packbeast	3.0	Creature  Beast	W
+M19	123	Two-Headed Zombie	4.0	Creature  Zombie	B
+M19	82	Uncomfortable Chill	3.0	Instant	U
+M19	304	Ursine Champion	2.0	Creature  Human Berserker	G
+M19	225	Vaevictis Asmadi, the Dire	6.0	Legendary Creature  Elder Dragon	B,G,R
+M19	42	Valiant Knight	4.0	Creature  Human Knight	W
+M19	124	Vampire Neonate	1.0	Creature  Vampire	B
+M19	125	Vampire Sovereign	5.0	Creature  Vampire Noble	B
+M19	166	Viashino Pyromancer	2.0	Creature  Viashino Wizard	R
+M19	206	Vigilant Baloth	5.0	Creature  Beast	G
+M19	207	Vine Mare	4.0	Creature  Elemental Horse	G
+M19	208	Vivien Reid	5.0	Legendary Planeswalker  Vivien	G
+M19	301	Vivien of the Arkbow	6.0	Legendary Planeswalker  Vivien	G
+M19	209	Vivien's Invocation	7.0	Sorcery	G
+M19	305	Vivien's Jaguar	3.0	Creature  Cat Spirit	G
+M19	167	Volcanic Dragon	6.0	Creature  Dragon	R
+M19	168	Volley Veteran	4.0	Creature  Goblin Warrior	R
+M19	126	Walking Corpse	2.0	Creature  Zombie	B
+M19	83	Wall of Mist	2.0	Creature  Wall	U
+M19	210	Wall of Vines	1.0	Creature  Plant Wall	G
+M19	311	Waterknot	3.0	Enchantment  Aura	U
+M19	84	Windreader Sphinx	7.0	Creature  Sphinx	U
+M19	260	Woodland Stream	0.0	Land	G,U

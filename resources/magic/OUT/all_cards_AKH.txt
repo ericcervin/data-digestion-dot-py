@@ -1,0 +1,272 @@
+AKH	194	Ahn-Crop Champion	4.0	Creature  Human Warrior	G,W
+AKH	117	Ahn-Crop Crasher	3.0	Creature  Minotaur Warrior	R
+AKH	40	Ancient Crab	3.0	Creature  Crab	U
+AKH	1	Angel of Sanctions	5.0	Creature  Angel	W
+AKH	41	Angler Drake	6.0	Creature  Drake	U
+AKH	2	Anointed Procession	4.0	Enchantment	W
+AKH	3	Anointer Priest	2.0	Creature  Human Cleric	W
+AKH	4	Approach of the Second Sun	7.0	Sorcery	W
+AKH	78	Archfiend of Ifnir	5.0	Creature  Demon	B
+AKH	42	As Foretold	3.0	Enchantment	U
+AKH	43	Aven Initiate	4.0	Creature  Bird Warrior	U
+AKH	5	Aven Mindcensor	3.0	Creature  Bird Wizard	W
+AKH	195	Aven Wind Guide	4.0	Creature  Bird Warrior	U,W
+AKH	79	Baleful Ammit	3.0	Creature  Crocodile Demon	B
+AKH	118	Battlefield Scavenger	2.0	Creature  Jackal Rogue	R
+AKH	156	Benefaction of Rhonas	3.0	Sorcery	G
+AKH	6	Binding Mummy	2.0	Creature  Zombie	W
+AKH	157	Bitterblade Warrior	2.0	Creature  Jackal Warrior	G
+AKH	119	Blazing Volley	1.0	Sorcery	R
+AKH	80	Blighted Bat	3.0	Creature  Zombie Bat	B
+AKH	120	Bloodlust Inciter	1.0	Creature  Human Warrior	R
+AKH	121	Bloodrage Brawler	2.0	Creature  Minotaur Warrior	R
+AKH	81	Bone Picker	4.0	Creature  Bird	B
+AKH	82	Bontu the Glorified	3.0	Legendary Creature  God	B
+AKH	225	Bontu's Monument	3.0	Legendary Artifact	
+AKH	196	Bounty of the Luxa	4.0	Enchantment	G,U
+AKH	122	Brute Strength	2.0	Instant	R
+AKH	123	By Force	1.0	Sorcery	R
+AKH	44	Cancel	3.0	Instant	U
+AKH	239	Canyon Slough	0.0	Land  Swamp Mountain	B,R
+AKH	83	Cartouche of Ambition	3.0	Enchantment  Aura Cartouche	B
+AKH	45	Cartouche of Knowledge	2.0	Enchantment  Aura Cartouche	U
+AKH	7	Cartouche of Solidarity	1.0	Enchantment  Aura Cartouche	W
+AKH	158	Cartouche of Strength	3.0	Enchantment  Aura Cartouche	G
+AKH	124	Cartouche of Zeal	1.0	Enchantment  Aura Cartouche	R
+AKH	240	Cascading Cataracts	0.0	Land	
+AKH	8	Cast Out	4.0	Enchantment	W
+AKH	46	Censor	2.0	Instant	U
+AKH	159	Champion of Rhonas	4.0	Creature  Jackal Warrior	G
+AKH	160	Channeler Initiate	2.0	Creature  Human Druid	G
+AKH	280	Cinder Barrens	0.0	Land	B,R
+AKH	161	Colossapede	5.0	Creature  Insect	G
+AKH	125	Combat Celebrant	3.0	Creature  Human Warrior	R
+AKH	211	Commit // Memory	10.0	Instant	U
+AKH	271	Companion of the Trials	3.0	Creature  Bird Soldier	W
+AKH	47	Compelling Argument	2.0	Sorcery	U
+AKH	9	Compulsory Rest	2.0	Enchantment  Aura	W
+AKH	126	Consuming Fervor	1.0	Enchantment  Aura	R
+AKH	241	Cradle of the Accursed	0.0	Land  Desert	
+AKH	162	Crocodile of the Crossing	4.0	Creature  Crocodile	G
+AKH	84	Cruel Reality	7.0	Enchantment  Aura Curse	B
+AKH	48	Cryptic Serpent	7.0	Creature  Serpent	U
+AKH	49	Curator of Mysteries	4.0	Creature  Sphinx	U
+AKH	85	Cursed Minotaur	3.0	Creature  Zombie Minotaur	B
+AKH	223	Cut // Ribbons	4.0	Sorcery	B,R
+AKH	197	Decimator Beetle	5.0	Creature  Insect	B,G
+AKH	50	Decision Paralysis	4.0	Instant	U
+AKH	127	Deem Worthy	5.0	Instant	R
+AKH	163	Defiant Greatmaw	3.0	Creature  Hippo	G
+AKH	128	Desert Cerodon	6.0	Creature  Beast	R
+AKH	276	Desiccated Naga	3.0	Creature  Zombie Naga	B
+AKH	217	Destined // Lead	6.0	Instant	B,G
+AKH	10	Devoted Crop-Mate	3.0	Creature  Human Warrior	W
+AKH	86	Dispossess	3.0	Sorcery	B
+AKH	164	Dissenter's Deliverance	2.0	Instant	G
+AKH	11	Djeru's Resolve	1.0	Instant	W
+AKH	87	Doomed Dissenter	2.0	Creature  Human	B
+AKH	51	Drake Haven	3.0	Enchantment	U
+AKH	88	Dread Wanderer	1.0	Creature  Zombie Jackal	B
+AKH	89	Dune Beetle	2.0	Creature  Insect	B
+AKH	210	Dusk // Dawn	9.0	Sorcery	W
+AKH	226	Edifice of Authority	3.0	Artifact	
+AKH	129	Electrify	4.0	Instant	R
+AKH	227	Embalmer's Tools	2.0	Artifact	
+AKH	130	Emberhorn Minotaur	4.0	Creature  Minotaur Warrior	R
+AKH	198	Enigma Drake	3.0	Creature  Drake	R,U
+AKH	52	Essence Scatter	2.0	Instant	U
+AKH	242	Evolving Wilds	0.0	Land	
+AKH	165	Exemplar of Strength	2.0	Creature  Human Warrior	G
+AKH	221	Failure // Comply	3.0	Instant	U,W
+AKH	90	Faith of the Devoted	3.0	Enchantment	B
+AKH	12	Fan Bearer	1.0	Creature  Zombie	W
+AKH	91	Festering Mummy	1.0	Creature  Zombie	B
+AKH	243	Fetid Pools	0.0	Land  Island Swamp	B,U
+AKH	92	Final Reward	5.0	Instant	B
+AKH	131	Flameblade Adept	1.0	Creature  Jackal Warrior	R
+AKH	132	Fling	2.0	Instant	R
+AKH	53	Floodwaters	6.0	Sorcery	U
+AKH	254	Forest	0.0	Basic Land  Forest	G
+AKH	13	Forsake the Worldly	3.0	Instant	W
+AKH	281	Forsaken Sanctuary	0.0	Land	B,W
+AKH	279	Foul Orchard	0.0	Land	B,G
+AKH	54	Galestrike	3.0	Instant	U
+AKH	228	Gate to the Afterlife	3.0	Artifact	
+AKH	166	Giant Spider	4.0	Creature  Spider	G
+AKH	14	Gideon of the Trials	3.0	Legendary Planeswalker  Gideon	W
+AKH	15	Gideon's Intervention	4.0	Enchantment	W
+AKH	272	Gideon's Resolve	5.0	Enchantment	W
+AKH	270	Gideon, Martial Paragon	5.0	Legendary Planeswalker  Gideon	W
+AKH	167	Gift of Paradise	3.0	Enchantment  Aura	G
+AKH	133	Glorious End	3.0	Instant	R
+AKH	16	Glory-Bound Initiate	2.0	Creature  Human Warrior	W
+AKH	134	Glorybringer	5.0	Creature  Dragon	R
+AKH	55	Glyph Keeper	5.0	Creature  Sphinx	U
+AKH	273	Graceful Cat	3.0	Creature  Cat	W
+AKH	244	Grasping Dunes	0.0	Land  Desert	
+AKH	93	Gravedigger	4.0	Creature  Zombie	B
+AKH	168	Greater Sandwurm	7.0	Creature  Wurm	G
+AKH	94	Grim Strider	4.0	Creature  Horror	B
+AKH	17	Gust Walker	2.0	Creature  Human Wizard	W
+AKH	169	Hapatra's Mark	1.0	Instant	G
+AKH	199	Hapatra, Vizier of Poisons	2.0	Legendary Creature  Human Cleric	B,G
+AKH	135	Harsh Mentor	2.0	Creature  Human Cleric	R
+AKH	170	Harvest Season	3.0	Sorcery	G
+AKH	171	Haze of Pollen	2.0	Instant	G
+AKH	136	Hazoret the Fervent	4.0	Legendary Creature  God	R
+AKH	137	Hazoret's Favor	3.0	Enchantment	R
+AKH	229	Hazoret's Monument	3.0	Legendary Artifact	
+AKH	138	Heart-Piercer Manticore	4.0	Creature  Manticore	R
+AKH	224	Heaven // Earth	3.0	Instant	G,R
+AKH	56	Hekma Sentinels	3.0	Creature  Human Cleric	U
+AKH	57	Hieroglyphic Illumination	4.0	Instant	U
+AKH	282	Highland Lake	0.0	Land	R,U
+AKH	230	Honed Khopesh	1.0	Artifact  Equipment	
+AKH	200	Honored Crop-Captain	2.0	Creature  Human Warrior	R,W
+AKH	172	Honored Hydra	6.0	Creature  Snake Hydra	G
+AKH	173	Hooded Brawler	3.0	Creature  Naga Warrior	G
+AKH	95	Horror of the Broken Lands	5.0	Creature  Horror	B
+AKH	139	Hyena Pack	4.0	Creature  Hyena	R
+AKH	58	Illusory Wrappings	3.0	Enchantment  Aura	U
+AKH	18	Impeccable Timing	2.0	Instant	W
+AKH	19	In Oketra's Name	2.0	Instant	W
+AKH	174	Initiate's Companion	2.0	Creature  Cat	G
+AKH	213	Insult // Injury	6.0	Sorcery	R
+AKH	245	Irrigated Farmland	0.0	Land  Plains Island	U,W
+AKH	251	Island	0.0	Basic Land  Island	U
+AKH	59	Kefnet the Mindful	3.0	Legendary Creature  God	U
+AKH	231	Kefnet's Monument	3.0	Legendary Artifact	
+AKH	201	Khenra Charioteer	3.0	Creature  Jackal Warrior	G,R
+AKH	60	Labyrinth Guardian	2.0	Creature  Illusion Warrior	U
+AKH	96	Lay Bare the Heart	2.0	Sorcery	B
+AKH	61	Lay Claim	7.0	Enchantment  Aura	U
+AKH	277	Liliana's Influence	6.0	Sorcery	B
+AKH	98	Liliana's Mastery	5.0	Enchantment	B
+AKH	275	Liliana, Death Wielder	7.0	Legendary Planeswalker  Liliana	B
+AKH	97	Liliana, Death's Majesty	5.0	Legendary Planeswalker  Liliana	B
+AKH	140	Limits of Solidarity	4.0	Sorcery	R
+AKH	99	Lord of the Accursed	3.0	Creature  Zombie	B
+AKH	232	Luxa River Shrine	3.0	Artifact	
+AKH	141	Magma Spray	1.0	Instant	R
+AKH	175	Manglehorn	3.0	Creature  Beast	G
+AKH	142	Manticore of the Gauntlet	5.0	Creature  Manticore	R
+AKH	283	Meandering River	0.0	Land	U,W
+AKH	202	Merciless Javelineer	4.0	Creature  Minotaur Warrior	B,R
+AKH	100	Miasmic Mummy	2.0	Creature  Zombie Jackal	B
+AKH	20	Mighty Leap	2.0	Instant	W
+AKH	143	Minotaur Sureshot	3.0	Creature  Minotaur Archer	R
+AKH	253	Mountain	0.0	Basic Land  Mountain	R
+AKH	214	Mouth // Feed	7.0	Sorcery	G
+AKH	62	Naga Oracle	4.0	Creature  Naga Cleric	U
+AKH	176	Naga Vitalist	2.0	Creature  Naga Druid	G
+AKH	144	Nef-Crop Entangler	2.0	Creature  Human Warrior	R
+AKH	203	Neheb, the Worthy	3.0	Legendary Creature  Minotaur Warrior	B,R
+AKH	101	Nest of Scarabs	3.0	Enchantment	B
+AKH	212	Never // Return	7.0	Sorcery	B
+AKH	63	New Perspectives	6.0	Enchantment	U
+AKH	145	Nimble-Blade Khenra	2.0	Creature  Jackal Warrior	R
+AKH	204	Nissa, Steward of Elements	2.0	Legendary Planeswalker  Nissa	G,U
+AKH	177	Oashra Cultivator	1.0	Creature  Human Druid	G
+AKH	21	Oketra the True	4.0	Legendary Creature  God	W
+AKH	22	Oketra's Attendant	5.0	Creature  Bird Soldier	W
+AKH	233	Oketra's Monument	3.0	Legendary Artifact	
+AKH	218	Onward // Victory	6.0	Instant	R,W
+AKH	64	Open into Wonder	2.0	Sorcery	U
+AKH	234	Oracle's Vault	4.0	Artifact	
+AKH	178	Ornery Kudu	3.0	Creature  Antelope	G
+AKH	102	Painful Lesson	3.0	Sorcery	B
+AKH	246	Painted Bluffs	0.0	Land  Desert	
+AKH	146	Pathmaker Initiate	2.0	Creature  Human Wizard	R
+AKH	103	Pitiless Vizier	4.0	Creature  Minotaur Cleric	B
+AKH	104	Plague Belcher	3.0	Creature  Zombie Beast	B
+AKH	250	Plains	0.0	Basic Land  Plains	W
+AKH	179	Pouncing Cheetah	3.0	Creature  Cat	G
+AKH	220	Prepare // Fight	6.0	Instant	G,W
+AKH	23	Protection of the Hekma	5.0	Enchantment	W
+AKH	180	Prowling Serpopard	3.0	Creature  Cat Snake	G
+AKH	65	Pull from Tomorrow	2.0	Instant	U
+AKH	147	Pursue Glory	4.0	Instant	R
+AKH	235	Pyramid of the Pantheon	1.0	Artifact	
+AKH	181	Quarry Hauler	4.0	Creature  Camel	G
+AKH	222	Rags // Riches	11.0	Sorcery	B,U
+AKH	216	Reduce // Rubble	6.0	Instant	R,U
+AKH	24	Regal Caracal	5.0	Creature  Cat	W
+AKH	25	Renewed Faith	3.0	Instant	W
+AKH	26	Rhet-Crop Spearmaster	3.0	Creature  Human Warrior	W
+AKH	182	Rhonas the Indomitable	3.0	Legendary Creature  God	G
+AKH	236	Rhonas's Monument	3.0	Legendary Artifact	
+AKH	66	River Serpent	6.0	Creature  Serpent	U
+AKH	105	Ruthless Sniper	1.0	Creature  Human Archer	B
+AKH	27	Sacred Cat	1.0	Creature  Cat	W
+AKH	67	Sacred Excavation	4.0	Sorcery	U
+AKH	205	Samut, Voice of Dissent	5.0	Legendary Creature  Human Warrior	G,R,W
+AKH	183	Sandwurm Convergence	8.0	Enchantment	G
+AKH	184	Scaled Behemoth	6.0	Creature  Crocodile	G
+AKH	106	Scarab Feast	1.0	Instant	B
+AKH	247	Scattered Groves	0.0	Land  Forest Plains	G,W
+AKH	68	Scribe of the Mindful	3.0	Creature  Human Cleric	U
+AKH	69	Seeker of Insight	2.0	Creature  Human Wizard	U
+AKH	28	Seraph of the Suns	7.0	Creature  Angel	W
+AKH	107	Shadow of the Grave	2.0	Instant	B
+AKH	206	Shadowstorm Vizier	2.0	Creature  Human Cleric	B,U
+AKH	185	Shed Weakness	1.0	Instant	G
+AKH	186	Shefet Monitor	6.0	Creature  Lizard	G
+AKH	248	Sheltered Thicket	0.0	Land  Mountain Forest	G,R
+AKH	70	Shimmerscale Drake	5.0	Creature  Drake	U
+AKH	187	Sixth Sense	1.0	Enchantment  Aura	G
+AKH	71	Slither Blade	1.0	Creature  Naga Rogue	U
+AKH	148	Soul-Scar Mage	1.0	Creature  Human Wizard	R
+AKH	108	Soulstinger	4.0	Creature  Scorpion Demon	B
+AKH	29	Sparring Mummy	4.0	Creature  Zombie	W
+AKH	188	Spidery Grasp	3.0	Instant	G
+AKH	109	Splendid Agony	3.0	Instant	B
+AKH	219	Spring // Mind	9.0	Sorcery	G,U
+AKH	215	Start // Finish	6.0	Instant	B,W
+AKH	189	Stinging Shot	1.0	Instant	G
+AKH	110	Stir the Sands	6.0	Sorcery	B
+AKH	274	Stone Quarry	0.0	Land	R,W
+AKH	284	Submerged Boneyard	0.0	Land	B,U
+AKH	249	Sunscorched Desert	0.0	Land  Desert	
+AKH	111	Supernatural Stamina	1.0	Instant	B
+AKH	30	Supply Caravan	5.0	Creature  Camel	W
+AKH	252	Swamp	0.0	Basic Land  Swamp	B
+AKH	149	Sweltering Suns	3.0	Sorcery	R
+AKH	190	Synchronized Strike	3.0	Instant	G
+AKH	31	Tah-Crop Elite	4.0	Creature  Bird Warrior	W
+AKH	72	Tah-Crop Skirmisher	2.0	Creature  Naga Warrior	U
+AKH	278	Tattered Mummy	2.0	Creature  Zombie Jackal	B
+AKH	207	Temmet, Vizier of Naktamun	2.0	Legendary Creature  Human Cleric	U,W
+AKH	32	Those Who Serve	3.0	Creature  Zombie	W
+AKH	150	Thresher Lizard	3.0	Creature  Lizard	R
+AKH	237	Throne of the God-Pharaoh	2.0	Legendary Artifact	
+AKH	285	Timber Gorge	0.0	Land	G,R
+AKH	33	Time to Reflect	1.0	Instant	W
+AKH	151	Tormenting Voice	2.0	Sorcery	R
+AKH	286	Tranquil Expanse	0.0	Land	G,W
+AKH	112	Trespasser's Curse	2.0	Enchantment  Aura Curse	B
+AKH	113	Trial of Ambition	2.0	Enchantment	B
+AKH	73	Trial of Knowledge	4.0	Enchantment	U
+AKH	34	Trial of Solidarity	3.0	Enchantment	W
+AKH	191	Trial of Strength	3.0	Enchantment	G
+AKH	152	Trial of Zeal	3.0	Enchantment	R
+AKH	35	Trueheart Duelist	2.0	Creature  Human Warrior	W
+AKH	153	Trueheart Twins	5.0	Creature  Jackal Warrior	R
+AKH	114	Unburden	3.0	Sorcery	B
+AKH	36	Unwavering Initiate	3.0	Creature  Human Warrior	W
+AKH	154	Violent Impact	4.0	Sorcery	R
+AKH	37	Vizier of Deferment	3.0	Creature  Human Cleric	W
+AKH	74	Vizier of Many Faces	4.0	Creature  Shapeshifter Cleric	U
+AKH	38	Vizier of Remedies	2.0	Creature  Human Cleric	W
+AKH	75	Vizier of Tumbling Sands	3.0	Creature  Human Cleric	U
+AKH	192	Vizier of the Menagerie	4.0	Creature  Naga Cleric	G
+AKH	115	Wander in Death	3.0	Sorcery	B
+AKH	155	Warfire Javelineer	4.0	Creature  Minotaur Warrior	R
+AKH	116	Wasteland Scorpion	3.0	Creature  Scorpion	B
+AKH	238	Watchers of the Dead	2.0	Artifact Creature  Cat	
+AKH	193	Watchful Naga	3.0	Creature  Naga Wizard	G
+AKH	208	Wayward Servant	2.0	Creature  Zombie	B,W
+AKH	209	Weaver of Currents	3.0	Creature  Naga Druid	G,U
+AKH	76	Winds of Rebuke	2.0	Instant	U
+AKH	39	Winged Shepherd	6.0	Creature  Angel	W
+AKH	287	Woodland Stream	0.0	Land	G,U
+AKH	77	Zenith Seeker	4.0	Creature  Bird Wizard	U

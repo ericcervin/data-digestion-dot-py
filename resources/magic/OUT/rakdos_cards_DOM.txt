@@ -1,0 +1,118 @@
+DOM	209	Aesthir Glider	3.0	Artifact Creature  Bird Construct	
+DOM	210	Amaranthine Wall	4.0	Artifact Creature  Wall	
+DOM	211	Blackblade Reforged	2.0	Legendary Artifact  Equipment	
+DOM	77	Blessing of Belzenlok	1.0	Instant	B
+DOM	115	Bloodstone Goblin	2.0	Creature  Goblin Warrior	R
+DOM	212	Bloodtallow Candle	1.0	Artifact	
+DOM	78	Cabal Evangel	2.0	Creature  Human Cleric	B
+DOM	79	Cabal Paladin	4.0	Creature  Human Knight	B
+DOM	238	Cabal Stronghold	0.0	Land	B
+DOM	80	Caligo Skin-Witch	2.0	Creature  Human Wizard	B
+DOM	81	Cast Down	2.0	Instant	B
+DOM	82	Chainer's Torment	4.0	Enchantment  Saga	B
+DOM	116	Champion of the Flame	2.0	Creature  Human Warrior	R
+DOM	276	Chandra's Outburst	5.0	Sorcery	R
+DOM	275	Chandra, Bold Pyromancer	6.0	Legendary Planeswalker  Chandra	R
+DOM	213	Damping Sphere	2.0	Artifact	
+DOM	83	Dark Bargain	4.0	Instant	B
+DOM	84	Deathbloom Thallid	3.0	Creature  Fungus	B
+DOM	85	Demonic Vigor	1.0	Enchantment  Aura	B
+DOM	86	Demonlord Belzenlok	6.0	Legendary Creature  Elder Demon	B
+DOM	87	Divest	1.0	Sorcery	B
+DOM	88	Dread Shade	3.0	Creature  Shade	B
+DOM	89	Drudge Sentinel	3.0	Creature  Skeleton Warrior	B
+DOM	91	Eviscerate	4.0	Sorcery	B
+DOM	92	Feral Abomination	6.0	Creature  Thrull	B
+DOM	117	Fervent Strike	1.0	Instant	R
+DOM	118	Fiery Intervention	5.0	Sorcery	R
+DOM	119	Fight with Fire	3.0	Sorcery	R
+DOM	93	Final Parting	5.0	Sorcery	B
+DOM	120	Fire Elemental	5.0	Creature  Elemental	R
+DOM	121	Firefist Adept	5.0	Creature  Human Wizard	R
+DOM	214	Forebear's Blade	3.0	Artifact  Equipment	
+DOM	124	Frenzied Rage	2.0	Enchantment  Aura	R
+DOM	94	Fungal Infection	1.0	Instant	B
+DOM	194	Garna, the Bloodflame	5.0	Legendary Creature  Human Warrior	B,R
+DOM	125	Ghitu Chronicler	2.0	Creature  Human Wizard	R
+DOM	126	Ghitu Journeymage	3.0	Creature  Human Wizard	R
+DOM	127	Ghitu Lavarunner	1.0	Creature  Human Wizard	R
+DOM	215	Gilded Lotus	5.0	Artifact	
+DOM	128	Goblin Barrage	4.0	Sorcery	R
+DOM	129	Goblin Chainwhirler	3.0	Creature  Goblin Warrior	R
+DOM	130	Goblin Warchief	3.0	Creature  Goblin Warrior	R
+DOM	216	Guardians of Koilos	5.0	Artifact Creature  Construct	
+DOM	131	Haphazard Bombardment	6.0	Enchantment	R
+DOM	217	Helm of the Host	4.0	Legendary Artifact  Equipment	
+DOM	218	Howling Golem	3.0	Artifact Creature  Golem	
+DOM	219	Icy Manipulator	4.0	Artifact	
+DOM	132	Jaya Ballard	5.0	Legendary Planeswalker  Jaya	R
+DOM	133	Jaya's Immolating Inferno	2.0	Legendary Sorcery	R
+DOM	220	Jhoira's Familiar	4.0	Artifact Creature  Bird	
+DOM	95	Josu Vess, Lich Knight	4.0	Legendary Creature  Zombie Knight	B
+DOM	221	Jousting Lance	2.0	Artifact  Equipment	
+DOM	222	Juggernaut	4.0	Artifact Creature  Juggernaut	
+DOM	1	Karn, Scion of Urza	4.0	Legendary Planeswalker  Karn	
+DOM	277	Karplusan Hound	4.0	Creature  Dog	R
+DOM	96	Kazarov, Sengir Pureblood	7.0	Legendary Creature  Vampire	B,R
+DOM	134	Keldon Overseer	3.0	Creature  Human Warrior	R
+DOM	135	Keldon Raider	4.0	Creature  Human Warrior	R
+DOM	136	Keldon Warcaller	2.0	Creature  Human Warrior	R
+DOM	97	Knight of Malice	2.0	Creature  Human Knight	B
+DOM	98	Lich's Mastery	6.0	Legendary Enchantment	B
+DOM	99	Lingering Phantom	6.0	Creature  Spirit	B
+DOM	242	Memorial to Folly	0.0	Land	B
+DOM	246	Memorial to War	0.0	Land	R
+DOM	223	Mishra's Self-Replicator	5.0	Artifact Creature  Assembly-Worker	
+DOM	262	Mountain	0.0	Basic Land  Mountain	R
+DOM	224	Mox Amber	0.0	Legendary Artifact	
+DOM	225	Navigator's Compass	1.0	Artifact	
+DOM	137	Orcish Vandal	2.0	Creature  Orc Warrior	R
+DOM	226	Pardic Wanderer	6.0	Artifact Creature  Golem	
+DOM	100	Phyrexian Scriptures	4.0	Enchantment  Saga	B
+DOM	227	Powerstone Shard	3.0	Artifact	
+DOM	278	Pyromantic Pilgrim	3.0	Creature  Human Wizard	R
+DOM	138	Radiating Lightning	4.0	Instant	R
+DOM	139	Rampaging Cyclops	4.0	Creature  Cyclops	R
+DOM	101	Rat Colony	2.0	Creature  Rat	B
+DOM	102	Rite of Belzenlok	4.0	Enchantment  Saga	B
+DOM	140	Run Amok	2.0	Instant	R
+DOM	141	Seismic Shift	4.0	Sorcery	R
+DOM	103	Settle the Score	4.0	Sorcery	B
+DOM	228	Shield of the Realm	2.0	Artifact  Equipment	
+DOM	142	Shivan Fire	1.0	Instant	R
+DOM	229	Short Sword	1.0	Artifact  Equipment	
+DOM	143	Siege-Gang Commander	5.0	Creature  Goblin	R
+DOM	144	Skirk Prospector	1.0	Creature  Goblin	R
+DOM	230	Skittering Surveyor	3.0	Artifact Creature  Construct	
+DOM	145	Skizzik	4.0	Creature  Elemental	R
+DOM	231	Sorcerer's Wand	1.0	Artifact  Equipment	
+DOM	104	Soul Salvage	3.0	Sorcery	B
+DOM	232	Sparring Construct	1.0	Artifact Creature  Construct	
+DOM	146	Squee, the Immortal	3.0	Legendary Creature  Goblin	R
+DOM	105	Stronghold Confessor	1.0	Creature  Human Cleric	B
+DOM	258	Swamp	0.0	Basic Land  Swamp	B
+DOM	273	Teferi's Sentinel	5.0	Artifact Creature  Golem	
+DOM	106	Thallid Omnivore	4.0	Creature  Fungus	B
+DOM	107	Thallid Soothsayer	4.0	Creature  Fungus	B
+DOM	90	The Eldest Reborn	5.0	Enchantment  Saga	B
+DOM	122	The First Eruption	3.0	Enchantment  Saga	R
+DOM	123	The Flame of Keld	2.0	Enchantment  Saga	R
+DOM	233	Thran Temporal Gateway	4.0	Legendary Artifact	
+DOM	108	Torgaar, Famine Incarnate	8.0	Legendary Creature  Avatar	B
+DOM	234	Traxos, Scourge of Kroog	4.0	Legendary Artifact Creature  Construct	
+DOM	147	Two-Headed Giant	4.0	Creature  Giant Warrior	R
+DOM	109	Urgoros, the Empty One	6.0	Legendary Creature  Specter	B
+DOM	235	Urza's Tome	2.0	Artifact	
+DOM	148	Valduk, Keeper of the Flame	3.0	Legendary Creature  Human Shaman	R
+DOM	149	Verix Bladewing	4.0	Legendary Creature  Dragon	R
+DOM	110	Vicious Offering	2.0	Instant	B
+DOM	236	Voltaic Servant	2.0	Artifact Creature  Construct	
+DOM	150	Warcry Phoenix	4.0	Creature  Phoenix	R
+DOM	151	Warlord's Fury	1.0	Sorcery	R
+DOM	237	Weatherlight	4.0	Legendary Artifact  Vehicle	
+DOM	111	Whisper, Blood Liturgist	4.0	Legendary Creature  Human Cleric	B
+DOM	112	Windgrace Acolyte	5.0	Creature  Cat Warrior	B
+DOM	152	Wizard's Lightning	3.0	Instant	R
+DOM	113	Yargle, Glutton of Urborg	5.0	Legendary Creature  Frog Spirit	B
+DOM	114	Yawgmoth's Vile Offering	5.0	Legendary Sorcery	B
+DOM	249	Zhalfirin Void	0.0	Land	
