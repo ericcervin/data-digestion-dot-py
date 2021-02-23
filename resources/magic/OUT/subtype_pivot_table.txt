@@ -1,0 +1,222 @@
+subtype	AKH	HOU	XLN	RIX	DOM	M19	GRN	RNA	WAR	M20	ELD	THB	IKO	M21	ZNR	KHM	total
+Advisor								2	1	1		2					6
+Ajani						2			1	2							5
+Angel	3	2			4	4	2	3	2	7				1	5	13	46
+Angrath				2					1								3
+Antelope	1						1						1				3
+Ape					1					1			2				4
+Archer	2	3	1		2	2				1	2	1		2			16
+Archon											2	2			1		5
+Arlinn									1								1
+Artificer					6	7				2	1	1					17
+Ashiok									1			2					3
+Assassin						1	5		3				1	1			11
+Assembly-Worker					1												1
+Aura	13	6	6	9	8	13	7	4	3	12	7	23	7	10	4	14	146
+Avatar			4		4				1								9
+Basilisk						1											1
+Basri														2			2
+Bat	1		1				1			1			1		1		6
+Bear						1			1				1			1	4
+Beast	3	3	1	1	1	3	4	9	5	2	2	3	20	3	10		70
+Berserker						1		2	1	3	1	2				26	36
+Bird	8	6			6	3	2	2	4	8	2	2	6	2	1	4	56
+Boar						1	1	3	1	1		1	1	1	1		11
+Bolas		2							1								3
+Brushwagg													1				1
+Calix												1					1
+Camel	2	2															4
+Cartouche	5																5
+Cat	7	3			1	5	1	4	4	4	3	3	18	6	4	1	64
+Centaur					1	1	3	1	1	2		5		2			16
+Chandra					1				1	4				2			8
+Chimera		1										5					6
+Cleric	14	10	9	3	7	5	6	7		9		6	3	10	22	19	130
+Construct					6	1	1	1		2	3			1	1		16
+Coward																1	1
+Crab	1						1	4		1			1	1	2		11
+Crocodile	3	2						2	1	1					1		10
+Curse	2	3															5
+Cyclops					1		2		2			2		1			8
+Davriel									1								1
+Demigod												5					5
+Demon	3	3			1	1	1	3		2		3	1	1	2	6	27
+Desert	4	15															19
+Devil						1		1	2					3			7
+Dinosaur			38	32	1	3			1	5			16	4			100
+Djinn					2	1											3
+Dog			1		1			1	2	1		2		8	1		17
+Domri								2	1								3
+Dovin								2	1								3
+Dragon	1				2	13	2	1	1	5	4	1	1	3	1	2	37
+Drake	3	1			1	2	2	2	2	2				1			16
+Druid	4	3	2	1	5	6	2	2	4	3	4	2	3	4			45
+Dryad			2	1		1	2	1				1		1			9
+Dwarf						2				1	3			1		12	19
+Egg						1							1				2
+Elder				6	1	5						2					14
+Elemental		4	3	2	7	5	4	4	3	31		4	18	7	12		104
+Elephant					1	2	2	1	1	3	1		1		1	1	14
+Elf					8	10	15	5	5	6	7			5	6	16	83
+Elk						2				1			3				6
+Elspeth												2					2
+Equipment	1	1	4	2	7	3	1	1		6	8	4		2	8	10	58
+Faerie							2	1	1	2	17		1				24
+Fish			1			1		1		1		2		1			7
+Food											2						2
+Forest	3	1	1	1	1	1	3	3	1	1	2	1	4	1	1	6	31
+Fox											1		4				5
+Frog					1		1	3					1				6
+Fungus					6		2							1	1		10
+Gargoyle						1	1				2				1		5
+Garruk											1			2			3
+Gate							6	6	3								15
+Giant					1	1	3	3	2	1	6	8	1		2	13	41
+Gideon	2								2								4
+Gnome											1						1
+Goat													1				1
+Goblin			4	3	6	7	7	5	3	8	5			4	7		59
+God	5	3							5			7				12	32
+Golem		1	1	2	3	2		1	2	4	2			4	2		24
+Gorgon						1	1		1			2					5
+Gremlin													1				1
+Griffin				1		1		1	1	3	3	1		1	1		13
+Harpy				1		1						3					5
+Hellion		1				1			1				1	1	1		6
+Hippo	1	1							1				1				4
+Homarid					1												1
+Homunculus								3	1								4
+Horror	2	4	1	1		2	1			3		1	2	2	3		22
+Horse		1		1		6					1	2				1	12
+Huatli			2	1					1								4
+Human	30	18	43	27	45	31	31	34	17	28	61	32	32	35	29	17	510
+Hydra	1	1				1		1	1	2	2	2		1	1		13
+Hyena	1																1
+Illusion	1						1		3	1							6
+Imp			1				1	1						1		1	5
+Insect	3	2	1				7	1	1	1		1	3	1	4		25
+Island	3	1	1	1	1	1	3	3	1	1	2	1	4	1	1	6	31
+Jace			2						2						1		5
+Jackal	10	8				1			1								20
+Jaya					1				1								2
+Jellyfish								1					1				2
+Juggernaut					1												1
+Karn					1				1								2
+Kasmina									1								1
+Kavu					1												1
+Kaya								1	1							1	3
+Kiora									1								1
+Knight			8	9	13	6	9	4	1	12	46			3		1	112
+Kor															13		13
+Kraken												2	1	1		1	5
+Lamia												1					1
+Leech													1				1
+Leviathan					1				1				1		1		4
+Liliana	2					2			1					2			7
+Lizard	2	2		1			1	3		2			3	1	2		17
+Lukka													1				1
+Manticore	2	1							1			1					5
+Masticore														1			1
+Merfolk			21	17	4	3		4	2	2	5	7		4	13		82
+Minotaur	9	6			1	1	2		2	2		8			3		34
+Mole													1				1
+Monk						1			1					3			5
+Monkey													1				1
+Mountain	3	1	1	1	1	1	3	3	1	1	2	1	4	1	1	6	31
+Mouse															1		1
+Mutant								4	3								7
+Myr														1			1
+Naga	9	10							1								20
+Nahiri									1						1		2
+Narset									1				1				2
+Nightmare						2	2		3	1		3	18				29
+Niko																1	1
+Nissa	1	1							1						1		4
+Nixilis									1								1
+Noble						1					13			1			15
+Nymph												5					5
+Octopus								2		1			1				4
+Ogre						2		5	1	2	2			3			15
+Oko											2						2
+Ooze					1			2					1	1	1		6
+Orc			6	3	1					2				1			13
+Otter													2				2
+Ouphe											1						1
+Ox										1	1	1			1	1	5
+Pangolin													1				1
+Peasant											5						5
+Pegasus					1	1		1	1	3		1		2		1	11
+Phoenix				1	1		1			1		1	1				6
+Phyrexian																1	1
+Pirate			39	28		2				4				2			75
+Plains	3	1	1	1	1	1	3	3	1	1	2	1	4	1	1	6	31
+Plant						1	2		1			1		1	2		8
+Praetor																1	1
+Ral							2		1								3
+Rat		1			1		1										3
+Rhino						1	1	1	1	2			1	1			8
+Rogue	2		1		2	1	5	12	2	7	5	1	2	6	23	8	77
+Rowan											2						2
+Rune																5	5
+Saga					14							10				20	44
+Saheeli									1								1
+Salamander								1									1
+Samut		1							1								2
+Sarkhan						2			1								3
+Satyr						1						10					11
+Scarecrow						1				1	2					1	5
+Scorpion	2									1			1				4
+Scout			6	3	3	3	3	1	1	4		4	1	1			30
+Serpent	2	1				1				1	1	1	2		1	1	11
+Shade					1		1	1							1		4
+Shaman			10	6	1	4	8	11		4	1	9		5			59
+Shapeshifter	1			1		1	1								1	10	15
+Shark								1					2	1			4
+Sheep								1									1
+Shrine														6			6
+Siren			3	1								1		1			6
+Skeleton					1	3	1	1		2	1	1		1	1		12
+Snake	2	1		1				1			1	3	1	2	2		14
+Soldier	2		9	11	4	10	20	7	8	8	2	13	11	6			111
+Sorin									1	2							3
+Specter					1	1	1				1						4
+Sphinx	2	2		1	1	3	2	3	1	2		3			1		21
+Spider	1	1			1	1	2	1	1	3	1	2	1	2		1	18
+Spirit				1	3	6	2	5	3	8	2	4		5	1	7	47
+Squid															1		1
+Squirrel													1			1	2
+Swamp	3	1	1	1	1	1	3	3	1	1	2	1	4	1	1	6	31
+Tamiyo									1								1
+Teferi					2				1					2			5
+Teyo									1								1
+Tezzeret						2			1								3
+Thopter						1								1			2
+Thrull					1			2		1							4
+Tibalt									1								1
+Treefolk						1				1	2			3		1	8
+Trilobite			1														1
+Troll							1	1	1	1	3				1	4	12
+Turtle					1			1			3	1	2				8
+Tyvar																1	1
+Ugin									1					1			2
+Unicorn					1		1			1	1	1	2	2			9
+Vampire			20	20	2	6	5	5	2	10				4	12	1	87
+Vedalken							2	5		1							8
+Vehicle			5		1				3		1	1				5	16
+Viashino						1	2	3									6
+Vivien						2			1	2			1				6
+Vraska			1	1			2		1								5
+Wall		2		1	1	3	4	1	1		3			3	1		20
+Warlock											5			2			7
+Warrior	30	20	6	7	16	13	10	14	14	9	5	8	5	7	26	24	214
+Weird									2					1			3
+Whale													1	2			3
+Will											1						1
+Wizard	7	10	9	4	15	11	12	9	13	10	8	8	6	10	21	12	165
+Wolf						2			1	2	2		1			3	11
+Wolverine											1		1				2
+Wurm	1	1			1	1	3	1	1				1	2	1	1	14
+Yanggu									1								1
+Yanling										2							2
+Yeti																1	1
+Zombie	15	19			1	11	8	1	25	6	2	5		5	1	9	108

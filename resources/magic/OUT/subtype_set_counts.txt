@@ -1,3 +1,4 @@
+set	subtype	count
 AKH	Mountain	3
 AKH	Swamp	3
 AKH	Curse	2

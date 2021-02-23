@@ -30,7 +30,30 @@ def main():
         file_name = "rakdos_cards_" + set_id + ".txt"
         print_card_tsv(file_name,distinct_rakdos_cards)
 
-    with open("./resources/magic/OUT/subtype_counts.txt", "w") as card_file:
+    sub_counts = {}
+    for k in sets:
+       for st in set_data[k]['subtype_counts'].items():
+           sub_type = st[0]
+           sub_counts[sub_type] = sub_counts.get(sub_type,0) + st[1]
+    
+
+    #for st in sorted(sub_counts.keys()):
+    #    print(st + "\t" + str(sub_counts[st]))
+    with open("./resources/magic/OUT/subtype_pivot_table.txt", "w") as card_file:    
+         header = "subtype\t" + ('\t').join(sets) + '\ttotal\n'
+         card_file.write(header)
+         for st in sorted(sub_counts.keys()):
+             card_file.write(st)
+             for s in sets:
+                 card_file.write('\t')
+                 card_file.write(str(set_data[s]['subtype_counts'].get(st,'')))
+             card_file.write('\t')
+             card_file.write(str(sub_counts[st]))    
+             card_file.write('\n')
+             
+         
+    with open("./resources/magic/OUT/subtype_set_counts.txt", "w") as card_file:
+             card_file.write('set\tsubtype\tcount\n')
              for k in sets:
                for st in set_data[k]['subtype_counts'].items():
                  card_file.write(k + '\t' + st[0] + '\t'+ str(st[1]) + '\n')
