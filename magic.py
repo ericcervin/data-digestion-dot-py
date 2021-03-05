@@ -1,6 +1,6 @@
 #json data files from https://mtgjson.com/downloads/all-sets/
 
-import json
+import json, sqlite3
 
 sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
 
@@ -8,6 +8,8 @@ def main():
     #files from https://mtgjson.com/
 
     set_data = load_set_data(sets)
+    export_magic_db()
+    
     #print set_data.keys()
     print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
     for k in sets:
@@ -96,10 +98,28 @@ def distinct_card_maps(cards):
 def isRakdos(color_id):
     return (not (('U' in color_id) or ('W' in color_id) or ('G' in color_id)) )
 
+
+def export_magic_db():
+    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+    
+    c = conn.cursor()
+    
+    try:
+      c.execute('''DROP TABLE cards''')
+    except:
+      pass
+    
+    c.execute('''CREATE TABLE cards
+             (set_code text, number integer, name text, cmc real, type text, color_id text )''')
+              
+    conn.commit()
+
+    conn.close()
+    
 def load_set_data(sets):
     set_data = {}
     for card_set in sets:
-        with open("./resources/magic/IN/" + card_set + ".json", "r") as read_file:
+        with open("./resources/magic/IN/mtg_json/" + card_set + ".json", "r") as read_file:
             data = json.load(read_file)
             set_data[card_set] = {'raw_data' : data,
                                   'name' : data['data']['name'],
