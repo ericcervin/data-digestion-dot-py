@@ -5,10 +5,9 @@ import json, sqlite3
 sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
 
 def main():
-    #files from https://mtgjson.com/
 
     set_data = load_set_data(sets)
-    export_magic_db()
+    export_magic_db(set_data)
     
     #print set_data.keys()
     print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
@@ -63,11 +62,11 @@ def main():
 def brief_card_map(card_json):
    return {'set_code': card_json.get('setCode',''),
            'name':  card_json.get('name',''),
-           'type': card_json.get('type',''),
+           'type': card_json.get('type','').encode("ascii","ignore"),
            'types': card_json.get('types',''),
            'subtypes': card_json.get('subtypes',''),
            'supertypes': card_json.get('supertypes',''),
-           'number': card_json.get('number',''),
+           'number': card_json.get('number','')[:3],
            'color_id': card_json.get('colorIdentity',''),
            'is_rakdos': isRakdos(card_json.get('colorIdentity','')),
            'is_starter': card_json.get('isStarter',''),
@@ -77,10 +76,10 @@ def brief_card_map(card_json):
 def brief_card_text(card_map):
     return ('\t').join([
                  card_map['set_code'],
-                 card_map['number'].replace('\u2605',''),
+                 card_map['number'],
                  card_map['name'],
                  str(card_map['cmc']),
-                 card_map['type'].encode("ascii","ignore"),
+                 card_map['type'],
                  (',').join(card_map['color_id']),
                  #str(card_map['is_rakdos'])
                  ]) + '\n'
@@ -99,7 +98,9 @@ def isRakdos(color_id):
     return (not (('U' in color_id) or ('W' in color_id) or ('G' in color_id)) )
 
 
-def export_magic_db():
+def export_magic_db(sd):
+    #print(sd['XLN'].keys())
+          
     conn = sqlite3.connect('./resources/magic/OUT/magic.db')
     
     c = conn.cursor()
@@ -113,6 +114,17 @@ def export_magic_db():
              (set_code text, number integer, name text, cmc real, type text, color_id text )''')
               
     conn.commit()
+
+    for st in sd.values():
+        for crd in st['distinct_cards'].values():
+            #print crd
+            #print(crd[0]['set_code']+ '\t' + str(crd[0]['number'])  + '\t' + crd[0]['name'] + '\t' + str(crd[0]['cmc']) + '\t' + crd[0]['type'] + '\t' + str(crd[0]['color_id']))
+            c.execute('INSERT INTO cards VALUES (?,?,?,?,?,?)', (crd[0]['set_code'], str(crd[0]['number']), crd[0]['name'], str(crd[0]['cmc']), crd[0]['type'], str(crd[0]['color_id'])))
+
+    conn.commit()
+
+    #for row in c.execute('SELECT count(*) FROM cards'):
+    #    print(row)
 
     conn.close()
     

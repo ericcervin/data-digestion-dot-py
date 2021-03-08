@@ -132,7 +132,7 @@ WAR	1	Karn, the Great Creator	4.0	Legendary Planeswalker  Karn
 WAR	57	Kasmina's Transmutation	2.0	Enchantment  Aura	U
 WAR	56	Kasmina, Enigmatic Mentor	4.0	Legendary Planeswalker  Kasmina	U
 WAR	94	Kaya's Ghostform	1.0	Enchantment  Aura	B
-WAR	231★	Kaya, Bane of the Dead	6.0	Legendary Planeswalker  Kaya	B,W
+WAR	231	Kaya, Bane of the Dead	6.0	Legendary Planeswalker  Kaya	B,W
 WAR	58	Kiora's Dambreaker	6.0	Creature  Leviathan	U
 WAR	232	Kiora, Behemoth Beckoner	3.0	Legendary Planeswalker  Kiora	G,U
 WAR	165	Kraul Stinger	3.0	Creature  Insect Assassin	G
@@ -237,7 +237,7 @@ WAR	37	The Wanderer	4.0	Legendary Planeswalker	W
 WAR	73	Thunder Drake	4.0	Creature  Elemental Drake	U
 WAR	179	Thundering Ceratok	5.0	Creature  Rhino	G
 WAR	147	Tibalt's Rager	2.0	Creature  Devil	R
-WAR	146★	Tibalt, Rakish Instigator	3.0	Legendary Planeswalker  Tibalt	R
+WAR	146	Tibalt, Rakish Instigator	3.0	Legendary Planeswalker  Tibalt	R
 WAR	223	Time Wipe	5.0	Sorcery	U,W
 WAR	107	Tithebearer Giant	6.0	Creature  Giant Warrior	B
 WAR	108	Toll of the Invasion	3.0	Sorcery	B

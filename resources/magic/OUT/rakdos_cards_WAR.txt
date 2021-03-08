@@ -83,7 +83,7 @@ WAR	145	Spellgorger Weird	3.0	Creature  Weird	R
 WAR	256	Swamp	0.0	Basic Land  Swamp	B
 WAR	89	The Elderspell	2.0	Sorcery	B
 WAR	147	Tibalt's Rager	2.0	Creature  Devil	R
-WAR	146★	Tibalt, Rakish Instigator	3.0	Legendary Planeswalker  Tibalt	R
+WAR	146	Tibalt, Rakish Instigator	3.0	Legendary Planeswalker  Tibalt	R
 WAR	107	Tithebearer Giant	6.0	Creature  Giant Warrior	B
 WAR	108	Toll of the Invasion	3.0	Sorcery	B
 WAR	148	Turret Ogre	4.0	Creature  Ogre Warrior	R
