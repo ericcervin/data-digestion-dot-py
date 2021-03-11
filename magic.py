@@ -1,13 +1,14 @@
 #json data files from https://mtgjson.com/downloads/all-sets/
 
-import json, sqlite3
+import json, sqlite3, os
 
 sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
 
 def main():
 
     set_data = load_set_data(sets)
-    export_magic_db(set_data)
+    deck_data = load_deck_data()
+    create_magic_db({"sd":set_data,"dd":deck_data})
     
     #print set_data.keys()
     print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
@@ -84,6 +85,52 @@ def brief_card_text(card_map):
                  #str(card_map['is_rakdos'])
                  ]) + '\n'
 
+def create_magic_db(mp):
+    sd = mp["sd"]
+    dd = mp["dd"]
+    #print(sd['XLN'].keys())
+          
+    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+    
+    c = conn.cursor()
+    
+    try:
+      c.execute('''DROP TABLE card''')
+    except:
+      pass
+    
+    c.execute('''CREATE TABLE card
+             (set_code text, number integer, name text, cmc real, type text, color_id text )''')
+              
+    conn.commit()
+
+    for st in sd.values():
+        for crd in st['distinct_cards'].values():
+            c.execute('INSERT INTO card VALUES (?,?,?,?,?,?)', (crd[0]['set_code'], str(crd[0]['number']), crd[0]['name'], str(crd[0]['cmc']), crd[0]['type'], str(crd[0]['color_id'])))
+
+    conn.commit()
+
+    try:
+      c.execute('''DROP TABLE deck_card''')
+    except:
+      pass
+    
+    c.execute('''CREATE TABLE deck_card
+             (deck text, deck_or_side text, count integer , set_code text, name text, num integer)''')
+              
+    conn.commit()
+    
+    for st in dd:
+        c.execute('INSERT INTO deck_card VALUES (?,?,?,?,?,?)', (st['deck'], st['deck_or_side'], st['count'], st['set_code'], st['name'], st['num']))
+
+    conn.commit()
+
+    for row in c.execute('SELECT * FROM deck_card'):
+        print(row)
+
+    conn.close()
+
+
 def distinct_card_maps(cards):
     brief_card_maps = map(brief_card_map, cards)
     distinct_cards = {}
@@ -98,35 +145,26 @@ def isRakdos(color_id):
     return (not (('U' in color_id) or ('W' in color_id) or ('G' in color_id)) )
 
 
-def export_magic_db(sd):
-    #print(sd['XLN'].keys())
-          
-    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+
+def load_deck_data():
+    old_decks = os.listdir("./resources/magic/IN/old_arena_decks/")
+    deck_data = []
+    for od in old_decks:
+        with open("./resources/magic/IN/old_arena_decks/" + od, "r") as deck_file:
+            for ln in deck_file.readlines():
+                split_ln = ln.split()
+                if len(split_ln) > 0:
+                  if ((split_ln[0] == "Deck") or (split_ln[0] == "Sideboard")):
+                      deck_or_side = split_ln[0]
+                  if len(split_ln) > 1:
+                    count = split_ln[0]
+                    set_code = split_ln[-2].replace('(','').replace(')','')
+                    name = (" ").join(split_ln[1:-2])
+                    num = split_ln[-1].strip()
+                    item_map = {"deck": od, "deck_or_side": deck_or_side, "count": count , "set_code": set_code, "name": name, "num": num} 
+                    deck_data.append(item_map)
+    return deck_data
     
-    c = conn.cursor()
-    
-    try:
-      c.execute('''DROP TABLE cards''')
-    except:
-      pass
-    
-    c.execute('''CREATE TABLE cards
-             (set_code text, number integer, name text, cmc real, type text, color_id text )''')
-              
-    conn.commit()
-
-    for st in sd.values():
-        for crd in st['distinct_cards'].values():
-            #print crd
-            #print(crd[0]['set_code']+ '\t' + str(crd[0]['number'])  + '\t' + crd[0]['name'] + '\t' + str(crd[0]['cmc']) + '\t' + crd[0]['type'] + '\t' + str(crd[0]['color_id']))
-            c.execute('INSERT INTO cards VALUES (?,?,?,?,?,?)', (crd[0]['set_code'], str(crd[0]['number']), crd[0]['name'], str(crd[0]['cmc']), crd[0]['type'], str(crd[0]['color_id'])))
-
-    conn.commit()
-
-    #for row in c.execute('SELECT count(*) FROM cards'):
-    #    print(row)
-
-    conn.close()
     
 def load_set_data(sets):
     set_data = {}
@@ -148,7 +186,7 @@ def print_card_tsv(file_name,card_map):
                #print(c[0] + '\t' + str(len(c[1])))
                text = brief_card_text(c[1][0]).encode('utf-8')
                card_file.write(text)
-
+               
 def subtype_counts(card_map):
   subtype_counts = {}
   for c in card_map.values():

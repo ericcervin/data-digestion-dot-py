@@ -1,0 +1,20 @@
+Deck
+4 Fanatical Firebrand (RIX) 101
+22 Mountain (RIX) 195
+4 Ghitu Lavarunner (DAR) 127
+4 Runaway Steam-Kin (GRN) 115
+4 Viashino Pyromancer (M19) 166
+4 Goblin Chainwhirler (DAR) 129
+1 Rekindling Phoenix (RIX) 111
+2 Lava Coil (GRN) 108
+1 Banefire (M19) 130
+4 Shock (M19) 156
+4 Lightning Strike (XLN) 149
+4 Wizard's Lightning (DAR) 152
+2 Experimental Frenzy (GRN) 99
+
+Sideboard
+4 Fight with Fire (DAR) 119
+4 Lightning Mare (M19) 151
+4 Diamond Mare (M19) 231
+3 Fiery Cannonade (XLN) 143

@@ -1,0 +1,24 @@
+Deck
+1 Drakuseth, Maw of Flames (M20) 136
+1 Shivan Dragon (M20) 335
+1 Immortal Phoenix (M20) 332
+1 Glint-Horn Buccaneer (M20) 141
+1 Leyline of Combustion (M20) 148
+1 Act of Treason (M20) 124
+2 Daggersail Aeronaut (M20) 133
+3 Engulfing Eruption (M20) 328
+3 Fearless Halberdier (M20) 329
+1 Fire Elemental (M20) 138
+4 Goblin Assailant (M20) 330
+2 Goblin Smuggler (M20) 144
+2 Hellkite Whelp (GRN) 106
+2 Hostile Minotaur (M20) 331
+2 Infuriate (M20) 145
+7 Mountain (M20) 273
+7 Mountain (M20) 274
+6 Mountain (M20) 275
+6 Mountain (M20) 276
+2 Nimble Birdsticker (M20) 333
+2 Shock (M20) 160
+2 Sure Strike (GRN) 118
+1 Tectonic Rift (M20) 161

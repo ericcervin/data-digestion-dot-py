@@ -1,0 +1,21 @@
+Deck
+4 Fervent Champion (ELD) 124
+18 Mountain (THB) 285
+4 Scorch Spitter (M20) 159
+3 Tin Street Dodger (RNA) 120
+4 Rimrock Knight (ELD) 137
+4 Runaway Steam-Kin (GRN) 115
+4 Bonecrusher Giant (ELD) 115
+4 Torbran, Thane of Red Fell (ELD) 147
+3 Chandra, Acolyte of Flame (M20) 126
+4 Light Up the Stage (RNA) 107
+1 Embercleave (ELD) 120
+4 Cavalcade of Calamity (RNA) 95
+3 Castle Embereth (ELD) 239
+
+Sideboard
+3 Satyr's Cunning (THB) 152
+4 Shock (M20) 160
+3 Slaying Fire (ELD) 143
+2 Tibalt, Rakish Instigator (WAR) 146
+3 Experimental Frenzy (GRN) 99

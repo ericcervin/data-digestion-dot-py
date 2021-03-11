@@ -1,0 +1,23 @@
+Deck
+10 Swamp (XLN) 268
+1 Woodland Cemetery (DAR) 248
+10 Forest (XLN) 276
+4 Foul Orchard (M19) 251
+3 Doomed Dissenter (M19) 93
+3 Deathbloom Thallid (DAR) 84
+1 Slimefoot, the Stowaway (DAR) 205
+3 Yavimaya Sapherd (DAR) 189
+3 Poison-Tip Archer (M19) 220
+2 Thallid Omnivore (DAR) 106
+1 Twilight Prophet (RIX) 88
+1 Whisper, Blood Liturgist (DAR) 111
+1 Tendershoot Dryad (RIX) 147
+1 Torgaar, Famine Incarnate (DAR) 108
+1 Verdant Force (DAR) 187
+1 Path of Discovery (RIX) 142
+1 Rite of Belzenlok (DAR) 102
+3 Fungal Infection (DAR) 94
+2 Costly Plunder (XLN) 96
+3 Vicious Offering (DAR) 110
+2 Spore Swarm (DAR) 180
+3 Saproling Migration (DAR) 178

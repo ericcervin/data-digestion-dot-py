@@ -1,0 +1,26 @@
+Deck
+1 Ravager Wurm (RNA) 200
+2 Sunder Shaman (RNA) 210
+1 Thrash // Threat (RNA) 229
+2 Savage Smash (RNA) 203
+1 Rubblebelt Runner (RNA) 202
+2 Rhythm of the Wild (RNA) 201
+1 Living Twister (WAR) 203
+1 Bolrac-Clan Crusher (RNA) 159
+2 Collision // Colossus (RNA) 223
+2 Frenzied Arynx (RNA) 173
+1 Gruul Spellbreaker (RNA) 179
+1 End-Raze Forerunners (RNA) 124
+3 Zhur-Taa Goblin (RNA) 215
+1 Pelt Collector (GRN) 141
+2 Clan Guildmage (RNA) 162
+2 Clamor Shaman (RNA) 96
+2 Burning-Tree Vandal (RNA) 94
+3 Giant Growth (WAR) 162
+1 Stomping Ground (RNA) 259
+4 Gruul Guildgate (RNA) 249
+10 Mountain (RNA) 263
+10 Forest (RNA) 264
+1 Domri's Ambush (WAR) 192
+2 Leafkin Druid (M20) 178
+2 Lava Coil (GRN) 108
