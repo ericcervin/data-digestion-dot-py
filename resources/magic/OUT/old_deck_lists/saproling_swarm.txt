@@ -1,0 +1,9 @@
+Swamp	10
+Forest	10
+Foul Orchard	4
+Doomed Dissenter	3
+Poison-Tip Archer	3
+Twilight Prophet	1
+Tendershoot Dryad	1
+Path of Discovery	1
+Costly Plunder	2

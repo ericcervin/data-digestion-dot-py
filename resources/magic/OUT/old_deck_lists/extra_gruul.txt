@@ -1,0 +1,25 @@
+Sunder Shaman	2
+Thrash // Threat	2
+Rubblebelt Rioters	2
+Rhythm of the Wild	2
+Living Twister	1
+Ilharg, the Raze-Boar	1
+Collision // Colossus	2
+Frenzied Arynx	1
+Gruul Spellbreaker	2
+Zhur-Taa Goblin	3
+Pelt Collector	1
+Clan Guildmage	3
+Clamor Shaman	2
+Burning-Tree Vandal	2
+Giant Growth	3
+Stomping Ground	2
+Mountain	9
+Forest	9
+Domri's Ambush	2
+Scorching Dragonfire	1
+Skarrgan Hellkite	1
+Voracious Hydra	1
+Rugged Highlands	4
+Elder Gargaroth	1
+Terror of the Peaks	1

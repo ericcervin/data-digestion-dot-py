@@ -1,0 +1,22 @@
+Izoni, Thousand-Eyed	1
+Golgari Findbroker	2
+Find // Finality	1
+Status // Statue	4
+Assassin's Trophy	1
+Giant Growth	1
+Rhizome Lurcher	2
+Swarm Guildmage	2
+Kraul Harpooner	3
+Glowspore Shaman	4
+Deathsprout	3
+Underrealm Lich	2
+Leyline Prowler	2
+Storrev, Devkarin Lich	1
+Gift of Strength	2
+Plaguecrafter	2
+Midnight Reaper	1
+District Guide	2
+Overgrown Tomb	1
+Forest	9
+Swamp	10
+Jungle Hollow	4

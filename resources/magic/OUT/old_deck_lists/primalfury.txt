@@ -1,0 +1,23 @@
+Carnage Tyrant	1
+Llanowar Elves	3
+Forest	10
+Rootbound Crag	1
+Druid of the Cowl	2
+Raptor Hatchling	2
+Mountain	9
+Elvish Rejuvenator	3
+Draconic Disciple	3
+Knight of the Stampede	2
+Frenzied Raptor	2
+Charging Tuskodon	2
+Needletooth Raptor	1
+Charging Monstrosaur	2
+Silverclad Ferocidons	1
+Etali, Primal Storm	1
+Banefire	1
+Pelakka Wurm	1
+Goreclaw, Terror of Qal Sisma	1
+Colossal Majesty	2
+Lightning Strike	3
+Shock	3
+Timber Gorge	4

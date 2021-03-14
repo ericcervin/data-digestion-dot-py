@@ -5,60 +5,14 @@ import json, sqlite3, os
 sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
 
 def main():
-
     set_data = load_set_data(sets)
     deck_data = load_deck_data()
+    
     create_magic_db({"sd":set_data,"dd":deck_data})
-    
-    #print set_data.keys()
-    print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
-    for k in sets:
-        set_id = k
-        name = set_data[k]['name']
-        total_set_size = set_data[k]['total_set_size']
-        base_set_size = set_data[k]['base_set_size']
-        distinct_card_count = len(set_data[k]['distinct_cards'])
 
-        set_data[k]['subtype_counts'] = subtype_counts(set_data[k]['distinct_cards'])
+    print_set_data(set_data)
+    print_deck_data()
 
-        distinct_rakdos_cards = {key:value for (key,value) in set_data[k]['distinct_cards'].items() if value[0]['is_rakdos'] }
-        distinct_rakdos_card_count = len(distinct_rakdos_cards)
-
-        print("{}\t{}\t{}\t{}\t{}\t{}".format(set_id,name,total_set_size,base_set_size,distinct_card_count,distinct_rakdos_card_count))
-
-        file_name = "all_cards_" +  set_id + ".txt"
-        print_card_tsv(file_name,set_data[k]['distinct_cards'])
-
-        file_name = "rakdos_cards_" + set_id + ".txt"
-        print_card_tsv(file_name,distinct_rakdos_cards)
-
-    sub_counts = {}
-    for k in sets:
-       for st in set_data[k]['subtype_counts'].items():
-           sub_type = st[0]
-           sub_counts[sub_type] = sub_counts.get(sub_type,0) + st[1]
-    
-
-    #for st in sorted(sub_counts.keys()):
-    #    print(st + "\t" + str(sub_counts[st]))
-    with open("./resources/magic/OUT/subtype_pivot_table.txt", "w") as card_file:    
-         header = "subtype\t" + ('\t').join(sets) + '\ttotal\n'
-         card_file.write(header)
-         for st in sorted(sub_counts.keys()):
-             card_file.write(st)
-             for s in sets:
-                 card_file.write('\t')
-                 card_file.write(str(set_data[s]['subtype_counts'].get(st,'')))
-             card_file.write('\t')
-             card_file.write(str(sub_counts[st]))    
-             card_file.write('\n')
-             
-         
-    with open("./resources/magic/OUT/subtype_set_counts.txt", "w") as card_file:
-             card_file.write('set\tsubtype\tcount\n')
-             for k in sets:
-               for st in set_data[k]['subtype_counts'].items():
-                 card_file.write(k + '\t' + st[0] + '\t'+ str(st[1]) + '\n')
 
 def brief_card_map(card_json):
    return {'set_code': card_json.get('setCode',''),
@@ -125,9 +79,7 @@ def create_magic_db(mp):
 
     conn.commit()
 
-    for row in c.execute('SELECT * FROM deck_card'):
-        print(row)
-
+    
     conn.close()
 
 
@@ -181,12 +133,82 @@ def load_set_data(sets):
 
 def print_card_tsv(file_name,card_map):   
     sorted_cards = sorted(card_map.items(), key=lambda x: x[1][0]['name'])
-    with open("./resources/magic/OUT/" + file_name, "w") as card_file:
+    with open("./resources/magic/OUT/set_card_lists/" + file_name, "w") as card_file:
              for c in sorted_cards:
                #print(c[0] + '\t' + str(len(c[1])))
                text = brief_card_text(c[1][0]).encode('utf-8')
                card_file.write(text)
-               
+
+def print_deck_data():
+    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+    
+    c = conn.cursor()
+
+    all_decks = []
+    for row in c.execute('SELECT DISTINCT deck FROM deck_card'):
+       all_decks.append(row[0])    
+    
+    for dk in all_decks:
+        with open("./resources/magic/OUT/old_deck_lists/" + dk, "w") as deck_file:
+          #print(dk)
+          query = 'SELECT dc.name, dc.count FROM deck_card dc join card cd on dc.set_code = cd.set_code and dc.num = cd.number where dc.deck = \"' + dk + '\"'
+          #print(query)
+          for crd in c.execute(query):
+            deck_file.write(str(crd[0] + '\t' + str(crd[1]) + '\n'))
+
+    conn.close()
+
+def print_set_data(set_data):
+      #print set_data.keys()
+    print "set_id\tset_name\tset_size\tbase_set_size\tdistinct_cards\trakdos_cards"
+    for k in sets:
+        set_id = k
+        name = set_data[k]['name']
+        total_set_size = set_data[k]['total_set_size']
+        base_set_size = set_data[k]['base_set_size']
+        distinct_card_count = len(set_data[k]['distinct_cards'])
+
+        set_data[k]['subtype_counts'] = subtype_counts(set_data[k]['distinct_cards'])
+
+        distinct_rakdos_cards = {key:value for (key,value) in set_data[k]['distinct_cards'].items() if value[0]['is_rakdos'] }
+        distinct_rakdos_card_count = len(distinct_rakdos_cards)
+
+        print("{}\t{}\t{}\t{}\t{}\t{}".format(set_id,name,total_set_size,base_set_size,distinct_card_count,distinct_rakdos_card_count))
+
+        file_name = "all_cards_" +  set_id + ".txt"
+        print_card_tsv(file_name,set_data[k]['distinct_cards'])
+
+        file_name = "rakdos_cards_" + set_id + ".txt"
+        print_card_tsv(file_name,distinct_rakdos_cards)
+
+    sub_counts = {}
+    for k in sets:
+       for st in set_data[k]['subtype_counts'].items():
+           sub_type = st[0]
+           sub_counts[sub_type] = sub_counts.get(sub_type,0) + st[1]
+    
+
+    #for st in sorted(sub_counts.keys()):
+    #    print(st + "\t" + str(sub_counts[st]))
+    with open("./resources/magic/OUT/subtype_pivot_table.txt", "w") as card_file:    
+         header = "subtype\t" + ('\t').join(sets) + '\ttotal\n'
+         card_file.write(header)
+         for st in sorted(sub_counts.keys()):
+             card_file.write(st)
+             for s in sets:
+                 card_file.write('\t')
+                 card_file.write(str(set_data[s]['subtype_counts'].get(st,'')))
+             card_file.write('\t')
+             card_file.write(str(sub_counts[st]))    
+             card_file.write('\n')
+             
+         
+    with open("./resources/magic/OUT/subtype_set_counts.txt", "w") as card_file:
+             card_file.write('set\tsubtype\tcount\n')
+             for k in sets:
+               for st in set_data[k]['subtype_counts'].items():
+                 card_file.write(k + '\t' + st[0] + '\t'+ str(st[1]) + '\n')
+                 
 def subtype_counts(card_map):
   subtype_counts = {}
   for c in card_map.values():

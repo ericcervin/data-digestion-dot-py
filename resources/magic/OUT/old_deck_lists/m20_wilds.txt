@@ -1,0 +1,14 @@
+Wakeroot Elemental	3
+Leafkin Druid	3
+Barkhide Troll	3
+Bloom Hulk	3
+Forest	6
+Growth Cycle	3
+Rabid Bite	2
+Season of Growth	3
+Titanic Growth	2
+Overgrowth Elemental	3
+Thicket Crasher	3
+Return to Nature	2
+Cavalier of Thorns	3
+Pollenbright Druid	3

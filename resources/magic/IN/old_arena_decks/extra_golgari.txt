@@ -1,0 +1,23 @@
+Deck
+1 Izoni, Thousand-Eyed (GRN) 180
+2 Golgari Findbroker (GRN) 175
+1 Find // Finality (GRN) 225
+4 Status // Statue (GRN) 230
+1 Assassin's Trophy (GRN) 152
+1 Giant Growth (WAR) 162
+2 Rhizome Lurcher (GRN) 196
+2 Swarm Guildmage (GRN) 201
+3 Kraul Harpooner (GRN) 136
+4 Glowspore Shaman (GRN) 173
+3 Deathsprout (WAR) 189
+2 Underrealm Lich (GRN) 211
+2 Leyline Prowler (WAR) 202
+1 Storrev, Devkarin Lich (WAR) 219
+2 Gift of Strength (RNA) 127
+2 Plaguecrafter (GRN) 82
+1 Midnight Reaper (GRN) 77
+2 District Guide (GRN) 128
+1 Overgrown Tomb (GRN) 253
+9 Forest (GRN) 264
+10 Swamp (GRN) 262
+4 Jungle Hollow (M21) 247

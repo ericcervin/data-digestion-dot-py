@@ -1,0 +1,32 @@
+Carnage Tyrant	1
+Drover of the Mighty	3
+Mountain	8
+Rootbound Crag	1
+Otepec Huntmaster	3
+Raptor Hatchling	1
+Forest	10
+Runic Armasaur	1
+Ravenous Daggertooth	1
+Knight of the Stampede	2
+Charging Tuskodon	1
+Needletooth Raptor	1
+Charging Monstrosaur	1
+Silverclad Ferocidons	1
+Etali, Primal Storm	1
+Colossal Majesty	1
+Verdant Sun's Avatar	1
+Goreclaw, Terror of Qal Sisma	1
+Savage Stomp	2
+Sure Strike	1
+Storm Strike	1
+Timber Gorge	4
+Regisaur Alpha	1
+Raging Swordtooth	1
+Samut's Sprint	1
+Giant Growth	1
+Commune with Dinosaurs	1
+Titanic Growth	1
+Frilled Deathspitter	2
+Ranging Raptors	2
+Raging Regisaur	1
+Wayward Swordtooth	1

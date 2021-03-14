@@ -1,0 +1,23 @@
+Sunder Shaman	2
+Thrash // Threat	2
+Savage Smash	2
+Rhythm of the Wild	3
+Rubblebelt Rioters	2
+Rubblebelt Recluse	2
+Collision // Colossus	1
+Frenzied Arynx	2
+Gruul Spellbreaker	1
+Zhur-Taa Goblin	3
+Pelt Collector	1
+Clan Guildmage	2
+Clamor Shaman	2
+Burning-Tree Vandal	2
+Giant Growth	2
+Stomping Ground	2
+Rugged Highlands	4
+Forest	9
+Mountain	9
+Domri's Ambush	2
+Leafkin Druid	2
+Scorching Dragonfire	2
+Elder Gargaroth	1

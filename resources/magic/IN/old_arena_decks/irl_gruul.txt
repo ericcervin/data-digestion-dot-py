@@ -1,0 +1,24 @@
+Deck
+2 Sunder Shaman (RNA) 210
+2 Thrash // Threat (RNA) 229
+2 Savage Smash (RNA) 203
+3 Rhythm of the Wild (RNA) 201
+2 Rubblebelt Rioters (WAR) 215
+2 Rubblebelt Recluse (RNA) 111
+1 Collision // Colossus (RNA) 223
+2 Frenzied Arynx (RNA) 173
+1 Gruul Spellbreaker (RNA) 179
+3 Zhur-Taa Goblin (RNA) 215
+1 Pelt Collector (GRN) 141
+2 Clan Guildmage (RNA) 162
+2 Clamor Shaman (RNA) 96
+2 Burning-Tree Vandal (RNA) 94
+2 Giant Growth (WAR) 162
+2 Stomping Ground (RNA) 259
+4 Rugged Highlands (M20) 250
+9 Forest (RNA) 264
+9 Mountain (RNA) 263
+2 Domri's Ambush (WAR) 192
+2 Leafkin Druid (M20) 178
+2 Scorching Dragonfire (ELD) 139
+1 Elder Gargaroth (M21) 179

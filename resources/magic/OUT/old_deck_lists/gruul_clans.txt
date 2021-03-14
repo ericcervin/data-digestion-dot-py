@@ -1,0 +1,25 @@
+Ravager Wurm	1
+Sunder Shaman	2
+Thrash // Threat	1
+Savage Smash	2
+Rubblebelt Runner	1
+Rhythm of the Wild	2
+Living Twister	1
+Bolrac-Clan Crusher	1
+Collision // Colossus	2
+Frenzied Arynx	2
+Gruul Spellbreaker	1
+End-Raze Forerunners	1
+Zhur-Taa Goblin	3
+Pelt Collector	1
+Clan Guildmage	2
+Clamor Shaman	2
+Burning-Tree Vandal	2
+Giant Growth	3
+Stomping Ground	1
+Gruul Guildgate	4
+Mountain	10
+Forest	10
+Domri's Ambush	1
+Leafkin Druid	2
+Lava Coil	2

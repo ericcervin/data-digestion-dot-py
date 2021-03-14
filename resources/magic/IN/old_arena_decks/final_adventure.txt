@@ -1,0 +1,28 @@
+Deck
+1 Vraska, Golgari Queen (GRN) 213
+8 Swamp (IKO) 268
+7 Forest (IKO) 274
+2 Blacklance Paragon (ELD) 79
+2 Knight of the Ebon Legion (M20) 105
+4 Lovestruck Beast (ELD) 165
+2 Midnight Reaper (GRN) 77
+2 Murderous Rider (ELD) 97
+4 Edgewall Innkeeper (ELD) 151
+4 Foulmire Knight (ELD) 90
+4 Order of Midnight (ELD) 99
+4 Smitten Swordmaster (ELD) 105
+2 Find // Finality (GRN) 225
+2 Disfigure (M20) 95
+4 Lucky Clover (ELD) 226
+2 Castle Locthwain (ELD) 241
+1 Fabled Passage (M21) 246
+2 Temple of Malady (M21) 253
+3 Jungle Hollow (M21) 247
+
+Sideboard
+2 Massacre Girl (WAR) 99
+1 Cling to Dust (THB) 87
+4 Duress (M21) 96
+2 Kraul Harpooner (GRN) 136
+4 Noxious Grasp (M20) 110
+2 Thrashing Brontodon (M21) 209

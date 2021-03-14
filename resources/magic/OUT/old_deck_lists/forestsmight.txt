@@ -1,0 +1,18 @@
+Ghalta, Primal Hunger	1
+Gigantosaurus	1
+Prodigious Growth	1
+Aggressive Mammoth	1
+Meteor Golem	1
+Verdant Rebirth	1
+Blanchwood Armor	2
+Druid of the Cowl	2
+Elvish Rejuvenator	2
+Greenwood Sentinel	2
+Plummet	2
+Vigilant Baloth	2
+Bristling Boar	3
+Centaur Courser	3
+Highland Game	3
+Rabid Bite	3
+Titanic Growth	3
+Forest	25

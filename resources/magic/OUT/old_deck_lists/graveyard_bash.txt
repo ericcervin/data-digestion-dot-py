@@ -1,0 +1,17 @@
+Diregraf Ghoul	2
+Death Baron	2
+Swamp	25
+Doomed Dissenter	3
+Walking Corpse	3
+Hired Blade	2
+Skymarch Bloodletter	2
+Gravedigger	2
+Infectious Horror	2
+Vampire Sovereign	2
+Gravewaker	1
+Meteor Golem	1
+Open the Graves	1
+Skulduggery	2
+Murder	3
+Strangling Spores	2
+Rise from the Grave	1
