@@ -1,17 +1,18 @@
-Mountain	25
-Lathliss, Dragon Queen	1
-Kargan Dragonrider	3
-Goblin Instigator	3
-Viashino Pyromancer	2
-Onakke Ogre	2
-Havoc Devils	3
-Sparktongue Dragon	2
-Volcanic Dragon	2
-Demanding Dragon	1
-Burning Sun's Avatar	1
-Charging Monstrosaur	2
-Spit Flame	1
-Sure Strike	3
-Shock	3
-Fiery Finish	2
-Meteor Golem	1
+deck	deck_or_side	count	set_code	name	num
+dragonsfire.txt	Deck	25	RNA	Mountain	263
+dragonsfire.txt	Deck	1	M19	Lathliss, Dragon Queen	149
+dragonsfire.txt	Deck	3	M19	Kargan Dragonrider	297
+dragonsfire.txt	Deck	3	M19	Goblin Instigator	142
+dragonsfire.txt	Deck	2	M19	Viashino Pyromancer	166
+dragonsfire.txt	Deck	2	M19	Onakke Ogre	153
+dragonsfire.txt	Deck	3	M19	Havoc Devils	146
+dragonsfire.txt	Deck	2	M19	Sparktongue Dragon	159
+dragonsfire.txt	Deck	2	M19	Volcanic Dragon	167
+dragonsfire.txt	Deck	1	M19	Demanding Dragon	135
+dragonsfire.txt	Deck	1	XLN	Burning Sun's Avatar	135
+dragonsfire.txt	Deck	2	XLN	Charging Monstrosaur	138
+dragonsfire.txt	Deck	1	M19	Spit Flame	160
+dragonsfire.txt	Deck	3	M19	Sure Strike	161
+dragonsfire.txt	Deck	3	M19	Shock	156
+dragonsfire.txt	Deck	2	M19	Fiery Finish	140
+dragonsfire.txt	Deck	1	M19	Meteor Golem	241

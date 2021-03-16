@@ -1,23 +1,24 @@
-Sunder Shaman	2
-Thrash // Threat	2
-Savage Smash	2
-Rhythm of the Wild	3
-Rubblebelt Rioters	2
-Rubblebelt Recluse	2
-Collision // Colossus	1
-Frenzied Arynx	2
-Gruul Spellbreaker	1
-Zhur-Taa Goblin	3
-Pelt Collector	1
-Clan Guildmage	2
-Clamor Shaman	2
-Burning-Tree Vandal	2
-Giant Growth	2
-Stomping Ground	2
-Rugged Highlands	4
-Forest	9
-Mountain	9
-Domri's Ambush	2
-Leafkin Druid	2
-Scorching Dragonfire	2
-Elder Gargaroth	1
+deck	deck_or_side	count	set_code	name	num
+irl_gruul.txt	Deck	2	RNA	Sunder Shaman	210
+irl_gruul.txt	Deck	2	RNA	Thrash // Threat	229
+irl_gruul.txt	Deck	2	RNA	Savage Smash	203
+irl_gruul.txt	Deck	3	RNA	Rhythm of the Wild	201
+irl_gruul.txt	Deck	2	WAR	Rubblebelt Rioters	215
+irl_gruul.txt	Deck	2	RNA	Rubblebelt Recluse	111
+irl_gruul.txt	Deck	1	RNA	Collision // Colossus	223
+irl_gruul.txt	Deck	2	RNA	Frenzied Arynx	173
+irl_gruul.txt	Deck	1	RNA	Gruul Spellbreaker	179
+irl_gruul.txt	Deck	3	RNA	Zhur-Taa Goblin	215
+irl_gruul.txt	Deck	1	GRN	Pelt Collector	141
+irl_gruul.txt	Deck	2	RNA	Clan Guildmage	162
+irl_gruul.txt	Deck	2	RNA	Clamor Shaman	96
+irl_gruul.txt	Deck	2	RNA	Burning-Tree Vandal	94
+irl_gruul.txt	Deck	2	WAR	Giant Growth	162
+irl_gruul.txt	Deck	2	RNA	Stomping Ground	259
+irl_gruul.txt	Deck	4	M20	Rugged Highlands	250
+irl_gruul.txt	Deck	9	RNA	Forest	264
+irl_gruul.txt	Deck	9	RNA	Mountain	263
+irl_gruul.txt	Deck	2	WAR	Domri's Ambush	192
+irl_gruul.txt	Deck	2	M20	Leafkin Druid	178
+irl_gruul.txt	Deck	2	ELD	Scorching Dragonfire	139
+irl_gruul.txt	Deck	1	M21	Elder Gargaroth	179

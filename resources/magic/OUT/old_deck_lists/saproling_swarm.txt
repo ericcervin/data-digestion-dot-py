@@ -1,9 +1,10 @@
-Swamp	10
-Forest	10
-Foul Orchard	4
-Doomed Dissenter	3
-Poison-Tip Archer	3
-Twilight Prophet	1
-Tendershoot Dryad	1
-Path of Discovery	1
-Costly Plunder	2
+deck	deck_or_side	count	set_code	name	num
+saproling_swarm.txt	Deck	10	XLN	Swamp	268
+saproling_swarm.txt	Deck	10	XLN	Forest	276
+saproling_swarm.txt	Deck	4	M19	Foul Orchard	251
+saproling_swarm.txt	Deck	3	M19	Doomed Dissenter	93
+saproling_swarm.txt	Deck	3	M19	Poison-Tip Archer	220
+saproling_swarm.txt	Deck	1	RIX	Twilight Prophet	88
+saproling_swarm.txt	Deck	1	RIX	Tendershoot Dryad	147
+saproling_swarm.txt	Deck	1	RIX	Path of Discovery	142
+saproling_swarm.txt	Deck	2	XLN	Costly Plunder	96

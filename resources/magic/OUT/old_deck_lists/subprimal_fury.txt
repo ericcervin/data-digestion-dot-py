@@ -1,23 +1,24 @@
-Carnage Tyrant	1
-Llanowar Elves	3
-Mountain	9
-Rootbound Crag	1
-Druid of the Cowl	2
-Raptor Hatchling	2
-Forest	10
-Elvish Rejuvenator	3
-Draconic Disciple	3
-Knight of the Stampede	2
-Frenzied Raptor	2
-Needletooth Raptor	1
-Charging Monstrosaur	3
-Thundering Spineback	1
-Burning Sun's Avatar	1
-Banefire	1
-Goreclaw, Terror of Qal Sisma	1
-Colossal Majesty	2
-Lightning Strike	3
-Shock	3
-Timber Gorge	4
-Pelakka Wurm	1
-Raging Swordtooth	1
+deck	deck_or_side	count	set_code	name	num
+subprimal_fury.txt	Deck	1	XLN	Carnage Tyrant	179
+subprimal_fury.txt	Deck	3	M19	Llanowar Elves	314
+subprimal_fury.txt	Deck	9	RIX	Mountain	195
+subprimal_fury.txt	Deck	1	XLN	Rootbound Crag	256
+subprimal_fury.txt	Deck	2	M19	Druid of the Cowl	177
+subprimal_fury.txt	Deck	2	XLN	Raptor Hatchling	155
+subprimal_fury.txt	Deck	10	RIX	Forest	196
+subprimal_fury.txt	Deck	3	M19	Elvish Rejuvenator	180
+subprimal_fury.txt	Deck	3	M19	Draconic Disciple	215
+subprimal_fury.txt	Deck	2	RIX	Knight of the Stampede	138
+subprimal_fury.txt	Deck	2	XLN	Frenzied Raptor	146
+subprimal_fury.txt	Deck	1	RIX	Needletooth Raptor	107
+subprimal_fury.txt	Deck	3	XLN	Charging Monstrosaur	138
+subprimal_fury.txt	Deck	1	XLN	Thundering Spineback	210
+subprimal_fury.txt	Deck	1	XLN	Burning Sun's Avatar	135
+subprimal_fury.txt	Deck	1	M19	Banefire	130
+subprimal_fury.txt	Deck	1	M19	Goreclaw, Terror of Qal Sisma	186
+subprimal_fury.txt	Deck	2	M19	Colossal Majesty	173
+subprimal_fury.txt	Deck	3	XLN	Lightning Strike	149
+subprimal_fury.txt	Deck	3	M19	Shock	156
+subprimal_fury.txt	Deck	4	M19	Timber Gorge	258
+subprimal_fury.txt	Deck	1	M19	Pelakka Wurm	192
+subprimal_fury.txt	Deck	1	XLN	Raging Swordtooth	226

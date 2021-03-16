@@ -1,32 +1,33 @@
-Carnage Tyrant	1
-Drover of the Mighty	3
-Mountain	8
-Rootbound Crag	1
-Otepec Huntmaster	3
-Raptor Hatchling	1
-Forest	10
-Runic Armasaur	1
-Ravenous Daggertooth	1
-Knight of the Stampede	2
-Charging Tuskodon	1
-Needletooth Raptor	1
-Charging Monstrosaur	1
-Silverclad Ferocidons	1
-Etali, Primal Storm	1
-Colossal Majesty	1
-Verdant Sun's Avatar	1
-Goreclaw, Terror of Qal Sisma	1
-Savage Stomp	2
-Sure Strike	1
-Storm Strike	1
-Timber Gorge	4
-Regisaur Alpha	1
-Raging Swordtooth	1
-Samut's Sprint	1
-Giant Growth	1
-Commune with Dinosaurs	1
-Titanic Growth	1
-Frilled Deathspitter	2
-Ranging Raptors	2
-Raging Regisaur	1
-Wayward Swordtooth	1
+deck	deck_or_side	count	set_code	name	num
+dino_fury.txt	Deck	1	XLN	Carnage Tyrant	179
+dino_fury.txt	Deck	3	XLN	Drover of the Mighty	187
+dino_fury.txt	Deck	8	RIX	Mountain	195
+dino_fury.txt	Deck	1	XLN	Rootbound Crag	256
+dino_fury.txt	Deck	3	XLN	Otepec Huntmaster	153
+dino_fury.txt	Deck	1	XLN	Raptor Hatchling	155
+dino_fury.txt	Deck	10	RIX	Forest	196
+dino_fury.txt	Deck	1	M19	Runic Armasaur	200
+dino_fury.txt	Deck	1	XLN	Ravenous Daggertooth	202
+dino_fury.txt	Deck	2	RIX	Knight of the Stampede	138
+dino_fury.txt	Deck	1	RIX	Charging Tuskodon	97
+dino_fury.txt	Deck	1	RIX	Needletooth Raptor	107
+dino_fury.txt	Deck	1	XLN	Charging Monstrosaur	138
+dino_fury.txt	Deck	1	RIX	Silverclad Ferocidons	115
+dino_fury.txt	Deck	1	RIX	Etali, Primal Storm	100
+dino_fury.txt	Deck	1	M19	Colossal Majesty	173
+dino_fury.txt	Deck	1	XLN	Verdant Sun's Avatar	213
+dino_fury.txt	Deck	1	M19	Goreclaw, Terror of Qal Sisma	186
+dino_fury.txt	Deck	2	XLN	Savage Stomp	205
+dino_fury.txt	Deck	1	M19	Sure Strike	161
+dino_fury.txt	Deck	1	RNA	Storm Strike	119
+dino_fury.txt	Deck	4	M19	Timber Gorge	258
+dino_fury.txt	Deck	1	XLN	Regisaur Alpha	227
+dino_fury.txt	Deck	1	XLN	Raging Swordtooth	226
+dino_fury.txt	Deck	1	WAR	Samut's Sprint	142
+dino_fury.txt	Deck	1	WAR	Giant Growth	162
+dino_fury.txt	Deck	1	XLN	Commune with Dinosaurs	181
+dino_fury.txt	Deck	1	M19	Titanic Growth	205
+dino_fury.txt	Deck	2	RIX	Frilled Deathspitter	104
+dino_fury.txt	Deck	2	XLN	Ranging Raptors	201
+dino_fury.txt	Deck	1	RIX	Raging Regisaur	168
+dino_fury.txt	Deck	1	RIX	Wayward Swordtooth	150

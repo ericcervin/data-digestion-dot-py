@@ -1,23 +1,24 @@
-Forest	21
-Might of the Masses	1
-Ixalli's Diviner	1
-Drover of the Mighty	4
-Savage Stomp	2
-Rabid Bite	2
-Knight of the Stampede	3
-Crushing Canopy	1
-Path of Discovery	1
-Ghalta, Primal Hunger	2
-Carnage Tyrant	3
-Gigantosaurus	2
-Colossal Majesty	1
-Ranging Raptors	1
-Spike-Tailed Ceratops	1
-Verdant Sun's Avatar	3
-Titanic Growth	2
-Bond of Flourishing	1
-Band Together	1
-Giant Growth	1
-Shifting Ceratops	3
-Cherished Hatchling	1
-Commune with Dinosaurs	1
+deck	deck_or_side	count	set_code	name	num
+green_dinos.txt	Deck	21	RIX	Forest	196
+green_dinos.txt	Deck	1	GRN	Might of the Masses	137
+green_dinos.txt	Deck	1	XLN	Ixalli's Diviner	192
+green_dinos.txt	Deck	4	XLN	Drover of the Mighty	187
+green_dinos.txt	Deck	2	XLN	Savage Stomp	205
+green_dinos.txt	Deck	2	M19	Rabid Bite	195
+green_dinos.txt	Deck	3	RIX	Knight of the Stampede	138
+green_dinos.txt	Deck	1	GRN	Crushing Canopy	126
+green_dinos.txt	Deck	1	RIX	Path of Discovery	142
+green_dinos.txt	Deck	2	RIX	Ghalta, Primal Hunger	130
+green_dinos.txt	Deck	3	XLN	Carnage Tyrant	179
+green_dinos.txt	Deck	2	M19	Gigantosaurus	185
+green_dinos.txt	Deck	1	M19	Colossal Majesty	173
+green_dinos.txt	Deck	1	XLN	Ranging Raptors	201
+green_dinos.txt	Deck	1	XLN	Spike-Tailed Ceratops	209
+green_dinos.txt	Deck	3	XLN	Verdant Sun's Avatar	213
+green_dinos.txt	Deck	2	M19	Titanic Growth	205
+green_dinos.txt	Deck	1	WAR	Bond of Flourishing	155
+green_dinos.txt	Deck	1	WAR	Band Together	153
+green_dinos.txt	Deck	1	WAR	Giant Growth	162
+green_dinos.txt	Deck	3	M20	Shifting Ceratops	194
+green_dinos.txt	Deck	1	RIX	Cherished Hatchling	124
+green_dinos.txt	Deck	1	XLN	Commune with Dinosaurs	181

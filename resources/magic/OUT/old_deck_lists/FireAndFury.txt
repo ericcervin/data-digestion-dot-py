@@ -1,20 +1,21 @@
-Drakuseth, Maw of Flames	1
-Shivan Dragon	1
-Immortal Phoenix	1
-Glint-Horn Buccaneer	1
-Leyline of Combustion	1
-Act of Treason	1
-Daggersail Aeronaut	2
-Engulfing Eruption	3
-Fearless Halberdier	3
-Fire Elemental	1
-Goblin Assailant	4
-Goblin Smuggler	2
-Hellkite Whelp	2
-Hostile Minotaur	2
-Infuriate	2
-Mountain	7
-Nimble Birdsticker	2
-Shock	2
-Sure Strike	2
-Tectonic Rift	1
+deck	deck_or_side	count	set_code	name	num
+FireAndFury.txt	Deck	1	M20	Drakuseth, Maw of Flames	136
+FireAndFury.txt	Deck	1	M20	Shivan Dragon	335
+FireAndFury.txt	Deck	1	M20	Immortal Phoenix	332
+FireAndFury.txt	Deck	1	M20	Glint-Horn Buccaneer	141
+FireAndFury.txt	Deck	1	M20	Leyline of Combustion	148
+FireAndFury.txt	Deck	1	M20	Act of Treason	124
+FireAndFury.txt	Deck	2	M20	Daggersail Aeronaut	133
+FireAndFury.txt	Deck	3	M20	Engulfing Eruption	328
+FireAndFury.txt	Deck	3	M20	Fearless Halberdier	329
+FireAndFury.txt	Deck	1	M20	Fire Elemental	138
+FireAndFury.txt	Deck	4	M20	Goblin Assailant	330
+FireAndFury.txt	Deck	2	M20	Goblin Smuggler	144
+FireAndFury.txt	Deck	2	GRN	Hellkite Whelp	106
+FireAndFury.txt	Deck	2	M20	Hostile Minotaur	331
+FireAndFury.txt	Deck	2	M20	Infuriate	145
+FireAndFury.txt	Deck	7	M20	Mountain	273
+FireAndFury.txt	Deck	2	M20	Nimble Birdsticker	333
+FireAndFury.txt	Deck	2	M20	Shock	160
+FireAndFury.txt	Deck	2	GRN	Sure Strike	118
+FireAndFury.txt	Deck	1	M20	Tectonic Rift	161

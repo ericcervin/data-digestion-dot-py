@@ -1,14 +1,15 @@
-Wakeroot Elemental	3
-Leafkin Druid	3
-Barkhide Troll	3
-Bloom Hulk	3
-Forest	6
-Growth Cycle	3
-Rabid Bite	2
-Season of Growth	3
-Titanic Growth	2
-Overgrowth Elemental	3
-Thicket Crasher	3
-Return to Nature	2
-Cavalier of Thorns	3
-Pollenbright Druid	3
+deck	deck_or_side	count	set_code	name	num
+m20_wilds.txt	Deck	3	M20	Wakeroot Elemental	202
+m20_wilds.txt	Deck	3	M20	Leafkin Druid	178
+m20_wilds.txt	Deck	3	M20	Barkhide Troll	165
+m20_wilds.txt	Deck	3	WAR	Bloom Hulk	154
+m20_wilds.txt	Deck	6	M20	Forest	277
+m20_wilds.txt	Deck	3	M20	Growth Cycle	175
+m20_wilds.txt	Deck	2	M20	Rabid Bite	190
+m20_wilds.txt	Deck	3	M20	Season of Growth	191
+m20_wilds.txt	Deck	2	M20	Titanic Growth	343
+m20_wilds.txt	Deck	3	M20	Overgrowth Elemental	187
+m20_wilds.txt	Deck	3	M20	Thicket Crasher	196
+m20_wilds.txt	Deck	2	WAR	Return to Nature	175
+m20_wilds.txt	Deck	3	M20	Cavalier of Thorns	167
+m20_wilds.txt	Deck	3	WAR	Pollenbright Druid	173

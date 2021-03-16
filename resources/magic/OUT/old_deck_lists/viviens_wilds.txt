@@ -1,15 +1,16 @@
-Vivien, Nature's Avenger	1
-Wakeroot Elemental	1
-Ethereal Elk	2
-Aggressive Mammoth	1
-Barkhide Troll	3
-Greenwood Sentinel	4
-Silverback Shaman	3
-Gnarlback Rhino	3
-Vivien's Crocodile	4
-Forest	6
-Growth Cycle	4
-Might of the Masses	1
-Rabid Bite	3
-Season of Growth	2
-Titanic Growth	3
+deck	deck_or_side	count	set_code	name	num
+viviens_wilds.txt	Deck	1	M20	Vivien, Nature's Avenger	298
+viviens_wilds.txt	Deck	1	M20	Wakeroot Elemental	202
+viviens_wilds.txt	Deck	2	M20	Ethereal Elk	299
+viviens_wilds.txt	Deck	1	M20	Aggressive Mammoth	337
+viviens_wilds.txt	Deck	3	M20	Barkhide Troll	165
+viviens_wilds.txt	Deck	4	M20	Greenwood Sentinel	174
+viviens_wilds.txt	Deck	3	M20	Silverback Shaman	195
+viviens_wilds.txt	Deck	3	M20	Gnarlback Rhino	300
+viviens_wilds.txt	Deck	4	M20	Vivien's Crocodile	301
+viviens_wilds.txt	Deck	6	M20	Forest	277
+viviens_wilds.txt	Deck	4	M20	Growth Cycle	175
+viviens_wilds.txt	Deck	1	M20	Might of the Masses	182
+viviens_wilds.txt	Deck	3	M20	Rabid Bite	190
+viviens_wilds.txt	Deck	2	M20	Season of Growth	191
+viviens_wilds.txt	Deck	3	M20	Titanic Growth	343

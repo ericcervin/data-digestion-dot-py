@@ -1,14 +1,15 @@
-Fanatical Firebrand	4
-Mountain	22
-Rigging Runner	4
-Shock	2
-Samut's Sprint	1
-Dual Shot	1
-Goblin Trailblazer	4
-Sure Strike	2
-Swashbuckling	3
-Wily Goblin	4
-Fiery Cannonade	3
-Headstrong Brute	2
-Experimental Frenzy	2
-Infuriate	2
+deck	deck_or_side	count	set_code	name	num
+irl_aggro.txt	Deck	4	RIX	Fanatical Firebrand	101
+irl_aggro.txt	Deck	22	RIX	Mountain	195
+irl_aggro.txt	Deck	4	XLN	Rigging Runner	157
+irl_aggro.txt	Deck	2	M19	Shock	156
+irl_aggro.txt	Deck	1	WAR	Samut's Sprint	142
+irl_aggro.txt	Deck	1	XLN	Dual Shot	141
+irl_aggro.txt	Deck	4	RIX	Goblin Trailblazer	105
+irl_aggro.txt	Deck	2	XLN	Sure Strike	166
+irl_aggro.txt	Deck	3	XLN	Swashbuckling	167
+irl_aggro.txt	Deck	4	XLN	Wily Goblin	174
+irl_aggro.txt	Deck	3	XLN	Fiery Cannonade	143
+irl_aggro.txt	Deck	2	XLN	Headstrong Brute	147
+irl_aggro.txt	Deck	2	GRN	Experimental Frenzy	99
+irl_aggro.txt	Deck	2	M20	Infuriate	145

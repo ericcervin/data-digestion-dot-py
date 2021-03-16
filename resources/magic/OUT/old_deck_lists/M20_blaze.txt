@@ -1,14 +1,15 @@
-Reduce to Ashes	2
-Scampering Scorcher	1
-Chandra's Spitfire	4
-Runaway Steam-Kin	3
-Scorch Spitter	3
-Pyroclastic Elemental	3
-Wildfire Elemental	3
-Mountain	6
-Chandra's Outrage	3
-Infuriate	2
-Shock	4
-Rumbling Ruin	3
-Chandra's Embercat	3
-Thunderkin Awakener	1
+deck	deck_or_side	count	set_code	name	num
+M20_blaze.txt	Deck	2	M20	Reduce to Ashes	155
+M20_blaze.txt	Deck	1	M20	Scampering Scorcher	158
+M20_blaze.txt	Deck	4	M20	Chandra's Spitfire	132
+M20_blaze.txt	Deck	3	GRN	Runaway Steam-Kin	115
+M20_blaze.txt	Deck	3	M20	Scorch Spitter	159
+M20_blaze.txt	Deck	3	M20	Pyroclastic Elemental	296
+M20_blaze.txt	Deck	3	M20	Wildfire Elemental	297
+M20_blaze.txt	Deck	6	M20	Mountain	273
+M20_blaze.txt	Deck	3	M20	Chandra's Outrage	130
+M20_blaze.txt	Deck	2	M20	Infuriate	145
+M20_blaze.txt	Deck	4	M20	Shock	160
+M20_blaze.txt	Deck	3	RNA	Rumbling Ruin	112
+M20_blaze.txt	Deck	3	M20	Chandra's Embercat	129
+M20_blaze.txt	Deck	1	M20	Thunderkin Awakener	162

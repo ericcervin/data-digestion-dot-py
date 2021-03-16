@@ -1,23 +1,24 @@
-Vraska, Golgari Queen	1
-Blacklance Paragon	2
-Knight of the Ebon Legion	2
-Lovestruck Beast	4
-Midnight Reaper	2
-Murderous Rider	2
-Edgewall Innkeeper	4
-Foulmire Knight	4
-Order of Midnight	4
-Smitten Swordmaster	4
-Find // Finality	2
-Disfigure	2
-Lucky Clover	4
-Castle Locthwain	2
-Fabled Passage	1
-Temple of Malady	2
-Jungle Hollow	3
-Massacre Girl	2
-Cling to Dust	1
-Duress	4
-Kraul Harpooner	2
-Noxious Grasp	4
-Thrashing Brontodon	2
+deck	deck_or_side	count	set_code	name	num
+final_adventure.txt	Deck	1	GRN	Vraska, Golgari Queen	213
+final_adventure.txt	Deck	2	ELD	Blacklance Paragon	79
+final_adventure.txt	Deck	2	M20	Knight of the Ebon Legion	105
+final_adventure.txt	Deck	4	ELD	Lovestruck Beast	165
+final_adventure.txt	Deck	2	GRN	Midnight Reaper	77
+final_adventure.txt	Deck	2	ELD	Murderous Rider	97
+final_adventure.txt	Deck	4	ELD	Edgewall Innkeeper	151
+final_adventure.txt	Deck	4	ELD	Foulmire Knight	90
+final_adventure.txt	Deck	4	ELD	Order of Midnight	99
+final_adventure.txt	Deck	4	ELD	Smitten Swordmaster	105
+final_adventure.txt	Deck	2	GRN	Find // Finality	225
+final_adventure.txt	Deck	2	M20	Disfigure	95
+final_adventure.txt	Deck	4	ELD	Lucky Clover	226
+final_adventure.txt	Deck	2	ELD	Castle Locthwain	241
+final_adventure.txt	Deck	1	M21	Fabled Passage	246
+final_adventure.txt	Deck	2	M21	Temple of Malady	253
+final_adventure.txt	Deck	3	M21	Jungle Hollow	247
+final_adventure.txt	Sideboard	2	WAR	Massacre Girl	99
+final_adventure.txt	Sideboard	1	THB	Cling to Dust	87
+final_adventure.txt	Sideboard	4	M21	Duress	96
+final_adventure.txt	Sideboard	2	GRN	Kraul Harpooner	136
+final_adventure.txt	Sideboard	4	M20	Noxious Grasp	110
+final_adventure.txt	Sideboard	2	M21	Thrashing Brontodon	209

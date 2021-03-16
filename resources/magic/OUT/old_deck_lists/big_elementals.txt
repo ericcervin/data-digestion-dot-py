@@ -1,16 +1,17 @@
-Pyroclastic Elemental	2
-Chandra's Spitfire	4
-Scorch Spitter	3
-Infuriate	2
-Shock	2
-Chandra's Outrage	2
-Skewer the Critics	2
-Runaway Steam-Kin	4
-Chandra's Pyrohelix	2
-Chandra's Incinerator	2
-Mountain	24
-Amplifire	1
-Cavalier of Flame	2
-Light Up the Stage	2
-Tectonic Giant	4
-Bolt Hound	2
+deck	deck_or_side	count	set_code	name	num
+big_elementals.txt	Deck	2	M20	Pyroclastic Elemental	296
+big_elementals.txt	Deck	4	M20	Chandra's Spitfire	132
+big_elementals.txt	Deck	3	M20	Scorch Spitter	159
+big_elementals.txt	Deck	2	M20	Infuriate	145
+big_elementals.txt	Deck	2	M20	Shock	160
+big_elementals.txt	Deck	2	M20	Chandra's Outrage	130
+big_elementals.txt	Deck	2	RNA	Skewer the Critics	115
+big_elementals.txt	Deck	4	GRN	Runaway Steam-Kin	115
+big_elementals.txt	Deck	2	WAR	Chandra's Pyrohelix	120
+big_elementals.txt	Deck	2	M21	Chandra's Incinerator	136
+big_elementals.txt	Deck	24	M20	Mountain	273
+big_elementals.txt	Deck	1	RNA	Amplifire	92
+big_elementals.txt	Deck	2	M20	Cavalier of Flame	125
+big_elementals.txt	Deck	2	RNA	Light Up the Stage	107
+big_elementals.txt	Deck	4	THB	Tectonic Giant	158
+big_elementals.txt	Deck	2	M21	Bolt Hound	131

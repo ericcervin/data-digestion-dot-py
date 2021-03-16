@@ -1,17 +1,18 @@
-Diregraf Ghoul	2
-Death Baron	2
-Swamp	25
-Doomed Dissenter	3
-Walking Corpse	3
-Hired Blade	2
-Skymarch Bloodletter	2
-Gravedigger	2
-Infectious Horror	2
-Vampire Sovereign	2
-Gravewaker	1
-Meteor Golem	1
-Open the Graves	1
-Skulduggery	2
-Murder	3
-Strangling Spores	2
-Rise from the Grave	1
+deck	deck_or_side	count	set_code	name	num
+graveyard_bash.txt	Deck	2	M19	Diregraf Ghoul	92
+graveyard_bash.txt	Deck	2	M19	Death Baron	90
+graveyard_bash.txt	Deck	25	RIX	Swamp	194
+graveyard_bash.txt	Deck	3	M19	Doomed Dissenter	93
+graveyard_bash.txt	Deck	3	M19	Walking Corpse	126
+graveyard_bash.txt	Deck	2	M19	Hired Blade	100
+graveyard_bash.txt	Deck	2	M19	Skymarch Bloodletter	119
+graveyard_bash.txt	Deck	2	M19	Gravedigger	98
+graveyard_bash.txt	Deck	2	M19	Infectious Horror	101
+graveyard_bash.txt	Deck	2	M19	Vampire Sovereign	125
+graveyard_bash.txt	Deck	1	M19	Gravewaker	293
+graveyard_bash.txt	Deck	1	M19	Meteor Golem	241
+graveyard_bash.txt	Deck	1	M19	Open the Graves	112
+graveyard_bash.txt	Deck	2	XLN	Skulduggery	123
+graveyard_bash.txt	Deck	3	M19	Murder	110
+graveyard_bash.txt	Deck	2	M19	Strangling Spores	122
+graveyard_bash.txt	Deck	1	M19	Rise from the Grave	117

@@ -1,23 +1,24 @@
-Carnage Tyrant	1
-Llanowar Elves	3
-Forest	10
-Rootbound Crag	1
-Druid of the Cowl	2
-Raptor Hatchling	2
-Mountain	9
-Elvish Rejuvenator	3
-Draconic Disciple	3
-Knight of the Stampede	2
-Frenzied Raptor	2
-Charging Tuskodon	2
-Needletooth Raptor	1
-Charging Monstrosaur	2
-Silverclad Ferocidons	1
-Etali, Primal Storm	1
-Banefire	1
-Pelakka Wurm	1
-Goreclaw, Terror of Qal Sisma	1
-Colossal Majesty	2
-Lightning Strike	3
-Shock	3
-Timber Gorge	4
+deck	deck_or_side	count	set_code	name	num
+primalfury.txt	Deck	1	XLN	Carnage Tyrant	179
+primalfury.txt	Deck	3	M19	Llanowar Elves	314
+primalfury.txt	Deck	10	M19	Forest	277
+primalfury.txt	Deck	1	XLN	Rootbound Crag	256
+primalfury.txt	Deck	2	M19	Druid of the Cowl	177
+primalfury.txt	Deck	2	XLN	Raptor Hatchling	155
+primalfury.txt	Deck	9	M19	Mountain	273
+primalfury.txt	Deck	3	M19	Elvish Rejuvenator	180
+primalfury.txt	Deck	3	M19	Draconic Disciple	215
+primalfury.txt	Deck	2	RIX	Knight of the Stampede	138
+primalfury.txt	Deck	2	XLN	Frenzied Raptor	146
+primalfury.txt	Deck	2	RIX	Charging Tuskodon	97
+primalfury.txt	Deck	1	RIX	Needletooth Raptor	107
+primalfury.txt	Deck	2	XLN	Charging Monstrosaur	138
+primalfury.txt	Deck	1	RIX	Silverclad Ferocidons	115
+primalfury.txt	Deck	1	RIX	Etali, Primal Storm	100
+primalfury.txt	Deck	1	M19	Banefire	130
+primalfury.txt	Deck	1	M19	Pelakka Wurm	192
+primalfury.txt	Deck	1	M19	Goreclaw, Terror of Qal Sisma	186
+primalfury.txt	Deck	2	M19	Colossal Majesty	173
+primalfury.txt	Deck	3	XLN	Lightning Strike	149
+primalfury.txt	Deck	3	M19	Shock	156
+primalfury.txt	Deck	4	M19	Timber Gorge	258

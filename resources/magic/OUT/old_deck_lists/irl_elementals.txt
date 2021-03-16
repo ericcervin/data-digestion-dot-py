@@ -1,16 +1,17 @@
-Pyroclastic Elemental	3
-Chandra's Spitfire	4
-Scorch Spitter	2
-Infuriate	2
-Shock	3
-Chandra's Outrage	3
-Skewer the Critics	3
-Runaway Steam-Kin	4
-Inescapable Blaze	1
-Mountain	24
-Chandra's Embercat	2
-Cavalier of Flame	1
-Light Up the Stage	2
-Amplifire	2
-Scampering Scorcher	1
-Chandra's Pyrohelix	3
+deck	deck_or_side	count	set_code	name	num
+irl_elementals.txt	Deck	3	M20	Pyroclastic Elemental	296
+irl_elementals.txt	Deck	4	M20	Chandra's Spitfire	132
+irl_elementals.txt	Deck	2	M20	Scorch Spitter	159
+irl_elementals.txt	Deck	2	M20	Infuriate	145
+irl_elementals.txt	Deck	3	M20	Shock	160
+irl_elementals.txt	Deck	3	M20	Chandra's Outrage	130
+irl_elementals.txt	Deck	3	RNA	Skewer the Critics	115
+irl_elementals.txt	Deck	4	GRN	Runaway Steam-Kin	115
+irl_elementals.txt	Deck	1	GRN	Inescapable Blaze	107
+irl_elementals.txt	Deck	24	M20	Mountain	273
+irl_elementals.txt	Deck	2	M20	Chandra's Embercat	129
+irl_elementals.txt	Deck	1	M20	Cavalier of Flame	125
+irl_elementals.txt	Deck	2	RNA	Light Up the Stage	107
+irl_elementals.txt	Deck	2	RNA	Amplifire	92
+irl_elementals.txt	Deck	1	M20	Scampering Scorcher	158
+irl_elementals.txt	Deck	3	WAR	Chandra's Pyrohelix	120

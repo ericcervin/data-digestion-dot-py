@@ -1,18 +1,19 @@
-Kraul Raider	2
-Golgari Findbroker	2
-Find // Finality	1
-Status // Statue	4
-Assassin's Trophy	2
-Swarm Guildmage	2
-Kraul Harpooner	4
-Glowspore Shaman	4
-Underrealm Lich	2
-Leyline Prowler	2
-Gift of Strength	2
-Foulmire Knight	3
-Overgrown Tomb	1
-Jungle Hollow	4
-Swamp	9
-Forest	8
-Giant Growth	4
-Dreadmalkin	4
+deck	deck_or_side	count	set_code	name	num
+golgari_aggro.txt	Deck	2	GRN	Kraul Raider	270
+golgari_aggro.txt	Deck	2	GRN	Golgari Findbroker	175
+golgari_aggro.txt	Deck	1	GRN	Find // Finality	225
+golgari_aggro.txt	Deck	4	GRN	Status // Statue	230
+golgari_aggro.txt	Deck	2	GRN	Assassin's Trophy	152
+golgari_aggro.txt	Deck	2	GRN	Swarm Guildmage	201
+golgari_aggro.txt	Deck	4	GRN	Kraul Harpooner	136
+golgari_aggro.txt	Deck	4	GRN	Glowspore Shaman	173
+golgari_aggro.txt	Deck	2	GRN	Underrealm Lich	211
+golgari_aggro.txt	Deck	2	WAR	Leyline Prowler	202
+golgari_aggro.txt	Deck	2	RNA	Gift of Strength	127
+golgari_aggro.txt	Deck	3	ELD	Foulmire Knight	90
+golgari_aggro.txt	Deck	1	GRN	Overgrown Tomb	253
+golgari_aggro.txt	Deck	4	M21	Jungle Hollow	247
+golgari_aggro.txt	Deck	9	GRN	Swamp	262
+golgari_aggro.txt	Deck	8	GRN	Forest	264
+golgari_aggro.txt	Deck	4	WAR	Giant Growth	162
+golgari_aggro.txt	Deck	4	WAR	Dreadmalkin	87

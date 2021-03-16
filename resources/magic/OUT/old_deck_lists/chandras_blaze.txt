@@ -1,14 +1,15 @@
-Chandra, Flame's Fury	1
-Drakuseth, Maw of Flames	1
-Chandra's Flame Wave	2
-Shivan Dragon	1
-Chandra's Spitfire	4
-Ember Hauler	3
-Pack Mastiff	4
-Scorch Spitter	3
-Pyroclastic Elemental	3
-Wildfire Elemental	4
-Mountain	6
-Chandra's Outrage	3
-Infuriate	2
-Shock	4
+deck	deck_or_side	count	set_code	name	num
+chandras_blaze.txt	Deck	1	M20	Chandra, Flame's Fury	294
+chandras_blaze.txt	Deck	1	M20	Drakuseth, Maw of Flames	136
+chandras_blaze.txt	Deck	2	M20	Chandra's Flame Wave	295
+chandras_blaze.txt	Deck	1	M20	Shivan Dragon	335
+chandras_blaze.txt	Deck	4	M20	Chandra's Spitfire	132
+chandras_blaze.txt	Deck	3	M20	Ember Hauler	137
+chandras_blaze.txt	Deck	4	M20	Pack Mastiff	152
+chandras_blaze.txt	Deck	3	M20	Scorch Spitter	159
+chandras_blaze.txt	Deck	3	M20	Pyroclastic Elemental	296
+chandras_blaze.txt	Deck	4	M20	Wildfire Elemental	297
+chandras_blaze.txt	Deck	6	M20	Mountain	273
+chandras_blaze.txt	Deck	3	M20	Chandra's Outrage	130
+chandras_blaze.txt	Deck	2	M20	Infuriate	145
+chandras_blaze.txt	Deck	4	M20	Shock	160

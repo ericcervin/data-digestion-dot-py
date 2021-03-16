@@ -1,15 +1,16 @@
-Knight of the Ebon Legion	1
-Gravewaker	1
-Vampire of the Dire Moon	4
-Child of Night	3
-Spinal Centipede	3
-Dark Remedy	3
-Vampire Opportunist	3
-Sorin's Thirst	4
-Vindictive Vampire	3
-Bloodthirsty Aerialist	2
-Disfigure	2
-Murder	3
-Bone Splinters	2
-Meteor Golem	1
-Swamp	25
+deck	deck_or_side	count	set_code	name	num
+out_for_blood.txt	Deck	1	M20	Knight of the Ebon Legion	105
+out_for_blood.txt	Deck	1	M20	Gravewaker	323
+out_for_blood.txt	Deck	4	M20	Vampire of the Dire Moon	120
+out_for_blood.txt	Deck	3	GRN	Child of Night	65
+out_for_blood.txt	Deck	3	GRN	Spinal Centipede	86
+out_for_blood.txt	Deck	3	M20	Dark Remedy	321
+out_for_blood.txt	Deck	3	M20	Vampire Opportunist	326
+out_for_blood.txt	Deck	4	M20	Sorin's Thirst	325
+out_for_blood.txt	Deck	3	RNA	Vindictive Vampire	90
+out_for_blood.txt	Deck	2	M20	Bloodthirsty Aerialist	91
+out_for_blood.txt	Deck	2	M20	Disfigure	95
+out_for_blood.txt	Deck	3	M20	Murder	109
+out_for_blood.txt	Deck	2	M20	Bone Splinters	92
+out_for_blood.txt	Deck	1	M20	Meteor Golem	232
+out_for_blood.txt	Deck	25	M20	Swamp	269

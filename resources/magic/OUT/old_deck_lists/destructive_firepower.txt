@@ -1,15 +1,16 @@
-Drakuseth, Maw of Flames	1
-Shivan Dragon	1
-Chandra's Spitfire	4
-Scorch Spitter	2
-Pack Mastiff	4
-Infuriate	2
-Shock	4
-Chandra's Outrage	3
-Goblin Gathering	4
-Fire Urchin	2
-Spellgorger Weird	3
-Chandra's Pyrohelix	2
-Inescapable Blaze	2
-Meteor Golem	1
-Mountain	25
+deck	deck_or_side	count	set_code	name	num
+destructive_firepower.txt	Deck	1	M20	Drakuseth, Maw of Flames	136
+destructive_firepower.txt	Deck	1	M20	Shivan Dragon	335
+destructive_firepower.txt	Deck	4	M20	Chandra's Spitfire	132
+destructive_firepower.txt	Deck	2	M20	Scorch Spitter	159
+destructive_firepower.txt	Deck	4	M20	Pack Mastiff	152
+destructive_firepower.txt	Deck	2	M20	Infuriate	145
+destructive_firepower.txt	Deck	4	M20	Shock	160
+destructive_firepower.txt	Deck	3	M20	Chandra's Outrage	130
+destructive_firepower.txt	Deck	4	RNA	Goblin Gathering	104
+destructive_firepower.txt	Deck	2	GRN	Fire Urchin	101
+destructive_firepower.txt	Deck	3	WAR	Spellgorger Weird	145
+destructive_firepower.txt	Deck	2	WAR	Chandra's Pyrohelix	120
+destructive_firepower.txt	Deck	2	GRN	Inescapable Blaze	107
+destructive_firepower.txt	Deck	1	M20	Meteor Golem	232
+destructive_firepower.txt	Deck	25	M20	Mountain	273

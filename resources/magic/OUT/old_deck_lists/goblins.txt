@@ -1,13 +1,14 @@
-Fiery Cannonade	3
-Headstrong Brute	2
-Experimental Frenzy	2
-Mountain	22
-Storm Strike	2
-Wily Goblin	4
-Fanatical Firebrand	4
-Goblin Trailblazer	4
-Rigging Runner	4
-Swashbuckling	3
-Samut's Sprint	2
-Buccaneer's Bravado	2
-Infuriate	2
+deck	deck_or_side	count	set_code	name	num
+goblins.txt	Deck	3	XLN	Fiery Cannonade	143
+goblins.txt	Deck	2	XLN	Headstrong Brute	147
+goblins.txt	Deck	2	GRN	Experimental Frenzy	99
+goblins.txt	Deck	22	RIX	Mountain	195
+goblins.txt	Deck	2	RNA	Storm Strike	119
+goblins.txt	Deck	4	XLN	Wily Goblin	174
+goblins.txt	Deck	4	RIX	Fanatical Firebrand	101
+goblins.txt	Deck	4	RIX	Goblin Trailblazer	105
+goblins.txt	Deck	4	XLN	Rigging Runner	157
+goblins.txt	Deck	3	XLN	Swashbuckling	167
+goblins.txt	Deck	2	WAR	Samut's Sprint	142
+goblins.txt	Deck	2	RIX	Buccaneer's Bravado	96
+goblins.txt	Deck	2	M20	Infuriate	145

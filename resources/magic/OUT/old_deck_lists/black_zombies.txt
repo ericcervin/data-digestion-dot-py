@@ -1,17 +1,18 @@
-Dreadmalkin	2
-Vizier of the Scorpion	2
-Swamp	25
-Lazotep Reaver	4
-Eternal Taskmaster	2
-Shriekdiver	3
-Bleeding Edge	2
-Herald of the Dreadhorde	4
-Lazotep Behemoth	2
-Dead Revels	2
-Bolas's Citadel	2
-Awaken the Erstwhile	1
-Bone Splinters	2
-Murder	3
-God-Eternal Bontu	1
-Spark Reaper	2
-Bond of Revival	1
+deck	deck_or_side	count	set_code	name	num
+black_zombies.txt	Deck	2	WAR	Dreadmalkin	87
+black_zombies.txt	Deck	2	WAR	Vizier of the Scorpion	111
+black_zombies.txt	Deck	25	RIX	Swamp	194
+black_zombies.txt	Deck	4	WAR	Lazotep Reaver	96
+black_zombies.txt	Deck	2	WAR	Eternal Taskmaster	90
+black_zombies.txt	Deck	3	WAR	Shriekdiver	103
+black_zombies.txt	Deck	2	WAR	Bleeding Edge	78
+black_zombies.txt	Deck	4	WAR	Herald of the Dreadhorde	93
+black_zombies.txt	Deck	2	WAR	Lazotep Behemoth	95
+black_zombies.txt	Deck	2	RNA	Dead Revels	71
+black_zombies.txt	Deck	2	WAR	Bolas's Citadel	79
+black_zombies.txt	Deck	1	RNA	Awaken the Erstwhile	61
+black_zombies.txt	Deck	2	M20	Bone Splinters	92
+black_zombies.txt	Deck	3	M19	Murder	110
+black_zombies.txt	Deck	1	WAR	God-Eternal Bontu	92
+black_zombies.txt	Deck	2	WAR	Spark Reaper	106
+black_zombies.txt	Deck	1	WAR	Bond of Revival	80

@@ -1,22 +1,23 @@
-Izoni, Thousand-Eyed	1
-Golgari Findbroker	2
-Find // Finality	1
-Status // Statue	4
-Assassin's Trophy	1
-Giant Growth	1
-Rhizome Lurcher	2
-Swarm Guildmage	2
-Kraul Harpooner	3
-Glowspore Shaman	4
-Deathsprout	3
-Underrealm Lich	2
-Leyline Prowler	2
-Storrev, Devkarin Lich	1
-Gift of Strength	2
-Plaguecrafter	2
-Midnight Reaper	1
-District Guide	2
-Overgrown Tomb	1
-Forest	9
-Swamp	10
-Jungle Hollow	4
+deck	deck_or_side	count	set_code	name	num
+extra_golgari.txt	Deck	1	GRN	Izoni, Thousand-Eyed	180
+extra_golgari.txt	Deck	2	GRN	Golgari Findbroker	175
+extra_golgari.txt	Deck	1	GRN	Find // Finality	225
+extra_golgari.txt	Deck	4	GRN	Status // Statue	230
+extra_golgari.txt	Deck	1	GRN	Assassin's Trophy	152
+extra_golgari.txt	Deck	1	WAR	Giant Growth	162
+extra_golgari.txt	Deck	2	GRN	Rhizome Lurcher	196
+extra_golgari.txt	Deck	2	GRN	Swarm Guildmage	201
+extra_golgari.txt	Deck	3	GRN	Kraul Harpooner	136
+extra_golgari.txt	Deck	4	GRN	Glowspore Shaman	173
+extra_golgari.txt	Deck	3	WAR	Deathsprout	189
+extra_golgari.txt	Deck	2	GRN	Underrealm Lich	211
+extra_golgari.txt	Deck	2	WAR	Leyline Prowler	202
+extra_golgari.txt	Deck	1	WAR	Storrev, Devkarin Lich	219
+extra_golgari.txt	Deck	2	RNA	Gift of Strength	127
+extra_golgari.txt	Deck	2	GRN	Plaguecrafter	82
+extra_golgari.txt	Deck	1	GRN	Midnight Reaper	77
+extra_golgari.txt	Deck	2	GRN	District Guide	128
+extra_golgari.txt	Deck	1	GRN	Overgrown Tomb	253
+extra_golgari.txt	Deck	9	GRN	Forest	264
+extra_golgari.txt	Deck	10	GRN	Swamp	262
+extra_golgari.txt	Deck	4	M21	Jungle Hollow	247

@@ -151,10 +151,13 @@ def print_deck_data():
     for dk in all_decks:
         with open("./resources/magic/OUT/old_deck_lists/" + dk, "w") as deck_file:
           #print(dk)
-          query = 'SELECT dc.name, dc.count FROM deck_card dc join card cd on dc.set_code = cd.set_code and dc.num = cd.number where dc.deck = \"' + dk + '\"'
-          #print(query)
+          query = 'SELECT dc.* FROM deck_card dc join card cd on dc.set_code = cd.set_code and dc.num = cd.number where dc.deck = \"' + dk + '\"'
+          header = ('\t').join(["deck", "deck_or_side", "count", "set_code", "name", "num"])
+          deck_file.write(header + '\n')                               
           for crd in c.execute(query):
-            deck_file.write(str(crd[0] + '\t' + str(crd[1]) + '\n'))
+            output = crd[0] + '\t' + crd[1] + '\t' + str(crd[2]) + '\t' + crd[3] + '\t' + crd[4] + '\t' + str(crd[5]) + '\n'
+            #(deck text, deck_or_side text, count integer , set_code text, name text, num integer)
+            deck_file.write(output)
 
     conn.close()
 
@@ -187,9 +190,6 @@ def print_set_data(set_data):
            sub_type = st[0]
            sub_counts[sub_type] = sub_counts.get(sub_type,0) + st[1]
     
-
-    #for st in sorted(sub_counts.keys()):
-    #    print(st + "\t" + str(sub_counts[st]))
     with open("./resources/magic/OUT/subtype_pivot_table.txt", "w") as card_file:    
          header = "subtype\t" + ('\t').join(sets) + '\ttotal\n'
          card_file.write(header)

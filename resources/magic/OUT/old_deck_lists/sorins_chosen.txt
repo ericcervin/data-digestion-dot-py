@@ -1,14 +1,15 @@
-Sorin, Vampire Lord	1
-Dread Presence	1
-Sorin's Guide	2
-Gravewaker	1
-Blood Burglar	4
-Bloodthirsty Aerialist	4
-Vampire of the Dire Moon	4
-Savage Gorger	4
-Thirsting Bloodlord	3
-Vampire Opportunist	2
-Swamp	7
-Murder	3
-Dark Remedy	2
-Sorin's Thirst	4
+deck	deck_or_side	count	set_code	name	num
+sorins_chosen.txt	Deck	1	M20	Sorin, Vampire Lord	290
+sorins_chosen.txt	Deck	1	M20	Dread Presence	96
+sorins_chosen.txt	Deck	2	M20	Sorin's Guide	292
+sorins_chosen.txt	Deck	1	M20	Gravewaker	323
+sorins_chosen.txt	Deck	4	M20	Blood Burglar	88
+sorins_chosen.txt	Deck	4	M20	Bloodthirsty Aerialist	91
+sorins_chosen.txt	Deck	4	M20	Vampire of the Dire Moon	120
+sorins_chosen.txt	Deck	4	M20	Savage Gorger	291
+sorins_chosen.txt	Deck	3	M20	Thirsting Bloodlord	293
+sorins_chosen.txt	Deck	2	M20	Vampire Opportunist	326
+sorins_chosen.txt	Deck	7	M20	Swamp	269
+sorins_chosen.txt	Deck	3	M20	Murder	109
+sorins_chosen.txt	Deck	2	M20	Dark Remedy	321
+sorins_chosen.txt	Deck	4	M20	Sorin's Thirst	325

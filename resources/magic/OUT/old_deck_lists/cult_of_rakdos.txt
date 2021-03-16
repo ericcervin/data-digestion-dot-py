@@ -1,23 +1,24 @@
-Bedeck // Bedazzle	1
-Spawn of Mayhem	1
-Carnival // Carnage	2
-Bedevil	1
-Cult Guildmage	2
-Blade Juggler	2
-Skewer the Critics	3
-Light Up the Stage	2
-Footlight Fiend	3
-Get the Point	2
-Rakdos Firewheeler	2
-Hackrobat	3
-Judith, the Scourge Diva	1
-Mayhem Devil	1
-Rakdos Roustabout	2
-Spear Spewer	2
-Theater of Horrors	1
-Shock	3
-Dreadhorde Butcher	1
-Blood Crypt	1
-Rakdos Guildgate	4
-Swamp	10
-Mountain	10
+deck	deck_or_side	count	set_code	name	num
+cult_of_rakdos.txt	Deck	1	RNA	Bedeck // Bedazzle	221
+cult_of_rakdos.txt	Deck	1	RNA	Spawn of Mayhem	85
+cult_of_rakdos.txt	Deck	2	RNA	Carnival // Carnage	222
+cult_of_rakdos.txt	Deck	1	RNA	Bedevil	157
+cult_of_rakdos.txt	Deck	2	RNA	Cult Guildmage	164
+cult_of_rakdos.txt	Deck	2	RNA	Blade Juggler	63
+cult_of_rakdos.txt	Deck	3	RNA	Skewer the Critics	115
+cult_of_rakdos.txt	Deck	2	RNA	Light Up the Stage	107
+cult_of_rakdos.txt	Deck	3	RNA	Footlight Fiend	216
+cult_of_rakdos.txt	Deck	2	RNA	Get the Point	176
+cult_of_rakdos.txt	Deck	2	RNA	Rakdos Firewheeler	197
+cult_of_rakdos.txt	Deck	3	RNA	Hackrobat	181
+cult_of_rakdos.txt	Deck	1	RNA	Judith, the Scourge Diva	185
+cult_of_rakdos.txt	Deck	1	WAR	Mayhem Devil	204
+cult_of_rakdos.txt	Deck	2	RNA	Rakdos Roustabout	198
+cult_of_rakdos.txt	Deck	2	RNA	Spear Spewer	117
+cult_of_rakdos.txt	Deck	1	RNA	Theater of Horrors	213
+cult_of_rakdos.txt	Deck	3	M20	Shock	160
+cult_of_rakdos.txt	Deck	1	WAR	Dreadhorde Butcher	194
+cult_of_rakdos.txt	Deck	1	RNA	Blood Crypt	245
+cult_of_rakdos.txt	Deck	4	RNA	Rakdos Guildgate	255
+cult_of_rakdos.txt	Deck	10	RNA	Swamp	262
+cult_of_rakdos.txt	Deck	10	RNA	Mountain	263

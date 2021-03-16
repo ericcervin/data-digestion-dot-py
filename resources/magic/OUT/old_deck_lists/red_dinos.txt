@@ -1,24 +1,25 @@
-Marauding Raptor	1
-Mountain	21
-Frenzied Raptor	3
-Rile	2
-Otepec Huntmaster	4
-Tilonalli's Skinshifter	2
-Thrash of Raptors	1
-Charging Monstrosaur	2
-Raptor Hatchling	2
-Storm Strike	1
-Tilonalli's Knight	1
-Burning Sun's Avatar	2
-Needletooth Raptor	1
-Sure Strike	3
-Dinosaur Stampede	2
-Silverclad Ferocidons	1
-Samut's Sprint	2
-Charging Tuskodon	2
-Tilonalli's Crown	2
-Forerunner of the Empire	1
-Etali, Primal Storm	1
-Tilonalli's Summoner	1
-Frilled Deathspitter	2
-Shake the Foundations	1
+deck	deck_or_side	count	set_code	name	num
+red_dinos.txt	Deck	1	M20	Marauding Raptor	150
+red_dinos.txt	Deck	21	RIX	Mountain	195
+red_dinos.txt	Deck	3	XLN	Frenzied Raptor	146
+red_dinos.txt	Deck	2	XLN	Rile	158
+red_dinos.txt	Deck	4	XLN	Otepec Huntmaster	153
+red_dinos.txt	Deck	2	XLN	Tilonalli's Skinshifter	170
+red_dinos.txt	Deck	1	XLN	Thrash of Raptors	168
+red_dinos.txt	Deck	2	XLN	Charging Monstrosaur	138
+red_dinos.txt	Deck	2	XLN	Raptor Hatchling	155
+red_dinos.txt	Deck	1	RNA	Storm Strike	119
+red_dinos.txt	Deck	1	XLN	Tilonalli's Knight	169
+red_dinos.txt	Deck	2	XLN	Burning Sun's Avatar	135
+red_dinos.txt	Deck	1	RIX	Needletooth Raptor	107
+red_dinos.txt	Deck	3	M19	Sure Strike	161
+red_dinos.txt	Deck	2	XLN	Dinosaur Stampede	140
+red_dinos.txt	Deck	1	RIX	Silverclad Ferocidons	115
+red_dinos.txt	Deck	2	WAR	Samut's Sprint	142
+red_dinos.txt	Deck	2	RIX	Charging Tuskodon	97
+red_dinos.txt	Deck	2	RIX	Tilonalli's Crown	120
+red_dinos.txt	Deck	1	RIX	Forerunner of the Empire	102
+red_dinos.txt	Deck	1	RIX	Etali, Primal Storm	100
+red_dinos.txt	Deck	1	RIX	Tilonalli's Summoner	121
+red_dinos.txt	Deck	2	RIX	Frilled Deathspitter	104
+red_dinos.txt	Deck	1	RIX	Shake the Foundations	113

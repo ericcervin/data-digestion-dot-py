@@ -1,14 +1,15 @@
-Goblin Banneret	2
-Infuriate	4
-Tin Street Dodger	2
-Ferocity of the Wilds	1
-Ember Hauler	2
-Legion Warboss	1
-Krenko, Tin Street Kingpin	4
-Clamor Shaman	4
-Cavalcade of Calamity	3
-Torch Courier	2
-Goblin Smuggler	3
-Spear Spewer	1
-Goblin Ringleader	3
-Goblin Gathering	4
+deck	deck_or_side	count	set_code	name	num
+goblin_charge.txt	Deck	2	GRN	Goblin Banneret	102
+goblin_charge.txt	Deck	4	M20	Infuriate	145
+goblin_charge.txt	Deck	2	RNA	Tin Street Dodger	120
+goblin_charge.txt	Deck	1	ELD	Ferocity of the Wilds	123
+goblin_charge.txt	Deck	2	M20	Ember Hauler	137
+goblin_charge.txt	Deck	1	GRN	Legion Warboss	109
+goblin_charge.txt	Deck	4	WAR	Krenko, Tin Street Kingpin	137
+goblin_charge.txt	Deck	4	RNA	Clamor Shaman	96
+goblin_charge.txt	Deck	3	RNA	Cavalcade of Calamity	95
+goblin_charge.txt	Deck	2	GRN	Torch Courier	119
+goblin_charge.txt	Deck	3	M20	Goblin Smuggler	144
+goblin_charge.txt	Deck	1	RNA	Spear Spewer	117
+goblin_charge.txt	Deck	3	M20	Goblin Ringleader	143
+goblin_charge.txt	Deck	4	RNA	Goblin Gathering	104

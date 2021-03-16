@@ -1,18 +1,19 @@
-Pyroclastic Elemental	1
-Chandra's Spitfire	4
-Scorch Spitter	4
-Infuriate	3
-Shock	2
-Chandra's Outrage	1
-Skewer the Critics	1
-Runaway Steam-Kin	4
-Chandra's Pyrohelix	2
-Chandra's Incinerator	1
-Mountain	21
-Cavalcade of Calamity	3
-Light Up the Stage	1
-Tectonic Giant	1
-Bolt Hound	3
-Thunderkin Awakener	3
-Chandra's Pyreling	4
-Scampering Scorcher	1
+deck	deck_or_side	count	set_code	name	num
+small_elementals.txt	Deck	1	M20	Pyroclastic Elemental	296
+small_elementals.txt	Deck	4	M20	Chandra's Spitfire	132
+small_elementals.txt	Deck	4	M20	Scorch Spitter	159
+small_elementals.txt	Deck	3	M20	Infuriate	145
+small_elementals.txt	Deck	2	M20	Shock	160
+small_elementals.txt	Deck	1	M20	Chandra's Outrage	130
+small_elementals.txt	Deck	1	RNA	Skewer the Critics	115
+small_elementals.txt	Deck	4	GRN	Runaway Steam-Kin	115
+small_elementals.txt	Deck	2	WAR	Chandra's Pyrohelix	120
+small_elementals.txt	Deck	1	M21	Chandra's Incinerator	136
+small_elementals.txt	Deck	21	M20	Mountain	273
+small_elementals.txt	Deck	3	RNA	Cavalcade of Calamity	95
+small_elementals.txt	Deck	1	RNA	Light Up the Stage	107
+small_elementals.txt	Deck	1	THB	Tectonic Giant	158
+small_elementals.txt	Deck	3	M21	Bolt Hound	131
+small_elementals.txt	Deck	3	M20	Thunderkin Awakener	162
+small_elementals.txt	Deck	4	M21	Chandra's Pyreling	138
+small_elementals.txt	Deck	1	M20	Scampering Scorcher	158

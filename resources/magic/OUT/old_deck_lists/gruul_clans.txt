@@ -1,25 +1,26 @@
-Ravager Wurm	1
-Sunder Shaman	2
-Thrash // Threat	1
-Savage Smash	2
-Rubblebelt Runner	1
-Rhythm of the Wild	2
-Living Twister	1
-Bolrac-Clan Crusher	1
-Collision // Colossus	2
-Frenzied Arynx	2
-Gruul Spellbreaker	1
-End-Raze Forerunners	1
-Zhur-Taa Goblin	3
-Pelt Collector	1
-Clan Guildmage	2
-Clamor Shaman	2
-Burning-Tree Vandal	2
-Giant Growth	3
-Stomping Ground	1
-Gruul Guildgate	4
-Mountain	10
-Forest	10
-Domri's Ambush	1
-Leafkin Druid	2
-Lava Coil	2
+deck	deck_or_side	count	set_code	name	num
+gruul_clans.txt	Deck	1	RNA	Ravager Wurm	200
+gruul_clans.txt	Deck	2	RNA	Sunder Shaman	210
+gruul_clans.txt	Deck	1	RNA	Thrash // Threat	229
+gruul_clans.txt	Deck	2	RNA	Savage Smash	203
+gruul_clans.txt	Deck	1	RNA	Rubblebelt Runner	202
+gruul_clans.txt	Deck	2	RNA	Rhythm of the Wild	201
+gruul_clans.txt	Deck	1	WAR	Living Twister	203
+gruul_clans.txt	Deck	1	RNA	Bolrac-Clan Crusher	159
+gruul_clans.txt	Deck	2	RNA	Collision // Colossus	223
+gruul_clans.txt	Deck	2	RNA	Frenzied Arynx	173
+gruul_clans.txt	Deck	1	RNA	Gruul Spellbreaker	179
+gruul_clans.txt	Deck	1	RNA	End-Raze Forerunners	124
+gruul_clans.txt	Deck	3	RNA	Zhur-Taa Goblin	215
+gruul_clans.txt	Deck	1	GRN	Pelt Collector	141
+gruul_clans.txt	Deck	2	RNA	Clan Guildmage	162
+gruul_clans.txt	Deck	2	RNA	Clamor Shaman	96
+gruul_clans.txt	Deck	2	RNA	Burning-Tree Vandal	94
+gruul_clans.txt	Deck	3	WAR	Giant Growth	162
+gruul_clans.txt	Deck	1	RNA	Stomping Ground	259
+gruul_clans.txt	Deck	4	RNA	Gruul Guildgate	249
+gruul_clans.txt	Deck	10	RNA	Mountain	263
+gruul_clans.txt	Deck	10	RNA	Forest	264
+gruul_clans.txt	Deck	1	WAR	Domri's Ambush	192
+gruul_clans.txt	Deck	2	M20	Leafkin Druid	178
+gruul_clans.txt	Deck	2	GRN	Lava Coil	108

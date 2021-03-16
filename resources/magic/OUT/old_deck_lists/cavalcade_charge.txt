@@ -1,17 +1,18 @@
-Fervent Champion	4
-Scorch Spitter	4
-Tin Street Dodger	3
-Rimrock Knight	4
-Runaway Steam-Kin	4
-Bonecrusher Giant	4
-Torbran, Thane of Red Fell	4
-Chandra, Acolyte of Flame	3
-Light Up the Stage	4
-Embercleave	1
-Cavalcade of Calamity	4
-Castle Embereth	3
-Satyr's Cunning	3
-Shock	4
-Slaying Fire	3
-Tibalt, Rakish Instigator	2
-Experimental Frenzy	3
+deck	deck_or_side	count	set_code	name	num
+cavalcade_charge.txt	Deck	4	ELD	Fervent Champion	124
+cavalcade_charge.txt	Deck	4	M20	Scorch Spitter	159
+cavalcade_charge.txt	Deck	3	RNA	Tin Street Dodger	120
+cavalcade_charge.txt	Deck	4	ELD	Rimrock Knight	137
+cavalcade_charge.txt	Deck	4	GRN	Runaway Steam-Kin	115
+cavalcade_charge.txt	Deck	4	ELD	Bonecrusher Giant	115
+cavalcade_charge.txt	Deck	4	ELD	Torbran, Thane of Red Fell	147
+cavalcade_charge.txt	Deck	3	M20	Chandra, Acolyte of Flame	126
+cavalcade_charge.txt	Deck	4	RNA	Light Up the Stage	107
+cavalcade_charge.txt	Deck	1	ELD	Embercleave	120
+cavalcade_charge.txt	Deck	4	RNA	Cavalcade of Calamity	95
+cavalcade_charge.txt	Deck	3	ELD	Castle Embereth	239
+cavalcade_charge.txt	Sideboard	3	THB	Satyr's Cunning	152
+cavalcade_charge.txt	Sideboard	4	M20	Shock	160
+cavalcade_charge.txt	Sideboard	3	ELD	Slaying Fire	143
+cavalcade_charge.txt	Sideboard	2	WAR	Tibalt, Rakish Instigator	146
+cavalcade_charge.txt	Sideboard	3	GRN	Experimental Frenzy	99

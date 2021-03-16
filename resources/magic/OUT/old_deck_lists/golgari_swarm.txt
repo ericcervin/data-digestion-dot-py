@@ -1,25 +1,26 @@
-Izoni, Thousand-Eyed	1
-Golgari Findbroker	2
-Find // Finality	1
-Status // Statue	2
-Assassin's Trophy	1
-Molderhulk	1
-Rhizome Lurcher	2
-Casualties of War	1
-Undercity Uprising	1
-Swarm Guildmage	1
-Kraul Harpooner	2
-Glowspore Shaman	4
-Deathsprout	2
-Underrealm Lich	1
-Leyline Prowler	2
-Lotleth Giant	2
-Kraul Foragers	1
-Gift of Strength	3
-Plaguecrafter	2
-Midnight Reaper	1
-District Guide	2
-Overgrown Tomb	1
-Golgari Guildgate	4
-Forest	10
-Swamp	10
+deck	deck_or_side	count	set_code	name	num
+golgari_swarm.txt	Deck	1	GRN	Izoni, Thousand-Eyed	180
+golgari_swarm.txt	Deck	2	GRN	Golgari Findbroker	175
+golgari_swarm.txt	Deck	1	GRN	Find // Finality	225
+golgari_swarm.txt	Deck	2	GRN	Status // Statue	230
+golgari_swarm.txt	Deck	1	GRN	Assassin's Trophy	152
+golgari_swarm.txt	Deck	1	GRN	Molderhulk	190
+golgari_swarm.txt	Deck	2	GRN	Rhizome Lurcher	196
+golgari_swarm.txt	Deck	1	WAR	Casualties of War	187
+golgari_swarm.txt	Deck	1	GRN	Undercity Uprising	210
+golgari_swarm.txt	Deck	1	GRN	Swarm Guildmage	201
+golgari_swarm.txt	Deck	2	GRN	Kraul Harpooner	136
+golgari_swarm.txt	Deck	4	GRN	Glowspore Shaman	173
+golgari_swarm.txt	Deck	2	WAR	Deathsprout	189
+golgari_swarm.txt	Deck	1	GRN	Underrealm Lich	211
+golgari_swarm.txt	Deck	2	WAR	Leyline Prowler	202
+golgari_swarm.txt	Deck	2	GRN	Lotleth Giant	74
+golgari_swarm.txt	Deck	1	GRN	Kraul Foragers	135
+golgari_swarm.txt	Deck	3	RNA	Gift of Strength	127
+golgari_swarm.txt	Deck	2	GRN	Plaguecrafter	82
+golgari_swarm.txt	Deck	1	GRN	Midnight Reaper	77
+golgari_swarm.txt	Deck	2	GRN	District Guide	128
+golgari_swarm.txt	Deck	1	GRN	Overgrown Tomb	253
+golgari_swarm.txt	Deck	4	GRN	Golgari Guildgate	248
+golgari_swarm.txt	Deck	10	GRN	Forest	264
+golgari_swarm.txt	Deck	10	GRN	Swamp	262

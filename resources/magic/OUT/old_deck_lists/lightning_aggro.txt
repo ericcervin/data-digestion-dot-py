@@ -1,13 +1,14 @@
-Fanatical Firebrand	4
-Mountain	22
-Runaway Steam-Kin	4
-Viashino Pyromancer	4
-Rekindling Phoenix	1
-Lava Coil	2
-Banefire	1
-Shock	4
-Lightning Strike	4
-Experimental Frenzy	2
-Lightning Mare	4
-Diamond Mare	4
-Fiery Cannonade	3
+deck	deck_or_side	count	set_code	name	num
+lightning_aggro.txt	Deck	4	RIX	Fanatical Firebrand	101
+lightning_aggro.txt	Deck	22	RIX	Mountain	195
+lightning_aggro.txt	Deck	4	GRN	Runaway Steam-Kin	115
+lightning_aggro.txt	Deck	4	M19	Viashino Pyromancer	166
+lightning_aggro.txt	Deck	1	RIX	Rekindling Phoenix	111
+lightning_aggro.txt	Deck	2	GRN	Lava Coil	108
+lightning_aggro.txt	Deck	1	M19	Banefire	130
+lightning_aggro.txt	Deck	4	M19	Shock	156
+lightning_aggro.txt	Deck	4	XLN	Lightning Strike	149
+lightning_aggro.txt	Deck	2	GRN	Experimental Frenzy	99
+lightning_aggro.txt	Sideboard	4	M19	Lightning Mare	151
+lightning_aggro.txt	Sideboard	4	M19	Diamond Mare	231
+lightning_aggro.txt	Sideboard	3	XLN	Fiery Cannonade	143

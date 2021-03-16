@@ -1,18 +1,19 @@
-Ghalta, Primal Hunger	1
-Gigantosaurus	1
-Prodigious Growth	1
-Aggressive Mammoth	1
-Meteor Golem	1
-Verdant Rebirth	1
-Blanchwood Armor	2
-Druid of the Cowl	2
-Elvish Rejuvenator	2
-Greenwood Sentinel	2
-Plummet	2
-Vigilant Baloth	2
-Bristling Boar	3
-Centaur Courser	3
-Highland Game	3
-Rabid Bite	3
-Titanic Growth	3
-Forest	25
+deck	deck_or_side	count	set_code	name	num
+forestsmight.txt	Deck	1	RIX	Ghalta, Primal Hunger	130
+forestsmight.txt	Deck	1	M19	Gigantosaurus	185
+forestsmight.txt	Deck	1	M19	Prodigious Growth	194
+forestsmight.txt	Deck	1	M19	Aggressive Mammoth	302
+forestsmight.txt	Deck	1	M19	Meteor Golem	241
+forestsmight.txt	Deck	1	XLN	Verdant Rebirth	212
+forestsmight.txt	Deck	2	M19	Blanchwood Armor	169
+forestsmight.txt	Deck	2	M19	Druid of the Cowl	177
+forestsmight.txt	Deck	2	M19	Elvish Rejuvenator	180
+forestsmight.txt	Deck	2	M19	Greenwood Sentinel	187
+forestsmight.txt	Deck	2	RIX	Plummet	143
+forestsmight.txt	Deck	2	M19	Vigilant Baloth	206
+forestsmight.txt	Deck	3	M19	Bristling Boar	170
+forestsmight.txt	Deck	3	M19	Centaur Courser	171
+forestsmight.txt	Deck	3	M19	Highland Game	188
+forestsmight.txt	Deck	3	M19	Rabid Bite	195
+forestsmight.txt	Deck	3	M19	Titanic Growth	205
+forestsmight.txt	Deck	25	M19	Forest	277

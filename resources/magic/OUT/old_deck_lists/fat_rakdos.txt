@@ -1,22 +1,23 @@
-Spear Spewer	2
-Fetid Imp	4
-Cult Guildmage	2
-Rakdos, the Showstopper	2
-Hackrobat	2
-Rakdos Firewheeler	2
-Judith, the Scourge Diva	3
-Light Up the Stage	1
-Scorching Dragonfire	2
-Fireblade Artist	2
-Rix Maadi Reveler	2
-Spawn of Mayhem	3
-Shock	2
-Carnival // Carnage	1
-Chandra's Pyrohelix	1
-Bedeck // Bedazzle	1
-Skewer the Critics	1
-Rakdos Guildgate	2
-Blood Crypt	2
-Theater of Horrors	1
-Bedevil	2
-Bloodfell Caves	4
+deck	deck_or_side	count	set_code	name	num
+fat_rakdos.txt	Deck	2	RNA	Spear Spewer	117
+fat_rakdos.txt	Deck	4	M21	Fetid Imp	98
+fat_rakdos.txt	Deck	2	RNA	Cult Guildmage	164
+fat_rakdos.txt	Deck	2	RNA	Rakdos, the Showstopper	199
+fat_rakdos.txt	Deck	2	RNA	Hackrobat	181
+fat_rakdos.txt	Deck	2	RNA	Rakdos Firewheeler	197
+fat_rakdos.txt	Deck	3	RNA	Judith, the Scourge Diva	185
+fat_rakdos.txt	Deck	1	RNA	Light Up the Stage	107
+fat_rakdos.txt	Deck	2	ELD	Scorching Dragonfire	139
+fat_rakdos.txt	Deck	2	RNA	Fireblade Artist	172
+fat_rakdos.txt	Deck	2	RNA	Rix Maadi Reveler	109
+fat_rakdos.txt	Deck	3	RNA	Spawn of Mayhem	85
+fat_rakdos.txt	Deck	2	M19	Shock	156
+fat_rakdos.txt	Deck	1	RNA	Carnival // Carnage	222
+fat_rakdos.txt	Deck	1	WAR	Chandra's Pyrohelix	120
+fat_rakdos.txt	Deck	1	RNA	Bedeck // Bedazzle	221
+fat_rakdos.txt	Deck	1	RNA	Skewer the Critics	115
+fat_rakdos.txt	Deck	2	RNA	Rakdos Guildgate	255
+fat_rakdos.txt	Deck	2	RNA	Blood Crypt	245
+fat_rakdos.txt	Deck	1	RNA	Theater of Horrors	213
+fat_rakdos.txt	Deck	2	RNA	Bedevil	157
+fat_rakdos.txt	Deck	4	M20	Bloodfell Caves	242

@@ -1,21 +1,22 @@
-Vivien of the Arkbow	1
-Forest	26
-Pelakka Wurm	1
-Colossal Dreadmaw	2
-Druid of the Cowl	2
-Reclamation Sage	1
-Thornhide Wolves	1
-Aggressive Mammoth	1
-Skalla Wolf	2
-Bristling Boar	2
-Elvish Rejuvenator	2
-Ghastbark Twins	1
-Ursine Champion	4
-Vivien's Jaguar	3
-Meteor Golem	2
-Rabid Bite	2
-Declare Dominance	1
-Plummet	2
-Titanic Growth	2
-Oakenform	1
-Colossal Majesty	1
+deck	deck_or_side	count	set_code	name	num
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Vivien of the Arkbow	301
+M19_Vivien_Planeswalker.txt	Deck	26	RIX	Forest	196
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Pelakka Wurm	192
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Colossal Dreadmaw	172
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Druid of the Cowl	177
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Reclamation Sage	196
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Thornhide Wolves	204
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Aggressive Mammoth	302
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Skalla Wolf	303
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Bristling Boar	170
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Elvish Rejuvenator	180
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Ghastbark Twins	181
+M19_Vivien_Planeswalker.txt	Deck	4	M19	Ursine Champion	304
+M19_Vivien_Planeswalker.txt	Deck	3	M19	Vivien's Jaguar	305
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Meteor Golem	241
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Rabid Bite	195
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Declare Dominance	175
+M19_Vivien_Planeswalker.txt	Deck	2	RIX	Plummet	143
+M19_Vivien_Planeswalker.txt	Deck	2	M19	Titanic Growth	205
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Oakenform	191
+M19_Vivien_Planeswalker.txt	Deck	1	M19	Colossal Majesty	173
