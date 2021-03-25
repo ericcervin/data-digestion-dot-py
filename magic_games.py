@@ -10,6 +10,12 @@ def load_log_data():
             log_entries = whole_file.split('[UnityCrossThreadLogger]<== Event.MatchCreated')
             print(len(log_entries))
             for ent in log_entries:
+                if "UpdateDeckV3" in ent:
+                    m = re.search(r'\"name\":"(.*)\",\"description\":\"(.*)\",\"format\"',ent)
+                    if m:
+                       deck_name = m.group(1)
+                       #print(deck_name)
+                
                 m = re.search(r'opponentScreenName(.*)opponentIsWotc',ent)
                 if m:
                     opponent = m.group(1)[3:-3]
@@ -22,11 +28,23 @@ def load_log_data():
                 m = re.search(r'playerName(.*)systemSeatId\": 1, \"teamId\"',ent)
                 if m:
                     player1 = m.group(1)[4:-4]
-                    print(opponent + '\t' + opp_rank + '\t' + player1)
+                    #print(opponent + '\t' + opp_rank + '\t' + player1)
+                m = re.search(r'systemSeatId\": 1(.*)playerName(.*)systemSeatId\": 2, \"teamId\"',ent)
+                if m:
+                    player2 = m.group(2)[4:-4]
+                    #print(opponent + '\t' + opp_rank + '\t' + player1 + '\t' + player2)
+
+                m = re.search(r'{ \"scope\": \"MatchScope_Game\", \"result\": \"ResultType_WinLoss\", \"winningTeamId\": (\d) }',ent)
+                if m:
+                    winning_team = m.group(1)
+                    if (winning_team == "1"):
+                        winner_id = player1
+                    else:
+                        winner_id = player2
+                    print(opponent + '\t' + opp_rank + '\t' + player1 + '\t' + player2 + '\t' + winner_id + '\t' + deck_name)
 
                     
-#playerName": "Enrico Suave#82067", "systemSeatId": 2
-#playerName": "Enrico Suave#82067", "systemSeatId": 2
+{ "scope": "MatchScope_Game", "result": "ResultType_WinLoss", "winningTeamId": 1 }
 
 def main():
     load_log_data()
