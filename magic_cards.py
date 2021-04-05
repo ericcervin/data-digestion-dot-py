@@ -2,7 +2,7 @@
 
 import json, sqlite3, os
 
-sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM']
+sets = ['AKH','HOU','XLN','RIX','DOM','M19','GRN','RNA','WAR','M20','ELD','THB','IKO','M21','ZNR','KHM','STX']
 
 def main():
     set_data = load_set_data(sets)

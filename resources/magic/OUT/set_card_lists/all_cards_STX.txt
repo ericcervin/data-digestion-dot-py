@@ -1,0 +1,280 @@
+STX	91	Academic Debate	1.0	Instant	R
+STX	7	Academic Probation	2.0	Sorcery  Lesson	W
+STX	262	Access Tunnel	0.0	Land	
+STX	119	Accomplished Alchemist	4.0	Creature  Elf Druid	G
+STX	162	Aether Helix	5.0	Sorcery	G,U
+STX	8	Ageless Guardian	2.0	Creature  Spirit Soldier	W
+STX	36	Arcane Subtraction	2.0	Instant	U
+STX	37	Archmage Emeritus	4.0	Creature  Human Wizard	U
+STX	263	Archway Commons	0.0	Land	
+STX	92	Ardent Dustspeaker	5.0	Creature  Minotaur Shaman	R
+STX	63	Arrogant Poet	2.0	Creature  Human Warlock	B
+STX	147	Augmenter Pugilist // Echoing Equation	3.0	Creature  Troll Druid	G,U
+STX	64	Baleful Mastery	4.0	Instant	B
+STX	120	Basic Conjuration	3.0	Sorcery  Lesson	G
+STX	121	Bayou Groff	2.0	Creature  Plant Dog	G
+STX	9	Beaming Defiance	2.0	Instant	W
+STX	163	Beledros Witherbloom	7.0	Legendary Creature  Elder Dragon	B,G
+STX	251	Biblioplex Assistant	4.0	Artifact Creature  Gargoyle	
+STX	122	Big Play	2.0	Instant	G
+STX	164	Biomathematician	3.0	Creature  Human Wizard	G,U
+STX	165	Blade Historian	4.0	Creature  Human Cleric	R,W
+STX	148	Blex, Vexing Pest // Search for Blex	3.0	Legendary Creature  Pest	G
+STX	93	Blood Age General	2.0	Creature  Spirit Warrior	R
+STX	166	Blood Researcher	3.0	Creature  Vampire Druid	B,G
+STX	167	Blot Out the Sky	2.0	Sorcery	B,W
+STX	168	Body of Research	6.0	Sorcery	G,U
+STX	123	Bookwurm	8.0	Creature  Wurm	G
+STX	65	Brackish Trudge	3.0	Creature  Fungus Beast	B
+STX	38	Burrog Befuddler	2.0	Creature  Frog Wizard	U
+STX	39	Bury in Books	5.0	Instant	U
+STX	66	Callous Bloodmage	3.0	Creature  Vampire Warlock	B
+STX	252	Campus Guide	2.0	Artifact Creature  Golem	
+STX	124	Charge Through	1.0	Instant	G
+STX	10	Clever Lumimancer	1.0	Creature  Human Wizard	W
+STX	169	Closing Statement	5.0	Instant	B,W
+STX	253	Codie, Vociferous Codex	3.0	Legendary Artifact Creature  Construct	B,G,R,U,W
+STX	254	Cogwork Archivist	6.0	Artifact Creature  Construct	
+STX	11	Combat Professor	4.0	Creature  Bird Cleric	W
+STX	67	Confront the Past	1.0	Sorcery  Lesson	B
+STX	94	Conspiracy Theorist	2.0	Creature  Human Shaman	R
+STX	125	Containment Breach	3.0	Sorcery  Lesson	G
+STX	95	Crackle with Power	2.0	Sorcery	R
+STX	170	Cram Session	2.0	Sorcery	B,G
+STX	171	Creative Outburst	7.0	Instant	R,U
+STX	68	Crushing Disappointment	4.0	Instant	B
+STX	172	Culling Ritual	4.0	Sorcery	B,G
+STX	173	Culmination of Studies	2.0	Sorcery	R,U
+STX	40	Curate	2.0	Instant	U
+STX	174	Daemogoth Titan	4.0	Creature  Demon	B,G
+STX	175	Daemogoth Woe-Eater	4.0	Creature  Demon	B,G
+STX	176	Deadly Brew	2.0	Sorcery	B,G
+STX	177	Decisive Denial	2.0	Instant	G,U
+STX	12	Defend the Campus	4.0	Instant	W
+STX	13	Detention Vortex	1.0	Enchantment  Aura	W
+STX	14	Devastating Mastery	6.0	Sorcery	W
+STX	126	Devouring Tendrils	2.0	Sorcery	G
+STX	178	Dina, Soul Steeper	2.0	Legendary Creature  Dryad Druid	B,G
+STX	41	Divide by Zero	3.0	Instant	U
+STX	179	Double Major	2.0	Instant	G,U
+STX	96	Draconic Intervention	4.0	Sorcery	R
+STX	97	Dragon's Approach	3.0	Sorcery	R
+STX	127	Dragonsguard Elite	2.0	Creature  Human Druid	G
+STX	180	Dramatic Finale	4.0	Enchantment	B,W
+STX	42	Dream Strix	3.0	Creature  Bird Illusion	U
+STX	15	Dueling Coach	4.0	Creature  Human Monk	W
+STX	16	Eager First-Year	2.0	Creature  Human Wizard	W
+STX	128	Ecological Appreciation	3.0	Sorcery	G
+STX	98	Efreet Flamepainter	4.0	Creature  Efreet Shaman	R
+STX	181	Elemental Expressionist	4.0	Creature  Orc Wizard	R,U
+STX	182	Elemental Masterpiece	7.0	Sorcery	R,U
+STX	183	Elemental Summoning	5.0	Sorcery  Lesson	R,U
+STX	17	Elite Spellbinder	3.0	Creature  Human Cleric	W
+STX	129	Emergent Sequence	2.0	Sorcery	G
+STX	99	Enthusiastic Study	3.0	Instant	R
+STX	1	Environmental Sciences	2.0	Sorcery  Lesson	
+STX	69	Essence Infusion	2.0	Sorcery	B
+STX	184	Eureka Moment	4.0	Instant	G,U
+STX	255	Excavated Wall	1.0	Artifact Creature  Wall	
+STX	185	Exhilarating Elocution	4.0	Sorcery	B,W
+STX	2	Expanded Anatomy	3.0	Sorcery  Lesson	
+STX	18	Expel	3.0	Instant	W
+STX	100	Explosive Welcome	8.0	Instant	R
+STX	130	Exponential Growth	2.0	Sorcery	G
+STX	186	Expressive Iteration	2.0	Sorcery	R,U
+STX	149	Extus, Oriq Overlord // Awaken the Blood Avatar	4.0	Legendary Creature  Human Warlock	B,R,W
+STX	70	Eyetwitch	1.0	Creature  Eye Bat	B
+STX	101	Fervent Mastery	5.0	Sorcery	R
+STX	131	Field Trip	3.0	Sorcery	G
+STX	102	First Day of Class	2.0	Instant	R
+STX	150	Flamescroll Celebrant // Revel in Silence	2.0	Creature  Human Shaman	R,W
+STX	71	Flunk	2.0	Instant	B
+STX	374	Forest	0.0	Basic Land  Forest	G
+STX	132	Fortifying Draught	1.0	Instant	G
+STX	187	Fractal Summoning	2.0	Sorcery  Lesson	G,U
+STX	188	Fracture	2.0	Instant	B,W
+STX	43	Frost Trickster	3.0	Creature  Bird Wizard	U
+STX	265	Frostboil Snarl	0.0	Land	R,U
+STX	103	Fuming Effigy	4.0	Creature  Spirit	R
+STX	266	Furycalm Snarl	0.0	Land	R,W
+STX	189	Galazeth Prismari	4.0	Legendary Creature  Elder Dragon	R,U
+STX	133	Gnarled Professor	4.0	Creature  Treefolk Druid	G
+STX	72	Go Blank	3.0	Sorcery	B
+STX	190	Golden Ratio	3.0	Sorcery	G,U
+STX	104	Grinning Ignus	3.0	Creature  Elemental	R
+STX	19	Guiding Voice	1.0	Sorcery	W
+STX	105	Hall Monitor	1.0	Creature  Lizard Shaman	R
+STX	267	Hall of Oracles	0.0	Land	
+STX	191	Harness Infinity	7.0	Instant	B,G
+STX	106	Heated Debate	3.0	Instant	R
+STX	192	Hofri Ghostforge	5.0	Legendary Creature  Dwarf Cleric	R,W
+STX	134	Honor Troll	3.0	Creature  Troll Druid	G
+STX	193	Humiliate	2.0	Sorcery	B,W
+STX	73	Hunt for Specimens	2.0	Sorcery	B
+STX	107	Igneous Inspiration	3.0	Sorcery	R
+STX	108	Illuminate History	4.0	Sorcery  Lesson	R
+STX	109	Illustrious Historian	2.0	Creature  Human Shaman	R
+STX	194	Infuse with Vitality	2.0	Instant	B,G
+STX	44	Ingenious Mastery	3.0	Sorcery	U
+STX	195	Inkling Summoning	3.0	Sorcery  Lesson	B,W
+STX	3	Introduction to Annihilation	5.0	Sorcery  Lesson	
+STX	4	Introduction to Prophecy	3.0	Sorcery  Lesson	
+STX	368	Island	0.0	Basic Land  Island	U
+STX	151	Jadzi, Oracle of Arcavios // Journey to the Oracle	8.0	Legendary Creature  Human Wziard	U
+STX	135	Karok Wrangler	5.0	Creature  Elf Druid	G
+STX	196	Kasmina, Enigma Sage	3.0	Legendary Planeswalker  Kasmina	G,U
+STX	45	Kelpie Guide	3.0	Creature  Beast	U
+STX	152	Kianne, Dean of Substance // Imbraham, Dean of Theory	3.0	Legendary Creature  Elf Druid	G,U
+STX	197	Killian, Ink Duelist	2.0	Legendary Creature  Human Warlock	B,W
+STX	74	Lash of Malice	1.0	Instant	B
+STX	75	Leech Fanatic	2.0	Creature  Human Warlock	B
+STX	20	Leonin Lightscribe	2.0	Creature  Cat Cleric	W
+STX	256	Letter of Acceptance	3.0	Artifact	
+STX	136	Leyline Invocation	6.0	Sorcery	G
+STX	198	Lorehold Apprentice	2.0	Creature  Human Cleric	R,W
+STX	268	Lorehold Campus	0.0	Land	R,W
+STX	199	Lorehold Command	5.0	Instant	R,W
+STX	200	Lorehold Excavation	2.0	Enchantment	R,W
+STX	201	Lorehold Pledgemage	3.0	Creature  Kor Shaman	R,W
+STX	202	Maelstrom Muse	4.0	Creature  Djinn Wizard	R,U
+STX	137	Mage Duel	3.0	Sorcery	G
+STX	76	Mage Hunter	4.0	Creature  Horror	B
+STX	77	Mage Hunter's Onslaught	4.0	Sorcery	B
+STX	203	Magma Opus	8.0	Instant	R,U
+STX	204	Make Your Mark	1.0	Instant	R,W
+STX	205	Manifestation Sage	4.0	Creature  Human Wizard	G,U
+STX	5	Mascot Exhibition	7.0	Sorcery  Lesson	
+STX	110	Mascot Interception	4.0	Sorcery	R
+STX	138	Master Symmetrist	4.0	Creature  Rhino Druid	G
+STX	21	Mavinda, Students' Advocate	3.0	Legendary Creature  Bird Advisor	W
+STX	46	Mentor's Guidance	3.0	Sorcery	U
+STX	47	Mercurial Transformation	2.0	Sorcery  Lesson	U
+STX	153	Mila, Crafty Companion // Lukka, Wayward Bonder	3.0	Legendary Creature  Fox	R,W
+STX	206	Moldering Karok	4.0	Creature  Zombie Crocodile	B,G
+STX	207	Mortality Spear	4.0	Instant	B,G
+STX	372	Mountain	0.0	Basic Land  Mountain	R
+STX	48	Multiple Choice	1.0	Sorcery	U
+STX	269	Necroblossom Snarl	0.0	Land	B,G
+STX	78	Necrotic Fumes	3.0	Sorcery  Lesson	B
+STX	208	Needlethorn Drake	2.0	Creature  Drake	G,U
+STX	79	Novice Dissector	4.0	Creature  Troll Warlock	B
+STX	209	Oggyar Battle-Seer	5.0	Creature  Ogre Shaman	R,U
+STX	80	Oriq Loremage	4.0	Creature  Human Warlock	B
+STX	139	Overgrown Arch	2.0	Creature  Plant Wall	G
+STX	210	Owlin Shieldmage	5.0	Creature  Bird Warlock	B,W
+STX	211	Pest Summoning	3.0	Sorcery  Lesson	B,G
+STX	154	Pestilent Cauldron // Restorative Burst	3.0	Artifact	B,G
+STX	111	Pigment Storm	5.0	Sorcery	R
+STX	22	Pilgrim of the Ages	3.0	Creature  Spirit	W
+STX	23	Pillardrop Rescuer	5.0	Creature  Spirit Cleric	W
+STX	112	Pillardrop Warden	4.0	Creature  Spirit Dwarf	R
+STX	366	Plains	0.0	Basic Land  Plains	W
+STX	155	Plargg, Dean of Chaos // Augusta, Dean of Order	2.0	Legendary Creature  Orc Shaman	R,W
+STX	81	Plumb the Forgotten	2.0	Instant	B
+STX	82	Poet's Quill	2.0	Artifact  Equipment	B
+STX	49	Pop Quiz	3.0	Instant	U
+STX	212	Practical Research	5.0	Instant	R,U
+STX	213	Prismari Apprentice	2.0	Creature  Human Shaman	R,U
+STX	270	Prismari Campus	0.0	Land	
+STX	214	Prismari Command	3.0	Instant	R,U
+STX	215	Prismari Pledgemage	2.0	Creature  Orc Wizard	R,U
+STX	83	Professor Onyx	6.0	Legendary Planeswalker  Liliana	B
+STX	24	Professor of Symbology	2.0	Creature  Kor Cleric	W
+STX	140	Professor of Zoomancy	4.0	Creature  Bear Druid	G
+STX	84	Professor's Warning	1.0	Instant	B
+STX	85	Promising Duskmage	3.0	Creature  Human Warlock	B
+STX	216	Quandrix Apprentice	2.0	Creature  Human Wizard	G,U
+STX	271	Quandrix Campus	0.0	Land	G,U
+STX	217	Quandrix Command	3.0	Instant	G,U
+STX	218	Quandrix Cultivator	4.0	Creature  Turtle Druid	G,U
+STX	219	Quandrix Pledgemage	3.0	Creature  Merfolk Druid	G,U
+STX	220	Quintorius, Field Historian	5.0	Legendary Creature  Elephant Cleric	R,W
+STX	221	Radiant Scrollwielder	4.0	Creature  Dwarf Cleric	R,W
+STX	141	Reckless Amplimancer	2.0	Creature  Elf Druid	G
+STX	222	Reconstruct History	4.0	Sorcery	R,W
+STX	25	Reduce to Memory	3.0	Sorcery  Lesson	W
+STX	257	Reflective Golem	3.0	Artifact Creature  Golem	
+STX	50	Reject	2.0	Instant	U
+STX	223	Relic Sloth	5.0	Creature  Beast	R,W
+STX	51	Resculpt	2.0	Instant	U
+STX	113	Retriever Phoenix	4.0	Creature  Phoenix	R
+STX	224	Returned Pastcaller	6.0	Creature  Spirit Cleric	R,W
+STX	225	Rip Apart	2.0	Sorcery	R,W
+STX	226	Rise of Extus	6.0	Sorcery	B,W
+STX	227	Rootha, Mercurial Artist	3.0	Legendary Creature  Orc Shaman	R,U
+STX	156	Rowan, Scholar of Sparks // Will, Scholar of Frost	3.0	Legendary Planeswalker  Rowan	R,U
+STX	228	Rushed Rebirth	2.0	Instant	B,G
+STX	142	Scurrid Colony	2.0	Creature  Squirrel	G
+STX	26	Secret Rendezvous	3.0	Sorcery	W
+STX	86	Segemoor Witch	3.0	Creature  Human Warlock	B
+STX	157	Selfless Glyphweaver // Deadly Vanity	3.0	Creature  Human Cleric	B,W
+STX	27	Semester's End	4.0	Instant	W
+STX	52	Serpentine Curve	4.0	Sorcery	U
+STX	229	Shadewing Laureate	3.0	Creature  Human Warlock	B,W
+STX	230	Shadrix Silverquill	5.0	Legendary Creature  Elder Dragon	B,W
+STX	158	Shaile, Dean of Radiance // Embrose, Dean of Shadow	2.0	Legendary Creature  Bird Cleric	B,W
+STX	272	Shineshadow Snarl	0.0	Land	B,W
+STX	28	Show of Confidence	2.0	Instant	W
+STX	231	Silverquill Apprentice	2.0	Creature  Human Warlock	B,W
+STX	273	Silverquill Campus	0.0	Land	B,W
+STX	232	Silverquill Command	4.0	Sorcery	B,W
+STX	233	Silverquill Pledgemage	3.0	Creature  Vampire Cleric	B,W
+STX	234	Silverquill Silencer	2.0	Creature  Human Cleric	B,W
+STX	53	Snow Day	6.0	Instant	U
+STX	54	Solve the Equation	3.0	Sorcery	U
+STX	55	Soothsayer Adept	2.0	Creature  Merfolk Wizard	U
+STX	29	Sparring Regimen	3.0	Enchantment	W
+STX	235	Spectacle Mage	3.0	Creature  Bird Shaman	R,U
+STX	87	Specter of the Fens	4.0	Creature  Specter	B
+STX	258	Spell Satchel	2.0	Artifact	
+STX	143	Spined Karok	3.0	Creature  Crocodile	G
+STX	236	Spirit Summoning	3.0	Sorcery  Lesson	R,W
+STX	237	Spiteful Squad	4.0	Creature  Human Warlock	B,W
+STX	144	Springmane Cervin	3.0	Creature  Elk	G
+STX	238	Square Up	2.0	Instant	G,U
+STX	30	Star Pupil	1.0	Creature  Human Wizard	W
+STX	114	Start from Scratch	3.0	Sorcery  Lesson	R
+STX	31	Stonebinder's Familiar	1.0	Creature  Spirit Dog	W
+STX	239	Stonebound Mentor	3.0	Creature  Spirit Advisor	R,W
+STX	32	Stonerise Spirit	2.0	Creature  Spirit Bird	W
+STX	115	Storm-Kiln Artist	4.0	Creature  Dwarf Shaman	R
+STX	33	Strict Proctor	2.0	Creature  Spirit Cleric	W
+STX	259	Strixhaven Stadium	3.0	Artifact	
+STX	34	Study Break	2.0	Instant	W
+STX	116	Sudden Breakthrough	2.0	Instant	R
+STX	370	Swamp	0.0	Basic Land  Swamp	B
+STX	56	Symmetry Sage	1.0	Creature  Human Wizard	U
+STX	240	Tanazir Quandrix	5.0	Legendary Creature  Elder Dragon	G,U
+STX	145	Tangletrap	2.0	Instant	G
+STX	241	Teach by Example	2.0	Instant	R,U
+STX	57	Teachings of the Archaics	3.0	Sorcery  Lesson	U
+STX	260	Team Pennant	1.0	Artifact  Equipment	
+STX	58	Tempted by the Oriq	4.0	Sorcery	U
+STX	242	Tend the Pests	2.0	Instant	B,G
+STX	88	Tenured Inkcaster	5.0	Creature  Vampire Warlock	B
+STX	59	Test of Talents	2.0	Instant	U
+STX	264	The Biblioplex	0.0	Land	
+STX	243	Thrilling Discovery	2.0	Sorcery	R,W
+STX	35	Thunderous Orator	2.0	Creature  Kor Wizard	W
+STX	117	Time Shredder	3.0	Creature  Wolf	R
+STX	159	Torrent Sculptor // Flamethrower Sonata	4.0	Creature  Merfolk Wizard	R,U
+STX	118	Twinscroll Shaman	3.0	Creature  Dwarf Shaman	R
+STX	89	Umbral Juke	3.0	Instant	B
+STX	90	Unwilling Ingredient	1.0	Creature  Frog	B
+STX	160	Uvilda, Dean of Perfection // Nassari, Dean of Expression	3.0	Legendary Creature  Djinn Wizard	R,U
+STX	161	Valentin, Dean of the Vein // Lisette, Dean of the Root	1.0	Legendary Creature  Vampire Warlock	B,G
+STX	244	Vanishing Verse	2.0	Instant	B,W
+STX	245	Velomachus Lorehold	7.0	Legendary Creature  Elder Dragon	R,W
+STX	246	Venerable Warsinger	3.0	Creature  Spirit Cleric	R,W
+STX	146	Verdant Mastery	6.0	Sorcery	G
+STX	274	Vineglimmer Snarl	0.0	Land	G,U
+STX	60	Vortex Runner	3.0	Creature  Human Wizard	U
+STX	6	Wandering Archaic // Explore the Vastlands	5.0	Creature  Avatar	
+STX	61	Waterfall Aerialist	4.0	Creature  Djinn Wizard	U
+STX	247	Witherbloom Apprentice	2.0	Creature  Human Druid	B,G
+STX	275	Witherbloom Campus	0.0	Land	B,G
+STX	248	Witherbloom Command	2.0	Sorcery	B,G
+STX	249	Witherbloom Pledgemage	5.0	Creature  Treefolk Warlock	B,G
+STX	62	Wormhole Serpent	5.0	Creature  Serpent	U
+STX	261	Zephyr Boots	1.0	Artifact  Equipment	
+STX	250	Zimone, Quandrix Prodigy	2.0	Legendary Creature  Human Wizard	G,U

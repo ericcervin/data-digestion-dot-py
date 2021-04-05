@@ -1,0 +1,79 @@
+STX	91	Academic Debate	1.0	Instant	R
+STX	262	Access Tunnel	0.0	Land	
+STX	263	Archway Commons	0.0	Land	
+STX	92	Ardent Dustspeaker	5.0	Creature  Minotaur Shaman	R
+STX	63	Arrogant Poet	2.0	Creature  Human Warlock	B
+STX	64	Baleful Mastery	4.0	Instant	B
+STX	251	Biblioplex Assistant	4.0	Artifact Creature  Gargoyle	
+STX	93	Blood Age General	2.0	Creature  Spirit Warrior	R
+STX	65	Brackish Trudge	3.0	Creature  Fungus Beast	B
+STX	66	Callous Bloodmage	3.0	Creature  Vampire Warlock	B
+STX	252	Campus Guide	2.0	Artifact Creature  Golem	
+STX	254	Cogwork Archivist	6.0	Artifact Creature  Construct	
+STX	67	Confront the Past	1.0	Sorcery  Lesson	B
+STX	94	Conspiracy Theorist	2.0	Creature  Human Shaman	R
+STX	95	Crackle with Power	2.0	Sorcery	R
+STX	68	Crushing Disappointment	4.0	Instant	B
+STX	96	Draconic Intervention	4.0	Sorcery	R
+STX	97	Dragon's Approach	3.0	Sorcery	R
+STX	98	Efreet Flamepainter	4.0	Creature  Efreet Shaman	R
+STX	99	Enthusiastic Study	3.0	Instant	R
+STX	1	Environmental Sciences	2.0	Sorcery  Lesson	
+STX	69	Essence Infusion	2.0	Sorcery	B
+STX	255	Excavated Wall	1.0	Artifact Creature  Wall	
+STX	2	Expanded Anatomy	3.0	Sorcery  Lesson	
+STX	100	Explosive Welcome	8.0	Instant	R
+STX	70	Eyetwitch	1.0	Creature  Eye Bat	B
+STX	101	Fervent Mastery	5.0	Sorcery	R
+STX	102	First Day of Class	2.0	Instant	R
+STX	71	Flunk	2.0	Instant	B
+STX	103	Fuming Effigy	4.0	Creature  Spirit	R
+STX	72	Go Blank	3.0	Sorcery	B
+STX	104	Grinning Ignus	3.0	Creature  Elemental	R
+STX	105	Hall Monitor	1.0	Creature  Lizard Shaman	R
+STX	267	Hall of Oracles	0.0	Land	
+STX	106	Heated Debate	3.0	Instant	R
+STX	73	Hunt for Specimens	2.0	Sorcery	B
+STX	107	Igneous Inspiration	3.0	Sorcery	R
+STX	108	Illuminate History	4.0	Sorcery  Lesson	R
+STX	109	Illustrious Historian	2.0	Creature  Human Shaman	R
+STX	3	Introduction to Annihilation	5.0	Sorcery  Lesson	
+STX	4	Introduction to Prophecy	3.0	Sorcery  Lesson	
+STX	74	Lash of Malice	1.0	Instant	B
+STX	75	Leech Fanatic	2.0	Creature  Human Warlock	B
+STX	256	Letter of Acceptance	3.0	Artifact	
+STX	76	Mage Hunter	4.0	Creature  Horror	B
+STX	77	Mage Hunter's Onslaught	4.0	Sorcery	B
+STX	5	Mascot Exhibition	7.0	Sorcery  Lesson	
+STX	110	Mascot Interception	4.0	Sorcery	R
+STX	372	Mountain	0.0	Basic Land  Mountain	R
+STX	78	Necrotic Fumes	3.0	Sorcery  Lesson	B
+STX	79	Novice Dissector	4.0	Creature  Troll Warlock	B
+STX	80	Oriq Loremage	4.0	Creature  Human Warlock	B
+STX	111	Pigment Storm	5.0	Sorcery	R
+STX	112	Pillardrop Warden	4.0	Creature  Spirit Dwarf	R
+STX	81	Plumb the Forgotten	2.0	Instant	B
+STX	82	Poet's Quill	2.0	Artifact  Equipment	B
+STX	270	Prismari Campus	0.0	Land	
+STX	83	Professor Onyx	6.0	Legendary Planeswalker  Liliana	B
+STX	84	Professor's Warning	1.0	Instant	B
+STX	85	Promising Duskmage	3.0	Creature  Human Warlock	B
+STX	257	Reflective Golem	3.0	Artifact Creature  Golem	
+STX	113	Retriever Phoenix	4.0	Creature  Phoenix	R
+STX	86	Segemoor Witch	3.0	Creature  Human Warlock	B
+STX	87	Specter of the Fens	4.0	Creature  Specter	B
+STX	258	Spell Satchel	2.0	Artifact	
+STX	114	Start from Scratch	3.0	Sorcery  Lesson	R
+STX	115	Storm-Kiln Artist	4.0	Creature  Dwarf Shaman	R
+STX	259	Strixhaven Stadium	3.0	Artifact	
+STX	116	Sudden Breakthrough	2.0	Instant	R
+STX	370	Swamp	0.0	Basic Land  Swamp	B
+STX	260	Team Pennant	1.0	Artifact  Equipment	
+STX	88	Tenured Inkcaster	5.0	Creature  Vampire Warlock	B
+STX	264	The Biblioplex	0.0	Land	
+STX	117	Time Shredder	3.0	Creature  Wolf	R
+STX	118	Twinscroll Shaman	3.0	Creature  Dwarf Shaman	R
+STX	89	Umbral Juke	3.0	Instant	B
+STX	90	Unwilling Ingredient	1.0	Creature  Frog	B
+STX	6	Wandering Archaic // Explore the Vastlands	5.0	Creature  Avatar	
+STX	261	Zephyr Boots	1.0	Artifact  Equipment	
