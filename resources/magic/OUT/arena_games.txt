@@ -1,198 +1,229 @@
-log	opponent	opponent_rank	player_1	player_2	winner_id	deck_name	game_start_time	game_end_time
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 11:49:35.841024	2021-03-22 11:54:24.215661
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 12:31:35.518481	2021-03-22 12:37:11.705211
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 13:18:52.747059	2021-03-22 13:21:43.562514
-Player_20210322.log	artintheforest	Platinum	artintheforest#69606	Enrico Suave#82067	artintheforest#69606	Company of Knights	2021-03-22 13:22:43.235055	2021-03-22 13:32:55.836018
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-22 13:45:33.058104	2021-03-22 13:49:14.857851
-Player_20210322.log	BonusCheckz	Bronze	Enrico Suave#82067	BonusCheckz#85310	Enrico Suave#82067	Zend Warriors (large)	2021-03-22 13:50:14.367921	2021-03-22 14:13:06.985434
-Player_20210322.log	As de Bastos	Gold	As de Bastos#83449	Enrico Suave#82067	As de Bastos#83449	Zend Warriors (large)	2021-03-22 14:16:05.623928	2021-03-22 14:21:10.598399
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:21:49.831113	2021-03-22 14:26:10.837461
-Player_20210322.log	Gustavo	Platinum	Enrico Suave#82067	Gustavo#39322	Gustavo#39322	Zend Warriors (small)	2021-03-22 14:28:56.976783	2021-03-22 14:38:45.069939
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (small)	2021-03-22 14:40:22.845087	2021-03-22 14:44:28.076433
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:46:18.432723	2021-03-22 14:50:09.260803
-Player_20210322.log	EvioNoah	Gold	EvioNoah#03064	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:50:57.139523	2021-03-22 14:54:02.053974
-Player_20210322.log	Rikma	Bronze	Enrico Suave#82067	Rikma#51247	Rikma#51247	Zend Warriors (small)	2021-03-22 14:56:27.422948	2021-03-22 15:05:44.570483
-Player_20210322.log	Bertram_X	Silver	Enrico Suave#82067	Bertram_X#20492	Bertram_X#20492	Zend Warriors (small)	2021-03-22 15:07:27.820268	2021-03-22 15:13:02.135566
-Player_20210322.log	MiguelVRuivo	Bronze	Enrico Suave#82067	MiguelVRuivo#30037	MiguelVRuivo#30037	Zend Warriors (small)	2021-03-22 15:13:58.137165	2021-03-22 15:29:43.890740
-Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 15:30:32.954231	2021-03-22 15:33:18.461466
-Player_20210322.log	MAssife	Platinum	MAssife#30867	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-03-22 15:34:18.990225	2021-03-22 15:37:28.462359
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 13:34:52.685775	2021-03-23 13:40:38.185887
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 14:16:43.117717	2021-03-23 14:20:49.981824
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 14:50:19.550143	2021-03-23 14:53:27.201833
-Player_20210323.log	Agent_Tuber	Diamond	Agent_Tuber#41797	Enrico Suave#82067	Agent_Tuber#41797	Keep the Peace	2021-03-23 15:01:21.465969	2021-03-23 15:14:01.767977
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-03-23 15:15:04.735998	2021-03-23 15:21:42.050214
-Player_20210323.log	Spineshank2448	Bronze	Enrico Suave#82067	Spineshank2448#89420	Spineshank2448#89420	zend large	2021-03-23 15:38:53.250582	2021-03-23 15:47:44.999829
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-03-23 15:49:34.752837	2021-03-23 15:53:35.971044
-Player_20210323.log	E.B.	Platinum	Enrico Suave#82067	E.B.#70304	E.B.#70304	zend large	2021-03-23 16:20:15.157077	2021-03-23 16:29:34.702447
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 16:30:48.192117	2021-03-23 16:38:29.936661
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 16:45:50.312281	2021-03-23 16:48:00.541163
-Player_20210323.log	Werfder4112	Bronze	Werfder4112#96964	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-03-23 16:49:36.532464	2021-03-23 16:54:25.976508
-Player_20210323.log	Greckel	Platinum	Greckel#05657	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-03-23 16:55:16.737579	2021-03-23 17:01:29.029946
-Player_20210323.log	SerSmashington	Bronze	Enrico Suave#82067	SerSmashington#51402	SerSmashington#51402	zend small	2021-03-23 17:03:07.074299	2021-03-23 17:10:22.166650
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 17:14:11.376636	2021-03-23 17:20:09.370967
-Player_20210323.log	Estorik	Silver	Enrico Suave#82067	Estorik#58151	Estorik#58151	zend small	2021-03-23 17:26:28.250304	2021-03-23 17:36:32.101660
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white ikoria	2021-03-23 17:41:01.787125	2021-03-23 17:46:59.916250
-Player_20210323.log	Dirge	Gold	Enrico Suave#82067	Dirge#66099	Dirge#66099	big white ikoria	2021-03-23 17:50:39.301528	2021-03-23 17:56:46.740180
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white ikoria	2021-03-23 18:00:10.252398	2021-03-23 18:06:35.173306
-Player_20210323.log	Xekien'ce	Silver	Enrico Suave#82067	Xekien'ce#43775	Xekien'ce#43775	big white ikoria	2021-03-23 18:07:40.202715	2021-03-23 18:12:17.214963
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	small white ikoria	2021-03-23 18:13:34.151105	2021-03-23 18:22:14.936401
-Player_20210323.log	Mattymo	Platinum	Mattymo#12226	Enrico Suave#82067	Mattymo#12226	small white ikoria	2021-03-23 18:25:20.878970	2021-03-23 18:32:58.883068
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 18:37:14.965049	2021-03-23 18:42:20.512373
-Player_20210323.log	Elmori	Bronze	Enrico Suave#82067	Elmori#29579	Elmori#29579	big white theros	2021-03-23 18:43:52.769602	2021-03-23 18:51:01.231288
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 18:54:20.542165	2021-03-23 18:58:54.233676
-Player_20210323.log	Jvlix	Gold	Enrico Suave#82067	Jvlix#50593	Enrico Suave#82067	big white theros	2021-03-23 19:00:22.748189	2021-03-23 19:11:33.116316
-Player_20210323.log	worfey	Bronze	worfey#08882	Enrico Suave#82067	worfey#08882	big white theros	2021-03-23 19:17:43.607457	2021-03-23 19:24:20.758975
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 19:29:24.077901	2021-03-23 19:36:31.078245
-Player_20210323.log	PaulBrawl7	Gold	Enrico Suave#82067	PaulBrawl7#47178	PaulBrawl7#47178	big white theros	2021-03-23 19:40:54.735630	2021-03-23 20:06:37.462060
-Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 20:10:54.610254	2021-03-23 20:16:15.073506
-Player_20210323.log	flame hark	Silver	Enrico Suave#82067	flame hark#39764	Enrico Suave#82067	big white theros	2021-03-23 20:17:46.788991	2021-03-23 20:22:53.372298
-Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 13:30:24.612876	2021-03-24 13:35:52.430737
-Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 13:59:53.805970	2021-03-24 14:05:08.916985
-Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 14:41:33.289299	2021-03-24 14:46:48.113341
-Player_20210324.log	Pro_senda	Bronze	Enrico Suave#82067	Pro_senda#70884	Pro_senda#70884	Life Skills	2021-03-24 14:48:10.989742	2021-03-24 14:58:52.756797
-Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 14:59:45.368994	2021-03-24 15:07:30.481643
-Player_20210324.log	Vincent	Gold	Enrico Suave#82067	Vincent#56074	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:08:31.858678	2021-03-24 15:12:54.713359
-Player_20210324.log	CardsAndJunk	Bronze	Enrico Suave#82067	CardsAndJunk#12704	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:13:52.426612	2021-03-24 15:15:10.118123
-Player_20210324.log	Deserventes	Silver	Enrico Suave#82067	Deserventes#11373	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:16:02.232345	2021-03-24 15:20:48.053559
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 13:03:38.161552	2021-03-25 13:08:57.635222
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 13:48:33.093599	2021-03-25 13:54:00.320742
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 14:18:35.384811	2021-03-25 14:23:06.437695
-Player_20210325.log	DrMarcII	Bronze	Enrico Suave#82067	DrMarcII#76175	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 14:26:24.922082	2021-03-25 14:28:41.079381
-Player_20210325.log	VirriClone	Bronze	Enrico Suave#82067	VirriClone#70726	VirriClone#70726	Goblins Everywhere!	2021-03-25 14:29:35.124165	2021-03-25 14:35:22.771200
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-25 14:36:07.515578	2021-03-25 14:39:48.982039
-Player_20210325.log	Mat	Bronze	Mat#98994	Enrico Suave#82067	Mat#98994	Big Zend Warriors	2021-03-25 14:56:56.481168	2021-03-25 15:03:58.693427
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:13:33.264638	2021-03-25 15:19:09.406129
-Player_20210325.log	Mortimir	Bronze	Mortimir#78276	Enrico Suave#82067	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:25:48.428365	2021-03-25 15:39:14.086636
-Player_20210325.log	Zengir	Bronze	Enrico Suave#82067	Zengir#18157	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:51:08.741816	2021-03-25 16:04:31.019789
-Player_20210325.log	Jigred	Bronze	Enrico Suave#82067	Jigred#45639	Jigred#45639	zend gobs (small)	2021-03-25 16:14:59.832990	2021-03-25 16:23:21.587408
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-25 16:24:45.331944	2021-03-25 16:33:29.631814
-Player_20210325.log	たろー	Bronze	Enrico Suave#82067	たろー#65516	たろー#65516	zend gobs (small)	2021-03-25 16:39:50.892186	2021-03-25 16:49:30.797292
-Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	r ikoria	2021-03-25 16:51:35.551337	2021-03-25 16:55:59.222392
-Player_20210325.log	Sir Ridginald	Bronze	Sir Ridginald#44805	Enrico Suave#82067	Enrico Suave#82067	r ikoria	2021-03-25 17:05:12.752273	2021-03-25 17:12:34.102804
-Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 12:54:37.465187	2021-03-26 12:59:40.813061
-Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 13:27:58.989084	2021-03-26 13:32:13.659824
-Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 13:57:47.000512	2021-03-26 14:03:23.914422
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 17:23:47.225446	2021-03-26 17:28:24.810026
-Player_20210326b.log	SlayerMA	Bronze	Enrico Suave#82067	SlayerMA#84967	Enrico Suave#82067	Company of Knights	2021-03-26 17:29:43.465179	2021-03-26 17:38:09.721088
-Player_20210326b.log	AtheistNerd	Mythic	AtheistNerd#07755	Enrico Suave#82067	AtheistNerd#07755	Company of Knights	2021-03-26 17:39:43.932600	2021-03-26 17:45:19.155092
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (large)	2021-03-26 17:46:42.675542	2021-03-26 17:50:52.225128
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 17:53:02.783932	2021-03-26 17:56:00.315060
-Player_20210326b.log	A1RxS4MM4R1	Platinum	A1RxS4MM4R1#71195	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 17:57:24.849698	2021-03-26 18:02:50.280429
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:07:02.888565	2021-03-26 18:15:12.408907
-Player_20210326b.log	OtanoJenkins	Platinum	Enrico Suave#82067	OtanoJenkins#91189	OtanoJenkins#91189	Zend Warriors (large)	2021-03-26 18:15:45.602890	2021-03-26 18:21:48.924066
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (large)	2021-03-26 18:23:42.868111	2021-03-26 18:27:31.197432
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:28:17.717779	2021-03-26 18:34:14.413666
-Player_20210326b.log	Un3xist	Bronze	Un3xist#81174	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:36:46.376750	2021-03-26 18:41:54.823894
-Player_20210326b.log	Michael1959	Platinum	Enrico Suave#82067	Michael1959#65924	Michael1959#65924	Zend Warriors (large)	2021-03-26 18:42:36.649457	2021-03-26 18:49:41.113178
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 18:50:14.010223	2021-03-26 18:52:33.767553
-Player_20210326b.log	Hellion	Bronze	Enrico Suave#82067	Hellion#03428	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 18:53:57.189589	2021-03-26 19:02:21.854949
-Player_20210326b.log	welfare ninja	Bronze	Enrico Suave#82067	welfare ninja#52808	welfare ninja#52808	Zend Warriors (small)	2021-03-26 19:02:57.603998	2021-03-26 19:12:34.795981
-Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 19:16:18.712869	2021-03-26 19:20:41.148682
-Player_20210326b.log	joesffseoj	Gold	Enrico Suave#82067	joesffseoj#89919	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 19:21:58.381255	2021-03-26 19:31:53.271412
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 12:39:20.060113	2021-03-27 12:47:09.374695
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 13:36:43.517478	2021-03-27 13:40:45.263603
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 13:55:26.007513	2021-03-27 14:00:56.471685
-Player_20210327.log	DarthMoustache	Bronze	Enrico Suave#82067	DarthMoustache#06315	DarthMoustache#06315	Goblins Everywhere!	2021-03-27 14:30:14.136622	2021-03-27 14:36:22.904000
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 14:38:41.014344	2021-03-27 14:44:00.261581
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Big Zend Warriors	2021-03-27 14:44:41.511157	2021-03-27 14:50:32.814092
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-27 14:53:44.584470	2021-03-27 14:57:57.691287
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-27 16:23:56.149974	2021-03-27 16:33:18.656692
-Player_20210327.log	DiegaZord	Platinum	Enrico Suave#82067	DiegaZord#81244	DiegaZord#81244	Big Zend Warriors	2021-03-27 16:36:39.703281	2021-03-27 16:46:29.325955
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-27 16:56:49.056192	2021-03-27 17:02:55.893168
-Player_20210327.log	Liito8j	Bronze	Liito8j#08437	Enrico Suave#82067	Liito8j#08437	zend gobs (small)	2021-03-27 17:09:01.471193	2021-03-27 17:13:57.075565
-Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-27 17:20:51.500015	2021-03-27 17:26:38.653246
-Player_20210327.log	BEASTLYHOBB1T	Silver	BEASTLYHOBB1T#79481	Enrico Suave#82067	Enrico Suave#82067	zend gobs (small)	2021-03-27 17:32:12.372519	2021-03-27 17:49:44.047453
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 12:36:04.896360	2021-03-28 12:47:58.057530
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 13:53:49.780709	2021-03-28 14:00:05.855299
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 14:36:19.328399	2021-03-28 14:40:06.847065
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 14:56:02.862222	2021-03-28 15:01:13.756384
-Player_20210328.log	Teknomancer	Platinum	Enrico Suave#82067	Teknomancer#52187	Teknomancer#52187	Goblins Everywhere!	2021-03-28 15:16:04.538075	2021-03-28 15:22:10.531139
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-28 15:22:55.023997	2021-03-28 15:30:44.451828
-Player_20210328.log	Alternator	Bronze	Enrico Suave#82067	Alternator#64393	Alternator#64393	Big Zend Warriors	2021-03-28 15:42:05.699402	2021-03-28 15:48:38.719216
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	zend gobs (small)	2021-03-28 15:50:45.298138	2021-03-28 15:56:03.008059
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-28 16:07:41.507803	2021-03-28 16:12:09.157756
-Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	small zend warriorss	2021-03-28 16:14:29.944088	2021-03-28 16:18:35.489019
-Player_20210328.log	PalladiumJames	Bronze	Enrico Suave#82067	PalladiumJames#18470	Enrico Suave#82067	small zend warriorss	2021-03-28 16:20:27.512495	2021-03-28 16:24:05.740020
-Player_20210328.log	Mikel	Bronze	Enrico Suave#82067	Mikel#36557	Mikel#36557	small zend warriorss	2021-03-28 16:30:17.924846	2021-03-28 16:35:17.985194
-Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 10:07:44.828897	2021-03-29 10:14:19.078690
-Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 10:40:31.398542	2021-03-29 10:46:21.593058
-Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 11:27:06.035761	2021-03-29 11:31:46.003150
-Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 17:22:29.799851	2021-03-29 17:27:40.471079
-Player_20210329b.log	Blightsteel	Gold	Blightsteel#04247	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-03-29 17:29:19.816989	2021-03-29 17:33:21.904476
-Player_20210329b.log	tragic2019	Gold	Enrico Suave#82067	tragic2019#08274	tragic2019#08274	Company of Knights	2021-03-29 17:34:19.931169	2021-03-29 17:46:07.621144
-Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-29 17:48:15.356721	2021-03-29 17:52:34.635549
-Player_20210329b.log	Emify07	Silver	Enrico Suave#82067	Emify07#82402	Enrico Suave#82067	Zend Warriors (large)	2021-03-29 18:06:31.450039	2021-03-29 18:09:50.664576
-Player_20210329b.log	pawny	Diamond	Enrico Suave#82067	pawny#73806	pawny#73806	Zend Warriors (large)	2021-03-29 18:11:21.754647	2021-03-29 18:19:22.628508
-Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-29 18:21:08.246199	2021-03-29 18:23:44.888970
-Player_20210329b.log	Paulo Vale	Bronze	Enrico Suave#82067	Paulo Vale#59893	Enrico Suave#82067	Zend Warriors (small)	2021-03-29 18:25:02.475399	2021-03-29 18:33:39.177553
-Player_20210329b.log	Bbkush	Diamond	Enrico Suave#82067	Bbkush#67651	Bbkush#67651	Zend Warriors (small)	2021-03-29 18:35:02.823687	2021-03-29 18:42:33.171552
-Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 11:01:08.662780	2021-03-30 11:05:46.504561
-Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 11:35:57.246158	2021-03-30 11:38:43.450948
-Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 12:13:41.807640	2021-03-30 12:18:27.531034
-Player_20210330.log	Sylustucrus	Bronze	Enrico Suave#82067	Sylustucrus#55594	Sylustucrus#55594	Company of Knights	2021-03-30 12:33:57.551543	2021-03-30 12:39:39.503893
-Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-30 12:41:25.779889	2021-03-30 12:47:16.563325
-Player_20210330.log	Blaze420	Bronze	Enrico Suave#82067	Blaze420#56805	Enrico Suave#82067	Zend Warriors (large)	2021-03-30 13:42:00.603396	2021-03-30 13:48:38.489597
-Player_20210330.log	Goldenboy	Bronze	Enrico Suave#82067	Goldenboy#55091	Goldenboy#55091	Zend Warriors (large)	2021-03-30 13:49:31.001701	2021-03-30 14:00:24.563379
-Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Goblins Everywhere!	2021-03-31 11:42:57.643617	2021-03-31 11:47:58.126720
-Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 11:48:50.576901	2021-03-31 11:55:38.803217
-Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 12:16:20.283376	2021-03-31 12:25:02.243914
-Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:30:59.051093	2021-03-31 13:35:47.743977
-Player_20210331.log	Mearespecial	Bronze	Mearespecial#32988	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:50:51.083045	2021-03-31 13:53:49.398061
-Player_20210331.log	puzzislayr	Silver	puzzislayr#44084	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:54:31.180140	2021-03-31 14:04:34.790094
-Player_20210331.log	Lyrocide	Silver	Lyrocide#61161	Enrico Suave#82067	Lyrocide#61161	Big Zend Warriors	2021-03-31 14:12:11.885883	2021-03-31 14:19:00.228512
-Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 13:16:50.256238	2021-04-01 13:24:03.676065
-Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 13:53:13.747718	2021-04-01 14:00:49.822088
-Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 14:18:01.447564	2021-04-01 14:25:00.108303
-Player_20210401.log	Rezo	Platinum	Enrico Suave#82067	Rezo#17640	Enrico Suave#82067	Life Skills	2021-04-01 14:40:51.013222	2021-04-01 14:50:37.739699
-Player_20210401.log	ruiqi	Bronze	ruiqi#67844	Enrico Suave#82067	ruiqi#67844	Life Skills	2021-04-01 15:14:52.395016	2021-04-01 15:21:51.421525
-Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-01 15:22:33.619741	2021-04-01 15:26:02.688069
-Player_20210401.log	millerryan94	Bronze	millerryan94#60812	Enrico Suave#82067	millerryan94#60812	Vamps Zend (large)	2021-04-01 15:44:53.841390	2021-04-01 16:00:53.927142
-Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 12:29:45.701664	2021-04-02 12:34:00.957273
-Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 13:17:48.801941	2021-04-02 13:22:11.914205
-Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 14:09:04.101756	2021-04-02 14:14:40.357142
-Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 16:47:47.377767	2021-04-02 16:55:10.362787
-Player_20210402b.log	Digaewe	Bronze	Digaewe#22519	Enrico Suave#82067	Digaewe#22519	Keep the Peace	2021-04-02 16:57:45.401191	2021-04-02 17:03:51.335380
-Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-04-02 17:04:44.074750	2021-04-02 17:11:15.200300
-Player_20210402b.log	Cellardoor	Bronze	Enrico Suave#82067	Cellardoor#63101	Cellardoor#63101	zend large	2021-04-02 17:13:45.995890	2021-04-02 17:16:34.689031
-Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-04-02 17:22:58.614668	2021-04-02 17:29:07.026035
-Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-04-02 17:31:35.269004	2021-04-02 17:35:49.642334
-Player_20210402b.log	Teratonni	Bronze	Enrico Suave#82067	Teratonni#81238	Enrico Suave#82067	zend small	2021-04-02 17:36:56.933836	2021-04-02 17:42:04.096899
-Player_20210402b.log	juri	Bronze	juri#09781	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-04-02 17:43:17.311593	2021-04-02 17:46:49.972450
-Player_20210402b.log	Lucifer04289	Bronze	Enrico Suave#82067	Lucifer04289#06858	Enrico Suave#82067	zend small	2021-04-02 17:47:47.543875	2021-04-02 17:48:44.170361
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 12:01:52.756478	2021-04-03 12:05:52.999210
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 12:38:04.824836	2021-04-03 12:40:20.267013
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 13:07:26.436243	2021-04-03 13:14:13.273111
-Player_20210403.log	Ender	Bronze	Enrico Suave#82067	Ender#41808	Enrico Suave#82067	Company of Knights	2021-04-03 13:44:45.031770	2021-04-03 13:51:55.901925
-Player_20210403.log	SineHonore	Gold	SineHonore#67196	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-04-03 14:04:16.009918	2021-04-03 14:09:03.880088
-Player_20210403.log	Biohazard	Bronze	Biohazard#13310	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-04-03 14:12:56.470695	2021-04-03 14:14:57.191665
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 14:51:10.267339	2021-04-03 14:57:36.613496
-Player_20210403.log	helipotter	Platinum	Enrico Suave#82067	helipotter#78359	helipotter#78359	Company of Knights	2021-04-03 15:08:18.974492	2021-04-03 15:17:10.515482
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-04-03 15:19:02.992930	2021-04-03 15:24:54.718552
-Player_20210403.log	dchrist	Silver	dchrist#08834	Enrico Suave#82067	dchrist#08834	Zend Warriors (large)	2021-04-03 15:33:01.271376	2021-04-03 15:49:39.159957
-Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-04-03 15:50:35.277550	2021-04-03 15:57:34.500204
-Player_20210403.log	Alucard de la Vega	Bronze	Alucard de la Vega#85904	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (small)	2021-04-03 16:19:31.896213	2021-04-03 16:26:48.862350
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 11:22:13.056043	2021-04-04 11:30:19.928812
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 11:40:47.663581	2021-04-04 11:48:07.409644
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 12:06:09.829982	2021-04-04 12:10:22.373728
-Player_20210404.log	Satharin	Platinum	Satharin#78968	Enrico Suave#82067	Satharin#78968	Life Skills	2021-04-04 12:45:39.768582	2021-04-04 12:51:57.240944
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 12:52:48.321964	2021-04-04 12:56:26.247417
-Player_20210404.log	dogface	Bronze	dogface#99236	Enrico Suave#82067	dogface#99236	Vamps Zend (large)	2021-04-04 13:09:10.859507	2021-04-04 13:13:40.097643
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:16:52.728519	2021-04-04 13:23:19.811404
-Player_20210404.log	poeharper	Bronze	Enrico Suave#82067	poeharper#38511	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:24:01.426461	2021-04-04 13:28:45.790607
-Player_20210404.log	Burfie, das Urvieh	Bronze	Burfie, das Urvieh#07374	Enrico Suave#82067	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:35:51.965697	2021-04-04 13:39:42.113271
-Player_20210404.log	Popicarulez	Bronze	Enrico Suave#82067	Popicarulez#39290	Popicarulez#39290	Vamps Zend (large)	2021-04-04 13:53:13.000017	2021-04-04 14:03:08.748297
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:05:27.446422	2021-04-04 14:10:10.752618
-Player_20210404.log	BLASS	Gold	BLASS#89027	Enrico Suave#82067	BLASS#89027	Vamps Zend (small)	2021-04-04 14:20:13.654091	2021-04-04 14:27:06.486807
-Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:29:40.307259	2021-04-04 14:35:32.917900
-Player_20210404.log	JanpersonJP	Bronze	Enrico Suave#82067	JanpersonJP#49932	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:45:04.533490	2021-04-04 14:46:03.077010
-Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-04-05 11:22:35.819674	2021-04-05 11:29:59.479533
-Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-04-05 11:57:10.133315	2021-04-05 12:00:36.942940
-Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Goblins Everywhere!	2021-04-05 13:05:28.641817	2021-04-05 13:12:06.905692
-Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-04-05 13:13:16.364335	2021-04-05 13:17:18.435924
-Player_20210405b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-04-05 15:50:43.617259	2021-04-05 15:55:24.064451
-Player_20210405b.log	Phantomdriver	Bronze	Enrico Suave#82067	Phantomdriver#71079	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:06:45.801263	2021-04-05 16:13:54.507994
-Player_20210405b.log	Verarticus	Bronze	Enrico Suave#82067	Verarticus#89172	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:32:36.943053	2021-04-05 16:33:27.370636
-Player_20210405b.log	mikey	Silver	mikey#71624	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:36:27.108468	2021-04-05 16:42:46.445271
-Player_20210405b.log	Kerala Dust	Bronze	Kerala Dust#92965	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:54:48.037341	2021-04-05 16:57:34.475132
-Player_20210405b.log	Andi Rasanti	Silver	Enrico Suave#82067	Andi Rasanti#47779	Enrico Suave#82067	Big Zend Warriors	2021-04-05 17:07:08.711093	2021-04-05 17:07:32.009764
-Player_20210405b.log	Big Easy	Platinum	Enrico Suave#82067	Big Easy#49581	Big Easy#49581	Big Zend Warriors	2021-04-05 17:08:29.178933	2021-04-05 17:14:26.196420
+log	opponent	opponent_rank	player_1	player_2	winner_id	deck_name	game_start_time	game_end_time	game_duration_mins
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 11:49:35.841024	2021-03-22 11:54:24.215661	4.80624395
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 12:31:35.518481	2021-03-22 12:37:11.705211	5.60311215
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 13:18:52.747059	2021-03-22 13:21:43.562514	2.84692425
+Player_20210322.log	artintheforest	Platinum	artintheforest#69606	Enrico Suave#82067	artintheforest#69606	Company of Knights	2021-03-22 13:22:43.235055	2021-03-22 13:32:55.836018	10.21001605
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-22 13:45:33.058104	2021-03-22 13:49:14.857851	3.69666245
+Player_20210322.log	BonusCheckz	Bronze	Enrico Suave#82067	BonusCheckz#85310	Enrico Suave#82067	Zend Warriors (large)	2021-03-22 13:50:14.367921	2021-03-22 14:13:06.985434	22.87695855
+Player_20210322.log	As de Bastos	Gold	As de Bastos#83449	Enrico Suave#82067	As de Bastos#83449	Zend Warriors (large)	2021-03-22 14:16:05.623928	2021-03-22 14:21:10.598399	5.08290783333
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:21:49.831113	2021-03-22 14:26:10.837461	4.35010578333
+Player_20210322.log	Gustavo	Platinum	Enrico Suave#82067	Gustavo#39322	Gustavo#39322	Zend Warriors (small)	2021-03-22 14:28:56.976783	2021-03-22 14:38:45.069939	9.8015526
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (small)	2021-03-22 14:40:22.845087	2021-03-22 14:44:28.076433	4.0871891
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:46:18.432723	2021-03-22 14:50:09.260803	3.84713466667
+Player_20210322.log	EvioNoah	Gold	EvioNoah#03064	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (small)	2021-03-22 14:50:57.139523	2021-03-22 14:54:02.053974	3.0819075
+Player_20210322.log	Rikma	Bronze	Enrico Suave#82067	Rikma#51247	Rikma#51247	Zend Warriors (small)	2021-03-22 14:56:27.422948	2021-03-22 15:05:44.570483	9.28579225
+Player_20210322.log	Bertram_X	Silver	Enrico Suave#82067	Bertram_X#20492	Bertram_X#20492	Zend Warriors (small)	2021-03-22 15:07:27.820268	2021-03-22 15:13:02.135566	5.57192163333
+Player_20210322.log	MiguelVRuivo	Bronze	Enrico Suave#82067	MiguelVRuivo#30037	MiguelVRuivo#30037	Zend Warriors (small)	2021-03-22 15:13:58.137165	2021-03-22 15:29:43.890740	15.7625595667
+Player_20210322.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-22 15:30:32.954231	2021-03-22 15:33:18.461466	2.7584539
+Player_20210322.log	MAssife	Platinum	MAssife#30867	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-03-22 15:34:18.990225	2021-03-22 15:37:28.462359	3.1578689
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 13:34:52.685775	2021-03-23 13:40:38.185887	5.7583352
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 14:16:43.117717	2021-03-23 14:20:49.981824	4.11440176667
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-03-23 14:50:19.550143	2021-03-23 14:53:27.201833	3.12752816667
+Player_20210323.log	Agent_Tuber	Diamond	Agent_Tuber#41797	Enrico Suave#82067	Agent_Tuber#41797	Keep the Peace	2021-03-23 15:01:21.465969	2021-03-23 15:14:01.767977	12.6717001167
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-03-23 15:15:04.735998	2021-03-23 15:21:42.050214	6.6219036
+Player_20210323.log	Spineshank2448	Bronze	Enrico Suave#82067	Spineshank2448#89420	Spineshank2448#89420	zend large	2021-03-23 15:38:53.250582	2021-03-23 15:47:44.999829	8.86248743333
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-03-23 15:49:34.752837	2021-03-23 15:53:35.971044	4.02030345
+Player_20210323.log	E.B.	Platinum	Enrico Suave#82067	E.B.#70304	E.B.#70304	zend large	2021-03-23 16:20:15.157077	2021-03-23 16:29:34.702447	9.32575615
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 16:30:48.192117	2021-03-23 16:38:29.936661	7.6957424
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 16:45:50.312281	2021-03-23 16:48:00.541163	2.17048135
+Player_20210323.log	Werfder4112	Bronze	Werfder4112#96964	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-03-23 16:49:36.532464	2021-03-23 16:54:25.976508	4.8240674
+Player_20210323.log	Greckel	Platinum	Greckel#05657	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-03-23 16:55:16.737579	2021-03-23 17:01:29.029946	6.20487276667
+Player_20210323.log	SerSmashington	Bronze	Enrico Suave#82067	SerSmashington#51402	SerSmashington#51402	zend small	2021-03-23 17:03:07.074299	2021-03-23 17:10:22.166650	7.25153918333
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-03-23 17:14:11.376636	2021-03-23 17:20:09.370967	5.96657218333
+Player_20210323.log	Estorik	Silver	Enrico Suave#82067	Estorik#58151	Estorik#58151	zend small	2021-03-23 17:26:28.250304	2021-03-23 17:36:32.101660	10.06418925
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white ikoria	2021-03-23 17:41:01.787125	2021-03-23 17:46:59.916250	5.96881875
+Player_20210323.log	Dirge	Gold	Enrico Suave#82067	Dirge#66099	Dirge#66099	big white ikoria	2021-03-23 17:50:39.301528	2021-03-23 17:56:46.740180	6.12397753333
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white ikoria	2021-03-23 18:00:10.252398	2021-03-23 18:06:35.173306	6.41534846667
+Player_20210323.log	Xekien'ce	Silver	Enrico Suave#82067	Xekien'ce#43775	Xekien'ce#43775	big white ikoria	2021-03-23 18:07:40.202715	2021-03-23 18:12:17.214963	4.61687078333
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	small white ikoria	2021-03-23 18:13:34.151105	2021-03-23 18:22:14.936401	8.67975491667
+Player_20210323.log	Mattymo	Platinum	Mattymo#12226	Enrico Suave#82067	Mattymo#12226	small white ikoria	2021-03-23 18:25:20.878970	2021-03-23 18:32:58.883068	7.63340163333
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 18:37:14.965049	2021-03-23 18:42:20.512373	5.09245538333
+Player_20210323.log	Elmori	Bronze	Enrico Suave#82067	Elmori#29579	Elmori#29579	big white theros	2021-03-23 18:43:52.769602	2021-03-23 18:51:01.231288	7.1410281
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 18:54:20.542165	2021-03-23 18:58:54.233676	4.56152516667
+Player_20210323.log	Jvlix	Gold	Enrico Suave#82067	Jvlix#50593	Enrico Suave#82067	big white theros	2021-03-23 19:00:22.748189	2021-03-23 19:11:33.116316	11.1728021167
+Player_20210323.log	worfey	Bronze	worfey#08882	Enrico Suave#82067	worfey#08882	big white theros	2021-03-23 19:17:43.607457	2021-03-23 19:24:20.758975	6.61919196667
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 19:29:24.077901	2021-03-23 19:36:31.078245	7.11667238333
+Player_20210323.log	PaulBrawl7	Gold	Enrico Suave#82067	PaulBrawl7#47178	PaulBrawl7#47178	big white theros	2021-03-23 19:40:54.735630	2021-03-23 20:06:37.462060	25.7121071667
+Player_20210323.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	big white theros	2021-03-23 20:10:54.610254	2021-03-23 20:16:15.073506	5.34105418333
+Player_20210323.log	flame hark	Silver	Enrico Suave#82067	flame hark#39764	Enrico Suave#82067	big white theros	2021-03-23 20:17:46.788991	2021-03-23 20:22:53.372298	5.10972176667
+Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 13:30:24.612876	2021-03-24 13:35:52.430737	5.463631
+Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 13:59:53.805970	2021-03-24 14:05:08.916985	5.25185023333
+Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-03-24 14:41:33.289299	2021-03-24 14:46:48.113341	5.24706735
+Player_20210324.log	Pro_senda	Bronze	Enrico Suave#82067	Pro_senda#70884	Pro_senda#70884	Life Skills	2021-03-24 14:48:10.989742	2021-03-24 14:58:52.756797	10.6961175667
+Player_20210324.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 14:59:45.368994	2021-03-24 15:07:30.481643	7.75187748333
+Player_20210324.log	Vincent	Gold	Enrico Suave#82067	Vincent#56074	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:08:31.858678	2021-03-24 15:12:54.713359	4.38091135
+Player_20210324.log	CardsAndJunk	Bronze	Enrico Suave#82067	CardsAndJunk#12704	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:13:52.426612	2021-03-24 15:15:10.118123	1.2948585
+Player_20210324.log	Deserventes	Silver	Enrico Suave#82067	Deserventes#11373	Enrico Suave#82067	Vamps Zend (large)	2021-03-24 15:16:02.232345	2021-03-24 15:20:48.053559	4.7636869
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 13:03:38.161552	2021-03-25 13:08:57.635222	5.32456116667
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 13:48:33.093599	2021-03-25 13:54:00.320742	5.45378571667
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 14:18:35.384811	2021-03-25 14:23:06.437695	4.51754806667
+Player_20210325.log	DrMarcII	Bronze	Enrico Suave#82067	DrMarcII#76175	Enrico Suave#82067	Goblins Everywhere!	2021-03-25 14:26:24.922082	2021-03-25 14:28:41.079381	2.2692883
+Player_20210325.log	VirriClone	Bronze	Enrico Suave#82067	VirriClone#70726	VirriClone#70726	Goblins Everywhere!	2021-03-25 14:29:35.124165	2021-03-25 14:35:22.771200	5.79411723333
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-25 14:36:07.515578	2021-03-25 14:39:48.982039	3.69110768333
+Player_20210325.log	Mat	Bronze	Mat#98994	Enrico Suave#82067	Mat#98994	Big Zend Warriors	2021-03-25 14:56:56.481168	2021-03-25 15:03:58.693427	7.03687096667
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:13:33.264638	2021-03-25 15:19:09.406129	5.60235818333
+Player_20210325.log	Mortimir	Bronze	Mortimir#78276	Enrico Suave#82067	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:25:48.428365	2021-03-25 15:39:14.086636	13.42763785
+Player_20210325.log	Zengir	Bronze	Enrico Suave#82067	Zengir#18157	Enrico Suave#82067	zend gobs (small)	2021-03-25 15:51:08.741816	2021-03-25 16:04:31.019789	13.3712995333
+Player_20210325.log	Jigred	Bronze	Enrico Suave#82067	Jigred#45639	Jigred#45639	zend gobs (small)	2021-03-25 16:14:59.832990	2021-03-25 16:23:21.587408	8.36257361667
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-25 16:24:45.331944	2021-03-25 16:33:29.631814	8.73833116667
+Player_20210325.log	たろー	Bronze	Enrico Suave#82067	たろー#65516	たろー#65516	zend gobs (small)	2021-03-25 16:39:50.892186	2021-03-25 16:49:30.797292	9.66508508333
+Player_20210325.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	r ikoria	2021-03-25 16:51:35.551337	2021-03-25 16:55:59.222392	4.39451756667
+Player_20210325.log	Sir Ridginald	Bronze	Sir Ridginald#44805	Enrico Suave#82067	Enrico Suave#82067	r ikoria	2021-03-25 17:05:12.752273	2021-03-25 17:12:34.102804	7.35584216667
+Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 12:54:37.465187	2021-03-26 12:59:40.813061	5.0557979
+Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 13:27:58.989084	2021-03-26 13:32:13.659824	4.24451231667
+Player_20210326a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 13:57:47.000512	2021-03-26 14:03:23.914422	5.61523183333
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-26 17:23:47.225446	2021-03-26 17:28:24.810026	4.62640966667
+Player_20210326b.log	SlayerMA	Bronze	Enrico Suave#82067	SlayerMA#84967	Enrico Suave#82067	Company of Knights	2021-03-26 17:29:43.465179	2021-03-26 17:38:09.721088	8.43759848333
+Player_20210326b.log	AtheistNerd	Mythic	AtheistNerd#07755	Enrico Suave#82067	AtheistNerd#07755	Company of Knights	2021-03-26 17:39:43.932600	2021-03-26 17:45:19.155092	5.58704153333
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (large)	2021-03-26 17:46:42.675542	2021-03-26 17:50:52.225128	4.15915975
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 17:53:02.783932	2021-03-26 17:56:00.315060	2.95885211667
+Player_20210326b.log	A1RxS4MM4R1	Platinum	A1RxS4MM4R1#71195	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 17:57:24.849698	2021-03-26 18:02:50.280429	5.42384551667
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:07:02.888565	2021-03-26 18:15:12.408907	8.15867236667
+Player_20210326b.log	OtanoJenkins	Platinum	Enrico Suave#82067	OtanoJenkins#91189	OtanoJenkins#91189	Zend Warriors (large)	2021-03-26 18:15:45.602890	2021-03-26 18:21:48.924066	6.05535293333
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Warriors (large)	2021-03-26 18:23:42.868111	2021-03-26 18:27:31.197432	3.80548868333
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:28:17.717779	2021-03-26 18:34:14.413666	5.94493145
+Player_20210326b.log	Un3xist	Bronze	Un3xist#81174	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (large)	2021-03-26 18:36:46.376750	2021-03-26 18:41:54.823894	5.14078571667
+Player_20210326b.log	Michael1959	Platinum	Enrico Suave#82067	Michael1959#65924	Michael1959#65924	Zend Warriors (large)	2021-03-26 18:42:36.649457	2021-03-26 18:49:41.113178	7.07439535
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 18:50:14.010223	2021-03-26 18:52:33.767553	2.32928883333
+Player_20210326b.log	Hellion	Bronze	Enrico Suave#82067	Hellion#03428	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 18:53:57.189589	2021-03-26 19:02:21.854949	8.41108931667
+Player_20210326b.log	welfare ninja	Bronze	Enrico Suave#82067	welfare ninja#52808	welfare ninja#52808	Zend Warriors (small)	2021-03-26 19:02:57.603998	2021-03-26 19:12:34.795981	9.61986636667
+Player_20210326b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 19:16:18.712869	2021-03-26 19:20:41.148682	4.37393021667
+Player_20210326b.log	joesffseoj	Gold	Enrico Suave#82067	joesffseoj#89919	Enrico Suave#82067	Zend Warriors (small)	2021-03-26 19:21:58.381255	2021-03-26 19:31:53.271412	9.91483595
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 12:39:20.060113	2021-03-27 12:47:09.374695	7.8219097
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 13:36:43.517478	2021-03-27 13:40:45.263603	4.02910208333
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 13:55:26.007513	2021-03-27 14:00:56.471685	5.50773618333
+Player_20210327.log	DarthMoustache	Bronze	Enrico Suave#82067	DarthMoustache#06315	DarthMoustache#06315	Goblins Everywhere!	2021-03-27 14:30:14.136622	2021-03-27 14:36:22.904000	6.14612296667
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-27 14:38:41.014344	2021-03-27 14:44:00.261581	5.32078728333
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Big Zend Warriors	2021-03-27 14:44:41.511157	2021-03-27 14:50:32.814092	5.85504891667
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-27 14:53:44.584470	2021-03-27 14:57:57.691287	4.21844693333
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-27 16:23:56.149974	2021-03-27 16:33:18.656692	9.37511195
+Player_20210327.log	DiegaZord	Platinum	Enrico Suave#82067	DiegaZord#81244	DiegaZord#81244	Big Zend Warriors	2021-03-27 16:36:39.703281	2021-03-27 16:46:29.325955	9.82704455
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-27 16:56:49.056192	2021-03-27 17:02:55.893168	6.11394958333
+Player_20210327.log	Liito8j	Bronze	Liito8j#08437	Enrico Suave#82067	Liito8j#08437	zend gobs (small)	2021-03-27 17:09:01.471193	2021-03-27 17:13:57.075565	4.92673951667
+Player_20210327.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-27 17:20:51.500015	2021-03-27 17:26:38.653246	5.78588716667
+Player_20210327.log	BEASTLYHOBB1T	Silver	BEASTLYHOBB1T#79481	Enrico Suave#82067	Enrico Suave#82067	zend gobs (small)	2021-03-27 17:32:12.372519	2021-03-27 17:49:44.047453	17.52791555
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 12:36:04.896360	2021-03-28 12:47:58.057530	11.8860195
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 13:53:49.780709	2021-03-28 14:00:05.855299	6.26790981667
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 14:36:19.328399	2021-03-28 14:40:06.847065	3.79197776667
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-03-28 14:56:02.862222	2021-03-28 15:01:13.756384	5.18156935
+Player_20210328.log	Teknomancer	Platinum	Enrico Suave#82067	Teknomancer#52187	Teknomancer#52187	Goblins Everywhere!	2021-03-28 15:16:04.538075	2021-03-28 15:22:10.531139	6.0998844
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-28 15:22:55.023997	2021-03-28 15:30:44.451828	7.82379716667
+Player_20210328.log	Alternator	Bronze	Enrico Suave#82067	Alternator#64393	Alternator#64393	Big Zend Warriors	2021-03-28 15:42:05.699402	2021-03-28 15:48:38.719216	6.55033021667
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	zend gobs (small)	2021-03-28 15:50:45.298138	2021-03-28 15:56:03.008059	5.29516533333
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend gobs (small)	2021-03-28 16:07:41.507803	2021-03-28 16:12:09.157756	4.46083255
+Player_20210328.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	small zend warriorss	2021-03-28 16:14:29.944088	2021-03-28 16:18:35.489019	4.09241551667
+Player_20210328.log	PalladiumJames	Bronze	Enrico Suave#82067	PalladiumJames#18470	Enrico Suave#82067	small zend warriorss	2021-03-28 16:20:27.512495	2021-03-28 16:24:05.740020	3.63712541667
+Player_20210328.log	Mikel	Bronze	Enrico Suave#82067	Mikel#36557	Mikel#36557	small zend warriorss	2021-03-28 16:30:17.924846	2021-03-28 16:35:17.985194	5.00100578333
+Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 10:07:44.828897	2021-03-29 10:14:19.078690	6.57082986667
+Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 10:40:31.398542	2021-03-29 10:46:21.593058	5.83657526667
+Player_20210329a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 11:27:06.035761	2021-03-29 11:31:46.003150	4.66612313333
+Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-29 17:22:29.799851	2021-03-29 17:27:40.471079	5.1778538
+Player_20210329b.log	Blightsteel	Gold	Blightsteel#04247	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-03-29 17:29:19.816989	2021-03-29 17:33:21.904476	4.03479145
+Player_20210329b.log	tragic2019	Gold	Enrico Suave#82067	tragic2019#08274	tragic2019#08274	Company of Knights	2021-03-29 17:34:19.931169	2021-03-29 17:46:07.621144	11.7948329167
+Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-29 17:48:15.356721	2021-03-29 17:52:34.635549	4.3213138
+Player_20210329b.log	Emify07	Silver	Enrico Suave#82067	Emify07#82402	Enrico Suave#82067	Zend Warriors (large)	2021-03-29 18:06:31.450039	2021-03-29 18:09:50.664576	3.32024226667
+Player_20210329b.log	pawny	Diamond	Enrico Suave#82067	pawny#73806	pawny#73806	Zend Warriors (large)	2021-03-29 18:11:21.754647	2021-03-29 18:19:22.628508	8.01456433333
+Player_20210329b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-03-29 18:21:08.246199	2021-03-29 18:23:44.888970	2.61071285
+Player_20210329b.log	Paulo Vale	Bronze	Enrico Suave#82067	Paulo Vale#59893	Enrico Suave#82067	Zend Warriors (small)	2021-03-29 18:25:02.475399	2021-03-29 18:33:39.177553	8.61170256667
+Player_20210329b.log	Bbkush	Diamond	Enrico Suave#82067	Bbkush#67651	Bbkush#67651	Zend Warriors (small)	2021-03-29 18:35:02.823687	2021-03-29 18:42:33.171552	7.50579775
+Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 11:01:08.662780	2021-03-30 11:05:46.504561	4.63069633333
+Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 11:35:57.246158	2021-03-30 11:38:43.450948	2.77007981667
+Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-03-30 12:13:41.807640	2021-03-30 12:18:27.531034	4.76205655
+Player_20210330.log	Sylustucrus	Bronze	Enrico Suave#82067	Sylustucrus#55594	Sylustucrus#55594	Company of Knights	2021-03-30 12:33:57.551543	2021-03-30 12:39:39.503893	5.69920583333
+Player_20210330.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-03-30 12:41:25.779889	2021-03-30 12:47:16.563325	5.8463906
+Player_20210330.log	Blaze420	Bronze	Enrico Suave#82067	Blaze420#56805	Enrico Suave#82067	Zend Warriors (large)	2021-03-30 13:42:00.603396	2021-03-30 13:48:38.489597	6.63143668333
+Player_20210330.log	Goldenboy	Bronze	Enrico Suave#82067	Goldenboy#55091	Goldenboy#55091	Zend Warriors (large)	2021-03-30 13:49:31.001701	2021-03-30 14:00:24.563379	10.8926946167
+Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Goblins Everywhere!	2021-03-31 11:42:57.643617	2021-03-31 11:47:58.126720	5.0080517
+Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 11:48:50.576901	2021-03-31 11:55:38.803217	6.80377193333
+Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 12:16:20.283376	2021-03-31 12:25:02.243914	8.6993423
+Player_20210331.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:30:59.051093	2021-03-31 13:35:47.743977	4.81154805
+Player_20210331.log	Mearespecial	Bronze	Mearespecial#32988	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:50:51.083045	2021-03-31 13:53:49.398061	2.97191693333
+Player_20210331.log	puzzislayr	Silver	puzzislayr#44084	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-03-31 13:54:31.180140	2021-03-31 14:04:34.790094	10.0601659
+Player_20210331.log	Lyrocide	Silver	Lyrocide#61161	Enrico Suave#82067	Lyrocide#61161	Big Zend Warriors	2021-03-31 14:12:11.885883	2021-03-31 14:19:00.228512	6.80571048333
+Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 13:16:50.256238	2021-04-01 13:24:03.676065	7.22366378333
+Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 13:53:13.747718	2021-04-01 14:00:49.822088	7.60123948333
+Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-01 14:18:01.447564	2021-04-01 14:25:00.108303	6.97767898333
+Player_20210401.log	Rezo	Platinum	Enrico Suave#82067	Rezo#17640	Enrico Suave#82067	Life Skills	2021-04-01 14:40:51.013222	2021-04-01 14:50:37.739699	9.77877461667
+Player_20210401.log	ruiqi	Bronze	ruiqi#67844	Enrico Suave#82067	ruiqi#67844	Life Skills	2021-04-01 15:14:52.395016	2021-04-01 15:21:51.421525	6.98377513333
+Player_20210401.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-01 15:22:33.619741	2021-04-01 15:26:02.688069	3.48447211667
+Player_20210401.log	millerryan94	Bronze	millerryan94#60812	Enrico Suave#82067	millerryan94#60812	Vamps Zend (large)	2021-04-01 15:44:53.841390	2021-04-01 16:00:53.927142	16.0014292
+Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 12:29:45.701664	2021-04-02 12:34:00.957273	4.25426015
+Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 13:17:48.801941	2021-04-02 13:22:11.914205	4.38520438333
+Player_20210402a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 14:09:04.101756	2021-04-02 14:14:40.357142	5.60425641667
+Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Keep the Peace	2021-04-02 16:47:47.377767	2021-04-02 16:55:10.362787	7.38308365
+Player_20210402b.log	Digaewe	Bronze	Digaewe#22519	Enrico Suave#82067	Digaewe#22519	Keep the Peace	2021-04-02 16:57:45.401191	2021-04-02 17:03:51.335380	6.09890315
+Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-04-02 17:04:44.074750	2021-04-02 17:11:15.200300	6.51875916667
+Player_20210402b.log	Cellardoor	Bronze	Enrico Suave#82067	Cellardoor#63101	Cellardoor#63101	zend large	2021-04-02 17:13:45.995890	2021-04-02 17:16:34.689031	2.81155235
+Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend large	2021-04-02 17:22:58.614668	2021-04-02 17:29:07.026035	6.14018943333
+Player_20210402b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	zend small	2021-04-02 17:31:35.269004	2021-04-02 17:35:49.642334	4.2395555
+Player_20210402b.log	Teratonni	Bronze	Enrico Suave#82067	Teratonni#81238	Enrico Suave#82067	zend small	2021-04-02 17:36:56.933836	2021-04-02 17:42:04.096899	5.11938438333
+Player_20210402b.log	juri	Bronze	juri#09781	Enrico Suave#82067	Enrico Suave#82067	zend small	2021-04-02 17:43:17.311593	2021-04-02 17:46:49.972450	3.5443476
+Player_20210402b.log	Lucifer04289	Bronze	Enrico Suave#82067	Lucifer04289#06858	Enrico Suave#82067	zend small	2021-04-02 17:47:47.543875	2021-04-02 17:48:44.170361	0.94377475
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 12:01:52.756478	2021-04-03 12:05:52.999210	4.00404553333
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 12:38:04.824836	2021-04-03 12:40:20.267013	2.25736961667
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 13:07:26.436243	2021-04-03 13:14:13.273111	6.78061445
+Player_20210403.log	Ender	Bronze	Enrico Suave#82067	Ender#41808	Enrico Suave#82067	Company of Knights	2021-04-03 13:44:45.031770	2021-04-03 13:51:55.901925	7.18116923333
+Player_20210403.log	SineHonore	Gold	SineHonore#67196	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-04-03 14:04:16.009918	2021-04-03 14:09:03.880088	4.79783616667
+Player_20210403.log	Biohazard	Bronze	Biohazard#13310	Enrico Suave#82067	Enrico Suave#82067	Company of Knights	2021-04-03 14:12:56.470695	2021-04-03 14:14:57.191665	2.01201616667
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Company of Knights	2021-04-03 14:51:10.267339	2021-04-03 14:57:36.613496	6.43910261667
+Player_20210403.log	helipotter	Platinum	Enrico Suave#82067	helipotter#78359	helipotter#78359	Company of Knights	2021-04-03 15:08:18.974492	2021-04-03 15:17:10.515482	8.8590165
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (large)	2021-04-03 15:19:02.992930	2021-04-03 15:24:54.718552	5.8620937
+Player_20210403.log	dchrist	Silver	dchrist#08834	Enrico Suave#82067	dchrist#08834	Zend Warriors (large)	2021-04-03 15:33:01.271376	2021-04-03 15:49:39.159957	16.6314763333
+Player_20210403.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Zend Warriors (small)	2021-04-03 15:50:35.277550	2021-04-03 15:57:34.500204	6.98704421667
+Player_20210403.log	Alucard de la Vega	Bronze	Alucard de la Vega#85904	Enrico Suave#82067	Enrico Suave#82067	Zend Warriors (small)	2021-04-03 16:19:31.896213	2021-04-03 16:26:48.862350	7.28276895
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 11:22:13.056043	2021-04-04 11:30:19.928812	8.11454615
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 11:40:47.663581	2021-04-04 11:48:07.409644	7.32910103333
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-04 12:06:09.829982	2021-04-04 12:10:22.373728	4.20906241667
+Player_20210404.log	Satharin	Platinum	Satharin#78968	Enrico Suave#82067	Satharin#78968	Life Skills	2021-04-04 12:45:39.768582	2021-04-04 12:51:57.240944	6.29120603333
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 12:52:48.321964	2021-04-04 12:56:26.247417	3.63209088333
+Player_20210404.log	dogface	Bronze	dogface#99236	Enrico Suave#82067	dogface#99236	Vamps Zend (large)	2021-04-04 13:09:10.859507	2021-04-04 13:13:40.097643	4.48730226667
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:16:52.728519	2021-04-04 13:23:19.811404	6.45138141667
+Player_20210404.log	poeharper	Bronze	Enrico Suave#82067	poeharper#38511	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:24:01.426461	2021-04-04 13:28:45.790607	4.73940243333
+Player_20210404.log	Burfie, das Urvieh	Bronze	Burfie, das Urvieh#07374	Enrico Suave#82067	Enrico Suave#82067	Vamps Zend (large)	2021-04-04 13:35:51.965697	2021-04-04 13:39:42.113271	3.8357929
+Player_20210404.log	Popicarulez	Bronze	Enrico Suave#82067	Popicarulez#39290	Popicarulez#39290	Vamps Zend (large)	2021-04-04 13:53:13.000017	2021-04-04 14:03:08.748297	9.92913798333
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:05:27.446422	2021-04-04 14:10:10.752618	4.72176993333
+Player_20210404.log	BLASS	Gold	BLASS#89027	Enrico Suave#82067	BLASS#89027	Vamps Zend (small)	2021-04-04 14:20:13.654091	2021-04-04 14:27:06.486807	6.88054525
+Player_20210404.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:29:40.307259	2021-04-04 14:35:32.917900	5.876844
+Player_20210404.log	JanpersonJP	Bronze	Enrico Suave#82067	JanpersonJP#49932	Enrico Suave#82067	Vamps Zend (small)	2021-04-04 14:45:04.533490	2021-04-04 14:46:03.077010	0.975725333333
+Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-04-05 11:22:35.819674	2021-04-05 11:29:59.479533	7.39433098333
+Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Goblins Everywhere!	2021-04-05 11:57:10.133315	2021-04-05 12:00:36.942940	3.44682706667
+Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Goblins Everywhere!	2021-04-05 13:05:28.641817	2021-04-05 13:12:06.905692	6.63773125
+Player_20210405a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-04-05 13:13:16.364335	2021-04-05 13:17:18.435924	4.03452648333
+Player_20210405b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Warriors	2021-04-05 15:50:43.617259	2021-04-05 15:55:24.064451	4.67411986667
+Player_20210405b.log	Phantomdriver	Bronze	Enrico Suave#82067	Phantomdriver#71079	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:06:45.801263	2021-04-05 16:13:54.507994	7.14511216667
+Player_20210405b.log	Verarticus	Bronze	Enrico Suave#82067	Verarticus#89172	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:32:36.943053	2021-04-05 16:33:27.370636	0.840459716667
+Player_20210405b.log	mikey	Silver	mikey#71624	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:36:27.108468	2021-04-05 16:42:46.445271	6.32228003333
+Player_20210405b.log	Kerala Dust	Bronze	Kerala Dust#92965	Enrico Suave#82067	Enrico Suave#82067	Big Zend Warriors	2021-04-05 16:54:48.037341	2021-04-05 16:57:34.475132	2.77396318333
+Player_20210405b.log	Andi Rasanti	Silver	Enrico Suave#82067	Andi Rasanti#47779	Enrico Suave#82067	Big Zend Warriors	2021-04-05 17:07:08.711093	2021-04-05 17:07:32.009764	0.388311166667
+Player_20210405b.log	Big Easy	Platinum	Enrico Suave#82067	Big Easy#49581	Big Easy#49581	Big Zend Warriors	2021-04-05 17:08:29.178933	2021-04-05 17:14:26.196420	5.95029143333
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-06 12:17:26.825666	2021-04-06 12:23:56.325063	6.49165661667
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-06 13:04:07.240408	2021-04-06 13:17:11.772687	13.0755379833
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-06 13:47:58.805309	2021-04-06 13:54:09.662033	6.1809454
+Player_20210406.log	Kirito_scarlet	Bronze	Enrico Suave#82067	Kirito_scarlet#79169	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-06 14:14:58.954633	2021-04-06 14:25:18.571792	10.32695265
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-06 14:48:49.437957	2021-04-06 14:53:07.955500	4.3086257
+Player_20210406.log	Tsuki	Bronze	Enrico Suave#82067	Tsuki#57476	Tsuki#57476	Starter Kit Deck: Black	2021-04-06 15:03:21.090697	2021-04-06 15:14:13.473498	10.8730466833
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Cold-Blooded Killers	2021-04-06 15:15:10.372723	2021-04-06 15:19:37.509823	4.45228498333
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Vampires	2021-04-06 15:20:23.093760	2021-04-06 15:23:00.644579	2.62584696667
+Player_20210406.log	kilocrack	Silver	Enrico Suave#82067	kilocrack#99743	Enrico Suave#82067	Big Zend Vampires	2021-04-06 15:30:02.254124	2021-04-06 15:35:23.998860	5.36241226667
+Player_20210406.log	symphily	Platinum	Enrico Suave#82067	symphily#26507	symphily#26507	Big Zend Vampires	2021-04-06 15:45:13.044368	2021-04-06 15:50:13.934677	5.01483846667
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Sparky	Zend Demonic Small	2021-04-06 15:51:00.910644	2021-04-06 15:55:15.643789	4.2455524
+Player_20210406.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Big Zend Vampires	2021-04-06 15:57:45.191713	2021-04-06 16:05:23.172097	7.6330064
+Player_20210406.log	Guile Fox	Platinum	Guile Fox#01054	Enrico Suave#82067	Enrico Suave#82067	Big Zend Vampires	2021-04-06 16:16:44.298123	2021-04-06 16:25:01.313391	8.28358778333
+Player_20210407a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 10:23:06.471813	2021-04-07 10:29:30.010138	6.3923054
+Player_20210407a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 11:06:10.061245	2021-04-07 11:12:16.263165	6.10336531667
+Player_20210407a.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 11:54:15.074151	2021-04-07 12:00:20.328617	6.08757443333
+Player_20210407b.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 19:22:52.763916	2021-04-07 19:28:46.515287	5.89585616667
+Player_20210407b.log	Kentucky2104	Silver	Enrico Suave#82067	Kentucky2104#22386	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 19:30:22.476147	2021-04-07 19:40:19.118615	9.94404111667
+Player_20210407b.log	KraiveN	Gold	KraiveN#20202	Enrico Suave#82067	Enrico Suave#82067	Starter Kit Deck: Black	2021-04-07 19:41:53.149548	2021-04-07 19:54:24.293570	12.5190670333
+Player_20210407b.log	killabeez	Bronze	Enrico Suave#82067	killabeez#69025	killabeez#69025	Starter Kit Deck: Black	2021-04-07 19:55:23.884592	2021-04-07 20:04:56.961219	9.55127711667
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-08 12:52:59.212615	2021-04-08 13:01:18.751078	8.32564105
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-08 13:25:44.695121	2021-04-08 13:32:03.170250	6.3079188
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Life Skills	2021-04-08 14:34:39.509132	2021-04-08 14:41:12.719133	6.5535
+Player_20210408.log	Ceasg	Gold	Enrico Suave#82067	Ceasg#81400	Enrico Suave#82067	Life Skills	2021-04-08 14:53:59.467217	2021-04-08 14:59:59.963840	6.00827705
+Player_20210408.log	CannaWhoopaz	Bronze	Enrico Suave#82067	CannaWhoopaz#42372	CannaWhoopaz#42372	Life Skills	2021-04-08 15:17:40.528467	2021-04-08 15:35:59.808252	18.32132975
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-08 15:37:28.652633	2021-04-08 15:42:06.255761	4.62671878333
+Player_20210408.log	Ivan	Silver	Enrico Suave#82067	Ivan#55263	Enrico Suave#82067	Vamps Zend (large)	2021-04-08 16:02:52.551646	2021-04-08 16:08:37.385453	5.7472301
+Player_20210408.log	Mix76	Bronze	Mix76#11521	Enrico Suave#82067	Mix76#11521	Vamps Zend (large)	2021-04-08 16:13:12.915531	2021-04-08 16:22:23.787055	9.18119206667
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-08 16:34:17.660141	2021-04-08 16:40:42.249077	6.4098156
+Player_20210408.log	Sparky	Beginner	Enrico Suave#82067	Sparky	Enrico Suave#82067	Vamps Zend (large)	2021-04-08 17:30:14.055255	2021-04-08 17:34:01.587808	3.7922092
+Player_20210408.log	Yameroooo	Bronze	Yameroooo#71136	Enrico Suave#82067	Enrico Suave#82067	Vamps Zend (large)	2021-04-08 17:41:26.704477	2021-04-08 17:46:48.956816	5.3708723

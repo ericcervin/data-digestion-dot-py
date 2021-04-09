@@ -1,4 +1,4 @@
-STX	91	Academic Debate	1.0	Instant	R
+STX	91	Academic Dispute	1.0	Instant	R
 STX	7	Academic Probation	2.0	Sorcery  Lesson	W
 STX	262	Access Tunnel	0.0	Land	
 STX	119	Accomplished Alchemist	4.0	Creature  Elf Druid	G
@@ -19,7 +19,7 @@ STX	251	Biblioplex Assistant	4.0	Artifact Creature  Gargoyle
 STX	122	Big Play	2.0	Instant	G
 STX	164	Biomathematician	3.0	Creature  Human Wizard	G,U
 STX	165	Blade Historian	4.0	Creature  Human Cleric	R,W
-STX	148	Blex, Vexing Pest // Search for Blex	3.0	Legendary Creature  Pest	G
+STX	148	Blex, Vexing Pest // Search for Blex	3.0	Legendary Creature  Pest	B,G
 STX	93	Blood Age General	2.0	Creature  Spirit Warrior	R
 STX	166	Blood Researcher	3.0	Creature  Vampire Druid	B,G
 STX	167	Blot Out the Sky	2.0	Sorcery	B,W
@@ -120,7 +120,7 @@ STX	195	Inkling Summoning	3.0	Sorcery  Lesson	B,W
 STX	3	Introduction to Annihilation	5.0	Sorcery  Lesson	
 STX	4	Introduction to Prophecy	3.0	Sorcery  Lesson	
 STX	368	Island	0.0	Basic Land  Island	U
-STX	151	Jadzi, Oracle of Arcavios // Journey to the Oracle	8.0	Legendary Creature  Human Wziard	U
+STX	151	Jadzi, Oracle of Arcavios // Journey to the Oracle	8.0	Legendary Creature  Human Wizard	G,U
 STX	135	Karok Wrangler	5.0	Creature  Elf Druid	G
 STX	196	Kasmina, Enigma Sage	3.0	Legendary Planeswalker  Kasmina	G,U
 STX	45	Kelpie Guide	3.0	Creature  Beast	U
@@ -139,7 +139,7 @@ STX	201	Lorehold Pledgemage	3.0	Creature  Kor Shaman	R,W
 STX	202	Maelstrom Muse	4.0	Creature  Djinn Wizard	R,U
 STX	137	Mage Duel	3.0	Sorcery	G
 STX	76	Mage Hunter	4.0	Creature  Horror	B
-STX	77	Mage Hunter's Onslaught	4.0	Sorcery	B
+STX	77	Mage Hunters' Onslaught	4.0	Sorcery	B
 STX	203	Magma Opus	8.0	Instant	R,U
 STX	204	Make Your Mark	1.0	Instant	R,W
 STX	205	Manifestation Sage	4.0	Creature  Human Wizard	G,U
@@ -170,12 +170,12 @@ STX	23	Pillardrop Rescuer	5.0	Creature  Spirit Cleric	W
 STX	112	Pillardrop Warden	4.0	Creature  Spirit Dwarf	R
 STX	366	Plains	0.0	Basic Land  Plains	W
 STX	155	Plargg, Dean of Chaos // Augusta, Dean of Order	2.0	Legendary Creature  Orc Shaman	R,W
-STX	81	Plumb the Forgotten	2.0	Instant	B
+STX	81	Plumb the Forbidden	2.0	Instant	B
 STX	82	Poet's Quill	2.0	Artifact  Equipment	B
 STX	49	Pop Quiz	3.0	Instant	U
 STX	212	Practical Research	5.0	Instant	R,U
 STX	213	Prismari Apprentice	2.0	Creature  Human Shaman	R,U
-STX	270	Prismari Campus	0.0	Land	
+STX	270	Prismari Campus	0.0	Land	R,U
 STX	214	Prismari Command	3.0	Instant	R,U
 STX	215	Prismari Pledgemage	2.0	Creature  Orc Wizard	R,U
 STX	83	Professor Onyx	6.0	Legendary Planeswalker  Liliana	B
@@ -206,7 +206,7 @@ STX	156	Rowan, Scholar of Sparks // Will, Scholar of Frost	3.0	Legendary Planesw
 STX	228	Rushed Rebirth	2.0	Instant	B,G
 STX	142	Scurrid Colony	2.0	Creature  Squirrel	G
 STX	26	Secret Rendezvous	3.0	Sorcery	W
-STX	86	Segemoor Witch	3.0	Creature  Human Warlock	B
+STX	86	Sedgemoor Witch	3.0	Creature  Human Warlock	B
 STX	157	Selfless Glyphweaver // Deadly Vanity	3.0	Creature  Human Cleric	B,W
 STX	27	Semester's End	4.0	Instant	W
 STX	52	Serpentine Curve	4.0	Sorcery	U
@@ -256,7 +256,7 @@ STX	59	Test of Talents	2.0	Instant	U
 STX	264	The Biblioplex	0.0	Land	
 STX	243	Thrilling Discovery	2.0	Sorcery	R,W
 STX	35	Thunderous Orator	2.0	Creature  Kor Wizard	W
-STX	117	Time Shredder	3.0	Creature  Wolf	R
+STX	117	Tome Shredder	3.0	Creature  Wolf	R
 STX	159	Torrent Sculptor // Flamethrower Sonata	4.0	Creature  Merfolk Wizard	R,U
 STX	118	Twinscroll Shaman	3.0	Creature  Dwarf Shaman	R
 STX	89	Umbral Juke	3.0	Instant	B

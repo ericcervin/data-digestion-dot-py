@@ -1,4 +1,4 @@
-STX	91	Academic Debate	1.0	Instant	R
+STX	91	Academic Dispute	1.0	Instant	R
 STX	262	Access Tunnel	0.0	Land	
 STX	263	Archway Commons	0.0	Land	
 STX	92	Ardent Dustspeaker	5.0	Creature  Minotaur Shaman	R
@@ -43,7 +43,7 @@ STX	74	Lash of Malice	1.0	Instant	B
 STX	75	Leech Fanatic	2.0	Creature  Human Warlock	B
 STX	256	Letter of Acceptance	3.0	Artifact	
 STX	76	Mage Hunter	4.0	Creature  Horror	B
-STX	77	Mage Hunter's Onslaught	4.0	Sorcery	B
+STX	77	Mage Hunters' Onslaught	4.0	Sorcery	B
 STX	5	Mascot Exhibition	7.0	Sorcery  Lesson	
 STX	110	Mascot Interception	4.0	Sorcery	R
 STX	372	Mountain	0.0	Basic Land  Mountain	R
@@ -52,15 +52,14 @@ STX	79	Novice Dissector	4.0	Creature  Troll Warlock	B
 STX	80	Oriq Loremage	4.0	Creature  Human Warlock	B
 STX	111	Pigment Storm	5.0	Sorcery	R
 STX	112	Pillardrop Warden	4.0	Creature  Spirit Dwarf	R
-STX	81	Plumb the Forgotten	2.0	Instant	B
+STX	81	Plumb the Forbidden	2.0	Instant	B
 STX	82	Poet's Quill	2.0	Artifact  Equipment	B
-STX	270	Prismari Campus	0.0	Land	
 STX	83	Professor Onyx	6.0	Legendary Planeswalker  Liliana	B
 STX	84	Professor's Warning	1.0	Instant	B
 STX	85	Promising Duskmage	3.0	Creature  Human Warlock	B
 STX	257	Reflective Golem	3.0	Artifact Creature  Golem	
 STX	113	Retriever Phoenix	4.0	Creature  Phoenix	R
-STX	86	Segemoor Witch	3.0	Creature  Human Warlock	B
+STX	86	Sedgemoor Witch	3.0	Creature  Human Warlock	B
 STX	87	Specter of the Fens	4.0	Creature  Specter	B
 STX	258	Spell Satchel	2.0	Artifact	
 STX	114	Start from Scratch	3.0	Sorcery  Lesson	R
@@ -71,7 +70,7 @@ STX	370	Swamp	0.0	Basic Land  Swamp	B
 STX	260	Team Pennant	1.0	Artifact  Equipment	
 STX	88	Tenured Inkcaster	5.0	Creature  Vampire Warlock	B
 STX	264	The Biblioplex	0.0	Land	
-STX	117	Time Shredder	3.0	Creature  Wolf	R
+STX	117	Tome Shredder	3.0	Creature  Wolf	R
 STX	118	Twinscroll Shaman	3.0	Creature  Dwarf Shaman	R
 STX	89	Umbral Juke	3.0	Instant	B
 STX	90	Unwilling Ingredient	1.0	Creature  Frog	B
