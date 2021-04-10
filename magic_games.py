@@ -22,6 +22,10 @@ def load_log_data():
                   if m:
                       opponent = m.group(1)[3:-3]
 
+                  m = re.search(r'matchId(.*)opponentRankingClass',ent)
+                  if m:
+                      matchID = m.group(1)[3:-3]
+
                   m = re.search(r'opponentRankingClass(.*)opponentRankingTier',ent)
                   if m:
                       opp_rank = m.group(1)[3:-3]
@@ -62,11 +66,21 @@ def load_log_data():
                                    "game_start_time": str(start_time),
                                    "game_end_time": str(end_time),
                                    "date": game_date,
-                                   "game_length": str(ticks_to_seconds_dur(game_start,game_end)/60)
+                                   "game_length": str(ticks_to_seconds_dur(game_start,game_end)/60),
+                                   "match_id": matchID 
                                    }
                       log_data.append(game_data)        
     return log_data               
 
+def arena_games_report(log_data):
+    with open("./resources/magic/OUT/arena_games.txt", "w") as out:
+        header = ('\t').join(["log","date","opponent","opponent_rank","player_1","player_2","winner_id","deck_name","game_start_time","game_end_time","game_duration_mins","match_id"]) + "\n"
+        out.write(header)
+        for gm in log_data:
+          game = ('\t').join([gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"],gm["match_id"]])
+          out.write(game + '\n')
+
+       
 def ticks_to_time(tk):
     ms = int(tk)//10
     dt = datetime.datetime(1, 1, 1) + datetime.timedelta(microseconds = ms) #GMT
@@ -79,12 +93,8 @@ def ticks_to_seconds_dur(tk1,tk2):
     dt = datetime.timedelta(microseconds = micro_sec_dur)
     return dt.total_seconds()
 
-def main():
-    with open("./resources/magic/OUT/arena_games.txt", "w") as out:
+def main():  
       log_data = load_log_data()
-      header = ('\t').join(["log","date","opponent","opponent_rank","player_1","player_2","winner_id","deck_name","game_start_time","game_end_time","game_duration_mins"]) + "\n"
-      out.write(header)
-      for gm in log_data:
-        game = ('\t').join([gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"]])
-        out.write(game + '\n')
+      arena_games_report(log_data)
+
 main()
