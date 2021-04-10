@@ -49,6 +49,9 @@ def load_log_data():
 
                       game_end = str(timestamps[-1])
                       game_start = str(timestamps[0])
+                      end_time = ticks_to_time(game_end)
+                      start_time = ticks_to_time(game_start)
+                      game_date = "{}{:02d}{:02d}".format(start_time.year,start_time.month,start_time.day)
                       game_data = {"log":lg,
                                    "opponent":opponent,
                                    "opponent_rank":opp_rank,
@@ -56,8 +59,9 @@ def load_log_data():
                                    "player_2": player2,
                                    "winner_id": winner_id,
                                    "deck_name": deck_name,
-                                   "game_start_time": ticks_to_time(game_start),
-                                   "game_end_time": ticks_to_time(game_end),
+                                   "game_start_time": str(start_time),
+                                   "game_end_time": str(end_time),
+                                   "date": game_date,
                                    "game_length": str(ticks_to_seconds_dur(game_start,game_end)/60)
                                    }
                       log_data.append(game_data)        
@@ -67,7 +71,7 @@ def ticks_to_time(tk):
     ms = int(tk)//10
     dt = datetime.datetime(1, 1, 1) + datetime.timedelta(microseconds = ms) #GMT
     et = dt - datetime.timedelta(hours = 4) #EST
-    return str(et)
+    return et
 
 def ticks_to_seconds_dur(tk1,tk2):
     nano_sec_dur = int(tk2) - int(tk1)
@@ -78,9 +82,9 @@ def ticks_to_seconds_dur(tk1,tk2):
 def main():
     with open("./resources/magic/OUT/arena_games.txt", "w") as out:
       log_data = load_log_data()
-      header = ('\t').join(["log","opponent","opponent_rank","player_1","player_2","winner_id","deck_name","game_start_time","game_end_time","game_duration_mins"]) + "\n"
+      header = ('\t').join(["log","date","opponent","opponent_rank","player_1","player_2","winner_id","deck_name","game_start_time","game_end_time","game_duration_mins"]) + "\n"
       out.write(header)
       for gm in log_data:
-        game = ('\t').join([gm["log"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"]])
+        game = ('\t').join([gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"]])
         out.write(game + '\n')
 main()
