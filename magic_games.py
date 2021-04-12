@@ -80,6 +80,20 @@ def arena_games_report(log_data):
           game = ('\t').join([gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"],gm["match_id"]])
           out.write(game + '\n')
 
+def games_per_day_report():
+    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+    conn.text_factory = str
+    
+    c = conn.cursor()
+
+    with open("./resources/magic/OUT/arena_games_per_day_count.txt", "w") as out:
+        out.write("date\tcount\n")
+        for row in c.execute('SELECT date, count(date) FROM game group by date'):
+             out.write(row[0] + '\t' + str(row[1]) + '\n')
+    
+    conn.close()
+    
+
 def recreate_game_db(log_data):
     conn = sqlite3.connect('./resources/magic/OUT/magic.db')
     conn.text_factory = str
@@ -122,5 +136,6 @@ def main():
       log_data = load_log_data()
       arena_games_report(log_data)
       recreate_game_db(log_data)
+      games_per_day_report()
 
 main()
