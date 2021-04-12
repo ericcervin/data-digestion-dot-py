@@ -80,7 +80,32 @@ def arena_games_report(log_data):
           game = ('\t').join([gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"],gm["match_id"]])
           out.write(game + '\n')
 
-       
+def recreate_game_db(log_data):
+    conn = sqlite3.connect('./resources/magic/OUT/magic.db')
+    conn.text_factory = str
+    
+    c = conn.cursor()
+    
+    
+    try:
+      c.execute('''DROP TABLE game''')
+    except:
+      pass
+    
+    c.execute('''CREATE TABLE game
+             (log text, date text, opponent text, opponent_rank text, player_1 text, player_2 text, winner_id text, deck_name text, game_start_time text, game_end_time text, game_length real, match_id text)''')  
+    conn.commit()
+
+    for gm in log_data:
+        c.execute('INSERT INTO game VALUES (?,?,?,?,?,?,?,?,?,?,?,?)', (gm["log"],gm["date"],gm["opponent"],gm["opponent_rank"],gm["player_1"],gm["player_2"],gm["winner_id"],gm["deck_name"],gm["game_start_time"],gm["game_end_time"],gm["game_length"],gm["match_id"]))
+
+    conn.commit()
+
+    #for row in c.execute('SELECT * FROM game'):
+    #   print(row)    
+
+    conn.close()
+    
 def ticks_to_time(tk):
     ms = int(tk)//10
     dt = datetime.datetime(1, 1, 1) + datetime.timedelta(microseconds = ms) #GMT
@@ -96,5 +121,6 @@ def ticks_to_seconds_dur(tk1,tk2):
 def main():  
       log_data = load_log_data()
       arena_games_report(log_data)
+      recreate_game_db(log_data)
 
 main()
