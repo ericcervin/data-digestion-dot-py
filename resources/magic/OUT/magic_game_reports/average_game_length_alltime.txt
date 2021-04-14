@@ -1,0 +1,2 @@
+Games	Avg Length
+282	6.3811670357

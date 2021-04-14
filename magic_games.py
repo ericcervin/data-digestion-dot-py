@@ -73,7 +73,7 @@ def load_log_data():
     return log_data               
 
 def arena_games_report(log_data):
-    with open("./resources/magic/OUT/arena_games.txt", "w") as out:
+    with open("./resources/magic/OUT/magic_game_reports/arena_games.txt", "w") as out:
         header = ('\t').join(["log","date","opponent","opponent_rank","player_1","player_2","winner_id","deck_name","game_start_time","game_end_time","game_duration_mins","match_id"]) + "\n"
         out.write(header)
         for gm in log_data:
@@ -128,15 +128,21 @@ def ticks_to_seconds_dur(tk1,tk2):
 
 report_dict =  {
           "arena_games_per_day" : 
-             {"file": "./resources/magic/OUT/arena_games_per_day_count.txt",
+             {"file": "./resources/magic/OUT/magic_game_reports/arena_games_per_day_count.txt",
               "title" : "Arena Games Per Day",
               "header" : ["Day", "Count"], 
-              "query" : "SELECT date, count(date) FROM game group by date"}}
+              "query" : "SELECT date, count(date) FROM game group by date"},
+          "average_game_length_alltime" : 
+             {"file": "./resources/magic/OUT/magic_game_reports/average_game_length_alltime.txt",
+              "title" : "Average Game Date Alltime",
+              "header" : ["Games", "Avg Length"], 
+              "query" : "SELECT count(game_length), AVG(game_length) FROM game"}}
 
 def main():  
       log_data = load_log_data()
       arena_games_report(log_data)
       recreate_game_db(log_data)
       run_report("arena_games_per_day")
+      run_report("average_game_length_alltime")
       
 main()
